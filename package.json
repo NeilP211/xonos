@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "node --test test/",
+    "test": "node --test test/*.test.mjs",
     "fetch": "node scripts/fetch.mjs",
     "auth": "node scripts/auth.mjs",
     "ingest": "node scripts/ingest-history.mjs"
