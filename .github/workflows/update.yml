@@ -1,0 +1,65 @@
+name: update
+
+# Refreshes the Spotify data and deploys the site to GitHub Pages.
+# Runs on a schedule, on pushes to main, and on manual dispatch.
+on:
+  schedule:
+    - cron: '0 */3 * * *' # about every 3 hours
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# One run at a time; queue rather than cancel so scheduled refreshes are not lost.
+concurrency:
+  group: swansite-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      # Pull fresh data. continue-on-error so the site still deploys with sample
+      # data before the Spotify secrets are configured.
+      - name: Refresh Spotify data
+        continue-on-error: true
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node scripts/fetch.mjs
+
+      # Persist refreshed data so the recently-played log accumulates over time.
+      - name: Commit refreshed data
+        run: |
+          git config user.name "swansite-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data
+          git commit -m "data: scheduled refresh" || echo "no data changes"
+          git push || echo "nothing to push"
+
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
