@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T17:58:41.638Z",
+  "generated_at": "2026-06-04T20:04:01.049Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -102,6 +102,18 @@
         },
         {
           "rank": 9,
+          "name": "zombie",
+          "artists": [
+            "bleood"
+          ],
+          "album": "zombie",
+          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
+          "duration_ms": 121573
+        },
+        {
+          "rank": 10,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -116,7 +128,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -128,7 +140,19 @@
           "duration_ms": 109244
         },
         {
-          "rank": 11,
+          "rank": 12,
+          "name": "in china",
+          "artists": [
+            "Robin Gan"
+          ],
+          "album": "huzz in the bay",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
+          "uri": "spotify:track:27LbXHWPshMVsgRebEmop2",
+          "url": "https://open.spotify.com/track/27LbXHWPshMVsgRebEmop2",
+          "duration_ms": 65061
+        },
+        {
+          "rank": 13,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -141,7 +165,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -155,7 +179,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -167,7 +191,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -179,7 +203,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Free Your Mind",
           "artists": [
             "Prospa",
@@ -192,19 +216,7 @@
           "duration_ms": 201700
         },
         {
-          "rank": 16,
-          "name": "zombie",
-          "artists": [
-            "bleood"
-          ],
-          "album": "zombie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
-          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
-          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
-          "duration_ms": 121573
-        },
-        {
-          "rank": 17,
+          "rank": 18,
           "name": "الوتر الحساس",
           "artists": [
             "Sherine"
@@ -216,7 +228,7 @@
           "duration_ms": 261224
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Sequência dos Bailes Funk",
           "artists": [
             "DJ VM 22"
@@ -228,7 +240,7 @@
           "duration_ms": 132167
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Massive X Touch Me",
           "artists": [
             "NovaX",
@@ -239,18 +251,6 @@
           "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
           "url": "https://open.spotify.com/track/5zIG9VMfmWbFWWF1CqeywA",
           "duration_ms": 174160
-        },
-        {
-          "rank": 20,
-          "name": "in china",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "huzz in the bay",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
-          "uri": "spotify:track:27LbXHWPshMVsgRebEmop2",
-          "url": "https://open.spotify.com/track/27LbXHWPshMVsgRebEmop2",
-          "duration_ms": 65061
         },
         {
           "rank": 21,
@@ -278,18 +278,6 @@
         },
         {
           "rank": 23,
-          "name": "Fade To Black - Remastered",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Ride The Lightning (Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
-          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
-          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
-          "duration_ms": 417226
-        },
-        {
-          "rank": 24,
           "name": "real music",
           "artists": [
             "Robin Gan"
@@ -299,6 +287,18 @@
           "uri": "spotify:track:5xRoOv5oI9Qw3FlDc4dV4j",
           "url": "https://open.spotify.com/track/5xRoOv5oI9Qw3FlDc4dV4j",
           "duration_ms": 50061
+        },
+        {
+          "rank": 24,
+          "name": "Fade To Black - Remastered",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "Ride The Lightning (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
+          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
+          "duration_ms": 417226
         },
         {
           "rank": 25,
@@ -687,6 +687,14 @@
         },
         {
           "rank": 8,
+          "name": "xaviersobased",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
+          "genres": [],
+          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "rank": 9,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
           "genres": [],
@@ -694,20 +702,12 @@
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "rank": 10,
-          "name": "xaviersobased",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [],
-          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
           "rank": 11,

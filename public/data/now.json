@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-04T17:58:41.967Z",
-  "is_playing": true,
+  "updated_at": "2026-06-04T20:04:01.231Z",
+  "is_playing": false,
   "track": {
-    "name": "Dynamic Duo 2 (feat. Kasher Quon)",
+    "name": "Gen 5 (Dj Phatt Exclusive)",
     "artists": [
-      "Teejayx6",
-      "Kasher Quon"
+      "Nettspend"
     ],
-    "album": "Black Air Force Activity 1",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735d9a3de9491c89f9c34d09b9",
-    "uri": "spotify:track:2gvNcRenbhK6rbkUOlX8oE"
+    "album": "Gen 5 (Dj Phatt Exclusive)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730dde65f1c1d59faa8e0cb4d9",
+    "uri": "spotify:track:3MHRsziJuj3CIoXBRh1c76"
   },
-  "played_at": "2026-06-04T17:58:41.967Z"
+  "played_at": "2026-06-04T17:48:44.842Z"
 }
