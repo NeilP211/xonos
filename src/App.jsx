@@ -5,33 +5,25 @@ import RangeToggle from './components/RangeToggle'
 import NowChip from './components/NowChip'
 import TopTracks from './components/TopTracks'
 import TopArtists from './components/TopArtists'
-import GenreChart from './components/GenreChart'
+import TopAlbums from './components/TopAlbums'
 import ListeningPulse from './components/ListeningPulse'
 import RecentlyPlayed from './components/RecentlyPlayed'
 import FunStats from './components/FunStats'
-import AllTime from './components/AllTime'
 
 export default function App() {
   const [top, setTop] = useState(null)
   const [recent, setRecent] = useState(null)
   const [now, setNow] = useState(null)
-  const [alltime, setAlltime] = useState(null)
   const [range, setRange] = useState('short_term')
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     let alive = true
-    Promise.all([
-      loadJSON('top.json'),
-      loadJSON('recent.json'),
-      loadJSON('now.json'),
-      loadJSON('alltime.json'),
-    ]).then(([t, r, n, a]) => {
+    Promise.all([loadJSON('top.json'), loadJSON('recent.json'), loadJSON('now.json')]).then(([t, r, n]) => {
       if (!alive) return
       setTop(t)
       setRecent(r)
       setNow(n)
-      setAlltime(a)
       setLoading(false)
     })
     return () => {
@@ -48,8 +40,7 @@ export default function App() {
   }
 
   const isSample = !!top?._note
-  const liveRange = range === 'all_time' ? null : range
-  const rangeData = liveRange ? top?.ranges?.[liveRange] : null
+  const rangeData = top?.ranges?.[range]
 
   return (
     <div className="app">
@@ -71,20 +62,14 @@ export default function App() {
         </div>
       )}
 
-      {range === 'all_time' ? (
-        <div className="grid">
-          <AllTime data={alltime} />
-        </div>
-      ) : (
-        <div className="grid">
-          <TopTracks tracks={rangeData?.tracks} />
-          <TopArtists artists={rangeData?.artists} />
-          <GenreChart genres={top?.genres?.[liveRange]} albums={top?.albums?.[liveRange]} />
-          <ListeningPulse recent={recent} />
-          <RecentlyPlayed recent={recent} />
-          <FunStats top={top} range={liveRange} recent={recent} />
-        </div>
-      )}
+      <div className="grid">
+        <TopTracks tracks={rangeData?.tracks} />
+        <TopArtists artists={rangeData?.artists} />
+        <TopAlbums albums={top?.albums?.[range]} />
+        <ListeningPulse recent={recent} />
+        <RecentlyPlayed recent={recent} />
+        <FunStats top={top} range={range} recent={recent} />
+      </div>
 
       <div className="footnote">
         SwanSite · built with the Spotify Web API · data updates automatically

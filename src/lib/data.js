@@ -16,5 +16,4 @@ export const RANGES = [
   { key: 'short_term', label: '4 Weeks' },
   { key: 'medium_term', label: '6 Months' },
   { key: 'long_term', label: '1 Year' },
-  { key: 'all_time', label: 'All-Time' },
 ]

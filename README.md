@@ -1,9 +1,8 @@
 # SwanSite
 
 A public, always-updating Spotify stats dashboard. It shows my listening: top
-tracks, artists, and genres across 4 weeks / 6 months / 1 year, a listening-pulse
-heatmap built from a recently-played log that grows over time, and an All-Time
-tier that unlocks from my downloaded streaming history.
+tracks, artists, and albums across 4 weeks / 6 months / 1 year, plus a
+listening-pulse heatmap built from a recently-played log that grows over time.
 
 Only I authenticate (once). Friends just open the page and view the data. No
 visitor logs in, and no secrets ever reach the browser.
@@ -17,8 +16,6 @@ Live: https://neilp211.github.io/swansite/
 - The static React site (Vite + Recharts) reads those JSON files. The Action also
   commits the data, so the recently-played log accumulates real history that the
   API alone will not return.
-- True all-time stats come from the Spotify data export, processed offline into
-  aggregate-only JSON (no raw rows, IPs, or account info are published).
 
 ## Local development
 
@@ -63,25 +60,13 @@ are wired up. A banner makes clear when sample data is showing.
 5. Trigger a run: Actions > update > Run workflow (or wait for the schedule). The
    first authenticated run replaces the sample data with your real listening.
 
-## Unlock All-Time stats
-
-The Spotify API only goes back about a year. For true lifetime stats:
-
-1. Request your "Extended streaming history" from your Spotify Account Privacy
-   page (it can take a few days to arrive).
-2. Unzip the download.
-3. Build the summary and publish:
-   ```bash
-   npm run ingest -- /path/to/unzipped/export
-   git add public/data/alltime.json && git commit -m "all-time history" && git push
-   ```
-
 ## Notes and limitations
 
-- "All Time" from the live API is really the past ~1 year; the export tier is the
-  true lifetime view.
-- Spotify deprecated audio-features/recommendations for new apps, so there are no
-  mood or "danceability" stats here, by design.
+- Time ranges come from Spotify's API: 4 weeks, 6 months, and 1 year. There is no
+  true lifetime view available from the API.
+- Spotify strips genres, popularity, and followers from the API for new
+  development-mode apps, and deprecated audio-features/recommendations. So there is
+  no genre or mood breakdown; the album breakdown is derived from your top tracks.
 - "Now playing" is best-effort. On a cron-driven static site it usually shows the
   last played track ("last spun").
 - Reading data does not require Premium, but 2026 development mode does require the

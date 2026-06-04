@@ -38,13 +38,14 @@ test('respects the limit', () => {
 
 test('weightAlbums aggregates tracks by album, highest first', () => {
   const tracks = [
-    { rank: 1, album: 'Blonde', artists: ['Frank Ocean'] },
+    { rank: 1, album: 'Blonde', artists: ['Frank Ocean'], image: 'cover-blonde' },
     { rank: 2, album: 'Blonde', artists: ['Frank Ocean'] },
     { rank: 3, album: 'Currents', artists: ['Tame Impala'] },
   ]
   const out = weightAlbums(tracks)
   assert.equal(out[0].album, 'Blonde')
   assert.equal(out[0].artist, 'Frank Ocean')
+  assert.equal(out[0].image, 'cover-blonde')
   assert.equal(out[1].album, 'Currents')
   const sum = out.reduce((s, a) => s + a.weight, 0)
   assert.ok(Math.abs(sum - 1) < 1e-9)
