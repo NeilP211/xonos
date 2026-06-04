@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T17:47:17.039Z",
+  "updated_at": "2026-06-04T17:58:41.783Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -746,6 +746,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f057b70d8cf4643e2b6357cc",
       "uri": "spotify:track:7jUrWOaYctEk6p2eYNRjb0",
       "duration_ms": 154285
+    },
+    {
+      "played_at": "2026-06-04T17:48:44.842Z",
+      "name": "Gen 5 (Dj Phatt Exclusive)",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Gen 5 (Dj Phatt Exclusive)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730dde65f1c1d59faa8e0cb4d9",
+      "uri": "spotify:track:3MHRsziJuj3CIoXBRh1c76",
+      "duration_ms": 67281
     }
   ]
 }
