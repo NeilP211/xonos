@@ -79,7 +79,7 @@ export default function App() {
         <div className="grid">
           <TopTracks tracks={rangeData?.tracks} />
           <TopArtists artists={rangeData?.artists} />
-          <GenreChart genres={top?.genres?.[liveRange]} />
+          <GenreChart genres={top?.genres?.[liveRange]} albums={top?.albums?.[liveRange]} />
           <ListeningPulse recent={recent} />
           <RecentlyPlayed recent={recent} />
           <FunStats top={top} range={liveRange} recent={recent} />

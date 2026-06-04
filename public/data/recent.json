@@ -1,28 +1,572 @@
 {
-  "_note": "Placeholder sample data. The fetch job appends real plays here over time.",
-  "updated_at": "2026-06-03T08:55:00.000Z",
+  "updated_at": "2026-06-04T01:06:23.940Z",
   "plays": [
-    { "played_at": "2026-05-28T07:42:00.000Z", "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "duration_ms": 237000 },
-    { "played_at": "2026-05-28T08:10:00.000Z", "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "duration_ms": 240000 },
-    { "played_at": "2026-05-28T22:05:00.000Z", "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 307000 },
-    { "played_at": "2026-05-29T08:30:00.000Z", "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 229000 },
-    { "played_at": "2026-05-29T13:15:00.000Z", "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "duration_ms": 327000 },
-    { "played_at": "2026-05-29T23:40:00.000Z", "name": "Chamber of Reflection", "artists": ["Mac DeMarco"], "album": "Salad Days", "image": null, "uri": "", "duration_ms": 234000 },
-    { "played_at": "2026-05-30T10:05:00.000Z", "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "duration_ms": 238000 },
-    { "played_at": "2026-05-30T16:20:00.000Z", "name": "Reptilia", "artists": ["The Strokes"], "album": "Room on Fire", "image": null, "uri": "", "duration_ms": 220000 },
-    { "played_at": "2026-05-30T16:24:00.000Z", "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "duration_ms": 216000 },
-    { "played_at": "2026-05-31T09:50:00.000Z", "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 184000 },
-    { "played_at": "2026-05-31T14:30:00.000Z", "name": "Time to Pretend", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 262000 },
-    { "played_at": "2026-05-31T21:15:00.000Z", "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "duration_ms": 240000 },
-    { "played_at": "2026-06-01T08:05:00.000Z", "name": "Feels Like We Only Go Backwards", "artists": ["Tame Impala"], "album": "Lonerism", "image": null, "uri": "", "duration_ms": 192000 },
-    { "played_at": "2026-06-01T12:40:00.000Z", "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 307000 },
-    { "played_at": "2026-06-01T18:55:00.000Z", "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "duration_ms": 237000 },
-    { "played_at": "2026-06-02T07:35:00.000Z", "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "duration_ms": 240000 },
-    { "played_at": "2026-06-02T11:10:00.000Z", "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 229000 },
-    { "played_at": "2026-06-02T15:45:00.000Z", "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "duration_ms": 327000 },
-    { "played_at": "2026-06-02T22:30:00.000Z", "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "duration_ms": 216000 },
-    { "played_at": "2026-06-03T07:20:00.000Z", "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "duration_ms": 238000 },
-    { "played_at": "2026-06-03T08:15:00.000Z", "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 184000 },
-    { "played_at": "2026-06-03T08:50:00.000Z", "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "duration_ms": 240000 }
+    {
+      "played_at": "2026-06-03T14:30:49.254Z",
+      "name": "Lost at Sea",
+      "artists": [
+        "Rob Grant",
+        "Lana Del Rey"
+      ],
+      "album": "Lost At Sea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273281f863d259823fb192a0ddf",
+      "uri": "spotify:track:6N7NO9Z1Hi6la8dqG3Aoew",
+      "duration_ms": 187906
+    },
+    {
+      "played_at": "2026-06-03T14:35:18.146Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-06-03T14:39:40.955Z",
+      "name": "Cherry",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:1Ym6aMuT5bliaZMC67AmPp",
+      "duration_ms": 180902
+    },
+    {
+      "played_at": "2026-06-03T14:43:20.203Z",
+      "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
+      "artists": [
+        "0to8",
+        "DJ VICTOR ZL",
+        "MC Alexandre Fabuloso"
+      ],
+      "album": "MONTAGEM TEM QUE TIRAR O CHAPEU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc4b23cfb6df1201ad914452",
+      "uri": "spotify:track:7M8mjjuLxbiYyOm6SDuXqL",
+      "duration_ms": 71205
+    },
+    {
+      "played_at": "2026-06-03T14:45:56.742Z",
+      "name": "MONTAGEM RENICHT MIX - Alternative Version Super Slowed",
+      "artists": [
+        "Dj Leta7",
+        "DJ Taycanzl",
+        "DJ ZRED DA DZ7",
+        "RD12"
+      ],
+      "album": "MONTAGEM RENICHT MIX (Alternative Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b09952911de3c756415ca144",
+      "uri": "spotify:track:3hZIHHR3gK5L0bsKFqAS0v",
+      "duration_ms": 156095
+    },
+    {
+      "played_at": "2026-06-03T14:47:54.358Z",
+      "name": "Taca Xe",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Taca Xe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e99143d804a9efae18bd0631",
+      "uri": "spotify:track:6MMYGkucCUtcqgw2r7pEIE",
+      "duration_ms": 75434
+    },
+    {
+      "played_at": "2026-06-03T14:48:42.266Z",
+      "name": "MONTAGEM TEM QUE TIRAR O CHAPEU",
+      "artists": [
+        "0to8",
+        "DJ VICTOR ZL",
+        "MC Alexandre Fabuloso"
+      ],
+      "album": "MONTAGEM TEM QUE TIRAR O CHAPEU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc4b23cfb6df1201ad914452",
+      "uri": "spotify:track:4gAVo9ID4QX90u5hVIDPga",
+      "duration_ms": 47459
+    },
+    {
+      "played_at": "2026-06-03T14:52:14.969Z",
+      "name": "Taca Xe - Speed Up",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Taca Xe (Speed Up)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1ebe7168bb55d6d99257e1b",
+      "uri": "spotify:track:3FCMaWEuzQXk9SUgKKGniM",
+      "duration_ms": 67203
+    },
+    {
+      "played_at": "2026-06-03T15:04:47.822Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-06-03T15:06:06.706Z",
+      "name": "Made It Home",
+      "artists": [
+        "nettspend 2"
+      ],
+      "album": "Nettspend 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731a11a521fdb7b2399bb28280",
+      "uri": "spotify:track:421uMfcvWbKuOSOXC5tmn5",
+      "duration_ms": 69009
+    },
+    {
+      "played_at": "2026-06-03T15:07:13.677Z",
+      "name": "up dat life :(",
+      "artists": [
+        "tawpie"
+      ],
+      "album": "up dat life :(",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ddbc4d4829f3cf9066cd4fb2",
+      "uri": "spotify:track:2DRjdr1VuCN0CgAwfW6T4z",
+      "duration_ms": 66490
+    },
+    {
+      "played_at": "2026-06-03T15:10:59.842Z",
+      "name": "army of two",
+      "artists": [
+        "ksuuvi",
+        "xaviersobased"
+      ],
+      "album": "army of two",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346b17cfa09a2eba47b2ec699",
+      "uri": "spotify:track:69VQAr0u9W5DcQAjZHJ3C5",
+      "duration_ms": 129567
+    },
+    {
+      "played_at": "2026-06-03T15:16:11.622Z",
+      "name": "bacardi",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "VIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b04c4505cb1d00e12582b762",
+      "uri": "spotify:track:178eiv7y1ot3IBaJEvceHe",
+      "duration_ms": 112198
+    },
+    {
+      "played_at": "2026-06-03T15:19:02.632Z",
+      "name": "funuhyuh",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "funuhyuh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
+      "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
+      "duration_ms": 75347
+    },
+    {
+      "played_at": "2026-06-03T15:24:24.426Z",
+      "name": "Freestyle 2",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
+      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
+      "duration_ms": 138319
+    },
+    {
+      "played_at": "2026-06-03T15:28:13.475Z",
+      "name": "what zit tooya",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:0XU0CyDnYsKe5RNQcpOoCC",
+      "duration_ms": 84373
+    },
+    {
+      "played_at": "2026-06-03T15:43:03.804Z",
+      "name": "Playground Love (with Gordon Tracks)",
+      "artists": [
+        "Air",
+        "Gordon Tracks"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
+      "duration_ms": 212693
+    },
+    {
+      "played_at": "2026-06-03T17:09:06.832Z",
+      "name": "Tennis Court",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
+      "duration_ms": 198907
+    },
+    {
+      "played_at": "2026-06-03T17:16:39.458Z",
+      "name": "Team",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
+      "duration_ms": 193058
+    },
+    {
+      "played_at": "2026-06-03T17:20:59.037Z",
+      "name": "Ribs",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
+      "duration_ms": 258969
+    },
+    {
+      "played_at": "2026-06-03T17:24:46.086Z",
+      "name": "Roses",
+      "artists": [
+        "The Chainsmokers",
+        "ROZES"
+      ],
+      "album": "Roses",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135",
+      "uri": "spotify:track:3vv9phIu6Y1vX3jcqaGz5Z",
+      "duration_ms": 226738
+    },
+    {
+      "played_at": "2026-06-03T17:28:49.641Z",
+      "name": "Yoda",
+      "artists": [
+        "Deproved"
+      ],
+      "album": "Tata",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f15d4b898083bf6ab9603b5",
+      "uri": "spotify:track:5SiF72ywLsehUDMyJyBhat",
+      "duration_ms": 103166
+    },
+    {
+      "played_at": "2026-06-03T17:31:45.745Z",
+      "name": "hyperjerk",
+      "artists": [
+        "thesoupiscold"
+      ],
+      "album": "hyperjerk",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
+      "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
+      "duration_ms": 124941
+    },
+    {
+      "played_at": "2026-06-03T17:35:04.367Z",
+      "name": "Just Kitten",
+      "artists": [
+        "fakemink"
+      ],
+      "album": "London's Saviour",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311177bbdbdd2ed6f8d409616",
+      "uri": "spotify:track:1Asgl3E0Zbu55iqJziisdR",
+      "duration_ms": 198012
+    },
+    {
+      "played_at": "2026-06-03T17:37:20.397Z",
+      "name": "Forrest Gump (feat. ABG Neal)",
+      "artists": [
+        "Krimelife Ca$$",
+        "ABG Neal"
+      ],
+      "album": "Forrest Gump (feat. ABG Neal)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300d50a21d8626037e9fb3bdd",
+      "uri": "spotify:track:32LLYzFcucxGqqIOQzpcNM",
+      "duration_ms": 92640
+    },
+    {
+      "played_at": "2026-06-03T17:39:36.472Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "Glokk40Spaz",
+        "2wo2imes"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+      "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-06-03T17:46:46.714Z",
+      "name": "FAKENGGAS",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NO STYLIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
+      "uri": "spotify:track:6BlfsdUgeFwkFC30cD4EFO",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-06-03T17:50:35.887Z",
+      "name": "Succubus",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:2pcv4nUQqaZnJk1kYvCfXV",
+      "duration_ms": 149892
+    },
+    {
+      "played_at": "2026-06-03T17:55:23.258Z",
+      "name": "afraid (feat. nate sib)",
+      "artists": [
+        "2hollis",
+        "nate sib"
+      ],
+      "album": "afraid (feat. nate sib)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb",
+      "uri": "spotify:track:41YlWhySoJVw2TXaxW1q5G",
+      "duration_ms": 178826
+    },
+    {
+      "played_at": "2026-06-03T20:00:38.240Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-06-03T20:03:15.681Z",
+      "name": "I Love You, I'm Sorry",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "duration_ms": 157146
+    },
+    {
+      "played_at": "2026-06-03T20:07:20.117Z",
+      "name": "us. (feat. Taylor Swift)",
+      "artists": [
+        "Gracie Abrams",
+        "Taylor Swift"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:0hhzNPE68LWLfgZwdpxVdR",
+      "duration_ms": 242666
+    },
+    {
+      "played_at": "2026-06-03T21:37:19.722Z",
+      "name": "Lolita",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:696cNqpF2NwRLzC7KqCurz",
+      "duration_ms": 220040
+    },
+    {
+      "played_at": "2026-06-03T21:41:13.413Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-06-03T21:43:50.998Z",
+      "name": "I Love You, I'm Sorry",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "duration_ms": 157146
+    },
+    {
+      "played_at": "2026-06-03T21:47:53.686Z",
+      "name": "us. (feat. Taylor Swift)",
+      "artists": [
+        "Gracie Abrams",
+        "Taylor Swift"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:0hhzNPE68LWLfgZwdpxVdR",
+      "duration_ms": 242666
+    },
+    {
+      "played_at": "2026-06-03T21:51:05.250Z",
+      "name": "Model Sex",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Model Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a62f58e79f23a411c90c86bc",
+      "uri": "spotify:track:4d4kiS2yZ0SetXZ0wunuIK",
+      "duration_ms": 83452
+    },
+    {
+      "played_at": "2026-06-03T21:53:04.551Z",
+      "name": "her friends",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "gone too soon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eaf3b733b899ac5d4fd587b5",
+      "uri": "spotify:track:5t6aol8L1zmOwEnf2HN430",
+      "duration_ms": 101210
+    },
+    {
+      "played_at": "2026-06-03T21:55:28.497Z",
+      "name": "Lose It",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
+      "duration_ms": 140811
+    },
+    {
+      "played_at": "2026-06-03T21:57:34.683Z",
+      "name": "obsessed",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "obsessed",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e757b91b340b1bf31f8bee0",
+      "uri": "spotify:track:2ZJV5gPkYqnzWm9lcdpD2e",
+      "duration_ms": 125712
+    },
+    {
+      "played_at": "2026-06-03T21:59:16.495Z",
+      "name": "BLEAU - Remix",
+      "artists": [
+        "Ballhogfein",
+        "Myron Bryant"
+      ],
+      "album": "MyMusic.1 (Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368fdf3c86f0ffd2f53f5ff03",
+      "uri": "spotify:track:3FKi6jRoHkhsUCLbYssaIC",
+      "duration_ms": 101262
+    },
+    {
+      "played_at": "2026-06-03T22:01:36.097Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-06-03T22:03:23.662Z",
+      "name": "i aint start making money till i started doing drugs",
+      "artists": [
+        "bleood"
+      ],
+      "album": "PROTAGONIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
+      "uri": "spotify:track:5muSF5AFF7lTr1omCItecA",
+      "duration_ms": 107110
+    },
+    {
+      "played_at": "2026-06-03T23:54:23.616Z",
+      "name": "ozzy trisbourne",
+      "artists": [
+        "bleood"
+      ],
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "uri": "spotify:track:196TuwoYpcw9mvOq2n35Cb",
+      "duration_ms": 131956
+    },
+    {
+      "played_at": "2026-06-03T23:57:01.935Z",
+      "name": "ozzy trisbourne",
+      "artists": [
+        "bleood"
+      ],
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "uri": "spotify:track:196TuwoYpcw9mvOq2n35Cb",
+      "duration_ms": 131956
+    },
+    {
+      "played_at": "2026-06-03T23:59:31.443Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-06-04T00:01:19.018Z",
+      "name": "i aint start making money till i started doing drugs",
+      "artists": [
+        "bleood"
+      ],
+      "album": "PROTAGONIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
+      "uri": "spotify:track:5muSF5AFF7lTr1omCItecA",
+      "duration_ms": 107110
+    },
+    {
+      "played_at": "2026-06-04T00:09:40.581Z",
+      "name": "Wherever I May Roam (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:745sNpjWbAxo2MA2zSYbyD",
+      "duration_ms": 404333
+    },
+    {
+      "played_at": "2026-06-04T00:16:52.718Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-06-04T00:47:43.135Z",
+      "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "Hatful of Hollow",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
+      "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
+      "duration_ms": 215760
+    }
   ]
 }

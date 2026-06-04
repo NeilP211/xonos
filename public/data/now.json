@@ -1,7 +1,14 @@
 {
-  "_note": "Placeholder sample data. Updated by the fetch job; falls back to last played when nothing is live.",
-  "updated_at": "2026-06-03T08:55:00.000Z",
+  "updated_at": "2026-06-04T01:06:23.994Z",
   "is_playing": false,
-  "track": { "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "" },
-  "played_at": "2026-06-03T08:50:00.000Z"
+  "track": {
+    "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+    "artists": [
+      "The Smiths"
+    ],
+    "album": "Hatful of Hollow",
+    "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
+    "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw"
+  },
+  "played_at": "2026-06-04T00:47:43.135Z"
 }

@@ -2,11 +2,16 @@ import { BarChart, Bar, XAxis, YAxis, Cell, ResponsiveContainer, Tooltip } from 
 import { colorForKey } from '../lib/palette'
 import Empty from './Empty'
 
-export default function GenreChart({ genres }) {
-  const data = (genres || []).map((g) => ({ name: g.genre, pct: Math.round((g.weight || 0) * 100) }))
+export default function GenreChart({ genres, albums }) {
+  // Prefer genres; fall back to albums when Spotify returns no genres (it strips
+  // them for development-mode apps).
+  const useGenres = genres && genres.length > 0
+  const rows = useGenres ? genres : albums || []
+  const title = useGenres ? 'Top Genres' : 'Top Albums'
+  const data = rows.map((r) => ({ name: useGenres ? r.genre : r.album, pct: Math.round((r.weight || 0) * 100) }))
   return (
     <div className="card col-4">
-      <h2>Top Genres</h2>
+      <h2>{title}</h2>
       {data.length ? (
         <ResponsiveContainer width="100%" height={Math.max(220, data.length * 36)}>
           <BarChart data={data} layout="vertical" margin={{ left: 4, right: 36, top: 4, bottom: 4 }}>

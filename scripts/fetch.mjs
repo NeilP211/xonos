@@ -5,7 +5,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { refreshAccessToken, apiGet } from './lib/spotify.js'
-import { weightGenres } from './lib/genres.js'
+import { weightGenres, weightAlbums } from './lib/genres.js'
 
 const DATA_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../public/data')
 const RANGES = ['short_term', 'medium_term', 'long_term']
@@ -81,19 +81,21 @@ function shapePlay(item) {
 async function buildTop(token) {
   const ranges = {}
   const genres = {}
+  const albums = {}
   for (const range of RANGES) {
     const [tracks, artists] = await Promise.all([
       apiGet(`/me/top/tracks?time_range=${range}&limit=50`, token),
       apiGet(`/me/top/artists?time_range=${range}&limit=50`, token),
     ])
     const shapedArtists = (artists?.items || []).map((a, i) => shapeArtist(a, i + 1))
-    ranges[range] = {
-      tracks: (tracks?.items || []).map((t, i) => shapeTrack(t, i + 1)),
-      artists: shapedArtists,
-    }
+    const shapedTracks = (tracks?.items || []).map((t, i) => shapeTrack(t, i + 1))
+    ranges[range] = { tracks: shapedTracks, artists: shapedArtists }
+    // Genres are stripped for development-mode apps, so this is usually empty;
+    // the frontend falls back to the albums breakdown when it is.
     genres[range] = weightGenres(shapedArtists)
+    albums[range] = weightAlbums(shapedTracks)
   }
-  return { generated_at: new Date().toISOString(), ranges, genres }
+  return { generated_at: new Date().toISOString(), ranges, genres, albums }
 }
 
 async function buildRecent(token) {
