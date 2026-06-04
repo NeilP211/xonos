@@ -48,6 +48,7 @@ function shapeTrack(t, rank) {
     artists: (t.artists || []).map((a) => a.name),
     album: t.album?.name || '',
     image: image(t.album?.images),
+    album_total_tracks: t.album?.total_tracks ?? null,
     uri: t.uri || '',
     url: t.external_urls?.spotify || '',
     duration_ms: t.duration_ms || 0,

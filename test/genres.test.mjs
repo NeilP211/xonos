@@ -55,3 +55,15 @@ test('weightAlbums handles empty input', () => {
   assert.deepEqual(weightAlbums([]), [])
   assert.deepEqual(weightAlbums(undefined), [])
 })
+
+test('weightAlbums excludes singles (fewer than 2 tracks)', () => {
+  const tracks = [
+    { rank: 1, album: 'Real Album', artists: ['A'], album_total_tracks: 10 },
+    { rank: 2, album: 'A Single', artists: ['B'], album_total_tracks: 1 },
+    { rank: 3, album: 'An EP', artists: ['C'], album_total_tracks: 2 },
+  ]
+  const names = weightAlbums(tracks).map((a) => a.album)
+  assert.ok(names.includes('Real Album'))
+  assert.ok(names.includes('An EP'))
+  assert.ok(!names.includes('A Single'))
+})
