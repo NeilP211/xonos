@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T20:04:01.134Z",
+  "updated_at": "2026-06-04T22:20:13.979Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -757,6 +757,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730dde65f1c1d59faa8e0cb4d9",
       "uri": "spotify:track:3MHRsziJuj3CIoXBRh1c76",
       "duration_ms": 67281
+    },
+    {
+      "played_at": "2026-06-04T20:14:12.031Z",
+      "name": "Dynamic Duo 2 (feat. Kasher Quon)",
+      "artists": [
+        "Teejayx6",
+        "Kasher Quon"
+      ],
+      "album": "Black Air Force Activity 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d9a3de9491c89f9c34d09b9",
+      "uri": "spotify:track:2gvNcRenbhK6rbkUOlX8oE",
+      "duration_ms": 313756
+    },
+    {
+      "played_at": "2026-06-04T20:22:16.497Z",
+      "name": "I Love You, I'm Sorry",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "duration_ms": 157146
+    },
+    {
+      "played_at": "2026-06-04T20:25:28.547Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-06-04T20:28:15.308Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-04T20:32:39.189Z",
+      "name": "Bartender",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Norman Fucking Rockwell!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+      "uri": "spotify:track:5USsRaiqL1RNKRm1fTJ3JM",
+      "duration_ms": 263441
+    },
+    {
+      "played_at": "2026-06-04T20:37:50.596Z",
+      "name": "In My Feelings",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:269xqcgGTN9PlivhUkOLhX",
+      "duration_ms": 238718
     }
   ]
 }
