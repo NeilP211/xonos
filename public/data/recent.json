@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T14:57:13.310Z",
+  "updated_at": "2026-06-04T17:47:17.039Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -623,6 +623,129 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
       "uri": "spotify:track:0WiyWiJDkNCyGNqkv7NByy",
       "duration_ms": 205453
+    },
+    {
+      "played_at": "2026-06-04T15:08:54.378Z",
+      "name": "Thought It Was Love",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF",
+      "duration_ms": 246141
+    },
+    {
+      "played_at": "2026-06-04T15:17:32.710Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-06-04T17:20:17.607Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-06-04T17:27:25.757Z",
+      "name": "I Love You, I'm Sorry",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "duration_ms": 157146
+    },
+    {
+      "played_at": "2026-06-04T17:31:17.695Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-06-04T17:35:23.560Z",
+      "name": "us. (feat. Taylor Swift)",
+      "artists": [
+        "Gracie Abrams",
+        "Taylor Swift"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:0hhzNPE68LWLfgZwdpxVdR",
+      "duration_ms": 242666
+    },
+    {
+      "played_at": "2026-06-04T17:39:17.441Z",
+      "name": "Body Electric",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:60O1EephBu97s1fIbqUpfn",
+      "duration_ms": 233440
+    },
+    {
+      "played_at": "2026-06-04T17:43:02.273Z",
+      "name": "in china",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "huzz in the bay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
+      "uri": "spotify:track:27LbXHWPshMVsgRebEmop2",
+      "duration_ms": 65061
+    },
+    {
+      "played_at": "2026-06-04T17:43:52.776Z",
+      "name": "real music",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:5xRoOv5oI9Qw3FlDc4dV4j",
+      "duration_ms": 50061
+    },
+    {
+      "played_at": "2026-06-04T17:45:47.068Z",
+      "name": "dutt pack",
+      "artists": [
+        "boolymon"
+      ],
+      "album": "dutt pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d89e7e0d4c98dba5493c5858",
+      "uri": "spotify:track:4jlYXnowIFxznxx03qlQYB",
+      "duration_ms": 85890
+    },
+    {
+      "played_at": "2026-06-04T17:46:09.304Z",
+      "name": "left to right",
+      "artists": [
+        "rommulas",
+        "2hollis"
+      ],
+      "album": "left to right",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f057b70d8cf4643e2b6357cc",
+      "uri": "spotify:track:7jUrWOaYctEk6p2eYNRjb0",
+      "duration_ms": 154285
     }
   ]
 }

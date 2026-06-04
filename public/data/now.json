@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-04T14:57:13.342Z",
-  "is_playing": false,
+  "updated_at": "2026-06-04T17:47:17.249Z",
+  "is_playing": true,
   "track": {
-    "name": "Chasin' You",
+    "name": "skippin class",
     "artists": [
-      "Morgan Wallen"
+      "xaviersobased",
+      "Juggn"
     ],
-    "album": "If I Know Me",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
-    "uri": "spotify:track:0WiyWiJDkNCyGNqkv7NByy"
+    "album": "And 3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cf0668fa8f427da3aa830577",
+    "uri": "spotify:track:6PXkMzl4Oy04IP3JwGQTlj"
   },
-  "played_at": "2026-06-04T12:22:17.432Z"
+  "played_at": "2026-06-04T17:47:17.249Z"
 }
