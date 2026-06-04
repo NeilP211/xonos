@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T09:54:24.849Z",
+  "updated_at": "2026-06-04T14:57:13.310Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -578,6 +578,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
       "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
       "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-06-04T12:07:15.410Z",
+      "name": "specialsadism (Slowed)",
+      "artists": [
+        "voidvoice717",
+        "emoslut666"
+      ],
+      "album": "specialsadism 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+      "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+      "duration_ms": 109134
+    },
+    {
+      "played_at": "2026-06-04T12:10:58.117Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-06-04T12:18:51.464Z",
+      "name": "Tennessee Whiskey",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Traveller",
+      "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
+      "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
+      "duration_ms": 293293
+    },
+    {
+      "played_at": "2026-06-04T12:22:17.432Z",
+      "name": "Chasin' You",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "If I Know Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
+      "uri": "spotify:track:0WiyWiJDkNCyGNqkv7NByy",
+      "duration_ms": 205453
     }
   ]
 }
