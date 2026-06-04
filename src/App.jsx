@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import { loadJSON } from './lib/data'
 import { timeAgo } from './lib/format'
 import RangeToggle from './components/RangeToggle'
-import NowChip from './components/NowChip'
 import TopTracks from './components/TopTracks'
 import TopArtists from './components/TopArtists'
 import ListeningPulse from './components/ListeningPulse'
@@ -12,17 +11,15 @@ import FunStats from './components/FunStats'
 export default function App() {
   const [top, setTop] = useState(null)
   const [recent, setRecent] = useState(null)
-  const [now, setNow] = useState(null)
   const [range, setRange] = useState('short_term')
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     let alive = true
-    Promise.all([loadJSON('top.json'), loadJSON('recent.json'), loadJSON('now.json')]).then(([t, r, n]) => {
+    Promise.all([loadJSON('top.json'), loadJSON('recent.json')]).then(([t, r]) => {
       if (!alive) return
       setTop(t)
       setRecent(r)
-      setNow(n)
       setLoading(false)
     })
     return () => {
@@ -50,7 +47,6 @@ export default function App() {
         </div>
         <RangeToggle value={range} onChange={setRange} />
         <div className="spacer" />
-        <NowChip now={now} />
         {top?.generated_at && <div className="updated">updated {timeAgo(top.generated_at)}</div>}
       </header>
 

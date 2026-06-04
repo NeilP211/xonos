@@ -53,14 +53,6 @@ body {
 .toggle button:hover { color: var(--text); }
 .toggle button.active { background: var(--text); color: #0a0a0f; }
 
-/* Now chip */
-.nowchip { display: flex; align-items: center; gap: 10px; background: var(--bg-2); border: 1px solid var(--border); border-radius: 999px; padding: 6px 12px 6px 8px; max-width: 320px; }
-.nowchip .pulse { width: 9px; height: 9px; border-radius: 50%; background: #34d399; box-shadow: 0 0 0 0 rgba(52, 211, 153, 0.6); animation: pulse 2s infinite; flex: none; }
-.nowchip.idle .pulse { background: var(--muted-2); animation: none; box-shadow: none; }
-@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(52,211,153,0.5);} 70% { box-shadow: 0 0 0 8px rgba(52,211,153,0);} 100% { box-shadow: 0 0 0 0 rgba(52,211,153,0);} }
-.nowchip .label { font-size: 11px; color: var(--muted-2); text-transform: uppercase; letter-spacing: 0.5px; }
-.nowchip .track { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-
 /* Grid */
 .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 16px; }
 .card {
