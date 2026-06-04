@@ -21,15 +21,18 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history so the data push can rebase before pushing
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
       - run: npm ci
 
       # Pull fresh data. continue-on-error so the site still deploys with sample
       # data before the Spotify secrets are configured.
       - name: Refresh Spotify data
+        id: refresh
         continue-on-error: true
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
@@ -37,14 +40,35 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: node scripts/fetch.mjs
 
+      # Surface a swallowed refresh failure (e.g. an expired token) instead of
+      # silently redeploying stale or sample data with a green check.
+      - name: Warn if refresh failed
+        if: steps.refresh.outcome == 'failure'
+        run: echo "::warning title=Spotify refresh failed::scripts/fetch.mjs did not succeed; deploying with the previous data. Check the secrets and refresh token."
+
       # Persist refreshed data so the recently-played log accumulates over time.
+      # Rebase before pushing and retry so a concurrent push does not silently
+      # drop accumulated history; a genuine failure fails the step loudly.
       - name: Commit refreshed data
         run: |
           git config user.name "swansite-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data
-          git commit -m "data: scheduled refresh" || echo "no data changes"
-          git push || echo "nothing to push"
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "data: scheduled refresh"
+            for attempt in 1 2 3; do
+              if git pull --rebase origin main && git push; then
+                echo "pushed on attempt $attempt"
+                exit 0
+              fi
+              echo "push attempt $attempt failed; retrying"
+              sleep 5
+            done
+            echo "::error title=Data push failed::Could not push refreshed data after 3 attempts."
+            exit 1
+          fi
 
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3

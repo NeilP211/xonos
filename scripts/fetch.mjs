@@ -98,7 +98,9 @@ async function buildTop(token) {
 
 async function buildRecent(token) {
   const prev = readJSON('recent.json', { plays: [] })
-  const prevPlays = (prev.plays || []).filter((p) => !p._note && p.played_at)
+  // If the file is still the placeholder sample (top-level _note), start fresh so
+  // dummy plays do not mix into real history on the first authenticated fetch.
+  const prevPlays = prev._note ? [] : (prev.plays || []).filter((p) => p.played_at)
   const newest = prevPlays.reduce((max, p) => Math.max(max, new Date(p.played_at).getTime()), 0)
   const afterParam = newest ? `&after=${newest}` : ''
   const recent = await apiGet(`/me/player/recently-played?limit=50${afterParam}`, token)
