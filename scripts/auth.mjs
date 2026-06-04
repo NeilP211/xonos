@@ -61,11 +61,12 @@ const server = http.createServer(async (req, res) => {
   }
   try {
     const tokens = await exchangeCode({ clientId, clientSecret, code, redirectUri })
+    // Write the token to a gitignored file so it can be piped straight into a
+    // GitHub secret without printing it to a shared terminal.
+    fs.writeFileSync(new URL('../.refresh_token', import.meta.url), tokens.refresh_token)
     res.writeHead(200, { 'Content-Type': 'text/html' }).end('<h1>SwanSite authorized</h1><p>You can close this tab and return to the terminal.</p>')
-    console.log('\n=== Your refresh token (store as the SPOTIFY_REFRESH_TOKEN secret) ===\n')
-    console.log(tokens.refresh_token)
-    console.log('\nScopes granted:', tokens.scope)
-    console.log('\nNext: add SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN as repo secrets.')
+    console.log('\nAuthorized. Refresh token written to .refresh_token (gitignored).')
+    console.log('Scopes granted:', tokens.scope)
     server.close()
     process.exit(0)
   } catch (e) {
