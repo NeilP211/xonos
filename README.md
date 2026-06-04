@@ -1,7 +1,7 @@
 # SwanSite
 
 A public, always-updating Spotify stats dashboard. It shows my listening: top
-tracks, artists, and albums across 4 weeks / 6 months / 1 year, plus a
+tracks and artists across 4 weeks / 6 months / 1 year, recently played, and a
 listening-pulse heatmap built from a recently-played log that grows over time.
 
 Only I authenticate (once). Friends just open the page and view the data. No
@@ -66,7 +66,7 @@ are wired up. A banner makes clear when sample data is showing.
   true lifetime view available from the API.
 - Spotify strips genres, popularity, and followers from the API for new
   development-mode apps, and deprecated audio-features/recommendations. So there is
-  no genre or mood breakdown; the album breakdown is derived from your top tracks.
+  no genre or mood breakdown.
 - "Now playing" is best-effort. On a cron-driven static site it usually shows the
   last played track ("last spun").
 - Reading data does not require Premium, but 2026 development mode does require the

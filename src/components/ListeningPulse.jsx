@@ -34,7 +34,7 @@ export default function ListeningPulse({ recent }) {
   const plays = recent?.plays || []
   if (!plays.length) {
     return (
-      <div className="card col-8">
+      <div className="card col-12">
         <h2>Listening Pulse</h2>
         <Empty text="The hour-by-day heatmap fills in as your play history accumulates." />
       </div>
@@ -42,7 +42,7 @@ export default function ListeningPulse({ recent }) {
   }
   const { grid, max, series } = buildPulse(plays)
   return (
-    <div className="card col-8">
+    <div className="card col-12">
       <h2>Listening Pulse</h2>
       <div className="heatmap">
         {grid.map((row, dow) => (

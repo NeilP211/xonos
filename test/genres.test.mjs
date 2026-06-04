@@ -1,6 +1,6 @@
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
-import { weightGenres, weightAlbums } from '../scripts/lib/genres.js'
+import { weightGenres } from '../scripts/lib/genres.js'
 
 test('weights genres by artist rank, highest first', () => {
   const artists = [
@@ -34,36 +34,4 @@ test('handles empty and missing input', () => {
 test('respects the limit', () => {
   const artists = [{ rank: 1, genres: ['a', 'b', 'c', 'd', 'e'] }]
   assert.equal(weightGenres(artists, 3).length, 3)
-})
-
-test('weightAlbums aggregates tracks by album, highest first', () => {
-  const tracks = [
-    { rank: 1, album: 'Blonde', artists: ['Frank Ocean'], image: 'cover-blonde' },
-    { rank: 2, album: 'Blonde', artists: ['Frank Ocean'] },
-    { rank: 3, album: 'Currents', artists: ['Tame Impala'] },
-  ]
-  const out = weightAlbums(tracks)
-  assert.equal(out[0].album, 'Blonde')
-  assert.equal(out[0].artist, 'Frank Ocean')
-  assert.equal(out[0].image, 'cover-blonde')
-  assert.equal(out[1].album, 'Currents')
-  const sum = out.reduce((s, a) => s + a.weight, 0)
-  assert.ok(Math.abs(sum - 1) < 1e-9)
-})
-
-test('weightAlbums handles empty input', () => {
-  assert.deepEqual(weightAlbums([]), [])
-  assert.deepEqual(weightAlbums(undefined), [])
-})
-
-test('weightAlbums excludes singles (fewer than 2 tracks)', () => {
-  const tracks = [
-    { rank: 1, album: 'Real Album', artists: ['A'], album_total_tracks: 10 },
-    { rank: 2, album: 'A Single', artists: ['B'], album_total_tracks: 1 },
-    { rank: 3, album: 'An EP', artists: ['C'], album_total_tracks: 2 },
-  ]
-  const names = weightAlbums(tracks).map((a) => a.album)
-  assert.ok(names.includes('Real Album'))
-  assert.ok(names.includes('An EP'))
-  assert.ok(!names.includes('A Single'))
 })

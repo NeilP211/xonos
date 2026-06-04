@@ -5,7 +5,6 @@ import RangeToggle from './components/RangeToggle'
 import NowChip from './components/NowChip'
 import TopTracks from './components/TopTracks'
 import TopArtists from './components/TopArtists'
-import TopAlbums from './components/TopAlbums'
 import ListeningPulse from './components/ListeningPulse'
 import RecentlyPlayed from './components/RecentlyPlayed'
 import FunStats from './components/FunStats'
@@ -65,9 +64,8 @@ export default function App() {
       <div className="grid">
         <TopTracks tracks={rangeData?.tracks} />
         <TopArtists artists={rangeData?.artists} />
-        <TopAlbums albums={top?.albums?.[range]} />
-        <ListeningPulse recent={recent} />
         <RecentlyPlayed recent={recent} />
+        <ListeningPulse recent={recent} />
         <FunStats top={top} range={range} recent={recent} />
       </div>
 

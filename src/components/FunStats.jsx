@@ -1,10 +1,9 @@
 import { commas, DOW } from '../lib/format'
 
-// Genres are unavailable for development-mode apps, so we count distinct albums
-// across the window's top tracks instead.
-function distinctAlbums(tracks) {
+// Count distinct artists across the window's top tracks (a simple variety metric).
+function distinctArtists(tracks) {
   const set = new Set()
-  for (const t of tracks || []) if (t.album) set.add(t.album)
+  for (const t of tracks || []) for (const a of t.artists || []) set.add(a)
   return set.size
 }
 
@@ -32,7 +31,7 @@ function busiestHour(plays) {
 
 export default function FunStats({ top, range, recent }) {
   const tracks = top?.ranges?.[range]?.tracks || []
-  const albumCount = distinctAlbums(tracks)
+  const artistCount = distinctArtists(tracks)
   const rising = risingArtists(top)
   const plays = recent?.plays || []
   const hour = busiestHour(plays)
@@ -42,8 +41,8 @@ export default function FunStats({ top, range, recent }) {
       <h2>The Numbers</h2>
       <div className="stats">
         <div className="stat">
-          <div className="big grad">{albumCount}</div>
-          <div className="lbl">distinct albums in this window</div>
+          <div className="big grad">{artistCount}</div>
+          <div className="lbl">distinct artists in this window</div>
         </div>
         <div className="stat">
           <div className="big grad">{rising.length}</div>
