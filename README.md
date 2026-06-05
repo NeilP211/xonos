@@ -7,6 +7,10 @@ listening-pulse heatmap built from a recently-played log that grows over time.
 Only I authenticate (once). Friends just open the page and view the data. No
 visitor logs in, and no secrets ever reach the browser.
 
+The look is a terminal/brutalist theme: black canvas, a single Spotify-green
+accent, boxy hairline-bordered cards, and Space Grotesk / Inter / JetBrains Mono
+typography.
+
 Live: https://neilp211.github.io/xonos/
 
 ## How it works

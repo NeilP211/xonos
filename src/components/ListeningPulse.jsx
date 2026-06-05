@@ -27,7 +27,7 @@ function buildPulse(plays) {
 function cellColor(count, max) {
   if (!count) return 'var(--bg-2)'
   const a = 0.12 + 0.88 * (count / max)
-  return `rgba(255, 92, 0, ${a.toFixed(3)})`
+  return `rgba(30, 215, 96, ${a.toFixed(3)})`
 }
 
 export default function ListeningPulse({ recent }) {
@@ -66,7 +66,7 @@ export default function ListeningPulse({ recent }) {
             contentStyle={{ background: '#0a0a0a', border: '1px solid #2b2b2b', borderRadius: 0, color: '#e8e8e8' }}
             formatter={(v) => [v, 'plays']}
           />
-          <Line type="monotone" dataKey="plays" stroke="#ff5c00" strokeWidth={2} dot={{ r: 2, fill: '#ff5c00' }} />
+          <Line type="monotone" dataKey="plays" stroke="#1ed760" strokeWidth={2} dot={{ r: 2, fill: '#1ed760' }} />
         </LineChart>
       </ResponsiveContainer>
     </div>

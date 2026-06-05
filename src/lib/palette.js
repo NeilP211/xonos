@@ -1,13 +1,13 @@
-// Restrained mono + signal-orange ramp for the terminal/brutalist theme. Each
+// Restrained mono + Spotify-green ramp for the terminal/brutalist theme. Each
 // fallback thumbnail gets a stable, on-brand shade by index (no rainbow).
 export const PALETTE = [
-  '#ff5c00', // signal orange
+  '#1ed760', // spotify green
   '#2b2b2b', // graphite
-  '#cc4a00', // dim orange
+  '#169c46', // dim green
   '#3a3a3a', // slate
-  '#ff7a33', // light orange
+  '#4ae07f', // light green
   '#1f1f1f', // near-black
-  '#a33b00', // rust
+  '#0f6e30', // dark green
   '#4a4a4a', // ash
 ]
 
