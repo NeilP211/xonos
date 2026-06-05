@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:44:05.526Z",
+  "generated_at": "2026-06-05T14:47:54.987Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -744,7 +744,7 @@
         {
           "rank": 15,
           "name": "idully",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb099e2549aed656a4f256832b",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9e2d06fd1b7b922d22169ff1",
           "genres": [],
           "uri": "spotify:artist:0jvOetHbQcolGZtM6YjB2q",
           "url": "https://open.spotify.com/artist/0jvOetHbQcolGZtM6YjB2q"
@@ -2109,18 +2109,6 @@
         },
         {
           "rank": 5,
-          "name": "B2b",
-          "artists": [
-            "Charli xcx"
-          ],
-          "album": "BRAT",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
-          "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
-          "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
-          "duration_ms": 178579
-        },
-        {
-          "rank": 6,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -2130,6 +2118,18 @@
           "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
           "url": "https://open.spotify.com/track/3YPfO65kiw8oCq5vSSKFyP",
           "duration_ms": 153200
+        },
+        {
+          "rank": 6,
+          "name": "B2b",
+          "artists": [
+            "Charli xcx"
+          ],
+          "album": "BRAT",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+          "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
+          "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
+          "duration_ms": 178579
         },
         {
           "rank": 7,
@@ -2424,6 +2424,18 @@
         },
         {
           "rank": 31,
+          "name": "Spin on Him",
+          "artists": [
+            "Selune"
+          ],
+          "album": "Spin on Him",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
+          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
+          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
+          "duration_ms": 208620
+        },
+        {
+          "rank": 32,
           "name": "flash",
           "artists": [
             "2hollis"
@@ -2435,7 +2447,7 @@
           "duration_ms": 164117
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -2447,7 +2459,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "West Coast",
           "artists": [
             "Lana Del Rey"
@@ -2459,7 +2471,7 @@
           "duration_ms": 256760
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "bag it",
           "artists": [
             "sleepyherd"
@@ -2471,7 +2483,7 @@
           "duration_ms": 67223
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -2483,7 +2495,7 @@
           "duration_ms": 211043
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "2 Phones",
           "artists": [
             "Zukovstheworld",
@@ -2494,18 +2506,6 @@
           "uri": "spotify:track:5QRIK65IhCObl9FvVJZTF3",
           "url": "https://open.spotify.com/track/5QRIK65IhCObl9FvVJZTF3",
           "duration_ms": 147623
-        },
-        {
-          "rank": 37,
-          "name": "Spin on Him",
-          "artists": [
-            "Selune"
-          ],
-          "album": "Spin on Him",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
-          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
-          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
-          "duration_ms": 208620
         },
         {
           "rank": 38,
@@ -2596,6 +2596,19 @@
         },
         {
           "rank": 45,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
+          "rank": 46,
           "name": "sidia",
           "artists": [
             "xaviersobased"
@@ -2605,19 +2618,6 @@
           "uri": "spotify:track:1f5Q4a871MYSEc614ybqrZ",
           "url": "https://open.spotify.com/track/1f5Q4a871MYSEc614ybqrZ",
           "duration_ms": 79124
-        },
-        {
-          "rank": 46,
-          "name": "classist",
-          "artists": [
-            "xaviersobased",
-            "ss3bby"
-          ],
-          "album": "install",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730d0fb3927a40c5a401a57f07",
-          "uri": "spotify:track:4DIeilVqK89XAJKn85wfmV",
-          "url": "https://open.spotify.com/track/4DIeilVqK89XAJKn85wfmV",
-          "duration_ms": 106004
         },
         {
           "rank": 47,
@@ -2634,6 +2634,19 @@
         },
         {
           "rank": 48,
+          "name": "classist",
+          "artists": [
+            "xaviersobased",
+            "ss3bby"
+          ],
+          "album": "install",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730d0fb3927a40c5a401a57f07",
+          "uri": "spotify:track:4DIeilVqK89XAJKn85wfmV",
+          "url": "https://open.spotify.com/track/4DIeilVqK89XAJKn85wfmV",
+          "duration_ms": 106004
+        },
+        {
+          "rank": 49,
           "name": "Untrust Us",
           "artists": [
             "Crystal Castles"
@@ -2643,19 +2656,6 @@
           "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
           "url": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2",
           "duration_ms": 186373
-        },
-        {
-          "rank": 49,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
         },
         {
           "rank": 50,
@@ -2785,19 +2785,19 @@
         },
         {
           "rank": 15,
-          "name": "ilyhiryu",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb9508b912d4b4df71f8245c4e",
-          "genres": [],
-          "uri": "spotify:artist:6v0qM3UbgdKlzIMRow87s2",
-          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
-        },
-        {
-          "rank": 16,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
           "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+        },
+        {
+          "rank": 16,
+          "name": "ilyhiryu",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9508b912d4b4df71f8245c4e",
+          "genres": [],
+          "uri": "spotify:artist:6v0qM3UbgdKlzIMRow87s2",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
           "rank": 17,
@@ -2945,6 +2945,14 @@
         },
         {
           "rank": 35,
+          "name": "Tay-K",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb235f4cc5e342ec8ff002ea74",
+          "genres": [],
+          "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
+          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
+        },
+        {
+          "rank": 36,
           "name": "Gutter Whore",
           "image": "https://i.scdn.co/image/ab6761610000e5eb414eb1b4dcdef93a163f2e99",
           "genres": [],
@@ -2952,20 +2960,12 @@
           "url": "https://open.spotify.com/artist/09TAxArvBAjqTaVBE7viuU"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Boy Fantasy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffe6ca1d41f75558a9678c89",
           "genres": [],
           "uri": "spotify:artist:6TNu2GG0r5FZXtSvdGcLsY",
           "url": "https://open.spotify.com/artist/6TNu2GG0r5FZXtSvdGcLsY"
-        },
-        {
-          "rank": 37,
-          "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb235f4cc5e342ec8ff002ea74",
-          "genres": [],
-          "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
-          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
           "rank": 38,
@@ -2985,19 +2985,19 @@
         },
         {
           "rank": 40,
-          "name": "ksuuvi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
-          "genres": [],
-          "uri": "spotify:artist:7MYVlTfQYFOVKftHoiwO5b",
-          "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
-        },
-        {
-          "rank": 41,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
           "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "rank": 41,
+          "name": "ksuuvi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
+          "genres": [],
+          "uri": "spotify:artist:7MYVlTfQYFOVKftHoiwO5b",
+          "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
         },
         {
           "rank": 42,
