@@ -1,22 +1,14 @@
-// Vivid categorical palette for the dark data-viz theme. Each genre/artist/series
-// gets a stable color by index.
+// Restrained mono + signal-orange ramp for the terminal/brutalist theme. Each
+// fallback thumbnail gets a stable, on-brand shade by index (no rainbow).
 export const PALETTE = [
-  '#22d3ee', // cyan
-  '#a78bfa', // violet
-  '#f472b6', // pink
-  '#34d399', // emerald
-  '#fbbf24', // amber
-  '#fb7185', // rose
-  '#60a5fa', // blue
-  '#c084fc', // purple
-  '#4ade80', // green
-  '#f59e0b', // orange
-  '#2dd4bf', // teal
-  '#e879f9', // fuchsia
-  '#818cf8', // indigo
-  '#facc15', // yellow
-  '#fca5a5', // light red
-  '#5eead4', // light teal
+  '#ff5c00', // signal orange
+  '#2b2b2b', // graphite
+  '#cc4a00', // dim orange
+  '#3a3a3a', // slate
+  '#ff7a33', // light orange
+  '#1f1f1f', // near-black
+  '#a33b00', // rust
+  '#4a4a4a', // ash
 ]
 
 export function colorFor(index) {

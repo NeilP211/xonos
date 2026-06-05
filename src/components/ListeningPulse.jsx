@@ -27,7 +27,7 @@ function buildPulse(plays) {
 function cellColor(count, max) {
   if (!count) return 'var(--bg-2)'
   const a = 0.12 + 0.88 * (count / max)
-  return `rgba(34, 211, 238, ${a.toFixed(3)})`
+  return `rgba(255, 92, 0, ${a.toFixed(3)})`
 }
 
 export default function ListeningPulse({ recent }) {
@@ -59,14 +59,14 @@ export default function ListeningPulse({ recent }) {
       <div style={{ height: 16 }} />
       <ResponsiveContainer width="100%" height={150}>
         <LineChart data={series} margin={{ left: -18, right: 8, top: 8, bottom: 0 }}>
-          <CartesianGrid stroke="#262633" vertical={false} />
-          <XAxis dataKey="day" tick={{ fill: '#6c6c84', fontSize: 11 }} axisLine={false} tickLine={false} />
-          <YAxis allowDecimals={false} tick={{ fill: '#6c6c84', fontSize: 11 }} axisLine={false} tickLine={false} width={32} />
+          <CartesianGrid stroke="#1f1f1f" vertical={false} />
+          <XAxis dataKey="day" tick={{ fill: '#707070', fontSize: 11 }} axisLine={false} tickLine={false} />
+          <YAxis allowDecimals={false} tick={{ fill: '#707070', fontSize: 11 }} axisLine={false} tickLine={false} width={32} />
           <Tooltip
-            contentStyle={{ background: '#15151f', border: '1px solid #262633', borderRadius: 10, color: '#f4f4f8' }}
+            contentStyle={{ background: '#0a0a0a', border: '1px solid #2b2b2b', borderRadius: 0, color: '#e8e8e8' }}
             formatter={(v) => [v, 'plays']}
           />
-          <Line type="monotone" dataKey="plays" stroke="#a78bfa" strokeWidth={2.5} dot={{ r: 2, fill: '#a78bfa' }} />
+          <Line type="monotone" dataKey="plays" stroke="#ff5c00" strokeWidth={2} dot={{ r: 2, fill: '#ff5c00' }} />
         </LineChart>
       </ResponsiveContainer>
     </div>

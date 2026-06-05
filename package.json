@@ -1,9 +1,9 @@
 {
-  "name": "swansite",
+  "name": "xonos",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "A public, always-updating Spotify stats dashboard for Neil.",
+  "description": "Xonos: a public, always-updating Spotify stats dashboard for Neil.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

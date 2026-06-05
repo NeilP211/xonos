@@ -30,7 +30,7 @@ export default function App() {
   if (loading) {
     return (
       <div className="app">
-        <div className="loading">Loading SwanSite...</div>
+        <div className="loading">Loading Xonos...</div>
       </div>
     )
   }
@@ -43,7 +43,7 @@ export default function App() {
       <header className="topbar">
         <div className="brand">
           <span className="dot" />
-          SwanSite
+          Xonos
         </div>
         <RangeToggle value={range} onChange={setRange} />
         <div className="spacer" />
@@ -66,7 +66,7 @@ export default function App() {
       </div>
 
       <div className="footnote">
-        SwanSite · built with the Spotify Web API · data updates automatically
+        Xonos · built with the Spotify Web API · data updates automatically
       </div>
     </div>
   )

@@ -1,4 +1,4 @@
-# SwanSite
+# Xonos
 
 A public, always-updating Spotify stats dashboard. It shows my listening: top
 tracks and artists across 4 weeks / 6 months / 1 year, recently played, and a
@@ -7,7 +7,7 @@ listening-pulse heatmap built from a recently-played log that grows over time.
 Only I authenticate (once). Friends just open the page and view the data. No
 visitor logs in, and no secrets ever reach the browser.
 
-Live: https://neilp211.github.io/swansite/
+Live: https://neilp211.github.io/xonos/
 
 ## How it works
 

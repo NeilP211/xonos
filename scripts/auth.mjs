@@ -64,7 +64,7 @@ const server = http.createServer(async (req, res) => {
     // Write the token to a gitignored file so it can be piped straight into a
     // GitHub secret without printing it to a shared terminal.
     fs.writeFileSync(new URL('../.refresh_token', import.meta.url), tokens.refresh_token)
-    res.writeHead(200, { 'Content-Type': 'text/html' }).end('<h1>SwanSite authorized</h1><p>You can close this tab and return to the terminal.</p>')
+    res.writeHead(200, { 'Content-Type': 'text/html' }).end('<h1>Xonos authorized</h1><p>You can close this tab and return to the terminal.</p>')
     console.log('\nAuthorized. Refresh token written to .refresh_token (gitignored).')
     console.log('Scopes granted:', tokens.scope)
     server.close()

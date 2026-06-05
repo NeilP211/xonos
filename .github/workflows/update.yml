@@ -11,7 +11,7 @@ on:
 
 # One run at a time; queue rather than cancel so scheduled refreshes are not lost.
 concurrency:
-  group: swansite-update
+  group: xonos-update
   cancel-in-progress: false
 
 jobs:
@@ -51,7 +51,7 @@ jobs:
       # drop accumulated history; a genuine failure fails the step loudly.
       - name: Commit refreshed data
         run: |
-          git config user.name "swansite-bot"
+          git config user.name "xonos-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data
           if git diff --cached --quiet; then
