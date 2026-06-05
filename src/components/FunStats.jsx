@@ -46,7 +46,7 @@ export default function FunStats({ top, range, recent }) {
         </div>
         <div className="stat">
           <div className="big grad">{rising.length}</div>
-          <div className="lbl">rising artists (new in your last 4 weeks)</div>
+          <div className="lbl">rising artists</div>
         </div>
         <div className="stat">
           <div className="big grad">{commas(plays.length)}</div>
@@ -54,7 +54,7 @@ export default function FunStats({ top, range, recent }) {
         </div>
         <div className="stat">
           <div className="big grad">{hour || '--'}</div>
-          <div className="lbl">your busiest listening hour</div>
+          <div className="lbl">busiest listening hour</div>
         </div>
       </div>
       {rising.length > 0 && (
