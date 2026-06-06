@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T22:14:07.925Z",
+  "updated_at": "2026-06-06T02:57:37.838Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -1146,6 +1146,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
       "uri": "spotify:track:6zAUCritANdhceCMLVB8xR",
       "duration_ms": 201313
+    },
+    {
+      "played_at": "2026-06-05T17:18:22.082Z",
+      "name": "Devotion",
+      "artists": [
+        "Lance Savali"
+      ],
+      "album": "Devotion",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395d861b84734bd0712ddb443",
+      "uri": "spotify:track:3BM5hoJ168Kh4hYEhiNxwK",
+      "duration_ms": 136406
+    },
+    {
+      "played_at": "2026-06-05T22:44:18.841Z",
+      "name": "Dancing In the Dark",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "album": "Born In The U.S.A.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+      "uri": "spotify:track:7FwBtcecmlpc1sLySPXeGE",
+      "duration_ms": 245296
+    },
+    {
+      "played_at": "2026-06-05T22:47:04.705Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-05T22:55:06.840Z",
+      "name": "AirForce",
+      "artists": [
+        "DigDat"
+      ],
+      "album": "AirForce",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239cc1b00dbe1a1147dad01e",
+      "uri": "spotify:track:3DLRRpaDETZYltj3KZ7kxo",
+      "duration_ms": 221467
+    },
+    {
+      "played_at": "2026-06-05T23:04:21.894Z",
+      "name": "Welcome To The Party",
+      "artists": [
+        "Pop Smoke"
+      ],
+      "album": "Meet The Woo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1522381cb5d91ef16326867",
+      "uri": "spotify:track:16PAC7NLpbryofiPTlqTFK",
+      "duration_ms": 214960
     }
   ]
 }

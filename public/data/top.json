@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:14:07.838Z",
+  "generated_at": "2026-06-06T02:57:37.644Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -102,6 +102,18 @@
         },
         {
           "rank": 9,
+          "name": "GoOd Night",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "GoOd Night",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
+          "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
+          "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
+          "duration_ms": 109244
+        },
+        {
+          "rank": 10,
           "name": "i aint start making money till i started doing drugs",
           "artists": [
             "bleood"
@@ -113,7 +125,7 @@
           "duration_ms": 107110
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -126,18 +138,6 @@
           "uri": "spotify:track:30096a5EMOSaF9c2aSa4TH",
           "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH",
           "duration_ms": 180927
-        },
-        {
-          "rank": 11,
-          "name": "GoOd Night",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "GoOd Night",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
-          "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
-          "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
-          "duration_ms": 109244
         },
         {
           "rank": 12,
@@ -266,19 +266,6 @@
         },
         {
           "rank": 22,
-          "name": "Yung Nigga Shit",
-          "artists": [
-            "Glokk40Spaz",
-            "2wo2imes"
-          ],
-          "album": "2wo Glokks",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
-          "duration_ms": 135510
-        },
-        {
-          "rank": 23,
           "name": "Отпусти меня",
           "artists": [
             "SEREBRO"
@@ -290,7 +277,7 @@
           "duration_ms": 232855
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "ur not - diff ver",
           "artists": [
             "idully"
@@ -302,7 +289,7 @@
           "duration_ms": 88842
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "I'm Not Alone - 2019 Edit",
           "artists": [
             "Calvin Harris"
@@ -314,7 +301,7 @@
           "duration_ms": 201313
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "real music",
           "artists": [
             "Robin Gan"
@@ -326,7 +313,7 @@
           "duration_ms": 50061
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -336,6 +323,19 @@
           "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
           "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
           "duration_ms": 417226
+        },
+        {
+          "rank": 27,
+          "name": "Yung Nigga Shit",
+          "artists": [
+            "Glokk40Spaz",
+            "2wo2imes"
+          ],
+          "album": "2wo Glokks",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
+          "duration_ms": 135510
         },
         {
           "rank": 28,
@@ -516,6 +516,18 @@
         },
         {
           "rank": 42,
+          "name": "Spin on Him",
+          "artists": [
+            "Selune"
+          ],
+          "album": "Spin on Him",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
+          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
+          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
+          "duration_ms": 208620
+        },
+        {
+          "rank": 43,
           "name": "World, Hold On - FISHER Rework",
           "artists": [
             "Bob Sinclar",
@@ -529,7 +541,7 @@
           "duration_ms": 178304
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -541,7 +553,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Faded",
           "artists": [
             "Alan Walker"
@@ -553,7 +565,7 @@
           "duration_ms": 212106
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -568,7 +580,7 @@
           "duration_ms": 113963
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -580,7 +592,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Love Story",
           "artists": [
             "Taylor Swift"
@@ -592,7 +604,7 @@
           "duration_ms": 236266
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -604,7 +616,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -614,18 +626,6 @@
           "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
           "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
           "duration_ms": 299258
-        },
-        {
-          "rank": 50,
-          "name": "Princess",
-          "artists": [
-            "Drake"
-          ],
-          "album": "MAID OF HONOUR",
-          "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
-          "uri": "spotify:track:2OrkG4TIWdm5ZhBwpbr3o0",
-          "url": "https://open.spotify.com/track/2OrkG4TIWdm5ZhBwpbr3o0",
-          "duration_ms": 193748
         }
       ],
       "artists": [
@@ -1060,18 +1060,6 @@
         },
         {
           "rank": 3,
-          "name": "I Don't Care",
-          "artists": [
-            "Jesp7Tearz"
-          ],
-          "album": "I Don't Care",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732ec354ce1466cc7c6155a34e",
-          "uri": "spotify:track:4rXOOxs2nxHqQGnVPvR6m6",
-          "url": "https://open.spotify.com/track/4rXOOxs2nxHqQGnVPvR6m6",
-          "duration_ms": 156300
-        },
-        {
-          "rank": 4,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -1081,6 +1069,18 @@
           "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
           "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
           "duration_ms": 166300
+        },
+        {
+          "rank": 4,
+          "name": "I Don't Care",
+          "artists": [
+            "Jesp7Tearz"
+          ],
+          "album": "I Don't Care",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732ec354ce1466cc7c6155a34e",
+          "uri": "spotify:track:4rXOOxs2nxHqQGnVPvR6m6",
+          "url": "https://open.spotify.com/track/4rXOOxs2nxHqQGnVPvR6m6",
+          "duration_ms": 156300
         },
         {
           "rank": 5,
@@ -1120,18 +1120,6 @@
         },
         {
           "rank": 8,
-          "name": "Necrotic Bimbatitis",
-          "artists": [
-            "Bimb0nicplague"
-          ],
-          "album": "Split W/ Septic Abrasions",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e0027c2f4941b54c2dd999a1",
-          "uri": "spotify:track:7nC11rmbnep471LADThi9L",
-          "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
-          "duration_ms": 232000
-        },
-        {
-          "rank": 9,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -1141,6 +1129,18 @@
           "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
           "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
           "duration_ms": 208620
+        },
+        {
+          "rank": 9,
+          "name": "Necrotic Bimbatitis",
+          "artists": [
+            "Bimb0nicplague"
+          ],
+          "album": "Split W/ Septic Abrasions",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e0027c2f4941b54c2dd999a1",
+          "uri": "spotify:track:7nC11rmbnep471LADThi9L",
+          "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
+          "duration_ms": 232000
         },
         {
           "rank": 10,
@@ -1569,6 +1569,18 @@
         },
         {
           "rank": 44,
+          "name": "AirForce",
+          "artists": [
+            "DigDat"
+          ],
+          "album": "AirForce",
+          "image": "https://i.scdn.co/image/ab67616d0000b273239cc1b00dbe1a1147dad01e",
+          "uri": "spotify:track:3DLRRpaDETZYltj3KZ7kxo",
+          "url": "https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo",
+          "duration_ms": 221467
+        },
+        {
+          "rank": 45,
           "name": "Summertime",
           "artists": [
             "Mareux"
@@ -1580,7 +1592,7 @@
           "duration_ms": 217651
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -1592,7 +1604,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Alpha",
           "artists": [
             "Tevvez"
@@ -1604,7 +1616,7 @@
           "duration_ms": 247456
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -1616,7 +1628,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "MONSTER",
           "artists": [
             "Che"
@@ -1628,7 +1640,7 @@
           "duration_ms": 233819
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -1639,18 +1651,6 @@
           "uri": "spotify:track:38bj2nRKW9NnO6mGUG1Ajm",
           "url": "https://open.spotify.com/track/38bj2nRKW9NnO6mGUG1Ajm",
           "duration_ms": 89037
-        },
-        {
-          "rank": 50,
-          "name": "DARKO-ARM",
-          "artists": [
-            "443RAVES"
-          ],
-          "album": "AURA",
-          "image": "https://i.scdn.co/image/ab67616d0000b27338119fa4713a8d5ffd24c386",
-          "uri": "spotify:track:2WU0doEJoaZTmIIOxmVcuJ",
-          "url": "https://open.spotify.com/track/2WU0doEJoaZTmIIOxmVcuJ",
-          "duration_ms": 63760
         }
       ],
       "artists": [
@@ -1784,6 +1784,14 @@
         },
         {
           "rank": 17,
+          "name": "Calvin Harris",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "genres": [],
+          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 18,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -1791,20 +1799,12 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "La Capella",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
           "genres": [],
           "uri": "spotify:artist:4mP87yxki6BtYCjIMwOJsg",
           "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
-        },
-        {
-          "rank": 19,
-          "name": "Calvin Harris",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "genres": [],
-          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
           "rank": 20,
