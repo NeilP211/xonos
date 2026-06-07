@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T08:54:07.348Z",
+  "generated_at": "2026-06-07T11:08:13.683Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2022,6 +2022,14 @@
         },
         {
           "rank": 47,
+          "name": "Edot Babyy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
+          "genres": [],
+          "uri": "spotify:artist:3bOV7IH0Lb13ifOUrwACa7",
+          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
+        },
+        {
+          "rank": 48,
           "name": "Teejayx6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb911f261f462b63bf08f6f40b",
           "genres": [],
@@ -2029,7 +2037,7 @@
           "url": "https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Rihanna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "genres": [],
@@ -2037,20 +2045,12 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Punkinloveee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb61d746ebd85c2c4881665886",
           "genres": [],
           "uri": "spotify:artist:6CrThJMQVJfWaHeliiLHuw",
           "url": "https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw"
-        },
-        {
-          "rank": 50,
-          "name": "Fadel Chaker",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebefc1fc78f05677fb9950f11f",
-          "genres": [],
-          "uri": "spotify:artist:1LljnS3oumQ36wdBhkPKrs",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         }
       ]
     },
