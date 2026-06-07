@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T13:49:32.679Z",
+  "generated_at": "2026-06-07T16:13:53.237Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2144,18 +2144,6 @@
         },
         {
           "rank": 8,
-          "name": "glamur) (super slowed)",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "glamur)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
-          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
-          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
-          "duration_ms": 129285
-        },
-        {
-          "rank": 9,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -2165,6 +2153,18 @@
           "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
           "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
           "duration_ms": 166300
+        },
+        {
+          "rank": 9,
+          "name": "glamur) (super slowed)",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "glamur)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
+          "duration_ms": 129285
         },
         {
           "rank": 10,
@@ -2192,6 +2192,18 @@
         },
         {
           "rank": 12,
+          "name": "Ultraviolence",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
+          "duration_ms": 251480
+        },
+        {
+          "rank": 13,
           "name": "yellow rose",
           "artists": [
             "xaviersobased"
@@ -2203,7 +2215,7 @@
           "duration_ms": 72071
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -2217,7 +2229,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
           "artists": [
             "Crowbar"
@@ -2229,7 +2241,7 @@
           "duration_ms": 238266
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Lose It",
           "artists": [
             "Ken Carson"
@@ -2241,7 +2253,7 @@
           "duration_ms": 140811
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -2253,7 +2265,7 @@
           "duration_ms": 92019
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "funuhyuh",
           "artists": [
             "Nettspend"
@@ -2263,18 +2275,6 @@
           "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
           "url": "https://open.spotify.com/track/6jwCUzXJwNLaP1rnU0fJTz",
           "duration_ms": 75347
-        },
-        {
-          "rank": 18,
-          "name": "Ultraviolence",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
-          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-          "duration_ms": 251480
         },
         {
           "rank": 19,
@@ -2619,6 +2619,18 @@
         },
         {
           "rank": 47,
+          "name": "Brooklyn Baby",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
+          "duration_ms": 351640
+        },
+        {
+          "rank": 48,
           "name": "bag it 2",
           "artists": [
             "xaviersobased",
@@ -2631,7 +2643,7 @@
           "duration_ms": 117002
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "classist",
           "artists": [
             "xaviersobased",
@@ -2644,7 +2656,7 @@
           "duration_ms": 106004
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Untrust Us",
           "artists": [
             "Crystal Castles"
@@ -2654,18 +2666,6 @@
           "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
           "url": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2",
           "duration_ms": 186373
-        },
-        {
-          "rank": 50,
-          "name": "White Mustang",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Lust For Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
-          "uri": "spotify:track:6eygbzyL6hY8jFQTARDuo9",
-          "url": "https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9",
-          "duration_ms": 164710
         }
       ],
       "artists": [
@@ -2831,19 +2831,19 @@
         },
         {
           "rank": 21,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 22,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 22,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "rank": 23,
@@ -2895,19 +2895,19 @@
         },
         {
           "rank": 29,
-          "name": "Maul",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
-          "genres": [],
-          "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
-          "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
-        },
-        {
-          "rank": 30,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
           "genres": [],
           "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "rank": 30,
+          "name": "Maul",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
+          "genres": [],
+          "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
+          "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
         },
         {
           "rank": 31,
