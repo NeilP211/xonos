@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-07T16:13:53.495Z",
+  "updated_at": "2026-06-07T19:20:32.470Z",
   "is_playing": false,
   "track": {
-    "name": "Too Fast",
+    "name": "Just The Way You Are",
     "artists": [
-      "Jason Aldean"
+      "Milky",
+      "Mall Grab"
     ],
-    "album": "Old Boots, New Dirt",
-    "image": "https://i.scdn.co/image/ab67616d0000b27311c0c61a1f6becef5715107b",
-    "uri": "spotify:track:7FOjsmd4F7fxgjyWaiq5tS"
+    "album": "Just The Way You Are",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+    "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt"
   },
-  "played_at": "2026-06-07T04:24:13.173Z"
+  "played_at": "2026-06-07T15:25:31.551Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T16:13:53.387Z",
+  "updated_at": "2026-06-07T19:20:32.380Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2167,6 +2167,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27311c0c61a1f6becef5715107b",
       "uri": "spotify:track:7FOjsmd4F7fxgjyWaiq5tS",
       "duration_ms": 202306
+    },
+    {
+      "played_at": "2026-06-07T15:25:31.551Z",
+      "name": "Just The Way You Are",
+      "artists": [
+        "Milky",
+        "Mall Grab"
+      ],
+      "album": "Just The Way You Are",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+      "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+      "duration_ms": 159500
     }
   ]
 }
