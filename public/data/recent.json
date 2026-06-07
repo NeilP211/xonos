@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:02:06.575Z",
+  "updated_at": "2026-06-07T03:43:30.782Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -1978,6 +1978,138 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273436e38032cf3389d01426eca",
       "uri": "spotify:track:4ePP9So5xRzspjLFVVbj90",
       "duration_ms": 256733
+    },
+    {
+      "played_at": "2026-06-06T22:14:46.014Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-06-06T22:15:25.050Z",
+      "name": "Émotions",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Énergies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331676ee2b8f6c0852bb1",
+      "uri": "spotify:track:1xuENwgIK4VUWlA7ZtmtBe",
+      "duration_ms": 98210
+    },
+    {
+      "played_at": "2026-06-07T00:02:30.016Z",
+      "name": "Émotions",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Énergies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331676ee2b8f6c0852bb1",
+      "uri": "spotify:track:1xuENwgIK4VUWlA7ZtmtBe",
+      "duration_ms": 98210
+    },
+    {
+      "played_at": "2026-06-07T00:07:40.997Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-07T00:13:38.903Z",
+      "name": "Ultraviolence",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+      "duration_ms": 251480
+    },
+    {
+      "played_at": "2026-06-07T00:16:04.565Z",
+      "name": "molly and sex",
+      "artists": [
+        "Novulent"
+      ],
+      "album": "DEAR DIARY",
+      "image": "https://i.scdn.co/image/ab67616d0000b27356247d72afaf360ff1b48acf",
+      "uri": "spotify:track:5TI9MPAaOt7dqol5rPxynh",
+      "duration_ms": 145199
+    },
+    {
+      "played_at": "2026-06-07T01:25:57.685Z",
+      "name": "Salvatore",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+      "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-06-07T01:31:10.138Z",
+      "name": "Lucky Ones",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2E8b9rCHCWNr0CrZSTVJCT",
+      "duration_ms": 225069
+    },
+    {
+      "played_at": "2026-06-07T01:45:29.209Z",
+      "name": "Off To The Races",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:5IyblF777jLZj1vGHG2UD3",
+      "duration_ms": 299933
+    },
+    {
+      "played_at": "2026-06-07T01:53:28.672Z",
+      "name": "A Man Without Love",
+      "artists": [
+        "Engelbert Humperdinck"
+      ],
+      "album": "A Man Without Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313f61b73b155d49c9ad671b9",
+      "uri": "spotify:track:0oUBuOO4g9P4lREqfqR5nq",
+      "duration_ms": 203133
+    },
+    {
+      "played_at": "2026-06-07T01:56:24.614Z",
+      "name": "Stand By Me",
+      "artists": [
+        "Ben E. King"
+      ],
+      "album": "Don't Play That Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c155b31ab9e86a3d96359811",
+      "uri": "spotify:track:7jmHyHMEqm9MJWiMAneF05",
+      "duration_ms": 175493
+    },
+    {
+      "played_at": "2026-06-07T02:05:23.140Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
     }
   ]
 }
