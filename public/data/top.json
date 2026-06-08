@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:48:27.164Z",
+  "generated_at": "2026-06-08T20:12:51.039Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -711,14 +711,6 @@
         },
         {
           "rank": 11,
-          "name": "xaviersobased",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [],
-          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "rank": 12,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -726,12 +718,20 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
           "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+        },
+        {
+          "rank": 13,
+          "name": "xaviersobased",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
+          "genres": [],
+          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
           "rank": 14,
@@ -2181,42 +2181,6 @@
         },
         {
           "rank": 11,
-          "name": "My Own Summer (Shove It)",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Around the Fur",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-          "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
-          "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
-          "duration_ms": 214760
-        },
-        {
-          "rank": 12,
-          "name": "Ultraviolence",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
-          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-          "duration_ms": 251480
-        },
-        {
-          "rank": 13,
-          "name": "yellow rose",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "someone help",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739635d97f8567299785a628b3",
-          "uri": "spotify:track:18znj1NxAmbod4Wxby66MK",
-          "url": "https://open.spotify.com/track/18znj1NxAmbod4Wxby66MK",
-          "duration_ms": 72071
-        },
-        {
-          "rank": 14,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -2228,6 +2192,42 @@
           "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
           "url": "https://open.spotify.com/track/3lJ3mblBvLWDhrzi1qxh05",
           "duration_ms": 115296
+        },
+        {
+          "rank": 12,
+          "name": "My Own Summer (Shove It)",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Around the Fur",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+          "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+          "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
+          "duration_ms": 214760
+        },
+        {
+          "rank": 13,
+          "name": "Ultraviolence",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
+          "duration_ms": 251480
+        },
+        {
+          "rank": 14,
+          "name": "yellow rose",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "someone help",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739635d97f8567299785a628b3",
+          "uri": "spotify:track:18znj1NxAmbod4Wxby66MK",
+          "url": "https://open.spotify.com/track/18znj1NxAmbod4Wxby66MK",
+          "duration_ms": 72071
         },
         {
           "rank": 15,

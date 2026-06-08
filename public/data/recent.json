@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T15:48:27.238Z",
+  "updated_at": "2026-06-08T20:12:51.198Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2386,6 +2386,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735914b01bce659a39ad7216ea",
       "uri": "spotify:track:7GFPmRIpmI1qRym5wRtSjZ",
       "duration_ms": 235368
+    },
+    {
+      "played_at": "2026-06-08T18:47:28.936Z",
+      "name": "Mbketamine",
+      "artists": [
+        "Unicorn On Ketamine",
+        "MBK"
+      ],
+      "album": "Mbketamine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273011db37257b8c4f54fee7f14",
+      "uri": "spotify:track:6iT1qfwMYjd4gpUw8jBWca",
+      "duration_ms": 174500
     }
   ]
 }
