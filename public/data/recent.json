@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T03:52:33.356Z",
+  "updated_at": "2026-06-08T10:50:49.123Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2375,6 +2375,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730da0442dfbc8251fafeb1031",
       "uri": "spotify:track:7AUpTOHTBAyg68d7pXorga",
       "duration_ms": 150957
+    },
+    {
+      "played_at": "2026-06-08T01:46:40.156Z",
+      "name": "Maool",
+      "artists": [
+        "Fadel Chaker"
+      ],
+      "album": "Maool",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735914b01bce659a39ad7216ea",
+      "uri": "spotify:track:7GFPmRIpmI1qRym5wRtSjZ",
+      "duration_ms": 235368
     }
   ]
 }
