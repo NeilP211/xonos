@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T10:50:48.955Z",
+  "generated_at": "2026-06-08T15:48:27.164Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1991,6 +1991,14 @@
         },
         {
           "rank": 43,
+          "name": "Fadel Chaker",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebefc1fc78f05677fb9950f11f",
+          "genres": [],
+          "uri": "spotify:artist:1LljnS3oumQ36wdBhkPKrs",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        },
+        {
+          "rank": 44,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -1998,7 +2006,7 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
@@ -2006,7 +2014,7 @@
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "akkiemi",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf6a9f59782a5672297a7075b",
           "genres": [],
@@ -2014,7 +2022,7 @@
           "url": "https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Ron Suno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf49a0886c7b50a9430cc79cc",
           "genres": [],
@@ -2022,7 +2030,7 @@
           "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Edot Babyy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
           "genres": [],
@@ -2030,7 +2038,7 @@
           "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Teejayx6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb911f261f462b63bf08f6f40b",
           "genres": [],
@@ -2038,20 +2046,12 @@
           "url": "https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Rihanna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "genres": [],
           "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "rank": 50,
-          "name": "Punkinloveee",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb61d746ebd85c2c4881665886",
-          "genres": [],
-          "uri": "spotify:artist:6CrThJMQVJfWaHeliiLHuw",
-          "url": "https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw"
         }
       ]
     },
