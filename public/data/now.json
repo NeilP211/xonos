@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-07T22:02:31.583Z",
-  "is_playing": true,
+  "updated_at": "2026-06-08T03:52:33.414Z",
+  "is_playing": false,
   "track": {
-    "name": "Slow Down",
+    "name": "Die Young - Slowed",
     "artists": [
-      "Selena Gomez"
+      "Lil Texas"
     ],
-    "album": "Stars Dance (Bonus Track Version)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604",
-    "uri": "spotify:track:2OsEJFTfzfjG4oC92cuP2c"
+    "album": "Die Young",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730da0442dfbc8251fafeb1031",
+    "uri": "spotify:track:7AUpTOHTBAyg68d7pXorga"
   },
-  "played_at": "2026-06-07T22:02:31.583Z"
+  "played_at": "2026-06-08T01:41:27.928Z"
 }
