@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T22:25:28.495Z",
+  "updated_at": "2026-06-09T02:56:36.915Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2398,6 +2398,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273011db37257b8c4f54fee7f14",
       "uri": "spotify:track:6iT1qfwMYjd4gpUw8jBWca",
       "duration_ms": 174500
+    },
+    {
+      "played_at": "2026-06-08T18:48:31.378Z",
+      "name": "я не счастлив - Super Slowed",
+      "artists": [
+        "STAKILLAZ"
+      ],
+      "album": "я не счастлив",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8d35c0f7e4f82953ecbb834",
+      "uri": "spotify:track:0WFm91xboijAqLzd6KHrxt",
+      "duration_ms": 130909
     }
   ]
 }
