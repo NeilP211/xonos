@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T09:56:49.231Z",
+  "updated_at": "2026-06-10T15:31:36.982Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2659,6 +2659,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aa6153b9f13d61635e1bcc17",
       "uri": "spotify:track:4mkMj5SPMC112y5TvqNee6",
       "duration_ms": 192055
+    },
+    {
+      "played_at": "2026-06-10T02:23:23.680Z",
+      "name": "Just The Way You Are",
+      "artists": [
+        "Milky",
+        "Mall Grab"
+      ],
+      "album": "Just The Way You Are",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+      "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+      "duration_ms": 159500
+    },
+    {
+      "played_at": "2026-06-10T12:42:59.967Z",
+      "name": "Goliath",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Incurable",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
+      "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8",
+      "duration_ms": 39000
+    },
+    {
+      "played_at": "2026-06-10T12:47:09.555Z",
+      "name": "Picture To Burn",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
+      "duration_ms": 173066
+    },
+    {
+      "played_at": "2026-06-10T12:50:47.183Z",
+      "name": "Better Than Revenge",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Speak Now (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e4ec3175d848eca7b76b07f",
+      "uri": "spotify:track:1By2VQkUN0Frd8mKNV5NYC",
+      "duration_ms": 217160
+    },
+    {
+      "played_at": "2026-06-10T12:54:46.807Z",
+      "name": "Baddi Doub",
+      "artists": [
+        "Elissa"
+      ],
+      "album": "Baddi Doub",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
+      "duration_ms": 239098
+    },
+    {
+      "played_at": "2026-06-10T13:01:53.555Z",
+      "name": "Dreams pt. II",
+      "artists": [
+        "Lost Sky",
+        "Sara Skinner"
+      ],
+      "album": "Dreams pt. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
+      "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
+      "duration_ms": 215196
     }
   ]
 }

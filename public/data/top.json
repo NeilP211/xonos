@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:56:49.174Z",
+  "generated_at": "2026-06-10T15:31:36.721Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -492,6 +492,19 @@
         },
         {
           "rank": 40,
+          "name": "Just The Way You Are",
+          "artists": [
+            "Milky",
+            "Mall Grab"
+          ],
+          "album": "Just The Way You Are",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+          "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+          "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt",
+          "duration_ms": 159500
+        },
+        {
+          "rank": 41,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -503,7 +516,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -516,7 +529,7 @@
           "duration_ms": 208561
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -531,7 +544,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Show Them All",
           "artists": [
             "La Capella"
@@ -543,7 +556,7 @@
           "duration_ms": 170808
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Faded",
           "artists": [
             "Alan Walker"
@@ -555,7 +568,7 @@
           "duration_ms": 212106
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -567,7 +580,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -579,7 +592,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Style",
           "artists": [
             "Taylor Swift"
@@ -591,7 +604,7 @@
           "duration_ms": 231000
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Love Story",
           "artists": [
             "Taylor Swift"
@@ -603,7 +616,7 @@
           "duration_ms": 236266
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -613,18 +626,6 @@
           "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
           "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
           "duration_ms": 112733
-        },
-        {
-          "rank": 50,
-          "name": "Princess",
-          "artists": [
-            "Drake"
-          ],
-          "album": "MAID OF HONOUR",
-          "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
-          "uri": "spotify:track:2OrkG4TIWdm5ZhBwpbr3o0",
-          "url": "https://open.spotify.com/track/2OrkG4TIWdm5ZhBwpbr3o0",
-          "duration_ms": 193748
         }
       ],
       "artists": [
@@ -670,6 +671,14 @@
         },
         {
           "rank": 6,
+          "name": "Taylor Swift",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
+          "genres": [],
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 7,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
@@ -677,20 +686,12 @@
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
           "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "rank": 8,
-          "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
-          "genres": [],
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
           "rank": 9,
