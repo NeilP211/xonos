@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T03:49:40.872Z",
+  "generated_at": "2026-06-11T10:21:23.161Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1801,6 +1801,14 @@
         },
         {
           "rank": 19,
+          "name": "Dialryckx",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb057ee4b73d1af9b93b056f42",
+          "genres": [],
+          "uri": "spotify:artist:4W3bnVqrz7RloZV8BRf34o",
+          "url": "https://open.spotify.com/artist/4W3bnVqrz7RloZV8BRf34o"
+        },
+        {
+          "rank": 20,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -1808,7 +1816,7 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "La Capella",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
           "genres": [],
@@ -1816,20 +1824,12 @@
           "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
           "genres": [],
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "rank": 22,
-          "name": "Dialryckx",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb057ee4b73d1af9b93b056f42",
-          "genres": [],
-          "uri": "spotify:artist:4W3bnVqrz7RloZV8BRf34o",
-          "url": "https://open.spotify.com/artist/4W3bnVqrz7RloZV8BRf34o"
         },
         {
           "rank": 23,
