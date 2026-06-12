@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T03:46:45.488Z",
+  "generated_at": "2026-06-12T10:09:44.656Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1642,15 +1642,17 @@
         },
         {
           "rank": 50,
-          "name": "دبكات زمر",
+          "name": "On & On",
           "artists": [
-            "احمد ابراهيم"
+            "Cartoon",
+            "Jéja",
+            "Daniel Levi"
           ],
-          "album": "دبكات زمر",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5bc962a31ef4f1e2239c257",
-          "uri": "spotify:track:1ptYB0Rr7YzvwFGCyPVybo",
-          "url": "https://open.spotify.com/track/1ptYB0Rr7YzvwFGCyPVybo",
-          "duration_ms": 167590
+          "album": "On & On",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cddf36938e728faddac61d96",
+          "uri": "spotify:track:4uukXoeAUxow3aV9kVkcjY",
+          "url": "https://open.spotify.com/track/4uukXoeAUxow3aV9kVkcjY",
+          "duration_ms": 207068
         }
       ],
       "artists": [
@@ -1760,6 +1762,14 @@
         },
         {
           "rank": 14,
+          "name": "Taylor Swift",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
+          "genres": [],
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 15,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -1767,20 +1777,12 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
           "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
-        },
-        {
-          "rank": 16,
-          "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
-          "genres": [],
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
           "rank": 17,
