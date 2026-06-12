@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T22:49:35.716Z",
+  "updated_at": "2026-06-12T03:46:45.676Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -3795,6 +3795,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732b03e00560f0633d6eb799b6",
       "uri": "spotify:track:58wBgNTdMSQm1gt3qIHAzw",
       "duration_ms": 201739
+    },
+    {
+      "played_at": "2026-06-11T23:43:32.487Z",
+      "name": "My Heart",
+      "artists": [
+        "Different Heaven",
+        "EH!DE"
+      ],
+      "album": "My Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e3967f347f104bf20d2072d",
+      "uri": "spotify:track:1jGBudElZDBzzu6QgFHHnm",
+      "duration_ms": 267102
+    },
+    {
+      "played_at": "2026-06-12T00:12:28.316Z",
+      "name": "Picture To Burn",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
+      "duration_ms": 173066
+    },
+    {
+      "played_at": "2026-06-12T00:38:29.428Z",
+      "name": "To Carry the Load",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Odd Fellows Rest",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+      "uri": "spotify:track:5vU2ducXIVXb5vcCgcsGfo",
+      "duration_ms": 239960
+    },
+    {
+      "played_at": "2026-06-12T01:09:18.211Z",
+      "name": "Sweet Nothing (feat. Florence Welch)",
+      "artists": [
+        "Calvin Harris",
+        "Florence Welch"
+      ],
+      "album": "18 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+      "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5",
+      "duration_ms": 212560
+    },
+    {
+      "played_at": "2026-06-12T01:44:43.734Z",
+      "name": "First Light",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "First Light",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e10f7f024b9819062876dbd8",
+      "uri": "spotify:track:2vd3HbaEqhEJpvVNHEago8",
+      "duration_ms": 204233
     }
   ]
 }
