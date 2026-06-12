@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T14:55:40.214Z",
+  "updated_at": "2026-06-12T17:37:22.151Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -3852,6 +3852,107 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e10f7f024b9819062876dbd8",
       "uri": "spotify:track:2vd3HbaEqhEJpvVNHEago8",
       "duration_ms": 204233
+    },
+    {
+      "played_at": "2026-06-12T15:04:51.890Z",
+      "name": "good 4 u",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "SOUR",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+      "uri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG",
+      "duration_ms": 178146
+    },
+    {
+      "played_at": "2026-06-12T15:07:45.426Z",
+      "name": "Picture To Burn",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
+      "duration_ms": 173066
+    },
+    {
+      "played_at": "2026-06-12T15:11:07.003Z",
+      "name": "Our Song",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374e5b00878adddd24c9ab44d",
+      "uri": "spotify:track:1auFjTunCeF0jbFhCx9WSZ",
+      "duration_ms": 201106
+    },
+    {
+      "played_at": "2026-06-12T15:39:26.716Z",
+      "name": "us. (feat. Taylor Swift)",
+      "artists": [
+        "Gracie Abrams",
+        "Taylor Swift"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:0hhzNPE68LWLfgZwdpxVdR",
+      "duration_ms": 242666
+    },
+    {
+      "played_at": "2026-06-12T15:39:31.222Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "the cure",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
+      "uri": "spotify:track:4EoJ151oQ5jY48z4RhSE96",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-12T15:43:36.950Z",
+      "name": "A Desert Rose - Radio Edit",
+      "artists": [
+        "Radion6",
+        "Sarah Lynn"
+      ],
+      "album": "Vocal Trance Selections",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
+      "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
+      "duration_ms": 201176
+    },
+    {
+      "played_at": "2026-06-12T15:46:30.463Z",
+      "name": "Picture To Burn",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
+      "duration_ms": 173066
+    },
+    {
+      "played_at": "2026-06-12T15:49:41.239Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-12T16:14:10.254Z",
+      "name": "Tennessee Whiskey",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Traveller",
+      "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
+      "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
+      "duration_ms": 293293
     }
   ]
 }
