@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-12T20:08:52.800Z",
-  "is_playing": false,
+  "updated_at": "2026-06-12T22:23:46.488Z",
+  "is_playing": true,
   "track": {
-    "name": "Goliath",
+    "name": "GUTS RAGE x HARDSTYLE",
     "artists": [
-      "Dialryckx"
+      "MyMotivation"
     ],
-    "album": "Incurable",
-    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
-    "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8"
+    "album": "GUTS RAGE x HARDSTYLE",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+    "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP"
   },
-  "played_at": "2026-06-12T19:19:23.574Z"
+  "played_at": "2026-06-12T22:23:46.488Z"
 }

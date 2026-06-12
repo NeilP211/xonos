@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T20:08:52.712Z",
+  "updated_at": "2026-06-12T22:23:46.369Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -3975,6 +3975,123 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
       "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8",
       "duration_ms": 39000
+    },
+    {
+      "played_at": "2026-06-12T19:20:04.408Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-12T20:51:49.759Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-12T21:35:01.039Z",
+      "name": "glamur) (super slowed)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+      "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+      "duration_ms": 129285
+    },
+    {
+      "played_at": "2026-06-12T21:37:17.360Z",
+      "name": "тело - Super Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "тело",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+      "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
+      "duration_ms": 136062
+    },
+    {
+      "played_at": "2026-06-12T21:51:38.267Z",
+      "name": "MXRDER IN SHADOWMOOR - Slowed",
+      "artists": [
+        "XTFO"
+      ],
+      "album": "MXRDER IN SHADOWMOOR",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311eb53da9bbd5c76954cf83f",
+      "uri": "spotify:track:6gj0lPTMubvYlsr7aqLp2Z",
+      "duration_ms": 102857
+    },
+    {
+      "played_at": "2026-06-12T21:54:16.449Z",
+      "name": "SPLITTER - Slowed",
+      "artists": [
+        "VILLAIN ARC",
+        "4WIZZ",
+        "Ym1kh"
+      ],
+      "album": "SPLITTER",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738936669d6e6292b94c6d41fa",
+      "uri": "spotify:track:1izXli6WZtfgAXNfub2Ebz",
+      "duration_ms": 157714
+    },
+    {
+      "played_at": "2026-06-12T21:57:51.329Z",
+      "name": "UPAST - Ultra Slowed",
+      "artists": [
+        "HELLBLADE",
+        "Asphiphilia"
+      ],
+      "album": "UPAST",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
+      "uri": "spotify:track:6bAkczPrbvxHDxAnsAs0Pv",
+      "duration_ms": 108165
+    },
+    {
+      "played_at": "2026-06-12T22:01:30.894Z",
+      "name": "pentakill",
+      "artists": [
+        "Yug3n",
+        "uzumxki",
+        "C4t4t"
+      ],
+      "album": "pentakill",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320142bf2836ff7b042728c9b",
+      "uri": "spotify:track:5PniOCUqzxWhB1NDRqXGUq",
+      "duration_ms": 154984
+    },
+    {
+      "played_at": "2026-06-12T22:11:00.697Z",
+      "name": "TOKYO LIFT",
+      "artists": [
+        "Maul"
+      ],
+      "album": "TOKYO LIFT",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fecd990fe1fc3724e4d69f8a",
+      "uri": "spotify:track:5cyPc3NyyCy7OcnNLze1pc",
+      "duration_ms": 100570
+    },
+    {
+      "played_at": "2026-06-12T22:21:55.669Z",
+      "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
+      "artists": [
+        "DJ XFOCOS",
+        "DJ ZXN DA 077",
+        "DJ LKS DA ZS"
+      ],
+      "album": "FUNK DO MALAME AMARELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732c887d470360bda258ee19c0",
+      "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
+      "duration_ms": 115296
     }
   ]
 }

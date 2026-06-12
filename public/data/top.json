@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T20:08:52.328Z",
+  "generated_at": "2026-06-12T22:23:46.148Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -177,18 +177,6 @@
         },
         {
           "rank": 15,
-          "name": "I Don't Care",
-          "artists": [
-            "Jesp7Tearz"
-          ],
-          "album": "I Don't Care",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732ec354ce1466cc7c6155a34e",
-          "uri": "spotify:track:4rXOOxs2nxHqQGnVPvR6m6",
-          "url": "https://open.spotify.com/track/4rXOOxs2nxHqQGnVPvR6m6",
-          "duration_ms": 156300
-        },
-        {
-          "rank": 16,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -200,7 +188,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Goliath",
           "artists": [
             "Dialryckx"
@@ -212,7 +200,7 @@
           "duration_ms": 39000
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -224,7 +212,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Free Your Mind",
           "artists": [
             "Prospa",
@@ -237,7 +225,7 @@
           "duration_ms": 201700
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "ur not - diff ver",
           "artists": [
             "idully"
@@ -249,7 +237,7 @@
           "duration_ms": 88842
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "الوتر الحساس",
           "artists": [
             "Sherine"
@@ -261,7 +249,7 @@
           "duration_ms": 261224
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -274,7 +262,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -287,7 +275,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Отпусти меня",
           "artists": [
             "SEREBRO"
@@ -299,7 +287,7 @@
           "duration_ms": 232855
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Fade - Grant Nelson Big Room Remix",
           "artists": [
             "Solu Music",
@@ -310,6 +298,18 @@
           "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
           "url": "https://open.spotify.com/track/58XZDglLRsZClpg19mmqjz",
           "duration_ms": 175840
+        },
+        {
+          "rank": 25,
+          "name": "I Don't Care",
+          "artists": [
+            "Jesp7Tearz"
+          ],
+          "album": "I Don't Care",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732ec354ce1466cc7c6155a34e",
+          "uri": "spotify:track:4rXOOxs2nxHqQGnVPvR6m6",
+          "url": "https://open.spotify.com/track/4rXOOxs2nxHqQGnVPvR6m6",
+          "duration_ms": 156300
         },
         {
           "rank": 26,
@@ -400,18 +400,6 @@
         },
         {
           "rank": 33,
-          "name": "Sequência dos Bailes Funk",
-          "artists": [
-            "DJ VM 22"
-          ],
-          "album": "Sequência dos Bailes Funk",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731499dda844cc756008289528",
-          "uri": "spotify:track:2KMMJeyxKaVNqJvPooUKHT",
-          "url": "https://open.spotify.com/track/2KMMJeyxKaVNqJvPooUKHT",
-          "duration_ms": 132167
-        },
-        {
-          "rank": 34,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -424,7 +412,33 @@
           "duration_ms": 208561
         },
         {
+          "rank": 34,
+          "name": "Shelter Me",
+          "artists": [
+            "Dart Rayne",
+            "Yura Moonlight",
+            "Cate Kanell"
+          ],
+          "album": "Shelter Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
+          "duration_ms": 236375
+        },
+        {
           "rank": 35,
+          "name": "GUTS RAGE x HARDSTYLE",
+          "artists": [
+            "MyMotivation"
+          ],
+          "album": "GUTS RAGE x HARDSTYLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+          "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
+          "url": "https://open.spotify.com/track/3YPfO65kiw8oCq5vSSKFyP",
+          "duration_ms": 153200
+        },
+        {
+          "rank": 36,
           "name": "dare",
           "artists": [
             "ksuuvi"
@@ -436,7 +450,7 @@
           "duration_ms": 100205
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -451,7 +465,19 @@
           "duration_ms": 113963
         },
         {
-          "rank": 37,
+          "rank": 38,
+          "name": "Sequência dos Bailes Funk",
+          "artists": [
+            "DJ VM 22"
+          ],
+          "album": "Sequência dos Bailes Funk",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731499dda844cc756008289528",
+          "uri": "spotify:track:2KMMJeyxKaVNqJvPooUKHT",
+          "url": "https://open.spotify.com/track/2KMMJeyxKaVNqJvPooUKHT",
+          "duration_ms": 132167
+        },
+        {
+          "rank": 39,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -465,7 +491,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Taca Xe - Super Slowed",
           "artists": [
             "DJ TLS DA ZL"
@@ -477,7 +503,7 @@
           "duration_ms": 106678
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Picture To Burn",
           "artists": [
             "Taylor Swift"
@@ -489,7 +515,7 @@
           "duration_ms": 173066
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "WDYM",
           "artists": [
             "revided"
@@ -501,21 +527,7 @@
           "duration_ms": 135262
         },
         {
-          "rank": 41,
-          "name": "Shelter Me",
-          "artists": [
-            "Dart Rayne",
-            "Yura Moonlight",
-            "Cate Kanell"
-          ],
-          "album": "Shelter Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
-          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
-          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
-          "duration_ms": 236375
-        },
-        {
-          "rank": 42,
+          "rank": 43,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -527,7 +539,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -542,7 +554,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -554,7 +566,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Just The Way You Are",
           "artists": [
             "Milky",
@@ -567,7 +579,7 @@
           "duration_ms": 159500
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -579,7 +591,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -589,21 +601,6 @@
           "uri": "spotify:track:2GqBq8QRU8VBcQrUxZGKBm",
           "url": "https://open.spotify.com/track/2GqBq8QRU8VBcQrUxZGKBm",
           "duration_ms": 68092
-        },
-        {
-          "rank": 48,
-          "name": "Ele Te Bota Soca Soca",
-          "artists": [
-            "MC Mazzie",
-            "Mc Rd",
-            "DJ NpcSize",
-            "DJ Wizard"
-          ],
-          "album": "Ele Te Bota Soca Soca",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eda5028e9616b3f8f5a612ae",
-          "uri": "spotify:track:30096a5EMOSaF9c2aSa4TH",
-          "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH",
-          "duration_ms": 180927
         },
         {
           "rank": 49,
