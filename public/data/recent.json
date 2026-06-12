@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T17:37:22.151Z",
+  "updated_at": "2026-06-12T20:08:52.712Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -3953,6 +3953,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
       "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
       "duration_ms": 293293
+    },
+    {
+      "played_at": "2026-06-12T19:19:17.995Z",
+      "name": "You Should Probably Leave",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739408342067e2ff50d69a3c98",
+      "uri": "spotify:track:2UikqkwBv7aIvlixeVXHWt",
+      "duration_ms": 213493
+    },
+    {
+      "played_at": "2026-06-12T19:19:23.574Z",
+      "name": "Goliath",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Incurable",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
+      "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8",
+      "duration_ms": 39000
     }
   ]
 }
