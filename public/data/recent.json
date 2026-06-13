@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T11:15:19.433Z",
+  "updated_at": "2026-06-13T13:56:20.450Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -4203,6 +4203,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
       "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
       "duration_ms": 127058
+    },
+    {
+      "played_at": "2026-06-13T12:31:33.666Z",
+      "name": "Hot N*gga",
+      "artists": [
+        "Bobby Shmurda"
+      ],
+      "album": "Hot N*gga",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d52e14e0595216ca453572ab",
+      "uri": "spotify:track:19gEmPjfqSZT0ulDRfjl0m",
+      "duration_ms": 194561
+    },
+    {
+      "played_at": "2026-06-13T12:32:38.766Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
     }
   ]
 }
