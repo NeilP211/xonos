@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T22:23:46.369Z",
+  "updated_at": "2026-06-13T03:33:55.433Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -4092,6 +4092,117 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732c887d470360bda258ee19c0",
       "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
       "duration_ms": 115296
+    },
+    {
+      "played_at": "2026-06-12T22:24:29.236Z",
+      "name": "GUTS RAGE x HARDSTYLE",
+      "artists": [
+        "MyMotivation"
+      ],
+      "album": "GUTS RAGE x HARDSTYLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+      "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
+      "duration_ms": 153200
+    },
+    {
+      "played_at": "2026-06-12T22:42:49.937Z",
+      "name": "My Ninja Way (Hardstyle)",
+      "artists": [
+        "Felax"
+      ],
+      "album": "My Ninja Way",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bcba3cd35420a60c07585d80",
+      "uri": "spotify:track:2meAJdZRzvLyAJGW3ykCLY",
+      "duration_ms": 113169
+    },
+    {
+      "played_at": "2026-06-12T22:49:25.950Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-12T22:52:45.007Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:0gZGUAO42F1HmzZWHNPGAu",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-06-12T22:55:22.590Z",
+      "name": "I Love You, I'm Sorry",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "duration_ms": 157146
+    },
+    {
+      "played_at": "2026-06-12T22:58:09.343Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-12T23:00:06.509Z",
+      "name": "Tough Love",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+      "uri": "spotify:track:6WEXy56jM0Nl3bZHY9l7aH",
+      "duration_ms": 169146
+    },
+    {
+      "played_at": "2026-06-13T00:35:40.391Z",
+      "name": "Goliath",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Incurable",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
+      "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8",
+      "duration_ms": 39000
+    },
+    {
+      "played_at": "2026-06-13T00:40:11.437Z",
+      "name": "It's Everyday Bro",
+      "artists": [
+        "Jake Paul",
+        "Team 10"
+      ],
+      "album": "It's Everyday Bro",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb08a6b3ee4701755624a6ae",
+      "uri": "spotify:track:4l62h4tiuUwn7eD6hxMlVQ",
+      "duration_ms": 217678
+    },
+    {
+      "played_at": "2026-06-13T00:49:00.026Z",
+      "name": "Frick Da Police",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "Frick Da Police",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
+      "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
+      "duration_ms": 127058
     }
   ]
 }
