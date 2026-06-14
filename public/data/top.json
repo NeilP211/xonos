@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T16:20:10.620Z",
+  "generated_at": "2026-06-14T19:25:03.197Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -361,6 +361,18 @@
         },
         {
           "rank": 30,
+          "name": "Ain't With That (Late Night Callin')",
+          "artists": [
+            "Julian Fijma"
+          ],
+          "album": "Ain't With That (Late Night Callin')",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
+          "duration_ms": 207272
+        },
+        {
+          "rank": 31,
           "name": "Void",
           "artists": [
             "Tevvez"
@@ -372,7 +384,7 @@
           "duration_ms": 209040
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "trappin em math",
           "artists": [
             "Robin Gan"
@@ -384,7 +396,19 @@
           "duration_ms": 61853
         },
         {
-          "rank": 32,
+          "rank": 33,
+          "name": "الوتر الحساس",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "نساى",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
+          "duration_ms": 261224
+        },
+        {
+          "rank": 34,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -397,7 +421,7 @@
           "duration_ms": 208561
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -411,7 +435,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -426,7 +450,7 @@
           "duration_ms": 113963
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "World, Hold On - FISHER Rework",
           "artists": [
             "Bob Sinclar",
@@ -440,7 +464,7 @@
           "duration_ms": 178304
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Sequência dos Bailes Funk",
           "artists": [
             "DJ VM 22"
@@ -452,7 +476,7 @@
           "duration_ms": 132167
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -466,7 +490,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Taca Xe - Super Slowed",
           "artists": [
             "DJ TLS DA ZL"
@@ -478,7 +502,19 @@
           "duration_ms": 106678
         },
         {
-          "rank": 39,
+          "rank": 41,
+          "name": "Team",
+          "artists": [
+            "Lorde"
+          ],
+          "album": "Pure Heroine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
+          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
+          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
+          "duration_ms": 193058
+        },
+        {
+          "rank": 42,
           "name": "WDYM",
           "artists": [
             "revided"
@@ -490,20 +526,7 @@
           "duration_ms": 135262
         },
         {
-          "rank": 40,
-          "name": "Fade - Grant Nelson Big Room Remix",
-          "artists": [
-            "Solu Music",
-            "KimBlee"
-          ],
-          "album": "Fade",
-          "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-          "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
-          "url": "https://open.spotify.com/track/58XZDglLRsZClpg19mmqjz",
-          "duration_ms": 175840
-        },
-        {
-          "rank": 41,
+          "rank": 43,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -515,7 +538,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -530,7 +553,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -542,7 +565,19 @@
           "duration_ms": 208620
         },
         {
-          "rank": 44,
+          "rank": 46,
+          "name": "Tennis Court",
+          "artists": [
+            "Lorde"
+          ],
+          "album": "Pure Heroine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
+          "uri": "spotify:track:6pb4C9VZ5Yb1DHx5S4Zn88",
+          "url": "https://open.spotify.com/track/6pb4C9VZ5Yb1DHx5S4Zn88",
+          "duration_ms": 198907
+        },
+        {
+          "rank": 47,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -554,7 +589,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Just The Way You Are",
           "artists": [
             "Milky",
@@ -567,7 +602,7 @@
           "duration_ms": 159500
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -579,7 +614,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "Avoir",
           "artists": [
             "Dialryckx"
@@ -589,42 +624,6 @@
           "uri": "spotify:track:67zokYkJPEN0mUXUZHArU8",
           "url": "https://open.spotify.com/track/67zokYkJPEN0mUXUZHArU8",
           "duration_ms": 94227
-        },
-        {
-          "rank": 48,
-          "name": "Faded",
-          "artists": [
-            "Alan Walker"
-          ],
-          "album": "Different World",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
-          "uri": "spotify:track:698ItKASDavgwZ3WjaWjtz",
-          "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz",
-          "duration_ms": 212106
-        },
-        {
-          "rank": 49,
-          "name": "Ain't With That (Late Night Callin')",
-          "artists": [
-            "Julian Fijma"
-          ],
-          "album": "Ain't With That (Late Night Callin')",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
-          "duration_ms": 207272
-        },
-        {
-          "rank": 50,
-          "name": "Playing Dangerous",
-          "artists": [
-            "ceZk"
-          ],
-          "album": "Playing Dangerous",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b4a5fdde79b5f3cc0c1f463",
-          "uri": "spotify:track:26pSRRS2RrBWE9UWklSAAb",
-          "url": "https://open.spotify.com/track/26pSRRS2RrBWE9UWklSAAb",
-          "duration_ms": 207124
         }
       ],
       "artists": [
@@ -718,6 +717,14 @@
         },
         {
           "rank": 12,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 13,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -725,20 +732,12 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
           "genres": [],
           "uri": "spotify:artist:2Wk167T0fY1fABsHM5qFcI",
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        },
-        {
-          "rank": 14,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 15,
@@ -894,6 +893,14 @@
         },
         {
           "rank": 34,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 35,
           "name": "Obskür",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
           "genres": [],
@@ -901,7 +908,7 @@
           "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab6761610000e5eb235f4cc5e342ec8ff002ea74",
           "genres": [],
@@ -909,7 +916,7 @@
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Cartoon",
           "image": "https://i.scdn.co/image/ab6761610000e5ebedae9400f938bd85f5c08cb7",
           "genres": [],
@@ -917,7 +924,7 @@
           "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
@@ -925,7 +932,7 @@
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "VØJ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb560279a9a9ca93d0873677fe",
           "genres": [],
@@ -933,7 +940,7 @@
           "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "emoslut666",
           "image": "https://i.scdn.co/image/ab67616d0000b273a4ca7107da24cc140e527194",
           "genres": [],
@@ -941,7 +948,7 @@
           "url": "https://open.spotify.com/artist/4UYmYu83rr6K8XKURSLeYn"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Lamis Kan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8c376f8575e923a875095143",
           "genres": [],
@@ -949,7 +956,7 @@
           "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Josh Baker",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe5cc0458e5c13ef8ab6c2441",
           "genres": [],
@@ -957,7 +964,7 @@
           "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "DJ ZRED DA DZ7",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1d59318b906debbba83cf1e1",
           "genres": [],
@@ -965,7 +972,7 @@
           "url": "https://open.spotify.com/artist/2OROoLDJ1AgO6H0lNxI931"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7d840dfd8e04ed802d1587c",
           "genres": [],
@@ -973,7 +980,7 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
@@ -981,7 +988,7 @@
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
           "genres": [],
@@ -989,7 +996,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Kyle Richh",
           "image": "https://i.scdn.co/image/ab6761610000e5eb266423de5bf188f7d21a9589",
           "genres": [],
@@ -997,7 +1004,7 @@
           "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Swedish House Mafia",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9614fcf985ad6fc5b4a7c3de",
           "genres": [],
@@ -1005,7 +1012,7 @@
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "ian",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
           "genres": [],
@@ -1013,20 +1020,12 @@
           "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "La Capella",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
           "genres": [],
           "uri": "spotify:artist:4mP87yxki6BtYCjIMwOJsg",
           "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
-        },
-        {
-          "rank": 50,
-          "name": "0to8",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebde5cf19be07f368f4531ba22",
-          "genres": [],
-          "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g",
-          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
         }
       ]
     },
