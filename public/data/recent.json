@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T22:02:42.564Z",
+  "updated_at": "2026-06-14T03:55:20.635Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -4610,6 +4610,118 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
       "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF",
       "duration_ms": 246141
+    },
+    {
+      "played_at": "2026-06-13T18:16:28.617Z",
+      "name": "Enchanted (Taylor's Version)",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Speak Now (Taylor's Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+      "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h",
+      "duration_ms": 353253
+    },
+    {
+      "played_at": "2026-06-13T23:47:19.055Z",
+      "name": "Ain't With That (Late Night Callin')",
+      "artists": [
+        "Julian Fijma"
+      ],
+      "album": "Ain't With That (Late Night Callin')",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+      "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+      "duration_ms": 207272
+    },
+    {
+      "played_at": "2026-06-13T23:52:34.578Z",
+      "name": "Givin' It All",
+      "artists": [
+        "Player"
+      ],
+      "album": "A Room With A View",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fedc2dc8af1a2677877188e1",
+      "uri": "spotify:track:5uiv9G0E0OdL4ncMEWBuQ9",
+      "duration_ms": 257933
+    },
+    {
+      "played_at": "2026-06-14T01:21:40.737Z",
+      "name": "Baddi Doub",
+      "artists": [
+        "Elissa"
+      ],
+      "album": "Baddi Doub",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
+      "duration_ms": 239098
+    },
+    {
+      "played_at": "2026-06-14T02:50:11.472Z",
+      "name": "Ain't With That (Late Night Callin')",
+      "artists": [
+        "Julian Fijma"
+      ],
+      "album": "Ain't With That (Late Night Callin')",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+      "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+      "duration_ms": 207272
+    },
+    {
+      "played_at": "2026-06-14T02:53:56.315Z",
+      "name": "Radio",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:4PMdq7Q7xOFrY424ZelZEb",
+      "duration_ms": 214573
+    },
+    {
+      "played_at": "2026-06-14T02:58:28.990Z",
+      "name": "Slow Dance",
+      "artists": [
+        "Clairo"
+      ],
+      "album": "Charm",
+      "image": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
+      "uri": "spotify:track:2qmmnbJ9JR3f7vofbyje5r",
+      "duration_ms": 234853
+    },
+    {
+      "played_at": "2026-06-14T03:04:05.987Z",
+      "name": "Trick",
+      "artists": [
+        "41",
+        "Kyle Richh"
+      ],
+      "album": "Trick",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e37d6898469073dae6552c",
+      "uri": "spotify:track:4Inza1lYiwj1XWGaEoY3B5",
+      "duration_ms": 122841
+    },
+    {
+      "played_at": "2026-06-14T03:06:51.068Z",
+      "name": "D & D",
+      "artists": [
+        "Sha EK",
+        "Blockwork"
+      ],
+      "album": "Face of the What",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300aea0ac85a0a357f35eb7a5",
+      "uri": "spotify:track:7AdjRlT0VcDHyvCH88HjSV",
+      "duration_ms": 157738
+    },
+    {
+      "played_at": "2026-06-14T03:51:07.519Z",
+      "name": "Art Deco",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
+      "duration_ms": 295066
     }
   ]
 }

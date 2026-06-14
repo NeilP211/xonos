@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T22:02:42.505Z",
+  "generated_at": "2026-06-14T03:55:20.468Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -102,18 +102,6 @@
         },
         {
           "rank": 9,
-          "name": "GoOd Night",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "GoOd Night",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
-          "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
-          "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
-          "duration_ms": 109244
-        },
-        {
-          "rank": 10,
           "name": "i aint start making money till i started doing drugs",
           "artists": [
             "bleood"
@@ -123,6 +111,18 @@
           "uri": "spotify:track:5muSF5AFF7lTr1omCItecA",
           "url": "https://open.spotify.com/track/5muSF5AFF7lTr1omCItecA",
           "duration_ms": 107110
+        },
+        {
+          "rank": 10,
+          "name": "GoOd Night",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "GoOd Night",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
+          "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
+          "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
+          "duration_ms": 109244
         },
         {
           "rank": 11,
@@ -439,18 +439,6 @@
         },
         {
           "rank": 36,
-          "name": "dare",
-          "artists": [
-            "ksuuvi"
-          ],
-          "album": "twenty...",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8c4796decc344f3f56d37a8",
-          "uri": "spotify:track:3YSHIHcEUFvszSdXCI97LC",
-          "url": "https://open.spotify.com/track/3YSHIHcEUFvszSdXCI97LC",
-          "duration_ms": 100205
-        },
-        {
-          "rank": 37,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -465,7 +453,7 @@
           "duration_ms": 113963
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Sequência dos Bailes Funk",
           "artists": [
             "DJ VM 22"
@@ -477,7 +465,7 @@
           "duration_ms": 132167
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -491,7 +479,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Taca Xe - Super Slowed",
           "artists": [
             "DJ TLS DA ZL"
@@ -503,7 +491,7 @@
           "duration_ms": 106678
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "WDYM",
           "artists": [
             "revided"
@@ -515,19 +503,7 @@
           "duration_ms": 135262
         },
         {
-          "rank": 42,
-          "name": "jaded",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "with 2 (hosted by d9lton)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-          "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
-          "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
-          "duration_ms": 112733
-        },
-        {
-          "rank": 43,
+          "rank": 41,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -539,7 +515,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -554,7 +530,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -566,7 +542,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -578,7 +554,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Just The Way You Are",
           "artists": [
             "Milky",
@@ -591,7 +567,7 @@
           "duration_ms": 159500
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -603,7 +579,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Avoir",
           "artists": [
             "Dialryckx"
@@ -615,7 +591,7 @@
           "duration_ms": 94227
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Faded",
           "artists": [
             "Alan Walker"
@@ -625,6 +601,30 @@
           "uri": "spotify:track:698ItKASDavgwZ3WjaWjtz",
           "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz",
           "duration_ms": 212106
+        },
+        {
+          "rank": 49,
+          "name": "Yooo",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "Yooo",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
+          "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
+          "url": "https://open.spotify.com/track/56wX6aQnbsW96GUMTAQX6i",
+          "duration_ms": 77135
+        },
+        {
+          "rank": 50,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
         }
       ],
       "artists": [
@@ -718,14 +718,6 @@
         },
         {
           "rank": 12,
-          "name": "Sherine",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
-          "genres": [],
-          "uri": "spotify:artist:2Wk167T0fY1fABsHM5qFcI",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        },
-        {
-          "rank": 13,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -733,12 +725,20 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 14,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+          "rank": 13,
+          "name": "Sherine",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
           "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "uri": "spotify:artist:2Wk167T0fY1fABsHM5qFcI",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        },
+        {
+          "rank": 14,
+          "name": "boolymon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
+          "genres": [],
+          "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
+          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
           "rank": 15,
@@ -750,22 +750,14 @@
         },
         {
           "rank": 16,
-          "name": "boolymon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
           "genres": [],
-          "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
-          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 17,
-          "name": "phreshboyswag",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
-          "genres": [],
-          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
-          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
-        },
-        {
-          "rank": 18,
           "name": "idully",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9e2d06fd1b7b922d22169ff1",
           "genres": [],
@@ -773,7 +765,7 @@
           "url": "https://open.spotify.com/artist/0jvOetHbQcolGZtM6YjB2q"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -781,12 +773,20 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
           "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 20,
+          "name": "phreshboyswag",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
+          "genres": [],
+          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
+          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
           "rank": 21,

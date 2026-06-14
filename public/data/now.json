@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T22:02:42.601Z",
-  "is_playing": false,
+  "updated_at": "2026-06-14T03:55:20.773Z",
+  "is_playing": true,
   "track": {
-    "name": "Thought It Was Love",
+    "name": "Born To Die",
     "artists": [
-      "Ty Myers"
+      "Lana Del Rey"
     ],
-    "album": "The Select",
-    "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
-    "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF"
+    "album": "Born To Die - The Paradise Edition",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+    "uri": "spotify:track:487OPlneJNni3NWC8SYqhW"
   },
-  "played_at": "2026-06-13T18:13:20.511Z"
+  "played_at": "2026-06-14T03:55:20.773Z"
 }
