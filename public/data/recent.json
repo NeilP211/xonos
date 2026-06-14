@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T03:55:20.635Z",
+  "updated_at": "2026-06-14T09:31:49.269Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -4722,6 +4722,118 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
       "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
       "duration_ms": 295066
+    },
+    {
+      "played_at": "2026-06-14T03:55:53.376Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-06-14T03:59:28.615Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-06-14T04:04:43.619Z",
+      "name": "Black Beauty",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:63hHlajVLQnlFMAqSyePxO",
+      "duration_ms": 314533
+    },
+    {
+      "played_at": "2026-06-14T04:22:34.709Z",
+      "name": "Playing Dangerous",
+      "artists": [
+        "ceZk"
+      ],
+      "album": "Playing Dangerous",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b4a5fdde79b5f3cc0c1f463",
+      "uri": "spotify:track:26pSRRS2RrBWE9UWklSAAb",
+      "duration_ms": 207124
+    },
+    {
+      "played_at": "2026-06-14T04:49:32.085Z",
+      "name": "Swang",
+      "artists": [
+        "Rae Sremmurd"
+      ],
+      "album": "SremmLife 2 (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+      "uri": "spotify:track:6mapJIPnQ23RTAevUoE0DL",
+      "duration_ms": 208120
+    },
+    {
+      "played_at": "2026-06-14T04:50:24.670Z",
+      "name": "Body Electric",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die – Paradise Edition (Special Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+      "uri": "spotify:track:3mCftPkn17Jyn2j116sWWc",
+      "duration_ms": 233440
+    },
+    {
+      "played_at": "2026-06-14T04:51:15.689Z",
+      "name": "Oblivion",
+      "artists": [
+        "Grimes"
+      ],
+      "album": "Visions",
+      "image": "https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56",
+      "uri": "spotify:track:3LGsgpx4TfxhXbr07OFKqs",
+      "duration_ms": 251266
+    },
+    {
+      "played_at": "2026-06-14T05:12:12.398Z",
+      "name": "Free Your Mind",
+      "artists": [
+        "Prospa",
+        "Cloonee"
+      ],
+      "album": "Free Your Mind",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586475e0e7697109f9c69a49",
+      "uri": "spotify:track:39hHUnYBmyMwprzRaPODCX",
+      "duration_ms": 201700
+    },
+    {
+      "played_at": "2026-06-14T05:19:55.809Z",
+      "name": "Freestyle 2",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
+      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
+      "duration_ms": 138319
+    },
+    {
+      "played_at": "2026-06-14T05:52:04.861Z",
+      "name": "Wild Ones (feat. Sia)",
+      "artists": [
+        "Flo Rida",
+        "Sia"
+      ],
+      "album": "Wild Ones",
+      "image": "https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42",
+      "uri": "spotify:track:1NpW5kyvO4XrNJ3rnfcNy3",
+      "duration_ms": 232946
     }
   ]
 }

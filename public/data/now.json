@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-14T03:55:20.773Z",
-  "is_playing": true,
+  "updated_at": "2026-06-14T09:31:49.304Z",
+  "is_playing": false,
   "track": {
-    "name": "Born To Die",
+    "name": "Wild Ones (feat. Sia)",
     "artists": [
-      "Lana Del Rey"
+      "Flo Rida",
+      "Sia"
     ],
-    "album": "Born To Die - The Paradise Edition",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-    "uri": "spotify:track:487OPlneJNni3NWC8SYqhW"
+    "album": "Wild Ones",
+    "image": "https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42",
+    "uri": "spotify:track:1NpW5kyvO4XrNJ3rnfcNy3"
   },
-  "played_at": "2026-06-14T03:55:20.773Z"
+  "played_at": "2026-06-14T05:52:04.861Z"
 }
