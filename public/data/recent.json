@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:07:38.411Z",
+  "updated_at": "2026-06-15T04:07:21.557Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -5000,6 +5000,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
       "duration_ms": 317760
+    },
+    {
+      "played_at": "2026-06-15T00:48:21.081Z",
+      "name": "Beneficial For AnyBody",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Beneficial For AnyBody",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
+      "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
+      "duration_ms": 178329
+    },
+    {
+      "played_at": "2026-06-15T01:23:09.414Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-15T01:32:20.707Z",
+      "name": "M.... She Wrote",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:1WRzux3cJRM9xRNN99QKgR",
+      "duration_ms": 112000
+    },
+    {
+      "played_at": "2026-06-15T01:36:09.793Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-06-15T01:41:09.361Z",
+      "name": "Sick Love",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "album": "The Getaway",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
+      "uri": "spotify:track:6GsP3uMCd0Dn5T37C93waZ",
+      "duration_ms": 221440
+    },
+    {
+      "played_at": "2026-06-15T01:48:26.638Z",
+      "name": "Sick Love",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "album": "The Getaway",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
+      "uri": "spotify:track:6GsP3uMCd0Dn5T37C93waZ",
+      "duration_ms": 221440
+    },
+    {
+      "played_at": "2026-06-15T01:53:27.370Z",
+      "name": "Elastic Heart",
+      "artists": [
+        "Sia"
+      ],
+      "album": "1000 Forms Of Fear (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34",
+      "uri": "spotify:track:5S9lfZu1YF8xKkgSsqL2Bd",
+      "duration_ms": 257200
     }
   ]
 }
