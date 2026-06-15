@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-15T12:10:00.253Z",
+  "updated_at": "2026-06-15T19:04:05.821Z",
   "is_playing": true,
   "track": {
-    "name": "American",
+    "name": "The Shortest Straw",
     "artists": [
-      "Lana Del Rey"
+      "Metallica"
     ],
-    "album": "Born To Die - The Paradise Edition",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-    "uri": "spotify:track:7wfCiX59FY09gsKKFhYfxp"
+    "album": "...And Justice For All",
+    "image": "https://i.scdn.co/image/ab67616d0000b273db16db05648965be0768aabb",
+    "uri": "spotify:track:3ULvzZ5AGeGfhpcJVM7vT1"
   },
-  "played_at": "2026-06-15T12:10:00.253Z"
+  "played_at": "2026-06-15T19:04:05.821Z"
 }

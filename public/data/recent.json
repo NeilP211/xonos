@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T12:10:00.162Z",
+  "updated_at": "2026-06-15T19:04:05.636Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -5145,6 +5145,413 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
       "duration_ms": 251480
+    },
+    {
+      "played_at": "2026-06-15T12:12:19.935Z",
+      "name": "American",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:7wfCiX59FY09gsKKFhYfxp",
+      "duration_ms": 248907
+    },
+    {
+      "played_at": "2026-06-15T14:43:02.004Z",
+      "name": "Beneficial For AnyBody",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Beneficial For AnyBody",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
+      "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
+      "duration_ms": 178329
+    },
+    {
+      "played_at": "2026-06-15T14:48:06.622Z",
+      "name": "Beneficial For AnyBody",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Beneficial For AnyBody",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
+      "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
+      "duration_ms": 178329
+    },
+    {
+      "played_at": "2026-06-15T14:58:04.339Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-15T15:41:07.755Z",
+      "name": "Shelter Me",
+      "artists": [
+        "Dart Rayne",
+        "Yura Moonlight",
+        "Cate Kanell"
+      ],
+      "album": "Shelter Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+      "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+      "duration_ms": 236375
+    },
+    {
+      "played_at": "2026-06-15T15:52:44.638Z",
+      "name": "Lean On",
+      "artists": [
+        "Major Lazer",
+        "DJ Snake",
+        "MØ",
+        "Diplo"
+      ],
+      "album": "Peace Is The Mission",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6d24aee7b49a2db98a76856",
+      "uri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
+      "duration_ms": 176561
+    },
+    {
+      "played_at": "2026-06-15T15:55:15.130Z",
+      "name": "Megaman",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:6ikgPqC9vhkduTdIpsqYdj",
+      "duration_ms": 133000
+    },
+    {
+      "played_at": "2026-06-15T16:02:22.029Z",
+      "name": "Home Alone",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Dont Get Took Off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
+      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
+      "duration_ms": 183954
+    },
+    {
+      "played_at": "2026-06-15T16:04:52.557Z",
+      "name": "Egyptian Codes",
+      "artists": [
+        "DotComNirvan",
+        "Glokk40Spaz"
+      ],
+      "album": "Egyptian Codes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
+      "duration_ms": 150000
+    },
+    {
+      "played_at": "2026-06-15T16:09:27.378Z",
+      "name": "Thoughts While Incarcerated",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+      "duration_ms": 221387
+    },
+    {
+      "played_at": "2026-06-15T16:13:05.001Z",
+      "name": "Fuck Sum",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Took The Biggest Risk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+      "uri": "spotify:track:23vFAarJZb0hoCfF2uURzp",
+      "duration_ms": 144657
+    },
+    {
+      "played_at": "2026-06-15T16:18:53.009Z",
+      "name": "Cola",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:7lw75abPmYJYU6OOVcERmW",
+      "duration_ms": 260893
+    },
+    {
+      "played_at": "2026-06-15T17:53:51.267Z",
+      "name": "Virgil 2",
+      "artists": [
+        "OT7 Quanny"
+      ],
+      "album": "Virgil 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c2aea8d3aa802b18ba22520",
+      "uri": "spotify:track:5dhB7gkH0VM8vEfzZfTzcP",
+      "duration_ms": 125111
+    },
+    {
+      "played_at": "2026-06-15T17:56:01.603Z",
+      "name": "Virgil 2",
+      "artists": [
+        "OT7 Quanny"
+      ],
+      "album": "Virgil 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c2aea8d3aa802b18ba22520",
+      "uri": "spotify:track:5dhB7gkH0VM8vEfzZfTzcP",
+      "duration_ms": 125111
+    },
+    {
+      "played_at": "2026-06-15T18:07:06.575Z",
+      "name": "Fuck Sum",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Took The Biggest Risk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+      "uri": "spotify:track:23vFAarJZb0hoCfF2uURzp",
+      "duration_ms": 144657
+    },
+    {
+      "played_at": "2026-06-15T18:10:48.491Z",
+      "name": "Thoughts While Incarcerated",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+      "duration_ms": 221387
+    },
+    {
+      "played_at": "2026-06-15T18:13:19.019Z",
+      "name": "Egyptian Codes",
+      "artists": [
+        "DotComNirvan",
+        "Glokk40Spaz"
+      ],
+      "album": "Egyptian Codes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
+      "duration_ms": 150000
+    },
+    {
+      "played_at": "2026-06-15T18:16:23.500Z",
+      "name": "Home Alone",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Dont Get Took Off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
+      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
+      "duration_ms": 183954
+    },
+    {
+      "played_at": "2026-06-15T18:19:53.793Z",
+      "name": "cozy",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "cozy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ab6e9b32ec0121e8e596dcd",
+      "uri": "spotify:track:3ZNb60BPDrCFATU9DkmNsy",
+      "duration_ms": 147911
+    },
+    {
+      "played_at": "2026-06-15T18:21:51.548Z",
+      "name": "bishop",
+      "artists": [
+        "xaviersobased",
+        "chaosysl"
+      ],
+      "album": "xav on tour",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373a2982a9f7f624cc023c114",
+      "uri": "spotify:track:6taCk31VfqpiVqKBwErLEH",
+      "duration_ms": 79281
+    },
+    {
+      "played_at": "2026-06-15T18:29:41.726Z",
+      "name": "pull up wit em math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "pull up wit em math",
+      "image": "https://i.scdn.co/image/ab67616d0000b273518dd809f410592f1cb827b3",
+      "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
+      "duration_ms": 77005
+    },
+    {
+      "played_at": "2026-06-15T18:31:14.958Z",
+      "name": "real math on me",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "huzz in the bay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
+      "uri": "spotify:track:6We4z1dtFkIwmG9Zg64tlR",
+      "duration_ms": 92712
+    },
+    {
+      "played_at": "2026-06-15T18:32:05.542Z",
+      "name": "real music",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:5xRoOv5oI9Qw3FlDc4dV4j",
+      "duration_ms": 50061
+    },
+    {
+      "played_at": "2026-06-15T18:33:07.913Z",
+      "name": "trappin em math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "trappin em math",
+      "image": "https://i.scdn.co/image/ab67616d0000b273853158076beac4a6852edbc0",
+      "uri": "spotify:track:1SyXk0JPAtzIDwSVq92N8w",
+      "duration_ms": 61853
+    },
+    {
+      "played_at": "2026-06-15T18:34:25.430Z",
+      "name": "pull up wit em math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "huzz in the bay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
+      "uri": "spotify:track:1asJjiVeilzqtklStxxqtk",
+      "duration_ms": 77005
+    },
+    {
+      "played_at": "2026-06-15T18:35:16.787Z",
+      "name": "repe",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:5jZAsS0njSS52MbLpNcsSb",
+      "duration_ms": 50830
+    },
+    {
+      "played_at": "2026-06-15T18:36:22.369Z",
+      "name": "pink math, blue math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:1tWizlNgmMhwoptRG4FbaO",
+      "duration_ms": 65063
+    },
+    {
+      "played_at": "2026-06-15T18:37:12.968Z",
+      "name": "put math into their head",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:7CKcQsC1piVUW8gcclV75f",
+      "duration_ms": 50060
+    },
+    {
+      "played_at": "2026-06-15T18:39:54.841Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-15T18:41:26.856Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-15T18:42:47.394Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-15T18:44:07.928Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-15T18:49:34.615Z",
+      "name": "Lost Soul",
+      "artists": [
+        "NBSPLV"
+      ],
+      "album": "Jade Tape",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0e586acb90c5adf541f0d20",
+      "uri": "spotify:track:4mZ59jnHHvm3GR3oOwRwjA",
+      "duration_ms": 195044
+    },
+    {
+      "played_at": "2026-06-15T18:51:20.257Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek",
+        "S9ine",
+        "Kyle Richh"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
+      "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
+      "duration_ms": 113963
+    },
+    {
+      "played_at": "2026-06-15T18:52:30.888Z",
+      "name": "what zit tooya",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:0XU0CyDnYsKe5RNQcpOoCC",
+      "duration_ms": 84373
+    },
+    {
+      "played_at": "2026-06-15T19:00:32.212Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
     }
   ]
 }
