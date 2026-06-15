@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-15T04:07:21.676Z",
-  "is_playing": false,
+  "updated_at": "2026-06-15T12:10:00.253Z",
+  "is_playing": true,
   "track": {
-    "name": "Elastic Heart",
+    "name": "American",
     "artists": [
-      "Sia"
+      "Lana Del Rey"
     ],
-    "album": "1000 Forms Of Fear (Deluxe Version)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34",
-    "uri": "spotify:track:5S9lfZu1YF8xKkgSsqL2Bd"
+    "album": "Born To Die - The Paradise Edition",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+    "uri": "spotify:track:7wfCiX59FY09gsKKFhYfxp"
   },
-  "played_at": "2026-06-15T01:53:27.370Z"
+  "played_at": "2026-06-15T12:10:00.253Z"
 }

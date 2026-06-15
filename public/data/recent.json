@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T04:07:21.557Z",
+  "updated_at": "2026-06-15T12:10:00.162Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -5077,6 +5077,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34",
       "uri": "spotify:track:5S9lfZu1YF8xKkgSsqL2Bd",
       "duration_ms": 257200
+    },
+    {
+      "played_at": "2026-06-15T11:45:46.129Z",
+      "name": "back to friends",
+      "artists": [
+        "sombr"
+      ],
+      "album": "I Barely Know Her",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+      "uri": "spotify:track:7qjZnBKE73H4Oxkopwulqe",
+      "duration_ms": 199032
+    },
+    {
+      "played_at": "2026-06-15T11:50:33.824Z",
+      "name": "Dark Paradise",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2Y115i0IhELJhyyftvoSFt",
+      "duration_ms": 243187
+    },
+    {
+      "played_at": "2026-06-15T11:54:01.084Z",
+      "name": "Paris, Texas (feat. SYML)",
+      "artists": [
+        "Lana Del Rey",
+        "SYML"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:0Oqxt6JixieLHbwMfnJGWO",
+      "duration_ms": 206722
+    },
+    {
+      "played_at": "2026-06-15T11:57:09.463Z",
+      "name": "Lost at Sea",
+      "artists": [
+        "Rob Grant",
+        "Lana Del Rey"
+      ],
+      "album": "Lost At Sea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fc406017b6abd3c1d2eaf284",
+      "uri": "spotify:track:0XiEn429suWEQ6Ph5SWnar",
+      "duration_ms": 187906
+    },
+    {
+      "played_at": "2026-06-15T12:01:47.079Z",
+      "name": "Young And Beautiful",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Young And Beautiful",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "duration_ms": 236053
+    },
+    {
+      "played_at": "2026-06-15T12:05:59.009Z",
+      "name": "Ultraviolence",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+      "duration_ms": 251480
     }
   ]
 }
