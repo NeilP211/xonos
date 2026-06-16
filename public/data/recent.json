@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T11:07:59.584Z",
+  "updated_at": "2026-06-16T16:48:40.298Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -5843,6 +5843,107 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ac3af2a85c3ba73ae98e1473",
       "uri": "spotify:track:23d8OEFo0d6uIVO07cujTT",
       "duration_ms": 90919
+    },
+    {
+      "played_at": "2026-06-16T12:26:07.531Z",
+      "name": "Swamp",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Glokk Files",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+      "uri": "spotify:track:0oiaNKkZsnzrSM0zXxh5tm",
+      "duration_ms": 85524
+    },
+    {
+      "played_at": "2026-06-16T12:29:06.315Z",
+      "name": "Beneficial For AnyBody",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Beneficial For AnyBody",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
+      "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
+      "duration_ms": 178329
+    },
+    {
+      "played_at": "2026-06-16T12:31:37.356Z",
+      "name": "Definition",
+      "artists": [
+        "Glokk40Spaz",
+        "2wo2imes"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+      "uri": "spotify:track:4JPscQ11vR7gc330dZg13Z",
+      "duration_ms": 150491
+    },
+    {
+      "played_at": "2026-06-16T12:35:32.856Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "Glokk40Spaz",
+        "2wo2imes"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+      "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-06-16T12:38:22.393Z",
+      "name": "Fuck Sum",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Took The Biggest Risk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+      "uri": "spotify:track:23vFAarJZb0hoCfF2uURzp",
+      "duration_ms": 144657
+    },
+    {
+      "played_at": "2026-06-16T12:41:42.480Z",
+      "name": "BE RIGHT BACK",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Glokk Files",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+      "uri": "spotify:track:57cLYltn1gF5Dbp0a6te5p",
+      "duration_ms": 167732
+    },
+    {
+      "played_at": "2026-06-16T15:55:31.752Z",
+      "name": "Can't Fight City Halloween",
+      "artists": [
+        "Michael Giacchino"
+      ],
+      "album": "The Batman (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8bc3823967e9168badd41f",
+      "uri": "spotify:track:31n5hquEG1tkwzizOAlj0K",
+      "duration_ms": 244573
+    },
+    {
+      "played_at": "2026-06-16T15:57:55.351Z",
+      "name": "The Wall",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:7xGXV5CZuYJHvccOJRn8Iu",
+      "duration_ms": 120226
+    },
+    {
+      "played_at": "2026-06-16T16:02:22.443Z",
+      "name": "Kill Them All",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:4m3Irk2mc25kcmJC2uqGlL",
+      "duration_ms": 155866
     }
   ]
 }
