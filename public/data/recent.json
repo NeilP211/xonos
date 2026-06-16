@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T23:02:15.320Z",
+  "updated_at": "2026-06-16T03:56:56.847Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -5730,6 +5730,119 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733d54a30e59638f60f56dd4e6",
       "uri": "spotify:track:5RBOcBpJXaNnHCGViJmYhh",
       "duration_ms": 194423
+    },
+    {
+      "played_at": "2026-06-15T23:13:30.867Z",
+      "name": "Egyptian Codes",
+      "artists": [
+        "DotComNirvan",
+        "Glokk40Spaz"
+      ],
+      "album": "Egyptian Codes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
+      "duration_ms": 150000
+    },
+    {
+      "played_at": "2026-06-15T23:17:37.013Z",
+      "name": "Thoughts While Incarcerated",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+      "duration_ms": 221387
+    },
+    {
+      "played_at": "2026-06-15T23:20:02.130Z",
+      "name": "Fuck Sum",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Took The Biggest Risk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+      "uri": "spotify:track:23vFAarJZb0hoCfF2uURzp",
+      "duration_ms": 144657
+    },
+    {
+      "played_at": "2026-06-15T23:23:18.357Z",
+      "name": "Beneficial For AnyBody",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Beneficial For AnyBody",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
+      "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
+      "duration_ms": 178329
+    },
+    {
+      "played_at": "2026-06-15T23:23:26.476Z",
+      "name": "Home Alone",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Dont Get Took Off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
+      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
+      "duration_ms": 183954
+    },
+    {
+      "played_at": "2026-06-15T23:57:39.133Z",
+      "name": "Thoughts While Incarcerated",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+      "duration_ms": 221387
+    },
+    {
+      "played_at": "2026-06-16T00:11:43.915Z",
+      "name": "Taca Xe",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Taca Xe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e99143d804a9efae18bd0631",
+      "uri": "spotify:track:6MMYGkucCUtcqgw2r7pEIE",
+      "duration_ms": 75434
+    },
+    {
+      "played_at": "2026-06-16T00:22:45.792Z",
+      "name": "Taca Xe",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Taca Xe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e99143d804a9efae18bd0631",
+      "uri": "spotify:track:6MMYGkucCUtcqgw2r7pEIE",
+      "duration_ms": 75434
+    },
+    {
+      "played_at": "2026-06-16T02:12:38.326Z",
+      "name": "FREAK (Hardstyle) - Ultra Slowed",
+      "artists": [
+        "Fyex",
+        "Punkinloveee",
+        "acronym."
+      ],
+      "album": "FREAK (Hardstyle)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
+      "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
+      "duration_ms": 187581
+    },
+    {
+      "played_at": "2026-06-16T02:40:33.241Z",
+      "name": "DUMB HUZZ",
+      "artists": [
+        "luvdakash"
+      ],
+      "album": "JIGGATRON",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac3af2a85c3ba73ae98e1473",
+      "uri": "spotify:track:23d8OEFo0d6uIVO07cujTT",
+      "duration_ms": 90919
     }
   ]
 }
