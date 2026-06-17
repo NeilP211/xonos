@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T15:24:18.705Z",
+  "updated_at": "2026-06-17T20:10:19.882Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6056,6 +6056,85 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
       "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
       "duration_ms": 150000
+    },
+    {
+      "played_at": "2026-06-17T16:16:15.672Z",
+      "name": "Egyptian Codes",
+      "artists": [
+        "DotComNirvan",
+        "Glokk40Spaz"
+      ],
+      "album": "Egyptian Codes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
+      "duration_ms": 150000
+    },
+    {
+      "played_at": "2026-06-17T16:18:26.997Z",
+      "name": "Demonz",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Demonz",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a4fe72e29fd7ce0c1b0991c",
+      "uri": "spotify:track:7yrVlAokBMdVkp3zNsiSVw",
+      "duration_ms": 106996
+    },
+    {
+      "played_at": "2026-06-17T18:33:20.590Z",
+      "name": "All Black",
+      "artists": [
+        "Glokk40Spaz",
+        "BabySolid"
+      ],
+      "album": "Took The Biggest Risk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+      "uri": "spotify:track:52owCc6FWe2N6ZJbC9Fdei",
+      "duration_ms": 124081
+    },
+    {
+      "played_at": "2026-06-17T18:33:28.449Z",
+      "name": "Homage",
+      "artists": [
+        "Mild High Club"
+      ],
+      "album": "Skiptracing",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396bc7d5bd0b6488de76598ab",
+      "uri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK",
+      "duration_ms": 177493
+    },
+    {
+      "played_at": "2026-06-17T18:41:16.240Z",
+      "name": "Im Inna Band",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Im Inna Band",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+      "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+      "duration_ms": 194951
+    },
+    {
+      "played_at": "2026-06-17T18:42:35.162Z",
+      "name": "Copy My Flow",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+      "duration_ms": 78393
+    },
+    {
+      "played_at": "2026-06-17T18:46:24.529Z",
+      "name": "Please Don't",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:0PSMq8pTumc19otqdlYq7K",
+      "duration_ms": 167314
     }
   ]
 }
