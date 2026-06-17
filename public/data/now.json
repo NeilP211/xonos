@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-16T22:52:37.869Z",
+  "updated_at": "2026-06-17T03:58:22.009Z",
   "is_playing": false,
   "track": {
-    "name": "winter is here",
+    "name": "Egyptian Codes",
     "artists": [
-      "Ødyzon"
+      "DotComNirvan",
+      "Glokk40Spaz"
     ],
-    "album": "winter is here",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bc38f67cde8d159acce19cfc",
-    "uri": "spotify:track:7gZrfgeUpCmxCRPonokNDA"
+    "album": "Egyptian Codes",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+    "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi"
   },
-  "played_at": "2026-06-16T19:21:25.399Z"
+  "played_at": "2026-06-17T01:26:56.775Z"
 }

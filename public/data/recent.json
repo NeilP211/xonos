@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:52:37.833Z",
+  "updated_at": "2026-06-17T03:58:21.978Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -5988,6 +5988,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bc38f67cde8d159acce19cfc",
       "uri": "spotify:track:7gZrfgeUpCmxCRPonokNDA",
       "duration_ms": 141007
+    },
+    {
+      "played_at": "2026-06-16T20:09:52.037Z",
+      "name": "Unconscious",
+      "artists": [
+        "METAHESH"
+      ],
+      "album": "Unconscious",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb618580286ecb7ed9e6a10f",
+      "uri": "spotify:track:5vOfJJY8CUkIleuZfkf1kb",
+      "duration_ms": 214658
+    },
+    {
+      "played_at": "2026-06-16T23:21:15.672Z",
+      "name": "Thoughts While Incarcerated",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+      "duration_ms": 221387
+    },
+    {
+      "played_at": "2026-06-16T23:26:43.221Z",
+      "name": "ur not - diff ver",
+      "artists": [
+        "idully"
+      ],
+      "album": "ur not (diff ver)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734970f37285c78186b7ae7f48",
+      "uri": "spotify:track:3tEdHHiqOwfJknBWAHyIU2",
+      "duration_ms": 88842
+    },
+    {
+      "played_at": "2026-06-16T23:30:29.749Z",
+      "name": "fancy",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "my autumn diary",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f326c1cae78e61948f2e82",
+      "uri": "spotify:track:7AO2m3TGqDp5ipkfj9YANu",
+      "duration_ms": 86842
+    },
+    {
+      "played_at": "2026-06-17T01:22:25.383Z",
+      "name": "A Desert Rose - Radio Edit",
+      "artists": [
+        "Radion6",
+        "Sarah Lynn"
+      ],
+      "album": "Vocal Trance Selections",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
+      "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
+      "duration_ms": 201176
+    },
+    {
+      "played_at": "2026-06-17T01:26:56.775Z",
+      "name": "Egyptian Codes",
+      "artists": [
+        "DotComNirvan",
+        "Glokk40Spaz"
+      ],
+      "album": "Egyptian Codes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
+      "duration_ms": 150000
     }
   ]
 }
