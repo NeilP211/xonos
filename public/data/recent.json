@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T20:10:19.882Z",
+  "updated_at": "2026-06-17T22:44:16.091Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6135,6 +6135,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
       "uri": "spotify:track:0PSMq8pTumc19otqdlYq7K",
       "duration_ms": 167314
+    },
+    {
+      "played_at": "2026-06-17T21:11:00.720Z",
+      "name": "Homage",
+      "artists": [
+        "Mild High Club"
+      ],
+      "album": "Skiptracing",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396bc7d5bd0b6488de76598ab",
+      "uri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK",
+      "duration_ms": 177493
+    },
+    {
+      "played_at": "2026-06-17T21:11:16.557Z",
+      "name": "SUFFERING BRINGS WISDOM",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Sonic Excess In Its Purest Form",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+      "uri": "spotify:track:5svDpPhrVSO25fJl1EljAo",
+      "duration_ms": 327466
     }
   ]
 }
