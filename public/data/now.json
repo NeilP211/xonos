@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-18T20:24:11.804Z",
-  "is_playing": false,
+  "updated_at": "2026-06-18T22:55:18.089Z",
+  "is_playing": true,
   "track": {
-    "name": "Opp Spotter (feat. B-Lovee)",
+    "name": "Модель (Model) - slowed",
     "artists": [
-      "Kay Flock",
-      "B-Lovee"
+      "DJ ZUP RAlii"
     ],
-    "album": "The D.O.A. Tape",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735cac00af5116ce64fc85d727",
-    "uri": "spotify:track:5KPeT0pL0rK6x8fesfvcGs"
+    "album": "Модель (Model)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273715f60b43a1f624680612aaf",
+    "uri": "spotify:track:6oL8COMAht1aE7fUT2AXbi"
   },
-  "played_at": "2026-06-18T13:03:03.388Z"
+  "played_at": "2026-06-18T22:55:18.089Z"
 }

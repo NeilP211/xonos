@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T20:24:11.769Z",
+  "updated_at": "2026-06-18T22:55:17.921Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6262,6 +6262,106 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735cac00af5116ce64fc85d727",
       "uri": "spotify:track:5KPeT0pL0rK6x8fesfvcGs",
       "duration_ms": 163156
+    },
+    {
+      "played_at": "2026-06-18T21:40:04.373Z",
+      "name": "Love Me Like You Do",
+      "artists": [
+        "Ellie Goulding"
+      ],
+      "album": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd",
+      "uri": "spotify:track:0Cy7wt6IlRfBPHXXjmZbcP",
+      "duration_ms": 253520
+    },
+    {
+      "played_at": "2026-06-18T22:31:13.673Z",
+      "name": "Love Me Like You Do",
+      "artists": [
+        "Ellie Goulding"
+      ],
+      "album": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd",
+      "uri": "spotify:track:0Cy7wt6IlRfBPHXXjmZbcP",
+      "duration_ms": 253520
+    },
+    {
+      "played_at": "2026-06-18T22:34:31.090Z",
+      "name": "glamur) (super slowed)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+      "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+      "duration_ms": 129285
+    },
+    {
+      "played_at": "2026-06-18T22:37:36.496Z",
+      "name": "CHARM - SLOWED",
+      "artists": [
+        "lagoyo"
+      ],
+      "album": "CHARM",
+      "image": "https://i.scdn.co/image/ab67616d0000b27324aa5f0ac6d953ac007383fd",
+      "uri": "spotify:track:2Pu5xgLAsZjdJXYw5PyzkY",
+      "duration_ms": 184957
+    },
+    {
+      "played_at": "2026-06-18T22:39:26.655Z",
+      "name": "?К0N3Ц.. - Super Slowed",
+      "artists": [
+        "STAKILLAZ"
+      ],
+      "album": "?К0N3Ц..",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354fe4342c080ceeab38349b1",
+      "uri": "spotify:track:0hk09Rxmd5lgU6fN6RyKdW",
+      "duration_ms": 109714
+    },
+    {
+      "played_at": "2026-06-18T22:41:27.582Z",
+      "name": "ABSOLUTE FAILURE",
+      "artists": [
+        "syxxsec"
+      ],
+      "album": "ABSOLUTE FAILURE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f449a5b3a2427c0034c4288",
+      "uri": "spotify:track:3Wp0gwQWcsO0BCIRVUMb0D",
+      "duration_ms": 120263
+    },
+    {
+      "played_at": "2026-06-18T22:42:42.860Z",
+      "name": "armadyl.mp3 - slowed",
+      "artists": [
+        "YXMI"
+      ],
+      "album": "armadyl.mp3",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f081ec56d4380367bdc1bb8",
+      "uri": "spotify:track:0UWyXuSsoXu4jnWauIJMsZ",
+      "duration_ms": 74814
+    },
+    {
+      "played_at": "2026-06-18T22:47:07.366Z",
+      "name": "CUTE JUMPSTYLE - Ultra Slowed",
+      "artists": [
+        "HELLBLADE",
+        "dxnkwer"
+      ],
+      "album": "CUTE JUMPSTYLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eac661af7b25ea41f46f0af8",
+      "uri": "spotify:track:7dH4gVSqr8WPf5u85OB8OI",
+      "duration_ms": 240763
+    },
+    {
+      "played_at": "2026-06-18T22:50:27.025Z",
+      "name": "Ostblock 3 - The Dark Triad - Slowed TikTok Version",
+      "artists": [
+        "tapzen"
+      ],
+      "album": "Ostblock 3 (The Dark Triad - Slowed TikTok Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d124f5752811e0d990a105ef",
+      "uri": "spotify:track:4kGyQU4d3AwqaePOevAP83",
+      "duration_ms": 169324
     }
   ]
 }
