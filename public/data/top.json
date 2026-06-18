@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:44:15.976Z",
+  "generated_at": "2026-06-18T03:46:06.073Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -42,18 +42,6 @@
         },
         {
           "rank": 4,
-          "name": "We Do What We Want - Edit",
-          "artists": [
-            "Alan Fitzpatrick"
-          ],
-          "album": "We Do What We Want (Edit)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
-          "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
-          "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
-          "duration_ms": 188095
-        },
-        {
-          "rank": 5,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -63,6 +51,18 @@
           "uri": "spotify:track:6VqtlSv2ZDuDRDABj1iqpv",
           "url": "https://open.spotify.com/track/6VqtlSv2ZDuDRDABj1iqpv",
           "duration_ms": 132456
+        },
+        {
+          "rank": 5,
+          "name": "We Do What We Want - Edit",
+          "artists": [
+            "Alan Fitzpatrick"
+          ],
+          "album": "We Do What We Want (Edit)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
+          "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
+          "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
+          "duration_ms": 188095
         },
         {
           "rank": 6,
@@ -153,18 +153,6 @@
         },
         {
           "rank": 13,
-          "name": "Too Much For Me",
-          "artists": [
-            "SELKER"
-          ],
-          "album": "Too Much For Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
-          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
-          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
-          "duration_ms": 153869
-        },
-        {
-          "rank": 14,
           "name": "Massive X Touch Me",
           "artists": [
             "NovaX",
@@ -177,7 +165,7 @@
           "duration_ms": 174160
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Goliath",
           "artists": [
             "Dialryckx"
@@ -189,20 +177,7 @@
           "duration_ms": 39000
         },
         {
-          "rank": 16,
-          "name": "lilacs - slowed",
-          "artists": [
-            "azrxel",
-            "abxddon"
-          ],
-          "album": "lilacs - slowed",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
-          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
-          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
-          "duration_ms": 70866
-        },
-        {
-          "rank": 17,
+          "rank": 15,
           "name": "in china",
           "artists": [
             "Robin Gan"
@@ -214,7 +189,7 @@
           "duration_ms": 65061
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -226,20 +201,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 19,
-          "name": "Free Your Mind",
-          "artists": [
-            "Prospa",
-            "Cloonee"
-          ],
-          "album": "Free Your Mind",
-          "image": "https://i.scdn.co/image/ab67616d0000b273586475e0e7697109f9c69a49",
-          "uri": "spotify:track:39hHUnYBmyMwprzRaPODCX",
-          "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX",
-          "duration_ms": 201700
-        },
-        {
-          "rank": 20,
+          "rank": 17,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -251,7 +213,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 21,
+          "rank": 18,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -264,7 +226,19 @@
           "duration_ms": 109134
         },
         {
-          "rank": 22,
+          "rank": 19,
+          "name": "Too Much For Me",
+          "artists": [
+            "SELKER"
+          ],
+          "album": "Too Much For Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
+          "duration_ms": 153869
+        },
+        {
+          "rank": 20,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -278,7 +252,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Отпусти меня",
           "artists": [
             "SEREBRO"
@@ -290,7 +264,7 @@
           "duration_ms": 232855
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Thoughts While Incarcerated",
           "artists": [
             "Glokk40Spaz"
@@ -302,7 +276,7 @@
           "duration_ms": 221387
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "Picture To Burn",
           "artists": [
             "Taylor Swift"
@@ -314,7 +288,7 @@
           "duration_ms": 173066
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Wherever I May Roam - Remastered 2021",
           "artists": [
             "Metallica"
@@ -326,19 +300,33 @@
           "duration_ms": 404333
         },
         {
-          "rank": 27,
-          "name": "I Don't Care",
+          "rank": 25,
+          "name": "Free Your Mind",
           "artists": [
-            "Jesp7Tearz"
+            "Prospa",
+            "Cloonee"
           ],
-          "album": "I Don't Care",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732ec354ce1466cc7c6155a34e",
-          "uri": "spotify:track:4rXOOxs2nxHqQGnVPvR6m6",
-          "url": "https://open.spotify.com/track/4rXOOxs2nxHqQGnVPvR6m6",
-          "duration_ms": 156300
+          "album": "Free Your Mind",
+          "image": "https://i.scdn.co/image/ab67616d0000b273586475e0e7697109f9c69a49",
+          "uri": "spotify:track:39hHUnYBmyMwprzRaPODCX",
+          "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX",
+          "duration_ms": 201700
         },
         {
-          "rank": 28,
+          "rank": 26,
+          "name": "lilacs - slowed",
+          "artists": [
+            "azrxel",
+            "abxddon"
+          ],
+          "album": "lilacs - slowed",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
+          "duration_ms": 70866
+        },
+        {
+          "rank": 27,
           "name": "Beneficial For AnyBody",
           "artists": [
             "Glokk40Spaz"
@@ -350,7 +338,7 @@
           "duration_ms": 178329
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -362,7 +350,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -374,7 +362,7 @@
           "duration_ms": 417226
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Ain't With That (Late Night Callin')",
           "artists": [
             "Julian Fijma"
@@ -386,7 +374,7 @@
           "duration_ms": 207272
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -401,7 +389,7 @@
           "duration_ms": 113963
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -414,7 +402,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "World, Hold On - FISHER Rework",
           "artists": [
             "Bob Sinclar",
@@ -428,7 +416,7 @@
           "duration_ms": 178304
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -442,7 +430,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Taca Xe - Super Slowed",
           "artists": [
             "DJ TLS DA ZL"
@@ -454,7 +442,7 @@
           "duration_ms": 106678
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -466,7 +454,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "WDYM",
           "artists": [
             "revided"
@@ -476,6 +464,18 @@
           "uri": "spotify:track:50g0LlTWdA44YuGAAxVWeb",
           "url": "https://open.spotify.com/track/50g0LlTWdA44YuGAAxVWeb",
           "duration_ms": 135262
+        },
+        {
+          "rank": 38,
+          "name": "I Don't Care",
+          "artists": [
+            "Jesp7Tearz"
+          ],
+          "album": "I Don't Care",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732ec354ce1466cc7c6155a34e",
+          "uri": "spotify:track:4rXOOxs2nxHqQGnVPvR6m6",
+          "url": "https://open.spotify.com/track/4rXOOxs2nxHqQGnVPvR6m6",
+          "duration_ms": 156300
         },
         {
           "rank": 39,
@@ -543,18 +543,6 @@
         },
         {
           "rank": 44,
-          "name": "run run run",
-          "artists": [
-            "rebug"
-          ],
-          "album": "run run run",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
-          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
-          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
-          "duration_ms": 79464
-        },
-        {
-          "rank": 45,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -566,7 +554,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Virgil 2",
           "artists": [
             "OT7 Quanny"
@@ -578,7 +566,7 @@
           "duration_ms": 125111
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -590,7 +578,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -602,7 +590,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -614,7 +602,7 @@
           "duration_ms": 249813
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Just The Way You Are",
           "artists": [
             "Milky",
@@ -625,6 +613,18 @@
           "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
           "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt",
           "duration_ms": 159500
+        },
+        {
+          "rank": 50,
+          "name": "ur not - diff ver",
+          "artists": [
+            "idully"
+          ],
+          "album": "ur not (diff ver)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734970f37285c78186b7ae7f48",
+          "uri": "spotify:track:3tEdHHiqOwfJknBWAHyIU2",
+          "url": "https://open.spotify.com/track/3tEdHHiqOwfJknBWAHyIU2",
+          "duration_ms": 88842
         }
       ],
       "artists": [
@@ -838,14 +838,6 @@
         },
         {
           "rank": 27,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 28,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab6761610000e5eb235f4cc5e342ec8ff002ea74",
           "genres": [],
@@ -853,7 +845,7 @@
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "eMu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb27b6e1a30da2892ca080e934",
           "genres": [],
@@ -861,7 +853,7 @@
           "url": "https://open.spotify.com/artist/09N69PfV837oDhu5Uo49vg"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "D.O.D",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74cf50aa63068966ceebe8ff",
           "genres": [],
@@ -869,7 +861,7 @@
           "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Lost Sky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
           "genres": [],
@@ -877,7 +869,7 @@
           "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Fadel Chaker",
           "image": "https://i.scdn.co/image/ab6761610000e5ebefc1fc78f05677fb9950f11f",
           "genres": [],
@@ -885,7 +877,7 @@
           "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Elissa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb9e4f4dc02996d2b6f1749cd",
           "genres": [],
@@ -893,12 +885,20 @@
           "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         },
         {
-          "rank": 34,
-          "name": "Obskür",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
+          "rank": 33,
+          "name": "SugarHill Keem",
+          "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
           "genres": [],
-          "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+          "uri": "spotify:artist:7DY7ygEiVKNki7ZIPnZoNB",
+          "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
+        },
+        {
+          "rank": 34,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "rank": 35,
@@ -942,14 +942,6 @@
         },
         {
           "rank": 40,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "rank": 41,
           "name": "DJ ZRED DA DZ7",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1d59318b906debbba83cf1e1",
           "genres": [],
@@ -957,7 +949,7 @@
           "url": "https://open.spotify.com/artist/2OROoLDJ1AgO6H0lNxI931"
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Edot Babyy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
           "genres": [],
@@ -965,12 +957,20 @@
           "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
           "uri": "spotify:artist:59o1kyNFOv04hcGRuWhWs9",
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
+        },
+        {
+          "rank": 43,
+          "name": "Obskür",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
+          "genres": [],
+          "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
         },
         {
           "rank": 44,
