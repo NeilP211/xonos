@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T10:18:43.332Z",
+  "updated_at": "2026-06-18T15:20:11.112Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6238,6 +6238,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
       "uri": "spotify:track:6fl4RSPPgvc3o7tndxUEK8",
       "duration_ms": 135274
+    },
+    {
+      "played_at": "2026-06-18T12:41:30.186Z",
+      "name": "Opp Spotter (feat. B-Lovee)",
+      "artists": [
+        "Kay Flock",
+        "B-Lovee"
+      ],
+      "album": "The D.O.A. Tape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cac00af5116ce64fc85d727",
+      "uri": "spotify:track:5KPeT0pL0rK6x8fesfvcGs",
+      "duration_ms": 163156
+    },
+    {
+      "played_at": "2026-06-18T13:03:03.388Z",
+      "name": "Opp Spotter (feat. B-Lovee)",
+      "artists": [
+        "Kay Flock",
+        "B-Lovee"
+      ],
+      "album": "The D.O.A. Tape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cac00af5116ce64fc85d727",
+      "uri": "spotify:track:5KPeT0pL0rK6x8fesfvcGs",
+      "duration_ms": 163156
     }
   ]
 }
