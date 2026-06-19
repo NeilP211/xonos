@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:48:06.456Z",
+  "updated_at": "2026-06-19T22:02:48.944Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6523,6 +6523,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27395c70cc04573417548b47199",
       "uri": "spotify:track:52LJ3hyknOijCrE5gCD0rE",
       "duration_ms": 242053
+    },
+    {
+      "played_at": "2026-06-19T21:10:56.503Z",
+      "name": "Picture To Burn",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
+      "duration_ms": 173066
+    },
+    {
+      "played_at": "2026-06-19T21:12:43.311Z",
+      "name": "Copy My Flow",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+      "duration_ms": 78393
+    },
+    {
+      "played_at": "2026-06-19T21:14:34.078Z",
+      "name": "Copy My Flow",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+      "duration_ms": 78393
     }
   ]
 }
