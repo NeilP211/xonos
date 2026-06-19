@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T22:55:17.921Z",
+  "updated_at": "2026-06-19T04:08:24.593Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6362,6 +6362,123 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d124f5752811e0d990a105ef",
       "uri": "spotify:track:4kGyQU4d3AwqaePOevAP83",
       "duration_ms": 169324
+    },
+    {
+      "played_at": "2026-06-18T22:56:08.314Z",
+      "name": "Модель (Model) - slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "Модель (Model)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273715f60b43a1f624680612aaf",
+      "uri": "spotify:track:6oL8COMAht1aE7fUT2AXbi",
+      "duration_ms": 133408
+    },
+    {
+      "played_at": "2026-06-18T22:57:54.431Z",
+      "name": "SCHIZOTEKK. - SUPER SLOWED",
+      "artists": [
+        "grindgwap"
+      ],
+      "album": "SCHIZOTEKK.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735bb0b65ab3ec50e9c2ce8beb",
+      "uri": "spotify:track:3e96Gg3Ohw8r76OA3ReSti",
+      "duration_ms": 105486
+    },
+    {
+      "played_at": "2026-06-18T22:59:04.092Z",
+      "name": "UPAST - Super Slowed",
+      "artists": [
+        "HELLBLADE",
+        "Asphiphilia"
+      ],
+      "album": "UPAST",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
+      "uri": "spotify:track:14v5n6WTlINLZHyTyZ0VJM",
+      "duration_ms": 102156
+    },
+    {
+      "played_at": "2026-06-18T23:02:49.769Z",
+      "name": "Distant Echoes - Slowed + Reverb",
+      "artists": [
+        "VXLLAIN",
+        "VØJ",
+        "Narvent"
+      ],
+      "album": "Distant Echoes (Versions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382d81b9e2ce274bd987bdb31",
+      "uri": "spotify:track:4VoVlU94ymADzbkhssSdiV",
+      "duration_ms": 217076
+    },
+    {
+      "played_at": "2026-06-18T23:07:24.253Z",
+      "name": "Me Papa Que É Pop (Super Slowed)",
+      "artists": [
+        "Dj Brunin XM",
+        "Mc Lullu"
+      ],
+      "album": "Me Papa Que É Pop (Super Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732644a6131d936974806602e3",
+      "uri": "spotify:track:0ktArhnz9a4JiqeTwVhHG6",
+      "duration_ms": 179768
+    },
+    {
+      "played_at": "2026-06-18T23:10:14.936Z",
+      "name": "ACIDO",
+      "artists": [
+        "UdieNnx",
+        "Mc Gw"
+      ],
+      "album": "ACIDO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27323940e6c2a660abff3fd6415",
+      "uri": "spotify:track:1aNQ9Nz0gzJXVm6kuXcIbq",
+      "duration_ms": 75697
+    },
+    {
+      "played_at": "2026-06-18T23:12:24.952Z",
+      "name": "MY TYPE - Ultra Slowed",
+      "artists": [
+        "DJ ZBK",
+        "RD12"
+      ],
+      "album": "MY TYPE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d85836b40067fb9993be3cc0",
+      "uri": "spotify:track:6WAcXA6sMDKQFUoZoeCRFm",
+      "duration_ms": 129521
+    },
+    {
+      "played_at": "2026-06-19T00:57:58.877Z",
+      "name": "EI DO SENSACIO! - Slowed",
+      "artists": [
+        "princce",
+        "FR3ST"
+      ],
+      "album": "EI DO SENSACIO!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273118a8dff45abf63c56f060d8",
+      "uri": "spotify:track:6Zv1nd7GdiyG5wWXQtbDCO",
+      "duration_ms": 113468
+    },
+    {
+      "played_at": "2026-06-19T01:01:42.196Z",
+      "name": "Im Inna Band",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Im Inna Band",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+      "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+      "duration_ms": 194951
+    },
+    {
+      "played_at": "2026-06-19T01:06:42.547Z",
+      "name": "real music",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:5xRoOv5oI9Qw3FlDc4dV4j",
+      "duration_ms": 50061
     }
   ]
 }
