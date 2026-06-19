@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:23:37.216Z",
+  "generated_at": "2026-06-19T15:12:14.147Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -525,6 +525,18 @@
         },
         {
           "rank": 43,
+          "name": "Wake Me Up",
+          "artists": [
+            "Avicii"
+          ],
+          "album": "True",
+          "image": "https://i.scdn.co/image/ab67616d0000b273162c5d6dbf1dc3965d1a391a",
+          "uri": "spotify:track:3B0irDyS69y5eAz15xV2Ee",
+          "url": "https://open.spotify.com/track/3B0irDyS69y5eAz15xV2Ee",
+          "duration_ms": 247426
+        },
+        {
+          "rank": 44,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -539,7 +551,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -551,7 +563,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "WDYM",
           "artists": [
             "revided"
@@ -563,7 +575,7 @@
           "duration_ms": 135262
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Virgil 2",
           "artists": [
             "OT7 Quanny"
@@ -575,7 +587,7 @@
           "duration_ms": 125111
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -587,7 +599,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -599,7 +611,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -609,19 +621,6 @@
           "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
           "url": "https://open.spotify.com/track/6dY5hqP7RPPjjA8rLukrtD",
           "duration_ms": 249813
-        },
-        {
-          "rank": 50,
-          "name": "Just The Way You Are",
-          "artists": [
-            "Milky",
-            "Mall Grab"
-          ],
-          "album": "Just The Way You Are",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
-          "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
-          "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt",
-          "duration_ms": 159500
         }
       ],
       "artists": [
