@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T16:16:24.144Z",
+  "updated_at": "2026-06-20T19:23:53.181Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6724,6 +6724,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731543c6f6014421b945fe1764",
       "uri": "spotify:track:5lAkcLmrZql2pctwDzi61L",
       "duration_ms": 328200
+    },
+    {
+      "played_at": "2026-06-20T18:11:30.583Z",
+      "name": "Tuesday's Gone",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Garage, Inc.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4",
+      "uri": "spotify:track:3kjrWJMt1j9nl3favBZQIH",
+      "duration_ms": 545733
+    },
+    {
+      "played_at": "2026-06-20T18:17:12.474Z",
+      "name": "I'm Not Alone - 2019 Edit",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "album": "I'm Not Alone 2019",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c53b740dc717fb5dffebc3a",
+      "uri": "spotify:track:43ILNTrpuwv2vTcJErWFWp",
+      "duration_ms": 201313
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T16:16:23.961Z",
+  "generated_at": "2026-06-20T19:23:53.032Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -387,6 +387,18 @@
         },
         {
           "rank": 32,
+          "name": "I'm Not Alone - 2019 Edit",
+          "artists": [
+            "Calvin Harris"
+          ],
+          "album": "96 Months",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
+          "uri": "spotify:track:6zAUCritANdhceCMLVB8xR",
+          "url": "https://open.spotify.com/track/6zAUCritANdhceCMLVB8xR",
+          "duration_ms": 201313
+        },
+        {
+          "rank": 33,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -398,7 +410,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -411,7 +423,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -423,7 +435,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -437,7 +449,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Taca Xe - Super Slowed",
           "artists": [
             "DJ TLS DA ZL"
@@ -449,7 +461,7 @@
           "duration_ms": 106678
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -461,7 +473,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Hate",
           "artists": [
             "Slimepayn"
@@ -473,7 +485,7 @@
           "duration_ms": 111960
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Hot N*gga",
           "artists": [
             "Bobby Shmurda"
@@ -485,7 +497,7 @@
           "duration_ms": 194561
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "trappin em math",
           "artists": [
             "Robin Gan"
@@ -497,7 +509,7 @@
           "duration_ms": 61853
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
           "artists": [
             "Marc Acardipane",
@@ -510,7 +522,19 @@
           "duration_ms": 163200
         },
         {
-          "rank": 42,
+          "rank": 43,
+          "name": "Shine",
+          "artists": [
+            "Spektrem"
+          ],
+          "album": "Shine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d1137f926e9926c04bb34d1c",
+          "uri": "spotify:track:28nJtITSktvCECziG14oRr",
+          "url": "https://open.spotify.com/track/28nJtITSktvCECziG14oRr",
+          "duration_ms": 315585
+        },
+        {
+          "rank": 44,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -522,7 +546,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Slow Down",
           "artists": [
             "Selena Gomez"
@@ -534,7 +558,7 @@
           "duration_ms": 210293
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -546,7 +570,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -561,7 +585,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -573,7 +597,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Virgil 2",
           "artists": [
             "OT7 Quanny"
@@ -585,7 +609,7 @@
           "duration_ms": 125111
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -595,30 +619,6 @@
           "uri": "spotify:track:6pb4C9VZ5Yb1DHx5S4Zn88",
           "url": "https://open.spotify.com/track/6pb4C9VZ5Yb1DHx5S4Zn88",
           "duration_ms": 198907
-        },
-        {
-          "rank": 49,
-          "name": "Tennessee Whiskey",
-          "artists": [
-            "Chris Stapleton"
-          ],
-          "album": "Traveller",
-          "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
-          "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
-          "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx",
-          "duration_ms": 293293
-        },
-        {
-          "rank": 50,
-          "name": "...and Suffer As One",
-          "artists": [
-            "Crowbar"
-          ],
-          "album": "Odd Fellows Rest",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
-          "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
-          "url": "https://open.spotify.com/track/6dY5hqP7RPPjjA8rLukrtD",
-          "duration_ms": 249813
         }
       ],
       "artists": [
