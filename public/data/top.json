@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T08:53:21.896Z",
+  "generated_at": "2026-06-20T11:17:07.901Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1696,19 +1696,19 @@
         },
         {
           "rank": 7,
-          "name": "Che",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-          "genres": [],
-          "uri": "spotify:artist:5A7T1LAGJg5NXySBoIKUmF",
-          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-        },
-        {
-          "rank": 8,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
           "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "rank": 8,
+          "name": "Che",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+          "genres": [],
+          "uri": "spotify:artist:5A7T1LAGJg5NXySBoIKUmF",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
         },
         {
           "rank": 9,
@@ -1728,6 +1728,14 @@
         },
         {
           "rank": 11,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 12,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -1735,7 +1743,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Calvin Harris",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "genres": [],
@@ -1743,7 +1751,7 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
@@ -1751,20 +1759,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
           "uri": "spotify:artist:3xtIpqzIOfQUxKce8BU4Ka",
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
-        },
-        {
-          "rank": 15,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 16,
