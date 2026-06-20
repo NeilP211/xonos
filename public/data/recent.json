@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T22:02:48.944Z",
+  "updated_at": "2026-06-20T03:31:45.618Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6556,6 +6556,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
       "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
       "duration_ms": 78393
+    },
+    {
+      "played_at": "2026-06-20T01:15:45.859Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
+    },
+    {
+      "played_at": "2026-06-20T01:19:47.190Z",
+      "name": "Double Baccin",
+      "artists": [
+        "MaxThaDemon"
+      ],
+      "album": "Double Baccin",
+      "image": "https://i.scdn.co/image/ab67616d0000b273232288f31298c15f661ad058",
+      "uri": "spotify:track:4p5uCm9zpk91WAJOS2xVXy",
+      "duration_ms": 135349
+    },
+    {
+      "played_at": "2026-06-20T01:22:25.005Z",
+      "name": "Copy My Flow",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+      "duration_ms": 78393
+    },
+    {
+      "played_at": "2026-06-20T01:27:25.384Z",
+      "name": "Im Inna Band",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Im Inna Band",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+      "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+      "duration_ms": 194951
+    },
+    {
+      "played_at": "2026-06-20T03:12:42.466Z",
+      "name": "Homage",
+      "artists": [
+        "Mild High Club"
+      ],
+      "album": "Skiptracing",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396bc7d5bd0b6488de76598ab",
+      "uri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK",
+      "duration_ms": 177493
+    },
+    {
+      "played_at": "2026-06-20T03:14:14.177Z",
+      "name": "math goat",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "math goat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273334e6af0cdf64ddabb9993ad",
+      "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
+      "duration_ms": 81843
     }
   ]
 }

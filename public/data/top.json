@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T22:02:48.833Z",
+  "generated_at": "2026-06-20T03:31:45.367Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -129,18 +129,6 @@
         },
         {
           "rank": 11,
-          "name": "We Do What We Want - Edit",
-          "artists": [
-            "Alan Fitzpatrick"
-          ],
-          "album": "We Do What We Want (Edit)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
-          "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
-          "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
-          "duration_ms": 188095
-        },
-        {
-          "rank": 12,
           "name": "Baddi Doub",
           "artists": [
             "Elissa"
@@ -150,6 +138,18 @@
           "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
           "url": "https://open.spotify.com/track/571ElrlNtK4djFptlFgtU3",
           "duration_ms": 239098
+        },
+        {
+          "rank": 12,
+          "name": "Picture To Burn",
+          "artists": [
+            "Taylor Swift"
+          ],
+          "album": "Taylor Swift",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374e5b00878adddd24c9ab44d",
+          "uri": "spotify:track:3f8FaHeG75RzZHWzEQMKm7",
+          "url": "https://open.spotify.com/track/3f8FaHeG75RzZHWzEQMKm7",
+          "duration_ms": 173066
         },
         {
           "rank": 13,
@@ -178,6 +178,18 @@
         },
         {
           "rank": 15,
+          "name": "We Do What We Want - Edit",
+          "artists": [
+            "Alan Fitzpatrick"
+          ],
+          "album": "We Do What We Want (Edit)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
+          "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
+          "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
+          "duration_ms": 188095
+        },
+        {
+          "rank": 16,
           "name": "Goliath",
           "artists": [
             "Dialryckx"
@@ -189,7 +201,7 @@
           "duration_ms": 39000
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "in china",
           "artists": [
             "Robin Gan"
@@ -201,7 +213,7 @@
           "duration_ms": 65061
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -213,7 +225,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -225,7 +237,31 @@
           "duration_ms": 109244
         },
         {
-          "rank": 19,
+          "rank": 20,
+          "name": "Im Inna Band",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Im Inna Band",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
+          "duration_ms": 194951
+        },
+        {
+          "rank": 21,
+          "name": "Fade To Black - Remastered",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "Ride The Lightning (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
+          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
+          "duration_ms": 417226
+        },
+        {
+          "rank": 22,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -239,7 +275,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 20,
+          "rank": 23,
           "name": "Отпусти меня",
           "artists": [
             "SEREBRO"
@@ -251,19 +287,7 @@
           "duration_ms": 232855
         },
         {
-          "rank": 21,
-          "name": "Picture To Burn",
-          "artists": [
-            "Taylor Swift"
-          ],
-          "album": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374e5b00878adddd24c9ab44d",
-          "uri": "spotify:track:3f8FaHeG75RzZHWzEQMKm7",
-          "url": "https://open.spotify.com/track/3f8FaHeG75RzZHWzEQMKm7",
-          "duration_ms": 173066
-        },
-        {
-          "rank": 22,
+          "rank": 24,
           "name": "Wherever I May Roam - Remastered 2021",
           "artists": [
             "Metallica"
@@ -275,7 +299,19 @@
           "duration_ms": 404333
         },
         {
-          "rank": 23,
+          "rank": 25,
+          "name": "Copy My Flow",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "BABY WHOA",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+          "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+          "url": "https://open.spotify.com/track/6VPl7LlHBlxvdJHtqUWdTJ",
+          "duration_ms": 78393
+        },
+        {
+          "rank": 26,
           "name": "Free Your Mind",
           "artists": [
             "Prospa",
@@ -288,7 +324,7 @@
           "duration_ms": 201700
         },
         {
-          "rank": 24,
+          "rank": 27,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -301,7 +337,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 25,
+          "rank": 28,
           "name": "Beneficial For AnyBody",
           "artists": [
             "Glokk40Spaz"
@@ -313,7 +349,7 @@
           "duration_ms": 178329
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -325,19 +361,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 27,
-          "name": "Fade To Black - Remastered",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Ride The Lightning (Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
-          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
-          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
-          "duration_ms": 417226
-        },
-        {
-          "rank": 28,
+          "rank": 30,
           "name": "Ain't With That (Late Night Callin')",
           "artists": [
             "Julian Fijma"
@@ -349,7 +373,7 @@
           "duration_ms": 207272
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -362,7 +386,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -374,7 +398,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -387,7 +411,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -399,7 +423,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -413,7 +437,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Taca Xe - Super Slowed",
           "artists": [
             "DJ TLS DA ZL"
@@ -425,7 +449,7 @@
           "duration_ms": 106678
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -437,7 +461,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "World, Hold On - FISHER Rework",
           "artists": [
             "Bob Sinclar",
@@ -451,7 +475,7 @@
           "duration_ms": 178304
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Hate",
           "artists": [
             "Slimepayn"
@@ -463,7 +487,7 @@
           "duration_ms": 111960
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Hot N*gga",
           "artists": [
             "Bobby Shmurda"
@@ -475,7 +499,7 @@
           "duration_ms": 194561
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "trappin em math",
           "artists": [
             "Robin Gan"
@@ -487,7 +511,7 @@
           "duration_ms": 61853
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
           "artists": [
             "Marc Acardipane",
@@ -500,7 +524,7 @@
           "duration_ms": 163200
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -512,19 +536,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 42,
-          "name": "Im Inna Band",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Im Inna Band",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
-          "duration_ms": 194951
-        },
-        {
-          "rank": 43,
+          "rank": 44,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -536,7 +548,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -551,7 +563,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -561,18 +573,6 @@
           "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
           "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
           "duration_ms": 208620
-        },
-        {
-          "rank": 46,
-          "name": "WDYM",
-          "artists": [
-            "revided"
-          ],
-          "album": "WDYM",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a0aa309a80f90861cb573029",
-          "uri": "spotify:track:50g0LlTWdA44YuGAAxVWeb",
-          "url": "https://open.spotify.com/track/50g0LlTWdA44YuGAAxVWeb",
-          "duration_ms": 135262
         },
         {
           "rank": 47,
