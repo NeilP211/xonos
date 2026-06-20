@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T19:23:53.032Z",
+  "generated_at": "2026-06-20T22:04:42.827Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2112,18 +2112,6 @@
         },
         {
           "rank": 6,
-          "name": "B2b",
-          "artists": [
-            "Charli xcx"
-          ],
-          "album": "BRAT",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
-          "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
-          "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
-          "duration_ms": 178579
-        },
-        {
-          "rank": 7,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -2133,6 +2121,18 @@
           "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
           "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
           "duration_ms": 166300
+        },
+        {
+          "rank": 7,
+          "name": "B2b",
+          "artists": [
+            "Charli xcx"
+          ],
+          "album": "BRAT",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+          "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
+          "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
+          "duration_ms": 178579
         },
         {
           "rank": 8,
@@ -2968,6 +2968,14 @@
         },
         {
           "rank": 39,
+          "name": "Gracie Abrams",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+          "genres": [],
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "rank": 40,
           "name": "Gutter Whore",
           "image": "https://i.scdn.co/image/ab6761610000e5eb414eb1b4dcdef93a163f2e99",
           "genres": [],
@@ -2975,7 +2983,7 @@
           "url": "https://open.spotify.com/artist/09TAxArvBAjqTaVBE7viuU"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Boy Fantasy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffe6ca1d41f75558a9678c89",
           "genres": [],
@@ -2983,7 +2991,7 @@
           "url": "https://open.spotify.com/artist/6TNu2GG0r5FZXtSvdGcLsY"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -2991,7 +2999,7 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -2999,7 +3007,7 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "ksuuvi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
           "genres": [],
@@ -3007,20 +3015,12 @@
           "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
           "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        },
-        {
-          "rank": 45,
-          "name": "Gracie Abrams",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
-          "genres": [],
-          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
           "rank": 46,
