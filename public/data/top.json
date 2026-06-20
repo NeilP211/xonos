@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T03:31:45.367Z",
+  "generated_at": "2026-06-20T08:53:21.896Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -166,18 +166,6 @@
         },
         {
           "rank": 14,
-          "name": "Thoughts While Incarcerated",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "BABY WHOA",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
-          "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
-          "url": "https://open.spotify.com/track/61vcuXduuAFhBmLetVISBf",
-          "duration_ms": 221387
-        },
-        {
-          "rank": 15,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -187,6 +175,18 @@
           "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
           "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
           "duration_ms": 188095
+        },
+        {
+          "rank": 15,
+          "name": "Thoughts While Incarcerated",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "BABY WHOA",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+          "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+          "url": "https://open.spotify.com/track/61vcuXduuAFhBmLetVISBf",
+          "duration_ms": 221387
         },
         {
           "rank": 16,
@@ -250,18 +250,6 @@
         },
         {
           "rank": 21,
-          "name": "Fade To Black - Remastered",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Ride The Lightning (Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
-          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
-          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
-          "duration_ms": 417226
-        },
-        {
-          "rank": 22,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -275,7 +263,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Отпусти меня",
           "artists": [
             "SEREBRO"
@@ -287,7 +275,7 @@
           "duration_ms": 232855
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Wherever I May Roam - Remastered 2021",
           "artists": [
             "Metallica"
@@ -299,7 +287,7 @@
           "duration_ms": 404333
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -311,7 +299,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Free Your Mind",
           "artists": [
             "Prospa",
@@ -324,7 +312,7 @@
           "duration_ms": 201700
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -337,7 +325,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Beneficial For AnyBody",
           "artists": [
             "Glokk40Spaz"
@@ -349,7 +337,7 @@
           "duration_ms": 178329
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -361,7 +349,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Ain't With That (Late Night Callin')",
           "artists": [
             "Julian Fijma"
@@ -373,7 +361,7 @@
           "duration_ms": 207272
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -384,6 +372,18 @@
           "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
           "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
           "duration_ms": 109134
+        },
+        {
+          "rank": 31,
+          "name": "Fade To Black - Remastered",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "Ride The Lightning (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
+          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
+          "duration_ms": 417226
         },
         {
           "rank": 32,
@@ -462,20 +462,6 @@
         },
         {
           "rank": 38,
-          "name": "World, Hold On - FISHER Rework",
-          "artists": [
-            "Bob Sinclar",
-            "Steve Edwards",
-            "FISHER"
-          ],
-          "album": "World, Hold On (FISHER Rework)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c272f11aee228a5089cb4501",
-          "uri": "spotify:track:6ryWXzeSbDX5cebOrgjMKL",
-          "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL",
-          "duration_ms": 178304
-        },
-        {
-          "rank": 39,
           "name": "Hate",
           "artists": [
             "Slimepayn"
@@ -487,7 +473,7 @@
           "duration_ms": 111960
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Hot N*gga",
           "artists": [
             "Bobby Shmurda"
@@ -499,7 +485,7 @@
           "duration_ms": 194561
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "trappin em math",
           "artists": [
             "Robin Gan"
@@ -511,7 +497,7 @@
           "duration_ms": 61853
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
           "artists": [
             "Marc Acardipane",
@@ -524,7 +510,7 @@
           "duration_ms": 163200
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -536,7 +522,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -548,7 +534,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -563,7 +549,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -575,7 +561,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Virgil 2",
           "artists": [
             "OT7 Quanny"
@@ -587,7 +573,7 @@
           "duration_ms": 125111
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -599,7 +585,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -611,7 +597,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -621,6 +607,19 @@
           "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
           "url": "https://open.spotify.com/track/6dY5hqP7RPPjjA8rLukrtD",
           "duration_ms": 249813
+        },
+        {
+          "rank": 50,
+          "name": "Just The Way You Are",
+          "artists": [
+            "Milky",
+            "Mall Grab"
+          ],
+          "album": "Just The Way You Are",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+          "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+          "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt",
+          "duration_ms": 159500
         }
       ],
       "artists": [
