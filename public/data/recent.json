@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T04:02:52.267Z",
+  "updated_at": "2026-06-21T09:47:10.058Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6788,6 +6788,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d6d24aee7b49a2db98a76856",
       "uri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
       "duration_ms": 176561
+    },
+    {
+      "played_at": "2026-06-21T05:41:28.688Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-21T05:50:13.822Z",
+      "name": "real music made me cry",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:5CGGJpnw8bEf2nInuIqn31",
+      "duration_ms": 46923
     }
   ]
 }

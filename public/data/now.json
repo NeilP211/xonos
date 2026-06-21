@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-21T04:02:52.346Z",
-  "is_playing": true,
+  "updated_at": "2026-06-21T09:47:10.146Z",
+  "is_playing": false,
   "track": {
-    "name": "RIP Roach (feat. $ki Mask The Slump God)",
+    "name": "real music made me cry",
     "artists": [
-      "XXXTENTACION",
-      "Ski Mask The Slump God"
+      "Robin Gan"
     ],
-    "album": "Revenge",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
-    "uri": "spotify:track:658I1uDnmLSiltFCf98AWE"
+    "album": "real music",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+    "uri": "spotify:track:5CGGJpnw8bEf2nInuIqn31"
   },
-  "played_at": "2026-06-21T04:02:52.346Z"
+  "played_at": "2026-06-21T05:50:13.822Z"
 }
