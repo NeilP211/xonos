@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-20T22:04:43.031Z",
-  "is_playing": false,
+  "updated_at": "2026-06-21T04:02:52.346Z",
+  "is_playing": true,
   "track": {
-    "name": "I'm Not Alone - 2019 Edit",
+    "name": "RIP Roach (feat. $ki Mask The Slump God)",
     "artists": [
-      "Calvin Harris"
+      "XXXTENTACION",
+      "Ski Mask The Slump God"
     ],
-    "album": "I'm Not Alone 2019",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738c53b740dc717fb5dffebc3a",
-    "uri": "spotify:track:43ILNTrpuwv2vTcJErWFWp"
+    "album": "Revenge",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
+    "uri": "spotify:track:658I1uDnmLSiltFCf98AWE"
   },
-  "played_at": "2026-06-20T18:17:12.474Z"
+  "played_at": "2026-06-21T04:02:52.346Z"
 }
