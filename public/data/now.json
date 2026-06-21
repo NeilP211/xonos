@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-21T16:44:24.470Z",
-  "is_playing": false,
+  "updated_at": "2026-06-21T19:27:30.720Z",
+  "is_playing": true,
   "track": {
-    "name": "real music made me cry",
+    "name": "Next to Me - Gymtok Edit",
     "artists": [
-      "Robin Gan"
+      "Mqx",
+      "Gymtok"
     ],
-    "album": "real music",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
-    "uri": "spotify:track:5CGGJpnw8bEf2nInuIqn31"
+    "album": "Next to Me (Gymtok Edit)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730531a97b0e48d67af6b1dffc",
+    "uri": "spotify:track:4RoiGj5G8MZhWAHggni6HT"
   },
-  "played_at": "2026-06-21T05:50:13.822Z"
+  "played_at": "2026-06-21T19:27:30.720Z"
 }
