@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:13:28.118Z",
+  "updated_at": "2026-06-22T04:03:40.026Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6810,6 +6810,116 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
       "uri": "spotify:track:5CGGJpnw8bEf2nInuIqn31",
       "duration_ms": 46923
+    },
+    {
+      "played_at": "2026-06-21T22:55:02.917Z",
+      "name": "Paranoid",
+      "artists": [
+        "DJ Iraq"
+      ],
+      "album": "Paranoid",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
+      "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
+      "duration_ms": 158966
+    },
+    {
+      "played_at": "2026-06-22T00:52:01.250Z",
+      "name": "Copy My Flow",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+      "duration_ms": 78393
+    },
+    {
+      "played_at": "2026-06-22T01:07:07.704Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316b74976c6894bebcbb80ee6",
+      "uri": "spotify:track:6JQmciUw1AXgMakHy1QFWv",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-06-22T01:09:50.568Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-06-22T01:11:26.453Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-06-22T01:13:43.607Z",
+      "name": "Blonde",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Flex Musix",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1ce808155be3a39c3b1e4cd",
+      "uri": "spotify:track:4N7HxVSOdRKlPbSWzghIyN",
+      "duration_ms": 144601
+    },
+    {
+      "played_at": "2026-06-22T01:16:51.771Z",
+      "name": "Blueberry Faygo",
+      "artists": [
+        "Lil Mosey"
+      ],
+      "album": "Certified Hitmaker",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584",
+      "uri": "spotify:track:22LAwLoDA5b4AaGSkg6bKW",
+      "duration_ms": 162546
+    },
+    {
+      "played_at": "2026-06-22T01:30:07.591Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-06-22T01:36:54.252Z",
+      "name": "math goat",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "math goat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273334e6af0cdf64ddabb9993ad",
+      "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
+      "duration_ms": 81843
+    },
+    {
+      "played_at": "2026-06-22T02:24:58.426Z",
+      "name": "dying",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:1xZ99usmMNqOoG2BnMJeKP",
+      "duration_ms": 65062
     }
   ]
 }
