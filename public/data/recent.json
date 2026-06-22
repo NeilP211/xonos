@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T11:50:38.918Z",
+  "updated_at": "2026-06-22T16:53:19.940Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -6920,6 +6920,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
       "uri": "spotify:track:1xZ99usmMNqOoG2BnMJeKP",
       "duration_ms": 65062
+    },
+    {
+      "played_at": "2026-06-22T02:26:02.592Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-06-22T16:09:13.999Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
     }
   ]
 }
