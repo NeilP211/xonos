@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T17:16:32.612Z",
+  "updated_at": "2026-06-23T20:01:53.750Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7030,6 +7030,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
       "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
       "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-06-23T16:29:04.805Z",
+      "name": "fatman",
+      "artists": [
+        "boolymon"
+      ],
+      "album": "fatman",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737fa997a8cc13a39b4b2e1b21",
+      "uri": "spotify:track:0Vrp38pF5LU2blusmFQxLP",
+      "duration_ms": 90426
+    },
+    {
+      "played_at": "2026-06-23T18:58:45.283Z",
+      "name": "no reez",
+      "artists": [
+        "Chris Finesse Exclusives",
+        "boolymon"
+      ],
+      "album": "no reez",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342c8e398d411ac1000c97b4b",
+      "uri": "spotify:track:325fUFj7vLIMtRfADUduMb",
+      "duration_ms": 132177
     }
   ]
 }
