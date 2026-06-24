@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:25:47.751Z",
+  "updated_at": "2026-06-24T18:36:45.200Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7420,6 +7420,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
       "uri": "spotify:track:0KKPRgsM7LkJqhYgofhgkO",
       "duration_ms": 199893
+    },
+    {
+      "played_at": "2026-06-24T18:29:37.752Z",
+      "name": "Love In The Eyes",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:19kA9MB5gD4xX27NFmBTVs",
+      "duration_ms": 240493
+    },
+    {
+      "played_at": "2026-06-24T18:30:50.351Z",
+      "name": "The Kingsroad",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:7AoHeuLq7LpyeP7S8suz2e",
+      "duration_ms": 126053
+    },
+    {
+      "played_at": "2026-06-24T18:34:27.689Z",
+      "name": "Don't Die With A Clean Sword - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273822e909bd0687dadc961e2e5",
+      "uri": "spotify:track:6NP90PWaW2lYKbFzSjYl07",
+      "duration_ms": 203560
     }
   ]
 }
