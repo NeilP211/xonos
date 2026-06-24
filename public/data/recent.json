@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T19:43:40.090Z",
+  "updated_at": "2026-06-24T22:15:55.427Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7529,6 +7529,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
       "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
       "duration_ms": 260733
+    },
+    {
+      "played_at": "2026-06-24T19:45:35.650Z",
+      "name": "We Are The Watchers On The Wall - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273822e909bd0687dadc961e2e5",
+      "uri": "spotify:track:07XZGPMv7NysMZwKqiObWb",
+      "duration_ms": 158413
+    },
+    {
+      "played_at": "2026-06-24T19:46:57.956Z",
+      "name": "Game Of Thrones",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:2kgJYQKyQ1CK5GWcCUGwwh",
+      "duration_ms": 78293
+    },
+    {
+      "played_at": "2026-06-24T19:50:18.072Z",
+      "name": "Believe",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
+      "uri": "spotify:track:0C8ov6hcpKoN8MJsWYGVue",
+      "duration_ms": 264774
     }
   ]
 }
