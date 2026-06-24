@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T03:27:28.711Z",
+  "updated_at": "2026-06-24T09:25:54.600Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7064,6 +7064,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
       "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
       "duration_ms": 81843
+    },
+    {
+      "played_at": "2026-06-24T01:06:19.257Z",
+      "name": "kickin da ball",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "kickin da ball",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
+      "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
+      "duration_ms": 66846
     }
   ]
 }
