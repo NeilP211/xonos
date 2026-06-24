@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:04:22.999Z",
+  "updated_at": "2026-06-24T18:25:47.751Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7343,6 +7343,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
       "uri": "spotify:track:0l1yrAWnbH0LsTy2qnnmxI",
       "duration_ms": 243635
+    },
+    {
+      "played_at": "2026-06-24T18:05:25.752Z",
+      "name": "When The Sun Rises In The West",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:791hJyQ1Z3U9BmmFryEKPQ",
+      "duration_ms": 160253
+    },
+    {
+      "played_at": "2026-06-24T18:08:52.153Z",
+      "name": "The Night's Watch",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:5ryZK3msA04LNcnMaMtm6p",
+      "duration_ms": 104773
+    },
+    {
+      "played_at": "2026-06-24T18:11:40.572Z",
+      "name": "Dark Wings, Dark Words",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+      "uri": "spotify:track:2YZy9wVrWyWIGJK7LsJbgZ",
+      "duration_ms": 167906
+    },
+    {
+      "played_at": "2026-06-24T18:14:22.876Z",
+      "name": "Winter Is Coming",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:0sNOPYInjylsM8ZnQozPjt",
+      "duration_ms": 161773
+    },
+    {
+      "played_at": "2026-06-24T18:19:40.627Z",
+      "name": "Hardhome, Pt. 1",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a261b42baf923b19d3de114",
+      "uri": "spotify:track:5Prapv6oNbzqGU5ep1IRxb",
+      "duration_ms": 306746
+    },
+    {
+      "played_at": "2026-06-24T18:22:12.293Z",
+      "name": "Finale",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:3Z0QYWxOndrwwtiUyybjSl",
+      "duration_ms": 151146
+    },
+    {
+      "played_at": "2026-06-24T18:25:32.706Z",
+      "name": "You Know Nothing",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+      "uri": "spotify:track:0KKPRgsM7LkJqhYgofhgkO",
+      "duration_ms": 199893
     }
   ]
 }
