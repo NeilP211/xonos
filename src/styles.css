@@ -164,7 +164,9 @@ body {
 .cmp-rows { display: flex; flex-direction: column; max-height: 220px; overflow-y: auto; }
 
 /* Share card */
-.wrapped-canvas { width: 100%; max-width: 340px; height: auto; display: block; border: 1px solid var(--border); margin-bottom: 12px; }
+.wrapped { display: flex; flex-direction: column; }
+.wrapped-canvas { width: 100%; height: auto; display: block; border: 1px solid var(--border); margin-bottom: 12px; }
+.wrapped-btn:disabled { opacity: 0.5; cursor: default; }
 .wrapped-btn {
   border: 1px solid var(--border-2); background: var(--accent); color: #000; cursor: pointer;
   font-family: var(--mono); font-size: 12px; font-weight: 700; text-transform: uppercase;
