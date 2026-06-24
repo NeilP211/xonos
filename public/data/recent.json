@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:10:28.818Z",
+  "updated_at": "2026-06-24T03:27:28.711Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7053,6 +7053,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27342c8e398d411ac1000c97b4b",
       "uri": "spotify:track:325fUFj7vLIMtRfADUduMb",
       "duration_ms": 132177
+    },
+    {
+      "played_at": "2026-06-24T00:59:57.197Z",
+      "name": "math goat",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "math goat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
+      "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
+      "duration_ms": 81843
     }
   ]
 }

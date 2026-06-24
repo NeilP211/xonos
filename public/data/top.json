@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:10:28.712Z",
+  "generated_at": "2026-06-24T03:27:28.460Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -300,6 +300,18 @@
         },
         {
           "rank": 25,
+          "name": "math goat",
+          "artists": [
+            "Robin Gan"
+          ],
+          "album": "math goat",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
+          "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
+          "url": "https://open.spotify.com/track/64rkGDcxsrmCJjVhRxoc3H",
+          "duration_ms": 81843
+        },
+        {
+          "rank": 26,
           "name": "Free Your Mind",
           "artists": [
             "Prospa",
@@ -312,7 +324,7 @@
           "duration_ms": 201700
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Beneficial For AnyBody",
           "artists": [
             "Glokk40Spaz"
@@ -324,7 +336,7 @@
           "duration_ms": 178329
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -336,7 +348,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -348,7 +360,7 @@
           "duration_ms": 417226
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Virgil 2",
           "artists": [
             "OT7 Quanny"
@@ -360,7 +372,7 @@
           "duration_ms": 125111
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -373,7 +385,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "I'm Not Alone - 2019 Edit",
           "artists": [
             "Calvin Harris"
@@ -385,7 +397,7 @@
           "duration_ms": 201313
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -395,18 +407,6 @@
           "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
           "url": "https://open.spotify.com/track/5CBekqMfv1B1FF8Fp6RIOW",
           "duration_ms": 77005
-        },
-        {
-          "rank": 33,
-          "name": "math goat",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "math goat",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
-          "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
-          "url": "https://open.spotify.com/track/64rkGDcxsrmCJjVhRxoc3H",
-          "duration_ms": 81843
         },
         {
           "rank": 34,
@@ -448,19 +448,6 @@
         },
         {
           "rank": 37,
-          "name": "lilacs - slowed",
-          "artists": [
-            "azrxel",
-            "abxddon"
-          ],
-          "album": "lilacs - slowed",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
-          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
-          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
-          "duration_ms": 70866
-        },
-        {
-          "rank": 38,
           "name": "Hot N*gga",
           "artists": [
             "Bobby Shmurda"
@@ -472,7 +459,7 @@
           "duration_ms": 194561
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "trappin em math",
           "artists": [
             "Robin Gan"
@@ -484,7 +471,7 @@
           "duration_ms": 61853
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
           "artists": [
             "Marc Acardipane",
@@ -497,7 +484,7 @@
           "duration_ms": 163200
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Shine",
           "artists": [
             "Spektrem"
@@ -509,7 +496,7 @@
           "duration_ms": 315585
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -521,7 +508,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Slow Down",
           "artists": [
             "Selena Gomez"
@@ -533,7 +520,7 @@
           "duration_ms": 210293
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -545,7 +532,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "cozy",
           "artists": [
             "phreshboyswag"
@@ -557,7 +544,7 @@
           "duration_ms": 147911
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -569,7 +556,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -581,7 +568,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -593,7 +580,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -605,7 +592,7 @@
           "duration_ms": 249813
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -616,6 +603,18 @@
           "uri": "spotify:track:02shCNmb6IvgB5jLqKjtkK",
           "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK",
           "duration_ms": 208561
+        },
+        {
+          "rank": 50,
+          "name": "kickin da ball",
+          "artists": [
+            "Robin Gan"
+          ],
+          "album": "kickin da ball",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
+          "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
+          "url": "https://open.spotify.com/track/1qZ29A3lILEHToEThiJEBz",
+          "duration_ms": 66846
         }
       ],
       "artists": [
@@ -1013,11 +1012,11 @@
         },
         {
           "rank": 50,
-          "name": "NBSPLV",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8556811e8509d9acbf42140",
+          "name": "Paramore",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
-          "uri": "spotify:artist:61TQfpvTjHYQjPrvtJPwVa",
-          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ]
     },
@@ -1834,6 +1833,14 @@
         },
         {
           "rank": 25,
+          "name": "Drake",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+          "genres": [],
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "rank": 26,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -1841,20 +1848,12 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "rank": 27,
-          "name": "Drake",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [],
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "rank": 28,
