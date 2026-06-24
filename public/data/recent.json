@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:25:54.600Z",
+  "updated_at": "2026-06-24T14:28:53.946Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7075,6 +7075,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
       "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
       "duration_ms": 66846
+    },
+    {
+      "played_at": "2026-06-24T13:09:58.592Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-06-24T13:13:55.488Z",
+      "name": "Tulsa Jesus Freak",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Chemtrails Over The Country Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+      "uri": "spotify:track:0hyImI8JaWONOrzKH7kJsC",
+      "duration_ms": 215673
+    },
+    {
+      "played_at": "2026-06-24T13:17:53.072Z",
+      "name": "National Anthem",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
+      "duration_ms": 230520
+    },
+    {
+      "played_at": "2026-06-24T13:21:23.087Z",
+      "name": "Blue Jeans",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2lFTzUnuGaWlWHJQokjRyb",
+      "duration_ms": 209440
+    },
+    {
+      "played_at": "2026-06-24T13:26:46.983Z",
+      "name": "Swan Song",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
+      "duration_ms": 323475
     }
   ]
 }
