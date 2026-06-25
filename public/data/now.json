@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-06-25T19:58:15.230Z",
+  "updated_at": "2026-06-25T22:20:12.456Z",
   "is_playing": false,
   "track": {
-    "name": "A New Kind Of Love - Demo",
+    "name": "I Kissed A Girl",
     "artists": [
-      "Frou Frou",
-      "Imogen Heap",
-      "Guy Sigsworth"
+      "Katy Perry"
     ],
-    "album": "Off Cuts",
-    "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-    "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE"
+    "album": "One Of The Boys",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
+    "uri": "spotify:track:005lwxGU1tms6HGELIcUv9"
   },
-  "played_at": "2026-06-25T03:57:09.765Z"
+  "played_at": "2026-06-25T21:48:59.375Z"
 }
