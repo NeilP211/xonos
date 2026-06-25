@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-06-25T03:24:42.766Z",
+  "updated_at": "2026-06-25T09:19:01.523Z",
   "is_playing": false,
   "track": {
-    "name": "Mutation",
+    "name": "A New Kind Of Love - Demo",
     "artists": [
-      "C418"
+      "Frou Frou",
+      "Imogen Heap",
+      "Guy Sigsworth"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:0tKGheuEeXHSDz55C35MpL"
+    "album": "Off Cuts",
+    "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
+    "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE"
   },
-  "played_at": "2026-06-25T01:23:30.526Z"
+  "played_at": "2026-06-25T03:57:09.765Z"
 }
