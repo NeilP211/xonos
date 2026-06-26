@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:32:52.030Z",
+  "generated_at": "2026-06-26T09:22:28.244Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -31,19 +31,6 @@
         },
         {
           "rank": 3,
-          "name": "Kifek 3A Fra2e",
-          "artists": [
-            "Fadel Chaker",
-            "Mohamed Chaker"
-          ],
-          "album": "Kifek 3A Fra2e",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
-          "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
-          "url": "https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii",
-          "duration_ms": 228236
-        },
-        {
-          "rank": 4,
           "name": "Kirkify",
           "artists": [
             "Edo Hunnidz"
@@ -55,7 +42,7 @@
           "duration_ms": 80000
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -67,7 +54,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -81,7 +68,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -94,7 +81,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -106,7 +93,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "i aint start making money till i started doing drugs",
           "artists": [
             "bleood"
@@ -118,19 +105,19 @@
           "duration_ms": 107110
         },
         {
-          "rank": 10,
-          "name": "Baddi Doub",
+          "rank": 9,
+          "name": "Im Inna Band",
           "artists": [
-            "Elissa"
+            "Glokk40Spaz"
           ],
-          "album": "Baddi Doub",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
-          "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
-          "url": "https://open.spotify.com/track/571ElrlNtK4djFptlFgtU3",
-          "duration_ms": 239098
+          "album": "Im Inna Band",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
+          "duration_ms": 194951
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "zombie",
           "artists": [
             "bleood"
@@ -140,6 +127,18 @@
           "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
           "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
           "duration_ms": 121573
+        },
+        {
+          "rank": 11,
+          "name": "Baddi Doub",
+          "artists": [
+            "Elissa"
+          ],
+          "album": "Baddi Doub",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+          "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
+          "url": "https://open.spotify.com/track/571ElrlNtK4djFptlFgtU3",
+          "duration_ms": 239098
         },
         {
           "rank": 12,
@@ -155,18 +154,6 @@
         },
         {
           "rank": 13,
-          "name": "Im Inna Band",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Im Inna Band",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
-          "duration_ms": 194951
-        },
-        {
-          "rank": 14,
           "name": "Thoughts While Incarcerated",
           "artists": [
             "Glokk40Spaz"
@@ -178,7 +165,7 @@
           "duration_ms": 221387
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -190,7 +177,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Goliath",
           "artists": [
             "Dialryckx"
@@ -202,7 +189,7 @@
           "duration_ms": 39000
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "in china",
           "artists": [
             "Robin Gan"
@@ -214,7 +201,7 @@
           "duration_ms": 65061
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -224,6 +211,19 @@
           "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
           "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
           "duration_ms": 109244
+        },
+        {
+          "rank": 18,
+          "name": "Kifek 3A Fra2e",
+          "artists": [
+            "Fadel Chaker",
+            "Mohamed Chaker"
+          ],
+          "album": "Kifek 3A Fra2e",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
+          "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
+          "url": "https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii",
+          "duration_ms": 228236
         },
         {
           "rank": 19,
@@ -933,6 +933,14 @@
         },
         {
           "rank": 40,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "rank": 41,
           "name": "DJ ZRED DA DZ7",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1d59318b906debbba83cf1e1",
           "genres": [],
@@ -940,7 +948,7 @@
           "url": "https://open.spotify.com/artist/2OROoLDJ1AgO6H0lNxI931"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Edot Babyy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
           "genres": [],
@@ -948,7 +956,7 @@
           "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "ian",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
           "genres": [],
@@ -956,7 +964,7 @@
           "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Obskür",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
           "genres": [],
@@ -964,7 +972,7 @@
           "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
           "genres": [],
@@ -972,20 +980,12 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
           "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
-        },
-        {
-          "rank": 46,
-          "name": "Fadel Chaker",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebefc1fc78f05677fb9950f11f",
-          "genres": [],
-          "uri": "spotify:artist:1LljnS3oumQ36wdBhkPKrs",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         },
         {
           "rank": 47,
@@ -1148,19 +1148,6 @@
         },
         {
           "rank": 11,
-          "name": "Don't Let Me Down",
-          "artists": [
-            "The Chainsmokers",
-            "Daya"
-          ],
-          "album": "The Chainsmokers- Japan Special Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735e8bcc7e341843c708bcf655",
-          "uri": "spotify:track:0QsvXIfqM0zZoerQfsI9lm",
-          "url": "https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm",
-          "duration_ms": 208053
-        },
-        {
-          "rank": 12,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1171,6 +1158,19 @@
           "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
           "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
           "duration_ms": 70866
+        },
+        {
+          "rank": 12,
+          "name": "Don't Let Me Down",
+          "artists": [
+            "The Chainsmokers",
+            "Daya"
+          ],
+          "album": "The Chainsmokers- Japan Special Edition",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735e8bcc7e341843c708bcf655",
+          "uri": "spotify:track:0QsvXIfqM0zZoerQfsI9lm",
+          "url": "https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm",
+          "duration_ms": 208053
         },
         {
           "rank": 13,
@@ -1234,6 +1234,19 @@
         },
         {
           "rank": 18,
+          "name": "Yung Nigga Shit",
+          "artists": [
+            "Glokk40Spaz",
+            "2wo2imes"
+          ],
+          "album": "2wo Glokks",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
+          "duration_ms": 135510
+        },
+        {
+          "rank": 19,
           "name": "fancy",
           "artists": [
             "phreshboyswag"
@@ -1245,7 +1258,7 @@
           "duration_ms": 86842
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -1257,19 +1270,6 @@
           "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
           "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H",
           "duration_ms": 259071
-        },
-        {
-          "rank": 20,
-          "name": "Yung Nigga Shit",
-          "artists": [
-            "Glokk40Spaz",
-            "2wo2imes"
-          ],
-          "album": "2wo Glokks",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
-          "duration_ms": 135510
         },
         {
           "rank": 21,
@@ -1348,6 +1348,18 @@
         },
         {
           "rank": 27,
+          "name": "Electronic Heart - Slowed",
+          "artists": [
+            "NIVEK FFORHS"
+          ],
+          "album": "Electronic Heart",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738b88064619ea563252230702",
+          "uri": "spotify:track:1RJY9Sgj963s3nQfF3VuR3",
+          "url": "https://open.spotify.com/track/1RJY9Sgj963s3nQfF3VuR3",
+          "duration_ms": 235839
+        },
+        {
+          "rank": 28,
           "name": "B2b",
           "artists": [
             "Charli xcx"
@@ -1359,7 +1371,7 @@
           "duration_ms": 178579
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Kifek 3A Fra2e",
           "artists": [
             "Fadel Chaker",
@@ -1372,7 +1384,7 @@
           "duration_ms": 228236
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "بسبوس عاشق بسة",
           "artists": [
             "المايسترو محمد الشيخ"
@@ -1384,7 +1396,7 @@
           "duration_ms": 212324
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1396,7 +1408,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Spinnin",
           "artists": [
             "Kyle Richh"
@@ -1408,7 +1420,7 @@
           "duration_ms": 164583
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -1423,7 +1435,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Dile",
           "artists": [
             "Don Omar"
@@ -1435,7 +1447,7 @@
           "duration_ms": 204600
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Void",
           "artists": [
             "Tevvez"
@@ -1447,7 +1459,7 @@
           "duration_ms": 209040
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -1457,18 +1469,6 @@
           "uri": "spotify:track:1G2E4WufQHK8xVN5VD6dzN",
           "url": "https://open.spotify.com/track/1G2E4WufQHK8xVN5VD6dzN",
           "duration_ms": 348622
-        },
-        {
-          "rank": 36,
-          "name": "Electronic Heart - Slowed",
-          "artists": [
-            "NIVEK FFORHS"
-          ],
-          "album": "Electronic Heart",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738b88064619ea563252230702",
-          "uri": "spotify:track:1RJY9Sgj963s3nQfF3VuR3",
-          "url": "https://open.spotify.com/track/1RJY9Sgj963s3nQfF3VuR3",
-          "duration_ms": 235839
         },
         {
           "rank": 37,
