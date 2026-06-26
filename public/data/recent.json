@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:49:06.602Z",
+  "updated_at": "2026-06-26T22:11:56.357Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7896,6 +7896,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
       "uri": "spotify:track:0oiaNKkZsnzrSM0zXxh5tm",
       "duration_ms": 85524
+    },
+    {
+      "played_at": "2026-06-26T01:50:53.135Z",
+      "name": "Egyptian Codes",
+      "artists": [
+        "DotComNirvan",
+        "Glokk40Spaz"
+      ],
+      "album": "Egyptian Codes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
+      "duration_ms": 150000
     }
   ]
 }

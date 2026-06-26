@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-26T19:49:06.703Z",
+  "updated_at": "2026-06-26T22:11:56.393Z",
   "is_playing": false,
   "track": {
-    "name": "Swamp",
+    "name": "Egyptian Codes",
     "artists": [
+      "DotComNirvan",
       "Glokk40Spaz"
     ],
-    "album": "Glokk Files",
-    "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
-    "uri": "spotify:track:0oiaNKkZsnzrSM0zXxh5tm"
+    "album": "Egyptian Codes",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
+    "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi"
   },
-  "played_at": "2026-06-26T01:27:16.278Z"
+  "played_at": "2026-06-26T01:50:53.135Z"
 }
