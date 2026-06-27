@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:11:56.357Z",
+  "updated_at": "2026-06-27T02:55:16.817Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -7908,6 +7908,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
       "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
       "duration_ms": 150000
+    },
+    {
+      "played_at": "2026-06-26T22:16:50.965Z",
+      "name": "Sweet Home Alabama",
+      "artists": [
+        "Lynyrd Skynyrd"
+      ],
+      "album": "Second Helping (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+      "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
+      "duration_ms": 283800
+    },
+    {
+      "played_at": "2026-06-26T23:24:21.583Z",
+      "name": "Paradise City",
+      "artists": [
+        "Guns N' Roses"
+      ],
+      "album": "Appetite For Destruction",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+      "uri": "spotify:track:6eN1f9KNmiWEhpE2RhQqB5",
+      "duration_ms": 405600
+    },
+    {
+      "played_at": "2026-06-26T23:27:29.665Z",
+      "name": "Paradise City",
+      "artists": [
+        "Guns N' Roses"
+      ],
+      "album": "Appetite For Destruction",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+      "uri": "spotify:track:6eN1f9KNmiWEhpE2RhQqB5",
+      "duration_ms": 405600
+    },
+    {
+      "played_at": "2026-06-26T23:32:05.740Z",
+      "name": "Aneurysm",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Incesticide",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
+      "uri": "spotify:track:0Pie5DFAHHxpkONFUsAI6s",
+      "duration_ms": 275600
+    },
+    {
+      "played_at": "2026-06-26T23:44:57.620Z",
+      "name": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
+      "duration_ms": 255080
+    },
+    {
+      "played_at": "2026-06-26T23:46:28.070Z",
+      "name": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
+      "duration_ms": 255080
     }
   ]
 }

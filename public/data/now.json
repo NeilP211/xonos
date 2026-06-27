@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-26T22:11:56.393Z",
+  "updated_at": "2026-06-27T02:55:16.932Z",
   "is_playing": false,
   "track": {
-    "name": "Egyptian Codes",
+    "name": "In Bloom",
     "artists": [
-      "DotComNirvan",
-      "Glokk40Spaz"
+      "Nirvana"
     ],
-    "album": "Egyptian Codes",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
-    "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi"
+    "album": "Nevermind (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq"
   },
-  "played_at": "2026-06-26T01:50:53.135Z"
+  "played_at": "2026-06-26T23:46:28.070Z"
 }
