@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T13:28:53.222Z",
+  "updated_at": "2026-06-27T16:03:45.132Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -8007,6 +8007,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
       "duration_ms": 317760
+    },
+    {
+      "played_at": "2026-06-27T15:25:46.797Z",
+      "name": "NOGWAPNOLIFE",
+      "artists": [
+        "bleood"
+      ],
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "uri": "spotify:track:01Ie9r4T3g5OMeea5KGAJd",
+      "duration_ms": 145681
     }
   ]
 }
