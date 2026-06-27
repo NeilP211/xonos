@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T16:03:45.030Z",
+  "generated_at": "2026-06-27T19:17:48.423Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -460,31 +460,6 @@
         },
         {
           "rank": 38,
-          "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
-          "artists": [
-            "Marc Acardipane",
-            "Dayerteq"
-          ],
-          "album": "Return to Zero Beztebya (Mixes)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b5fb5e2c271ea627c962a8b4",
-          "uri": "spotify:track:1XmrkcwlWxEHR0g7rHNtEG",
-          "url": "https://open.spotify.com/track/1XmrkcwlWxEHR0g7rHNtEG",
-          "duration_ms": 163200
-        },
-        {
-          "rank": 39,
-          "name": "Shine",
-          "artists": [
-            "Spektrem"
-          ],
-          "album": "Shine",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d1137f926e9926c04bb34d1c",
-          "uri": "spotify:track:28nJtITSktvCECziG14oRr",
-          "url": "https://open.spotify.com/track/28nJtITSktvCECziG14oRr",
-          "duration_ms": 315585
-        },
-        {
-          "rank": 40,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -496,7 +471,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Slow Down",
           "artists": [
             "Selena Gomez"
@@ -508,7 +483,7 @@
           "duration_ms": 210293
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -520,7 +495,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "cozy",
           "artists": [
             "phreshboyswag"
@@ -532,7 +507,7 @@
           "duration_ms": 147911
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -544,7 +519,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -556,7 +531,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -568,7 +543,7 @@
           "duration_ms": 417226
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Tennessee Whiskey",
           "artists": [
             "Chris Stapleton"
@@ -580,7 +555,7 @@
           "duration_ms": 293293
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -592,30 +567,54 @@
           "duration_ms": 249813
         },
         {
-          "rank": 49,
-          "name": "Nevada",
+          "rank": 47,
+          "name": "Ya Layaly",
           "artists": [
-            "Vicetone",
-            "Cozi Zuehlsdorff"
+            "Sherine"
           ],
-          "album": "Nevada",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f48a2a4e66094853072c3b79",
-          "uri": "spotify:track:02shCNmb6IvgB5jLqKjtkK",
-          "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK",
-          "duration_ms": 208561
+          "album": "Ana Kteer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
+          "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
+          "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
+          "duration_ms": 299258
+        },
+        {
+          "rank": 48,
+          "name": "Yung Nigga Shit",
+          "artists": [
+            "Glokk40Spaz",
+            "2wo2imes"
+          ],
+          "album": "2wo Glokks",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
+          "duration_ms": 135510
+        },
+        {
+          "rank": 49,
+          "name": "Avoir",
+          "artists": [
+            "Dialryckx"
+          ],
+          "album": "Dissociation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312fdf0c5b79cf95a5a265030",
+          "uri": "spotify:track:67zokYkJPEN0mUXUZHArU8",
+          "url": "https://open.spotify.com/track/67zokYkJPEN0mUXUZHArU8",
+          "duration_ms": 94227
         },
         {
           "rank": 50,
-          "name": "Kifek 3A Fra2e",
+          "name": "Just The Way You Are",
           "artists": [
-            "Fadel Chaker",
-            "Mohamed Chaker"
+            "Milky",
+            "Mall Grab"
           ],
-          "album": "Kifek 3A Fra2e",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
-          "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
-          "url": "https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii",
-          "duration_ms": 228236
+          "album": "Just The Way You Are",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+          "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+          "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt",
+          "duration_ms": 159500
         }
       ],
       "artists": [
@@ -981,14 +980,6 @@
         },
         {
           "rank": 46,
-          "name": "Swedish House Mafia",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb9614fcf985ad6fc5b4a7c3de",
-          "genres": [],
-          "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "rank": 47,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
@@ -996,7 +987,7 @@
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
@@ -1004,7 +995,7 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
@@ -1012,12 +1003,20 @@
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "0to8",
           "image": "https://i.scdn.co/image/ab6761610000e5ebde5cf19be07f368f4531ba22",
           "genres": [],
           "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g",
           "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+        },
+        {
+          "rank": 50,
+          "name": "DJ DYLANFK",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8b4df761ef2aa22c05175390",
+          "genres": [],
+          "uri": "spotify:artist:26COCLBHY0CCqCbSlIKWee",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
         }
       ]
     },
