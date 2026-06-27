@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T19:17:48.484Z",
+  "updated_at": "2026-06-27T22:01:29.996Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -8018,6 +8018,20 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
       "uri": "spotify:track:01Ie9r4T3g5OMeea5KGAJd",
       "duration_ms": 145681
+    },
+    {
+      "played_at": "2026-06-27T21:39:37.573Z",
+      "name": "Lean On",
+      "artists": [
+        "Major Lazer",
+        "DJ Snake",
+        "MØ",
+        "Diplo"
+      ],
+      "album": "Peace Is The Mission",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6d24aee7b49a2db98a76856",
+      "uri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
+      "duration_ms": 176561
     }
   ]
 }
