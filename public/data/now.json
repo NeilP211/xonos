@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T22:01:30.193Z",
-  "is_playing": true,
+  "updated_at": "2026-06-28T03:38:27.079Z",
+  "is_playing": false,
   "track": {
-    "name": "Janice STFU",
+    "name": "American",
     "artists": [
-      "Drake"
+      "Lana Del Rey"
     ],
-    "album": "ICEMAN",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-    "uri": "spotify:track:514joG57v4yKTsfQmz7stz"
+    "album": "Paradise",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+    "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j"
   },
-  "played_at": "2026-06-27T22:01:30.193Z"
+  "played_at": "2026-06-28T03:19:49.445Z"
 }
