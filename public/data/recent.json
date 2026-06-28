@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T13:43:05.971Z",
+  "updated_at": "2026-06-28T16:08:36.026Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -8255,6 +8255,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
       "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
       "duration_ms": 248907
+    },
+    {
+      "played_at": "2026-06-28T13:46:54.152Z",
+      "name": "Art Deco",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
+      "duration_ms": 295066
+    },
+    {
+      "played_at": "2026-06-28T15:23:37.567Z",
+      "name": "Ribs",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
+      "duration_ms": 258969
+    },
+    {
+      "played_at": "2026-06-28T15:23:37.830Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
     }
   ]
 }
