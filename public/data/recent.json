@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:17:14.007Z",
+  "updated_at": "2026-06-28T22:00:41.183Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -8344,6 +8344,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49",
       "uri": "spotify:track:1A7qPfbcyRVEdcZiwTFhZI",
       "duration_ms": 209416
+    },
+    {
+      "played_at": "2026-06-28T20:46:30.965Z",
+      "name": "Отпусти меня",
+      "artists": [
+        "SEREBRO"
+      ],
+      "album": "СИЛА ТРЁХ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273734c14dce214f5b0da280a83",
+      "uri": "spotify:track:5JNvpulDanKIfPG5AB5Uen",
+      "duration_ms": 232855
     }
   ]
 }
