@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-28T16:08:36.061Z",
+  "updated_at": "2026-06-28T19:17:14.046Z",
   "is_playing": false,
   "track": {
-    "name": "The Blonde",
+    "name": "Memory Reboot",
     "artists": [
-      "TV Girl"
+      "VØJ",
+      "Narvent"
     ],
-    "album": "French Exit",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-    "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR"
+    "album": "Memory Reboot",
+    "image": "https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49",
+    "uri": "spotify:track:1A7qPfbcyRVEdcZiwTFhZI"
   },
-  "played_at": "2026-06-28T15:23:37.830Z"
+  "played_at": "2026-06-28T18:02:11.295Z"
 }

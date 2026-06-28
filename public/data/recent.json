@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:08:36.026Z",
+  "updated_at": "2026-06-28T19:17:14.007Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -8288,6 +8288,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
       "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-06-28T16:39:39.289Z",
+      "name": "Ribs",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
+      "duration_ms": 258969
+    },
+    {
+      "played_at": "2026-06-28T16:40:13.764Z",
+      "name": "Tennis Court",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
+      "duration_ms": 198907
+    },
+    {
+      "played_at": "2026-06-28T17:12:35.016Z",
+      "name": "MONTAGEM VOLTAR - Super Slowed",
+      "artists": [
+        "Musicpflanze"
+      ],
+      "album": "MONTAGEM VOLTAR",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738327115da9971d2a7aa8c410",
+      "uri": "spotify:track:1wt7auedXsUWBXH5yzC20K",
+      "duration_ms": 144245
+    },
+    {
+      "played_at": "2026-06-28T17:23:00.419Z",
+      "name": "help_urself - slowed",
+      "artists": [
+        "Ezekiel"
+      ],
+      "album": "help_urself (Alternates)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27307a64bb7dda36a5fdc516888",
+      "uri": "spotify:track:6ivAviar2zmiKrQ397I4rG",
+      "duration_ms": 151431
+    },
+    {
+      "played_at": "2026-06-28T18:02:11.295Z",
+      "name": "Memory Reboot",
+      "artists": [
+        "VØJ",
+        "Narvent"
+      ],
+      "album": "Memory Reboot",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49",
+      "uri": "spotify:track:1A7qPfbcyRVEdcZiwTFhZI",
+      "duration_ms": 209416
     }
   ]
 }
