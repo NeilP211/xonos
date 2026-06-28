@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:49:13.308Z",
+  "generated_at": "2026-06-28T11:06:03.788Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1709,19 +1709,19 @@
         },
         {
           "rank": 9,
-          "name": "Tevvez",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
-          "genres": [],
-          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
-          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
-        },
-        {
-          "rank": 10,
           "name": "Che",
           "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
           "genres": [],
           "uri": "spotify:artist:5A7T1LAGJg5NXySBoIKUmF",
           "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        },
+        {
+          "rank": 10,
+          "name": "Tevvez",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
+          "genres": [],
+          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
           "rank": 11,
@@ -1781,19 +1781,19 @@
         },
         {
           "rank": 18,
-          "name": "443RAVES",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
-          "genres": [],
-          "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
-          "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
-        },
-        {
-          "rank": 19,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 19,
+          "name": "443RAVES",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
+          "genres": [],
+          "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
+          "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
         },
         {
           "rank": 20,
