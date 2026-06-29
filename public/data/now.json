@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-06-29T03:43:02.050Z",
+  "updated_at": "2026-06-29T10:54:39.950Z",
   "is_playing": false,
   "track": {
-    "name": "The Rivers Of Belief - Radio Edit",
+    "name": "Slide (feat. Frank Ocean & Migos)",
     "artists": [
-      "Enigma"
+      "Calvin Harris",
+      "Frank Ocean",
+      "Migos"
     ],
-    "album": "The Rivers Of Belief",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b9d8d8308629d151fd08bf4a",
-    "uri": "spotify:track:3XcBi2zVhqSnIQ8kMlK9gV"
+    "album": "Slide (feat. Frank Ocean & Migos)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731e439ac0ed08d612808f7122",
+    "uri": "spotify:track:6gpcs5eMhJwax4mIfKDYQk"
   },
-  "played_at": "2026-06-29T01:02:51.808Z"
+  "played_at": "2026-06-29T01:03:54.241Z"
 }

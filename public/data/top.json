@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T03:43:01.807Z",
+  "generated_at": "2026-06-29T10:54:39.803Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1246,18 +1246,6 @@
         },
         {
           "rank": 19,
-          "name": "fancy",
-          "artists": [
-            "phreshboyswag"
-          ],
-          "album": "my autumn diary",
-          "image": "https://i.scdn.co/image/ab67616d0000b27342f326c1cae78e61948f2e82",
-          "uri": "spotify:track:7AO2m3TGqDp5ipkfj9YANu",
-          "url": "https://open.spotify.com/track/7AO2m3TGqDp5ipkfj9YANu",
-          "duration_ms": 86842
-        },
-        {
-          "rank": 20,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -1269,6 +1257,18 @@
           "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
           "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H",
           "duration_ms": 259071
+        },
+        {
+          "rank": 20,
+          "name": "fancy",
+          "artists": [
+            "phreshboyswag"
+          ],
+          "album": "my autumn diary",
+          "image": "https://i.scdn.co/image/ab67616d0000b27342f326c1cae78e61948f2e82",
+          "uri": "spotify:track:7AO2m3TGqDp5ipkfj9YANu",
+          "url": "https://open.spotify.com/track/7AO2m3TGqDp5ipkfj9YANu",
+          "duration_ms": 86842
         },
         {
           "rank": 21,
@@ -1724,6 +1724,14 @@
         },
         {
           "rank": 11,
+          "name": "Calvin Harris",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "genres": [],
+          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 12,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -1731,20 +1739,12 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 13,
-          "name": "Calvin Harris",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "genres": [],
-          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
           "rank": 14,
@@ -1796,6 +1796,14 @@
         },
         {
           "rank": 20,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 21,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -1803,7 +1811,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -1811,20 +1819,12 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "rank": 23,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "rank": 24,
