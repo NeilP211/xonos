@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-06-29T19:55:04.965Z",
-  "is_playing": true,
+  "updated_at": "2026-06-29T22:07:27.067Z",
+  "is_playing": false,
   "track": {
-    "name": "fable",
+    "name": "hold me in your arms",
     "artists": [
-      "Øneheart",
-      "reidenshi",
-      "Antent"
+      "Blood Nose"
     ],
-    "album": "fable",
-    "image": "https://i.scdn.co/image/ab67616d0000b273de230cccb5274fa6cca71f93",
-    "uri": "spotify:track:2x4JUfTNw6Ht4lUxtAS0OP"
+    "album": "hold me in your arms",
+    "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
+    "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F"
   },
-  "played_at": "2026-06-29T19:55:04.966Z"
+  "played_at": "2026-06-29T20:26:30.324Z"
 }
