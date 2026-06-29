@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-06-29T15:43:04.369Z",
+  "updated_at": "2026-06-29T19:55:04.965Z",
   "is_playing": true,
   "track": {
-    "name": "green to blue",
+    "name": "fable",
     "artists": [
-      "daniel.mp3"
+      "Øneheart",
+      "reidenshi",
+      "Antent"
     ],
-    "album": "Backroom",
-    "image": "https://i.scdn.co/image/ab67616d0000b27383ae32caa4aa4ae1e4dac7ed",
-    "uri": "spotify:track:4zzxSXdXK4gLEOyGpPpb9v"
+    "album": "fable",
+    "image": "https://i.scdn.co/image/ab67616d0000b273de230cccb5274fa6cca71f93",
+    "uri": "spotify:track:2x4JUfTNw6Ht4lUxtAS0OP"
   },
-  "played_at": "2026-06-29T15:43:04.370Z"
+  "played_at": "2026-06-29T19:55:04.966Z"
 }

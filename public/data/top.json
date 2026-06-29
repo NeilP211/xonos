@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:43:03.645Z",
+  "generated_at": "2026-06-29T19:55:04.591Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -948,54 +948,6 @@
         },
         {
           "rank": 42,
-          "name": "Edot Babyy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
-          "genres": [],
-          "uri": "spotify:artist:3bOV7IH0Lb13ifOUrwACa7",
-          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
-        },
-        {
-          "rank": 43,
-          "name": "ian",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
-          "genres": [],
-          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        },
-        {
-          "rank": 44,
-          "name": "Obskür",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
-          "genres": [],
-          "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        },
-        {
-          "rank": 45,
-          "name": "Jim Yosef",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
-          "genres": [],
-          "uri": "spotify:artist:40HDiLfKm0tXk2FxlJx6aO",
-          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
-        },
-        {
-          "rank": 46,
-          "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
-          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
-          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
-        },
-        {
-          "rank": 47,
-          "name": "0to8",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebde5cf19be07f368f4531ba22",
-          "genres": [],
-          "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g",
-          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
-        },
-        {
-          "rank": 48,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7d840dfd8e04ed802d1587c",
           "genres": [],
@@ -1003,20 +955,68 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
+          "rank": 43,
+          "name": "Edot Babyy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
+          "genres": [],
+          "uri": "spotify:artist:3bOV7IH0Lb13ifOUrwACa7",
+          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
+        },
+        {
+          "rank": 44,
+          "name": "ian",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
+          "genres": [],
+          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "rank": 45,
+          "name": "Obskür",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
+          "genres": [],
+          "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "rank": 46,
+          "name": "Jim Yosef",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
+          "genres": [],
+          "uri": "spotify:artist:40HDiLfKm0tXk2FxlJx6aO",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "rank": 47,
+          "name": "DJ ZUP RAlii",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "genres": [],
+          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
+          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
+        },
+        {
+          "rank": 48,
+          "name": "my head is empty",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
+          "genres": [],
+          "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
           "rank": 49,
+          "name": "0to8",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebde5cf19be07f368f4531ba22",
+          "genres": [],
+          "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g",
+          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+        },
+        {
+          "rank": 50,
           "name": "DJ DYLANFK",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8b4df761ef2aa22c05175390",
           "genres": [],
           "uri": "spotify:artist:26COCLBHY0CCqCbSlIKWee",
           "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "rank": 50,
-          "name": "Dj Leta7",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb244085160511e727256aa29e",
-          "genres": [],
-          "uri": "spotify:artist:4X71JTaEe92kGWDZmJ78eQ",
-          "url": "https://open.spotify.com/artist/4X71JTaEe92kGWDZmJ78eQ"
         }
       ]
     },
