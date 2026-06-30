@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T22:07:26.980Z",
+  "updated_at": "2026-06-30T03:30:55.459Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9272,6 +9272,193 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
       "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
       "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-06-29T23:26:33.385Z",
+      "name": "Bel Air",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:1OI3ZMcABE1U7hnhf9BENL",
+      "duration_ms": 237640
+    },
+    {
+      "played_at": "2026-06-29T23:30:27.595Z",
+      "name": "GUTS RAGE x HARDSTYLE",
+      "artists": [
+        "MyMotivation"
+      ],
+      "album": "GUTS RAGE x HARDSTYLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+      "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
+      "duration_ms": 153200
+    },
+    {
+      "played_at": "2026-06-29T23:31:39.144Z",
+      "name": "memories",
+      "artists": [
+        "leadwave"
+      ],
+      "album": "memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e914d44fbf643a8cda65b8ac",
+      "uri": "spotify:track:4VkRQSpG16JxrXaVlNyWdX",
+      "duration_ms": 86319
+    },
+    {
+      "played_at": "2026-06-29T23:32:59.844Z",
+      "name": "Traitors",
+      "artists": [
+        "Grailz Beni"
+      ],
+      "album": "Traitors",
+      "image": "https://i.scdn.co/image/ab67616d0000b273864f73f431a963e817743a96",
+      "uri": "spotify:track:4v7AITt5mCSEz7iyHvW8aU",
+      "duration_ms": 151666
+    },
+    {
+      "played_at": "2026-06-29T23:36:01.929Z",
+      "name": "Entrails",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Obsidian",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
+      "uri": "spotify:track:4QhonLbyzDD8nfT8LTLSJy",
+      "duration_ms": 181782
+    },
+    {
+      "played_at": "2026-06-29T23:39:32.154Z",
+      "name": "Sigma",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Sigma",
+      "image": "https://i.scdn.co/image/ab67616d0000b273588fddc95cc8deb7028853bd",
+      "uri": "spotify:track:36ayW7PJseXGIOZrGTVBuD",
+      "duration_ms": 209634
+    },
+    {
+      "played_at": "2026-06-29T23:41:25.624Z",
+      "name": "My Ninja Way (Hardstyle)",
+      "artists": [
+        "Felax"
+      ],
+      "album": "My Ninja Way",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bcba3cd35420a60c07585d80",
+      "uri": "spotify:track:2meAJdZRzvLyAJGW3ykCLY",
+      "duration_ms": 113169
+    },
+    {
+      "played_at": "2026-06-29T23:45:13.043Z",
+      "name": "Show Them All",
+      "artists": [
+        "La Capella"
+      ],
+      "album": "Show Them All",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737546b49963c0cf2480fb840e",
+      "uri": "spotify:track:3JMvDDJ15M64IEAmPPfqRL",
+      "duration_ms": 170808
+    },
+    {
+      "played_at": "2026-06-29T23:53:24.467Z",
+      "name": "CODE A - Mega Slowed",
+      "artists": [
+        "YOUTHISENDING"
+      ],
+      "album": "CODE A",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b5fbb05c851dca44fbe5e38",
+      "uri": "spotify:track:4oMMSVBL7D7nIqlbRr5zwR",
+      "duration_ms": 114307
+    },
+    {
+      "played_at": "2026-06-29T23:57:29.403Z",
+      "name": "405 Anthem",
+      "artists": [
+        "Mqx"
+      ],
+      "album": "405 Anthem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed3f5977498a260b9703bb69",
+      "uri": "spotify:track:13wBVLkv4wIWmZeH7NQMIR",
+      "duration_ms": 135017
+    },
+    {
+      "played_at": "2026-06-30T00:09:53.287Z",
+      "name": "Look at My Life",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "Look at My Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
+      "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
+      "duration_ms": 190533
+    },
+    {
+      "played_at": "2026-06-30T01:52:40.575Z",
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+      "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+      "duration_ms": 203080
+    },
+    {
+      "played_at": "2026-06-30T01:52:58.528Z",
+      "name": "kookoo",
+      "artists": [
+        "boolymon"
+      ],
+      "album": "outstanding",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b49ca36f6ba2ec37892ef822",
+      "uri": "spotify:track:1ELvJ6b0gWsdq88R5Uhvx7",
+      "duration_ms": 100844
+    },
+    {
+      "played_at": "2026-06-30T02:06:02.854Z",
+      "name": "Im Inna Band",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Im Inna Band",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+      "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+      "duration_ms": 194951
+    },
+    {
+      "played_at": "2026-06-30T02:09:05.086Z",
+      "name": "Copy My Flow",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
+      "duration_ms": 78393
+    },
+    {
+      "played_at": "2026-06-30T02:24:06.131Z",
+      "name": "Kirkify",
+      "artists": [
+        "Edo Hunnidz"
+      ],
+      "album": "Kirkify",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+      "duration_ms": 80000
+    },
+    {
+      "played_at": "2026-06-30T02:29:55.774Z",
+      "name": "Sequência dos Bailes Funk",
+      "artists": [
+        "DJ VM 22"
+      ],
+      "album": "Sequência dos Bailes Funk",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731499dda844cc756008289528",
+      "uri": "spotify:track:2KMMJeyxKaVNqJvPooUKHT",
+      "duration_ms": 132167
     }
   ]
 }
