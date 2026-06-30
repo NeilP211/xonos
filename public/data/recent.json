@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:32:02.573Z",
+  "updated_at": "2026-06-30T14:13:10.744Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9459,6 +9459,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731499dda844cc756008289528",
       "uri": "spotify:track:2KMMJeyxKaVNqJvPooUKHT",
       "duration_ms": 132167
+    },
+    {
+      "played_at": "2026-06-30T03:30:46.926Z",
+      "name": "Million Dollar Mansion",
+      "artists": [
+        "Che"
+      ],
+      "album": "Million Dollar Mansion / Promoting Violence",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edf330dcfafbabb228352539",
+      "uri": "spotify:track:4tRcgIJZ7fWSrDFERW9ZBa",
+      "duration_ms": 133366
+    },
+    {
+      "played_at": "2026-06-30T12:10:39.865Z",
+      "name": "Living Legend",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Blue Banisters",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
+      "uri": "spotify:track:6pZ9Nj3vzj1RW4ZkR9GcQ9",
+      "duration_ms": 241426
+    },
+    {
+      "played_at": "2026-06-30T12:16:54.875Z",
+      "name": "Take Me Home, Country Roads",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Take Me Home, Country Roads",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c6c1ca8d317e97873de0cbeb",
+      "uri": "spotify:track:7qF0FfuzBFwMe1lNHkEDxW",
+      "duration_ms": 166676
     }
   ]
 }
