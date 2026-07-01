@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:14:35.753Z",
+  "updated_at": "2026-07-01T03:39:47.692Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9575,6 +9575,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730a48794d471447a030998815",
       "uri": "spotify:track:664gdARxaClFsoF5SXKOws",
       "duration_ms": 199453
+    },
+    {
+      "played_at": "2026-06-30T23:22:34.452Z",
+      "name": "Resonance",
+      "artists": [
+        "Home"
+      ],
+      "album": "Odyssey",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d3434e8f47ec47a90b4b4784",
+      "uri": "spotify:track:2NHkwSwm6C6eAX3z6xm7Uy",
+      "duration_ms": 212938
+    },
+    {
+      "played_at": "2026-07-01T01:26:19.767Z",
+      "name": "Blue Bands",
+      "artists": [
+        "Weiland"
+      ],
+      "album": "Blue Bands",
+      "image": "https://i.scdn.co/image/ab67616d0000b273580552781c99ab0345a00180",
+      "uri": "spotify:track:2wl8U2jlhgrr6VgONXOKyA",
+      "duration_ms": 159709
+    },
+    {
+      "played_at": "2026-07-01T02:31:11.162Z",
+      "name": "Resonance - Slowed & Reverb",
+      "artists": [
+        "noturgf"
+      ],
+      "album": "Resonance (Slowed & Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+      "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+      "duration_ms": 318169
     }
   ]
 }
