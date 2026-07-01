@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-01T19:52:04.990Z",
-  "is_playing": true,
+  "updated_at": "2026-07-01T22:16:32.996Z",
+  "is_playing": false,
   "track": {
-    "name": "Top 1",
+    "name": "Tanjiro x Let Go hardstyle",
     "artists": [
-      "EthoSuave",
-      "Mdot 59"
+      "Animestyle"
     ],
-    "album": "Nobody Talkin Bout It",
-    "image": "https://i.scdn.co/image/ab67616d0000b27370aad7b40a46b6df6a57d2ad",
-    "uri": "spotify:track:62aCIESAKM1ZFx20QRexNH"
+    "album": "Tanjiro x Let Go hardstyle",
+    "image": "https://i.scdn.co/image/ab67616d0000b273722cb552d779e325c647768d",
+    "uri": "spotify:track:0x7py23Ew4Rc0MHlgxDRss"
   },
-  "played_at": "2026-07-01T19:52:04.990Z"
+  "played_at": "2026-07-01T21:58:42.783Z"
 }

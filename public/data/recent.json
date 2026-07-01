@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:52:04.764Z",
+  "updated_at": "2026-07-01T22:16:32.962Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9685,6 +9685,133 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273dcff5d768eda47264b79909d",
       "uri": "spotify:track:622xsCFTXQXklt2iOh21lU",
       "duration_ms": 106415
+    },
+    {
+      "played_at": "2026-07-01T21:21:21.686Z",
+      "name": "Top 1",
+      "artists": [
+        "EthoSuave",
+        "Mdot 59"
+      ],
+      "album": "Nobody Talkin Bout It",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370aad7b40a46b6df6a57d2ad",
+      "uri": "spotify:track:62aCIESAKM1ZFx20QRexNH",
+      "duration_ms": 162097
+    },
+    {
+      "played_at": "2026-07-01T21:25:51.568Z",
+      "name": "A New Kind Of Love - Demo",
+      "artists": [
+        "Frou Frou",
+        "Imogen Heap",
+        "Guy Sigsworth"
+      ],
+      "album": "Off Cuts",
+      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
+      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
+      "duration_ms": 260733
+    },
+    {
+      "played_at": "2026-07-01T21:31:59.609Z",
+      "name": "Waiting",
+      "artists": [
+        "leverfall"
+      ],
+      "album": "Waiting",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731d11f6a209d5db90b4f68e6f",
+      "uri": "spotify:track:0n20laNpcg84CViNdXbwsE",
+      "duration_ms": 61522
+    },
+    {
+      "played_at": "2026-07-01T21:35:45.060Z",
+      "name": "Cinnamon Girl",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Norman Fucking Rockwell!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+      "uri": "spotify:track:2mdEsXPu8ZmkHRRtAdC09e",
+      "duration_ms": 300683
+    },
+    {
+      "played_at": "2026-07-01T21:39:47.282Z",
+      "name": "Super Fenix Ritmada - Ultra Slowed",
+      "artists": [
+        "Notmuchxhead"
+      ],
+      "album": "Super Fenix Ritmada",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce9cce4f961b88455c3b8377",
+      "uri": "spotify:track:0I0nQX1aa0OG1iMM3FzQTh",
+      "duration_ms": 331951
+    },
+    {
+      "played_at": "2026-07-01T21:42:06.675Z",
+      "name": "MONTAGEM RENICHT DIMENSIONAL - Ultra Slowed",
+      "artists": [
+        "DJ VQ7",
+        "DJ AGARIO"
+      ],
+      "album": "MONTAGEM RENICHT DIMENSIONAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d8607aecdff54ca2b2b8b34",
+      "uri": "spotify:track:3l9OyUzpp4xFTsUlnxwA0d",
+      "duration_ms": 114285
+    },
+    {
+      "played_at": "2026-07-01T21:44:02.420Z",
+      "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
+      "artists": [
+        "DJ XFOCOS",
+        "DJ ZXN DA 077",
+        "DJ LKS DA ZS"
+      ],
+      "album": "FUNK DO MALAME AMARELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732c887d470360bda258ee19c0",
+      "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
+      "duration_ms": 115296
+    },
+    {
+      "played_at": "2026-07-01T21:48:57.232Z",
+      "name": "GUTS RAGE x HARDSTYLE",
+      "artists": [
+        "MyMotivation"
+      ],
+      "album": "GUTS RAGE x HARDSTYLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+      "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
+      "duration_ms": 153200
+    },
+    {
+      "played_at": "2026-07-01T21:51:32.587Z",
+      "name": "Jiren X Entrails",
+      "artists": [
+        "La Capella"
+      ],
+      "album": "Jiren X Entrails",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e25c42f6dedf89af742b64b3",
+      "uri": "spotify:track:01f3cERQFKnenk610MRrVo",
+      "duration_ms": 154923
+    },
+    {
+      "played_at": "2026-07-01T21:53:28.058Z",
+      "name": "Aot x If I Loose It All",
+      "artists": [
+        "AniLifts"
+      ],
+      "album": "Aot x If I Loose It All",
+      "image": "https://i.scdn.co/image/ab67616d0000b273274c678e9924975ea4f0db1a",
+      "uri": "spotify:track:08ZzB9oO3GwCFPiF9cOHCa",
+      "duration_ms": 115031
+    },
+    {
+      "played_at": "2026-07-01T21:58:42.783Z",
+      "name": "Tanjiro x Let Go hardstyle",
+      "artists": [
+        "Animestyle"
+      ],
+      "album": "Tanjiro x Let Go hardstyle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722cb552d779e325c647768d",
+      "uri": "spotify:track:0x7py23Ew4Rc0MHlgxDRss",
+      "duration_ms": 136703
     }
   ]
 }
