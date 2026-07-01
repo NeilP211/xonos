@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:42:08.622Z",
+  "updated_at": "2026-07-01T14:31:28.247Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9608,6 +9608,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
       "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
       "duration_ms": 318169
+    },
+    {
+      "played_at": "2026-07-01T02:39:01.395Z",
+      "name": "3 am walk - Slowed & Reverb Version",
+      "artists": [
+        "daniel.mp3"
+      ],
+      "album": "3 am walk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273771f3f401ce67a6ff22615f3",
+      "uri": "spotify:track:1miBMMwRKSCL6RItKHbXuR",
+      "duration_ms": 199043
+    },
+    {
+      "played_at": "2026-07-01T13:39:57.618Z",
+      "name": "National Anthem",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
+      "duration_ms": 230520
+    },
+    {
+      "played_at": "2026-07-01T13:43:16.981Z",
+      "name": "Tennis Court",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
+      "duration_ms": 198907
+    },
+    {
+      "played_at": "2026-07-01T13:46:30.681Z",
+      "name": "Team",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
+      "duration_ms": 193058
     }
   ]
 }
