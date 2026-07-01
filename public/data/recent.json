@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T17:12:53.664Z",
+  "updated_at": "2026-07-01T19:52:04.764Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9652,6 +9652,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
       "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
       "duration_ms": 193058
+    },
+    {
+      "played_at": "2026-07-01T14:01:53.696Z",
+      "name": "American",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
+      "duration_ms": 248907
+    },
+    {
+      "played_at": "2026-07-01T18:52:51.514Z",
+      "name": "Ride",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:3l2S2RkGG4lbh7WqmCV3NB",
+      "duration_ms": 289080
+    },
+    {
+      "played_at": "2026-07-01T19:50:38.215Z",
+      "name": "Scoreboard 3",
+      "artists": [
+        "EthoSuave"
+      ],
+      "album": "Q1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcff5d768eda47264b79909d",
+      "uri": "spotify:track:622xsCFTXQXklt2iOh21lU",
+      "duration_ms": 106415
     }
   ]
 }
