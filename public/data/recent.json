@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T16:48:09.707Z",
+  "updated_at": "2026-07-02T19:21:42.450Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9860,6 +9860,17 @@
     },
     {
       "played_at": "2026-07-02T15:23:09.568Z",
+      "name": "Pet",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Pet",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
+      "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
+      "duration_ms": 66618
+    },
+    {
+      "played_at": "2026-07-02T15:37:13.225Z",
       "name": "Pet",
       "artists": [
         "xaviersobased"
