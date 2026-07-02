@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T13:56:09.216Z",
+  "updated_at": "2026-07-02T16:48:09.707Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9824,6 +9824,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ed14d5c2f227bc356c2667be",
       "uri": "spotify:track:08bD52tY3T7Nr2Ji10G3Js",
       "duration_ms": 167314
+    },
+    {
+      "played_at": "2026-07-02T15:20:04.871Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-07-02T15:21:11.935Z",
+      "name": "Pet",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Pet",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
+      "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
+      "duration_ms": 66618
+    },
+    {
+      "played_at": "2026-07-02T15:22:30.485Z",
+      "name": "funuhyuh",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "funuhyuh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
+      "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
+      "duration_ms": 75347
+    },
+    {
+      "played_at": "2026-07-02T15:23:09.568Z",
+      "name": "Pet",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Pet",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
+      "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
+      "duration_ms": 66618
     }
   ]
 }
