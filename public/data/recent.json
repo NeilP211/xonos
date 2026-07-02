@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T19:21:42.450Z",
+  "updated_at": "2026-07-02T22:05:06.028Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9879,6 +9879,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
       "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
       "duration_ms": 66618
+    },
+    {
+      "played_at": "2026-07-02T19:31:02.145Z",
+      "name": "Crave You - Adventure Club Remix",
+      "artists": [
+        "Flight Facilities",
+        "Adventure Club"
+      ],
+      "album": "Crave You (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306c40eb4974f808eeb4cbf63",
+      "uri": "spotify:track:5jdGLLEA1e85jy9VYdggoP",
+      "duration_ms": 236930
+    },
+    {
+      "played_at": "2026-07-02T21:31:39.578Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-07-02T21:35:39.304Z",
+      "name": "California Dreamin' - Single Version",
+      "artists": [
+        "The Mamas & The Papas"
+      ],
+      "album": "If You Can Believe Your Eyes & Ears",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+      "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
+      "duration_ms": 162373
     }
   ]
 }
