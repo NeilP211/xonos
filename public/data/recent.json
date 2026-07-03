@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T02:48:14.545Z",
+  "updated_at": "2026-07-03T06:30:50.862Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9990,6 +9990,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
       "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
       "duration_ms": 250546
+    },
+    {
+      "played_at": "2026-07-03T02:48:57.913Z",
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "artists": [
+        "Fifth Harmony",
+        "Ty Dolla $ign"
+      ],
+      "album": "7/27 (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382db43e5091301205076d6ab",
+      "uri": "spotify:track:4tCtwWceOPWzenK2HAIJSb",
+      "duration_ms": 214477
+    },
+    {
+      "played_at": "2026-07-03T02:50:05.582Z",
+      "name": "#WBMB",
+      "artists": [
+        "fangmadesoso",
+        "so so"
+      ],
+      "album": "Net Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e954c6b08055e10cecc24a27",
+      "uri": "spotify:track:5xOM7qgVY6wVvcCsW4cu6B",
+      "duration_ms": 67201
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-03T02:48:14.628Z",
-  "is_playing": true,
+  "updated_at": "2026-07-03T06:30:50.897Z",
+  "is_playing": false,
   "track": {
-    "name": "Work from Home (feat. Ty Dolla $ign)",
+    "name": "#WBMB",
     "artists": [
-      "Fifth Harmony",
-      "Ty Dolla $ign"
+      "fangmadesoso",
+      "so so"
     ],
-    "album": "7/27 (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27382db43e5091301205076d6ab",
-    "uri": "spotify:track:4tCtwWceOPWzenK2HAIJSb"
+    "album": "Net Work",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e954c6b08055e10cecc24a27",
+    "uri": "spotify:track:5xOM7qgVY6wVvcCsW4cu6B"
   },
-  "played_at": "2026-07-03T02:48:14.628Z"
+  "played_at": "2026-07-03T02:50:05.582Z"
 }
