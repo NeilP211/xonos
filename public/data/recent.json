@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T13:59:41.638Z",
+  "updated_at": "2026-07-03T16:23:12.158Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -10061,6 +10061,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
       "uri": "spotify:track:3d0WouFnFmr0K3kjeza3fF",
       "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-03T15:30:30.482Z",
+      "name": "Harvester of Sorrow (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "...And Justice for All (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
+      "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu",
+      "duration_ms": 345283
     }
   ]
 }
