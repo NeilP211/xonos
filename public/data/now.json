@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-02T22:05:06.142Z",
-  "is_playing": false,
+  "updated_at": "2026-07-03T02:48:14.628Z",
+  "is_playing": true,
   "track": {
-    "name": "California Dreamin' - Single Version",
+    "name": "Work from Home (feat. Ty Dolla $ign)",
     "artists": [
-      "The Mamas & The Papas"
+      "Fifth Harmony",
+      "Ty Dolla $ign"
     ],
-    "album": "If You Can Believe Your Eyes & Ears",
-    "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
-    "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ"
+    "album": "7/27 (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27382db43e5091301205076d6ab",
+    "uri": "spotify:track:4tCtwWceOPWzenK2HAIJSb"
   },
-  "played_at": "2026-07-02T21:35:39.304Z"
+  "played_at": "2026-07-03T02:48:14.628Z"
 }

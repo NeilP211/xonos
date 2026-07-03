@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T22:05:06.028Z",
+  "updated_at": "2026-07-03T02:48:14.545Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -9913,6 +9913,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
       "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
       "duration_ms": 162373
+    },
+    {
+      "played_at": "2026-07-02T22:13:08.971Z",
+      "name": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
+      "duration_ms": 255080
+    },
+    {
+      "played_at": "2026-07-02T22:18:06.368Z",
+      "name": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
+      "duration_ms": 255080
+    },
+    {
+      "played_at": "2026-07-02T22:26:59.554Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-07-03T00:29:17.966Z",
+      "name": "Check My Brain",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Black Gives Way To Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732aac6b7dae4a8813f5e28454",
+      "uri": "spotify:track:2liwbAaiYRiJB2H286u1zS",
+      "duration_ms": 237906
+    },
+    {
+      "played_at": "2026-07-03T02:07:50.917Z",
+      "name": "Check My Brain",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Black Gives Way To Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732aac6b7dae4a8813f5e28454",
+      "uri": "spotify:track:2liwbAaiYRiJB2H286u1zS",
+      "duration_ms": 237906
+    },
+    {
+      "played_at": "2026-07-03T02:12:01.183Z",
+      "name": "...and Suffer As One",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Odd Fellows Rest",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+      "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
+      "duration_ms": 249813
+    },
+    {
+      "played_at": "2026-07-03T02:16:12.186Z",
+      "name": "Everlong",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "The Colour And The Shape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
+      "duration_ms": 250546
     }
   ]
 }
