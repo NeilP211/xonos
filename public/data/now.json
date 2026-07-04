@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-04T02:44:03.399Z",
+  "updated_at": "2026-07-04T06:18:07.752Z",
   "is_playing": false,
   "track": {
-    "name": "Harvester of Sorrow (Remastered)",
+    "name": "Candy Necklace (feat. Jon Batiste)",
     "artists": [
-      "Metallica"
+      "Lana Del Rey",
+      "Jon Batiste"
     ],
-    "album": "...And Justice for All (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
-    "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu"
+    "album": "Did you know that there's a tunnel under Ocean Blvd",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+    "uri": "spotify:track:3MlEryrxCKZkcfX18ZLX96"
   },
-  "played_at": "2026-07-03T15:30:30.482Z"
+  "played_at": "2026-07-04T05:38:03.650Z"
 }
