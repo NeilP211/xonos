@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T19:09:20.849Z",
+  "updated_at": "2026-07-04T21:57:31.085Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -10745,6 +10745,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
       "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
       "duration_ms": 220440
+    },
+    {
+      "played_at": "2026-07-04T18:33:43.560Z",
+      "name": "Ain't With That (Late Night Callin')",
+      "artists": [
+        "Julian Fijma"
+      ],
+      "album": "Ain't With That (Late Night Callin')",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+      "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+      "duration_ms": 207272
+    },
+    {
+      "played_at": "2026-07-04T20:03:57.517Z",
+      "name": "What A Life",
+      "artists": [
+        "John Summit",
+        "Guz",
+        "Stevie Appleton"
+      ],
+      "album": "What A Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738312b4de3123fa5275d8ac57",
+      "uri": "spotify:track:1KbLVz3ZcdUOt2wBXqU2cG",
+      "duration_ms": 171547
     }
   ]
 }

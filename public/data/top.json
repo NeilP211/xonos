@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:09:20.403Z",
+  "generated_at": "2026-07-04T21:57:30.935Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -80,6 +80,18 @@
         },
         {
           "rank": 7,
+          "name": "Ain't With That (Late Night Callin')",
+          "artists": [
+            "Julian Fijma"
+          ],
+          "album": "Ain't With That (Late Night Callin')",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
+          "duration_ms": 207272
+        },
+        {
+          "rank": 8,
           "name": "Sadeness - Pt. 1 / Radio Edit",
           "artists": [
             "Enigma"
@@ -91,7 +103,7 @@
           "duration_ms": 260400
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -103,7 +115,7 @@
           "duration_ms": 166300
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Baddi Doub",
           "artists": [
             "Elissa"
@@ -113,18 +125,6 @@
           "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
           "url": "https://open.spotify.com/track/571ElrlNtK4djFptlFgtU3",
           "duration_ms": 239098
-        },
-        {
-          "rank": 10,
-          "name": "Ain't With That (Late Night Callin')",
-          "artists": [
-            "Julian Fijma"
-          ],
-          "album": "Ain't With That (Late Night Callin')",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
-          "duration_ms": 207272
         },
         {
           "rank": 11,
@@ -674,6 +674,14 @@
         },
         {
           "rank": 7,
+          "name": "Taylor Swift",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
+          "genres": [],
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 8,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -681,7 +689,7 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -689,7 +697,7 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -697,7 +705,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -705,7 +713,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -713,7 +721,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -721,7 +729,7 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
@@ -729,7 +737,7 @@
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -737,7 +745,7 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -745,7 +753,7 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
           "genres": [],
@@ -753,20 +761,12 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 18,
-          "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
-          "genres": [],
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
           "rank": 19,

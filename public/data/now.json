@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-07-04T19:09:20.895Z",
+  "updated_at": "2026-07-04T21:57:31.119Z",
   "is_playing": false,
   "track": {
-    "name": "Wildest Dreams",
+    "name": "What A Life",
     "artists": [
-      "Taylor Swift"
+      "John Summit",
+      "Guz",
+      "Stevie Appleton"
     ],
-    "album": "1989",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
-    "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw"
+    "album": "What A Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738312b4de3123fa5275d8ac57",
+    "uri": "spotify:track:1KbLVz3ZcdUOt2wBXqU2cG"
   },
-  "played_at": "2026-07-04T18:30:15.827Z"
+  "played_at": "2026-07-04T20:03:57.517Z"
 }
