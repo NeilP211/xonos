@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T02:54:51.935Z",
+  "updated_at": "2026-07-05T06:39:25.434Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -10947,6 +10947,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
       "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
       "duration_ms": 220440
+    },
+    {
+      "played_at": "2026-07-05T05:09:50.457Z",
+      "name": "Look at My Life",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "Look at My Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
+      "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
+      "duration_ms": 190533
+    },
+    {
+      "played_at": "2026-07-05T05:35:36.748Z",
+      "name": "real music",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "real music",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
+      "uri": "spotify:track:5xRoOv5oI9Qw3FlDc4dV4j",
+      "duration_ms": 50061
+    },
+    {
+      "played_at": "2026-07-05T05:43:34.664Z",
+      "name": "If You Lie Down With Me",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Blue Banisters",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
+      "uri": "spotify:track:1RPsOAaHaRu8JlVdeaciuL",
+      "duration_ms": 265186
     }
   ]
 }
