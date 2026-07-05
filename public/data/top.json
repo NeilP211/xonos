@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:57:30.935Z",
+  "generated_at": "2026-07-05T02:54:51.781Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -104,18 +104,6 @@
         },
         {
           "rank": 9,
-          "name": "That’s So True",
-          "artists": [
-            "Gracie Abrams"
-          ],
-          "album": "The Secret of Us (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
-          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-          "duration_ms": 166300
-        },
-        {
-          "rank": 10,
           "name": "Baddi Doub",
           "artists": [
             "Elissa"
@@ -127,7 +115,7 @@
           "duration_ms": 239098
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -139,7 +127,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Thoughts While Incarcerated",
           "artists": [
             "Glokk40Spaz"
@@ -151,7 +139,7 @@
           "duration_ms": 221387
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Goliath",
           "artists": [
             "Dialryckx"
@@ -163,7 +151,7 @@
           "duration_ms": 39000
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Lean On",
           "artists": [
             "Major Lazer",
@@ -177,7 +165,7 @@
           "duration_ms": 176561
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -187,6 +175,18 @@
           "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
           "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
           "duration_ms": 230533
+        },
+        {
+          "rank": 15,
+          "name": "That’s So True",
+          "artists": [
+            "Gracie Abrams"
+          ],
+          "album": "The Secret of Us (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+          "duration_ms": 166300
         },
         {
           "rank": 16,
@@ -538,15 +538,15 @@
         },
         {
           "rank": 44,
-          "name": "Ride",
+          "name": "Look at My Life",
           "artists": [
-            "Lana Del Rey"
+            "Gracie Abrams"
           ],
-          "album": "Born To Die - The Paradise Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-          "uri": "spotify:track:7yFMhCJOsH7khgpdnyrZAZ",
-          "url": "https://open.spotify.com/track/7yFMhCJOsH7khgpdnyrZAZ",
-          "duration_ms": 289080
+          "album": "Look at My Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
+          "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
+          "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB",
+          "duration_ms": 190533
         },
         {
           "rank": 45,
@@ -682,6 +682,14 @@
         },
         {
           "rank": 8,
+          "name": "Gracie Abrams",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+          "genres": [],
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "rank": 9,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -689,20 +697,12 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "rank": 10,
-          "name": "Gracie Abrams",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
-          "genres": [],
-          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
           "rank": 11,
@@ -794,19 +794,19 @@
         },
         {
           "rank": 22,
-          "name": "Dart Rayne",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dc6a66998117382d8fab6b0b",
-          "genres": [],
-          "uri": "spotify:artist:0iZ4z3wqXoVPkDc8FbLKHW",
-          "url": "https://open.spotify.com/artist/0iZ4z3wqXoVPkDc8FbLKHW"
-        },
-        {
-          "rank": 23,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
           "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm",
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "rank": 23,
+          "name": "Dart Rayne",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dc6a66998117382d8fab6b0b",
+          "genres": [],
+          "uri": "spotify:artist:0iZ4z3wqXoVPkDc8FbLKHW",
+          "url": "https://open.spotify.com/artist/0iZ4z3wqXoVPkDc8FbLKHW"
         },
         {
           "rank": 24,
@@ -906,6 +906,14 @@
         },
         {
           "rank": 36,
+          "name": "Lil O",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb55cfeeaec0f19c3193a0d573",
+          "genres": [],
+          "uri": "spotify:artist:5hv30sKujjm0PyqD2j4v9n",
+          "url": "https://open.spotify.com/artist/5hv30sKujjm0PyqD2j4v9n"
+        },
+        {
+          "rank": 37,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
@@ -913,7 +921,7 @@
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
@@ -921,7 +929,7 @@
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -929,20 +937,12 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Deproved",
           "image": "https://i.scdn.co/image/ab6761610000e5ebec842c8f2f5b38eb666f542f",
           "genres": [],
           "uri": "spotify:artist:10c6lWcpVwP5yteSS5Z1YE",
           "url": "https://open.spotify.com/artist/10c6lWcpVwP5yteSS5Z1YE"
-        },
-        {
-          "rank": 40,
-          "name": "Lil O",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb55cfeeaec0f19c3193a0d573",
-          "genres": [],
-          "uri": "spotify:artist:5hv30sKujjm0PyqD2j4v9n",
-          "url": "https://open.spotify.com/artist/5hv30sKujjm0PyqD2j4v9n"
         },
         {
           "rank": 41,
