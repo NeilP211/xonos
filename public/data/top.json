@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T11:02:40.024Z",
+  "generated_at": "2026-07-05T13:26:51.445Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2650,16 +2650,15 @@
         },
         {
           "rank": 50,
-          "name": "classist",
+          "name": "CODE A - Mega Slowed",
           "artists": [
-            "xaviersobased",
-            "ss3bby"
+            "YOUTHISENDING"
           ],
-          "album": "install",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730d0fb3927a40c5a401a57f07",
-          "uri": "spotify:track:4DIeilVqK89XAJKn85wfmV",
-          "url": "https://open.spotify.com/track/4DIeilVqK89XAJKn85wfmV",
-          "duration_ms": 106004
+          "album": "CODE A",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734b5fbb05c851dca44fbe5e38",
+          "uri": "spotify:track:4oMMSVBL7D7nIqlbRr5zwR",
+          "url": "https://open.spotify.com/track/4oMMSVBL7D7nIqlbRr5zwR",
+          "duration_ms": 114307
         }
       ],
       "artists": [
@@ -2753,6 +2752,14 @@
         },
         {
           "rank": 12,
+          "name": "Robin Gan",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
+          "genres": [],
+          "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
+          "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
+        },
+        {
+          "rank": 13,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -2760,7 +2767,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
@@ -2768,7 +2775,7 @@
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
@@ -2776,7 +2783,7 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "EsDeeKid",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
           "genres": [],
@@ -2784,20 +2791,12 @@
           "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 17,
-          "name": "Robin Gan",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
-          "genres": [],
-          "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
-          "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
           "rank": 18,
@@ -2881,19 +2880,19 @@
         },
         {
           "rank": 28,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 29,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
           "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+        },
+        {
+          "rank": 29,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "rank": 30,
@@ -2985,6 +2984,14 @@
         },
         {
           "rank": 41,
+          "name": "ksuuvi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
+          "genres": [],
+          "uri": "spotify:artist:7MYVlTfQYFOVKftHoiwO5b",
+          "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
+        },
+        {
+          "rank": 42,
           "name": "Boy Fantasy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffe6ca1d41f75558a9678c89",
           "genres": [],
@@ -2992,7 +2999,7 @@
           "url": "https://open.spotify.com/artist/6TNu2GG0r5FZXtSvdGcLsY"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -3000,7 +3007,7 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -3008,20 +3015,12 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
           "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "rank": 45,
-          "name": "ksuuvi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
-          "genres": [],
-          "uri": "spotify:artist:7MYVlTfQYFOVKftHoiwO5b",
-          "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
         },
         {
           "rank": 46,
