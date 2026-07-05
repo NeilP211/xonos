@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T16:07:06.539Z",
+  "updated_at": "2026-07-05T19:14:51.454Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -10980,6 +10980,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
       "uri": "spotify:track:1RPsOAaHaRu8JlVdeaciuL",
       "duration_ms": 265186
+    },
+    {
+      "played_at": "2026-07-05T16:47:09.419Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-05T16:50:10.107Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
     }
   ]
 }

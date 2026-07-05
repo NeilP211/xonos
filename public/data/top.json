@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T16:07:06.462Z",
+  "generated_at": "2026-07-05T19:14:51.311Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -598,19 +598,6 @@
         },
         {
           "rank": 49,
-          "name": "Just The Way You Are",
-          "artists": [
-            "Milky",
-            "Mall Grab"
-          ],
-          "album": "Just The Way You Are",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
-          "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
-          "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt",
-          "duration_ms": 159500
-        },
-        {
-          "rank": 50,
           "name": "Egyptian Codes",
           "artists": [
             "DotComNirvan",
@@ -621,6 +608,19 @@
           "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
           "url": "https://open.spotify.com/track/5hAlK7tHdxTzMBPtgjVFbi",
           "duration_ms": 150000
+        },
+        {
+          "rank": 50,
+          "name": "It's Everyday Bro",
+          "artists": [
+            "Jake Paul",
+            "Team 10"
+          ],
+          "album": "It's Everyday Bro",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736dd172f39d09a16a46122987",
+          "uri": "spotify:track:0lMWTWANBulDtjtFrT83oU",
+          "url": "https://open.spotify.com/track/0lMWTWANBulDtjtFrT83oU",
+          "duration_ms": 217042
         }
       ],
       "artists": [
