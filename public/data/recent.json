@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T19:14:51.454Z",
+  "updated_at": "2026-07-05T21:59:56.910Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11002,6 +11002,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
       "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
       "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-05T19:47:09.105Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-05T19:47:16.938Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-05T19:47:18.802Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-05T20:19:24.740Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-05T20:59:50.054Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-07-05T21:05:27.030Z",
+      "name": "Say Yes To Heaven",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Say Yes To Heaven",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae",
+      "uri": "spotify:track:6GGtHZgBycCgGBUhZo81xe",
+      "duration_ms": 209156
+    },
+    {
+      "played_at": "2026-07-05T21:45:50.671Z",
+      "name": "Idea 10",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2cc3146f7e4bdcd2fb7ac8f",
+      "uri": "spotify:track:1lb3H41lbvAN28N7yqRNL9",
+      "duration_ms": 128000
+    },
+    {
+      "played_at": "2026-07-05T21:48:39.115Z",
+      "name": "Ethereal",
+      "artists": [
+        "Txmy"
+      ],
+      "album": "Ethereal",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ecfb69038cb68d0302099f3",
+      "uri": "spotify:track:7gymMiUpp1AOYR5EiRDDrO",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-07-05T21:51:11.704Z",
+      "name": "Idea 22",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 22",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
+      "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
+      "duration_ms": 152000
     }
   ]
 }
