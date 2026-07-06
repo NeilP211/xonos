@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:16:14.107Z",
+  "generated_at": "2026-07-06T15:28:02.715Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -826,19 +826,19 @@
         },
         {
           "rank": 26,
-          "name": "Lost Sky",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
-          "genres": [],
-          "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh",
-          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
-        },
-        {
-          "rank": 27,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 27,
+          "name": "Lost Sky",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
+          "genres": [],
+          "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
         },
         {
           "rank": 28,

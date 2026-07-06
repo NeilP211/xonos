@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-06T10:16:14.231Z",
+  "updated_at": "2026-07-06T15:28:02.915Z",
   "is_playing": false,
   "track": {
-    "name": "Lullaby for Erik",
+    "name": "Fuel",
     "artists": [
-      "Evgeny Grinko"
+      "Metallica"
     ],
-    "album": "Lullabies",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738cfcf2eb08eca89ffc7200d8",
-    "uri": "spotify:track:3sBxh59ZK7HcYjczb0uCv5"
+    "album": "Reload",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380",
+    "uri": "spotify:track:1tTPC0hsnXq1IGpvWY54JC"
   },
-  "played_at": "2026-07-05T21:51:29.605Z"
+  "played_at": "2026-07-06T13:48:31.157Z"
 }

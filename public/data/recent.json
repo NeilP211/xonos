@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T10:16:14.166Z",
+  "updated_at": "2026-07-06T15:28:02.876Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11112,6 +11112,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738cfcf2eb08eca89ffc7200d8",
       "uri": "spotify:track:3sBxh59ZK7HcYjczb0uCv5",
       "duration_ms": 201413
+    },
+    {
+      "played_at": "2026-07-06T11:34:10.807Z",
+      "name": "We Do What We Want - Edit",
+      "artists": [
+        "Alan Fitzpatrick"
+      ],
+      "album": "We Do What We Want (Edit)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
+      "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
+      "duration_ms": 188095
+    },
+    {
+      "played_at": "2026-07-06T11:41:19.484Z",
+      "name": "Dream On",
+      "artists": [
+        "Aerosmith"
+      ],
+      "album": "Aerosmith",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
+      "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
+      "duration_ms": 267600
+    },
+    {
+      "played_at": "2026-07-06T11:45:24.517Z",
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "The Queen Is Dead",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
+      "uri": "spotify:track:0WQiDwKJclirSYG9v5tayI",
+      "duration_ms": 244586
+    },
+    {
+      "played_at": "2026-07-06T11:50:08.760Z",
+      "name": "Sweet Home Alabama",
+      "artists": [
+        "Lynyrd Skynyrd"
+      ],
+      "album": "Second Helping (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+      "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
+      "duration_ms": 283800
+    },
+    {
+      "played_at": "2026-07-06T11:53:21.203Z",
+      "name": "Light up the Sky - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen II (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f09b618bc81755c0d817bd20",
+      "uri": "spotify:track:7e24BW1y8KtSUm4tkbXBR6",
+      "duration_ms": 191986
+    },
+    {
+      "played_at": "2026-07-06T12:00:16.122Z",
+      "name": "This Love",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Vulgar Display of Power",
+      "image": "https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6",
+      "uri": "spotify:track:0Yfpc5zHc9pElVCQ1bPlF4",
+      "duration_ms": 393706
+    },
+    {
+      "played_at": "2026-07-06T13:39:17.858Z",
+      "name": "Dumb - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:725QAOexNLmGZiFMN7U8pF",
+      "duration_ms": 172933
+    },
+    {
+      "played_at": "2026-07-06T13:44:00.973Z",
+      "name": "Kickstart My Heart",
+      "artists": [
+        "Mötley Crüe"
+      ],
+      "album": "Dr. Feelgood",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
+      "uri": "spotify:track:4Yqy0GpeDEXLibWJCZyQew",
+      "duration_ms": 282653
+    },
+    {
+      "played_at": "2026-07-06T13:48:31.157Z",
+      "name": "Fuel",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Reload",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380",
+      "uri": "spotify:track:1tTPC0hsnXq1IGpvWY54JC",
+      "duration_ms": 269733
     }
   ]
 }
