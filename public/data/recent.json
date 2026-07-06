@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T15:28:02.876Z",
+  "updated_at": "2026-07-06T19:53:24.387Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11211,6 +11211,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380",
       "uri": "spotify:track:1tTPC0hsnXq1IGpvWY54JC",
       "duration_ms": 269733
+    },
+    {
+      "played_at": "2026-07-06T13:56:29.047Z",
+      "name": "Walk",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Vulgar Display of Power",
+      "image": "https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6",
+      "uri": "spotify:track:7fcfNW0XxTWlwVlftzfDOR",
+      "duration_ms": 315120
+    },
+    {
+      "played_at": "2026-07-06T16:00:48.021Z",
+      "name": "Walk",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Vulgar Display of Power",
+      "image": "https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6",
+      "uri": "spotify:track:7fcfNW0XxTWlwVlftzfDOR",
+      "duration_ms": 315120
+    },
+    {
+      "played_at": "2026-07-06T16:06:20.061Z",
+      "name": "Enter Sandman (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:3VqHuw0wFlIHcIPWkhIbdQ",
+      "duration_ms": 331560
+    },
+    {
+      "played_at": "2026-07-06T16:11:13.681Z",
+      "name": "Crazy Train",
+      "artists": [
+        "Ozzy Osbourne"
+      ],
+      "album": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734936b5b7caeb7524e50fd8cb",
+      "uri": "spotify:track:7ACxUo21jtTHzy7ZEV56vU",
+      "duration_ms": 293183
+    },
+    {
+      "played_at": "2026-07-06T16:15:15.731Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
     }
   ]
 }
