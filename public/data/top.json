@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:53:24.222Z",
+  "generated_at": "2026-07-06T22:12:25.747Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -810,6 +810,14 @@
         },
         {
           "rank": 24,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 25,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -817,20 +825,12 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Ricegum",
           "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
           "genres": [],
           "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
           "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
-        },
-        {
-          "rank": 26,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 27,
@@ -1353,6 +1353,18 @@
         },
         {
           "rank": 27,
+          "name": "We Do What We Want - Edit",
+          "artists": [
+            "Alan Fitzpatrick"
+          ],
+          "album": "We Do What We Want (Edit)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
+          "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
+          "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
+          "duration_ms": 188095
+        },
+        {
+          "rank": 28,
           "name": "Kifek 3A Fra2e",
           "artists": [
             "Fadel Chaker",
@@ -1365,7 +1377,7 @@
           "duration_ms": 228236
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "بسبوس عاشق بسة",
           "artists": [
             "المايسترو محمد الشيخ"
@@ -1377,7 +1389,7 @@
           "duration_ms": 212324
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1389,7 +1401,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1401,7 +1413,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Spinnin",
           "artists": [
             "Kyle Richh"
@@ -1413,7 +1425,7 @@
           "duration_ms": 164583
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Baki Hanma Hardstyle",
           "artists": [
             "Kidd Kaneki"
@@ -1425,7 +1437,7 @@
           "duration_ms": 163989
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Dile",
           "artists": [
             "Don Omar"
@@ -1437,7 +1449,7 @@
           "duration_ms": 204600
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Void",
           "artists": [
             "Tevvez"
@@ -1449,7 +1461,7 @@
           "duration_ms": 209040
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -1461,7 +1473,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1471,18 +1483,6 @@
           "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
           "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
           "duration_ms": 299258
-        },
-        {
-          "rank": 37,
-          "name": "We Do What We Want - Edit",
-          "artists": [
-            "Alan Fitzpatrick"
-          ],
-          "album": "We Do What We Want (Edit)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
-          "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
-          "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M",
-          "duration_ms": 188095
         },
         {
           "rank": 38,
@@ -1720,19 +1720,19 @@
         },
         {
           "rank": 10,
-          "name": "Tevvez",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
-          "genres": [],
-          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
-          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
-        },
-        {
-          "rank": 11,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 11,
+          "name": "Tevvez",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
+          "genres": [],
+          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
           "rank": 12,
@@ -1768,6 +1768,14 @@
         },
         {
           "rank": 16,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 17,
           "name": "Dialryckx",
           "image": "https://i.scdn.co/image/ab6761610000e5eb057ee4b73d1af9b93b056f42",
           "genres": [],
@@ -1775,7 +1783,7 @@
           "url": "https://open.spotify.com/artist/4W3bnVqrz7RloZV8BRf34o"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -1783,20 +1791,12 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
           "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
-        },
-        {
-          "rank": 19,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 20,
