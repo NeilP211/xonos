@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T14:29:13.320Z",
+  "updated_at": "2026-07-07T17:13:12.901Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11527,6 +11527,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52",
       "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
       "duration_ms": 259071
+    },
+    {
+      "played_at": "2026-07-07T16:48:04.281Z",
+      "name": "Thoughts While Incarcerated",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "BABY WHOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+      "duration_ms": 221387
+    },
+    {
+      "played_at": "2026-07-07T16:56:57.726Z",
+      "name": "Home Alone",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Dont Get Took Off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
+      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
+      "duration_ms": 183954
     }
   ]
 }
