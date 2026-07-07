@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-07-07T06:44:58.846Z",
+  "updated_at": "2026-07-07T11:48:13.272Z",
   "is_playing": false,
   "track": {
-    "name": "milk cassette x.mp3",
+    "name": "A New Kind Of Love - Demo",
     "artists": [
-      "analog_mannequin"
+      "Frou Frou",
+      "Imogen Heap",
+      "Guy Sigsworth"
     ],
-    "album": "milk cassette x.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27333301a04c9ccf1033f19135c",
-    "uri": "spotify:track:0NH4HBguRWaWJO83oqHyAp"
+    "album": "A New Kind Of Love (Demo)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52",
+    "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H"
   },
-  "played_at": "2026-07-07T03:00:13.066Z"
+  "played_at": "2026-07-07T03:03:59.456Z"
 }
