@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T22:12:25.975Z",
+  "updated_at": "2026-07-07T02:54:52.243Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11379,6 +11379,119 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
       "uri": "spotify:track:6EYKATfSlHSgs3kB8SPxNz",
       "duration_ms": 106000
+    },
+    {
+      "played_at": "2026-07-06T22:12:34.911Z",
+      "name": "UPAST - Ultra Slowed",
+      "artists": [
+        "HELLBLADE",
+        "Asphiphilia"
+      ],
+      "album": "UPAST",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
+      "uri": "spotify:track:6bAkczPrbvxHDxAnsAs0Pv",
+      "duration_ms": 108165
+    },
+    {
+      "played_at": "2026-07-06T22:18:19.112Z",
+      "name": "specialsadism (Slowed)",
+      "artists": [
+        "voidvoice717",
+        "emoslut666"
+      ],
+      "album": "specialsadism 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+      "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+      "duration_ms": 109134
+    },
+    {
+      "played_at": "2026-07-06T22:20:22.110Z",
+      "name": "тело - Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "тело",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+      "uri": "spotify:track:1MTrxy0bdWujFkAHTQN1FV",
+      "duration_ms": 122610
+    },
+    {
+      "played_at": "2026-07-06T22:24:12.029Z",
+      "name": "Tanjiro x Let Go hardstyle",
+      "artists": [
+        "Animestyle"
+      ],
+      "album": "Tanjiro x Let Go hardstyle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722cb552d779e325c647768d",
+      "uri": "spotify:track:0x7py23Ew4Rc0MHlgxDRss",
+      "duration_ms": 136703
+    },
+    {
+      "played_at": "2026-07-06T22:26:19.243Z",
+      "name": "angel - slowed",
+      "artists": [
+        "juno"
+      ],
+      "album": "angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ee6f51dfd033d232c2b5232",
+      "uri": "spotify:track:5wAl6MIq8JTs0bU37bpfb8",
+      "duration_ms": 126616
+    },
+    {
+      "played_at": "2026-07-06T22:30:54.778Z",
+      "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
+      "artists": [
+        "snort.",
+        "SAPFIR"
+      ],
+      "album": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343762e371f87c398d5c31d5a",
+      "uri": "spotify:track:7hvVdfhch3IUZLtrRrJ0SL",
+      "duration_ms": 138115
+    },
+    {
+      "played_at": "2026-07-06T22:41:03.653Z",
+      "name": "2 30de - Mega Slowed",
+      "artists": [
+        "lagoyo"
+      ],
+      "album": "2 30de",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd7b5f6277f18a4e857e9171",
+      "uri": "spotify:track:0zbVpFIQsVkxlHgyvl8qqM",
+      "duration_ms": 163961
+    },
+    {
+      "played_at": "2026-07-06T22:55:40.161Z",
+      "name": "ASCENDANT - Super Slowed",
+      "artists": [
+        "EL$E"
+      ],
+      "album": "ASCENDANT (Versions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e528d934c5081b42d7f1178c",
+      "uri": "spotify:track:3bxEFxHDpgCixrWKzKbzQo",
+      "duration_ms": 121782
+    },
+    {
+      "played_at": "2026-07-06T23:27:53.670Z",
+      "name": "Dystopia",
+      "artists": [
+        "IXQ"
+      ],
+      "album": "Dystopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738924b2b05c8e9f5ca13ebdba",
+      "uri": "spotify:track:2s2Gi40jvEH9AhOIB0tlak",
+      "duration_ms": 222911
+    },
+    {
+      "played_at": "2026-07-07T02:53:46.335Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
     }
   ]
 }
