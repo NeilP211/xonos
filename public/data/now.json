@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T19:52:46.433Z",
-  "is_playing": true,
+  "updated_at": "2026-07-07T22:09:55.294Z",
+  "is_playing": false,
   "track": {
-    "name": "тело",
+    "name": "mona lisa",
     "artists": [
-      "DJ ZUP RAlii"
+      "Nettspend"
     ],
-    "album": "тело",
-    "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-    "uri": "spotify:track:6EYKATfSlHSgs3kB8SPxNz"
+    "album": "HIM",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+    "uri": "spotify:track:6NkEbJ5fwQbSCsbs8RlYSS"
   },
-  "played_at": "2026-07-07T19:52:46.433Z"
+  "played_at": "2026-07-07T21:13:39.004Z"
 }
