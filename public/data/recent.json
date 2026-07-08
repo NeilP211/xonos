@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T05:49:18.077Z",
+  "updated_at": "2026-07-08T08:24:44.280Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11642,6 +11642,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
       "uri": "spotify:track:6NkEbJ5fwQbSCsbs8RlYSS",
       "duration_ms": 111483
+    },
+    {
+      "played_at": "2026-07-07T23:16:10.882Z",
+      "name": "UPAST - Slowed",
+      "artists": [
+        "HELLBLADE",
+        "Asphiphilia"
+      ],
+      "album": "UPAST",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
+      "uri": "spotify:track:69CyTq2sZGdTbZtUqDStVi",
+      "duration_ms": 94272
     }
   ]
 }

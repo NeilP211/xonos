@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-08T05:49:18.109Z",
+  "updated_at": "2026-07-08T08:24:44.359Z",
   "is_playing": false,
   "track": {
-    "name": "mona lisa",
+    "name": "UPAST - Slowed",
     "artists": [
-      "Nettspend"
+      "HELLBLADE",
+      "Asphiphilia"
     ],
-    "album": "HIM",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-    "uri": "spotify:track:6NkEbJ5fwQbSCsbs8RlYSS"
+    "album": "UPAST",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
+    "uri": "spotify:track:69CyTq2sZGdTbZtUqDStVi"
   },
-  "played_at": "2026-07-07T21:13:39.004Z"
+  "played_at": "2026-07-07T23:16:10.882Z"
 }
