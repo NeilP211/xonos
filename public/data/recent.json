@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T19:22:17.642Z",
+  "updated_at": "2026-07-08T22:03:49.635Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11733,6 +11733,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "uri": "spotify:track:7155NVwKKJjtQtssuaqgJ9",
       "duration_ms": 118739
+    },
+    {
+      "played_at": "2026-07-08T21:39:03.010Z",
+      "name": "specialsadism (Slowed)",
+      "artists": [
+        "voidvoice717",
+        "emoslut666"
+      ],
+      "album": "specialsadism 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+      "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+      "duration_ms": 109134
+    },
+    {
+      "played_at": "2026-07-08T22:01:09.146Z",
+      "name": "specialsadism (Slowed)",
+      "artists": [
+        "voidvoice717",
+        "emoslut666"
+      ],
+      "album": "specialsadism 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+      "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+      "duration_ms": 109134
     }
   ]
 }
