@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T16:28:37.966Z",
+  "generated_at": "2026-07-08T19:22:17.575Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1801,6 +1801,14 @@
         },
         {
           "rank": 20,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 21,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -1808,7 +1816,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -1816,7 +1824,7 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -1824,20 +1832,12 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "rank": 24,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 25,
@@ -2237,18 +2237,6 @@
         },
         {
           "rank": 16,
-          "name": "Lose It",
-          "artists": [
-            "Ken Carson"
-          ],
-          "album": "A Great Chaos",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-          "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
-          "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz",
-          "duration_ms": 140811
-        },
-        {
-          "rank": 17,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -2258,6 +2246,18 @@
           "uri": "spotify:track:4UFj2SLrRhYDPedJWO5bwk",
           "url": "https://open.spotify.com/track/4UFj2SLrRhYDPedJWO5bwk",
           "duration_ms": 92019
+        },
+        {
+          "rank": 17,
+          "name": "Lose It",
+          "artists": [
+            "Ken Carson"
+          ],
+          "album": "A Great Chaos",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+          "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
+          "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz",
+          "duration_ms": 140811
         },
         {
           "rank": 18,
@@ -2753,6 +2753,14 @@
         },
         {
           "rank": 12,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 13,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
           "genres": [],
@@ -2760,7 +2768,7 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -2768,20 +2776,12 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
           "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
-        },
-        {
-          "rank": 15,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 16,
@@ -2977,6 +2977,14 @@
         },
         {
           "rank": 40,
+          "name": "STAKILLAZ",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
+          "genres": [],
+          "uri": "spotify:artist:44tWGthIqM3mm0ngpslGO9",
+          "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
+        },
+        {
+          "rank": 41,
           "name": "Gutter Whore",
           "image": "https://i.scdn.co/image/ab6761610000e5eb414eb1b4dcdef93a163f2e99",
           "genres": [],
@@ -2984,7 +2992,7 @@
           "url": "https://open.spotify.com/artist/09TAxArvBAjqTaVBE7viuU"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "ksuuvi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
           "genres": [],
@@ -2992,7 +3000,7 @@
           "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Boy Fantasy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffe6ca1d41f75558a9678c89",
           "genres": [],
@@ -3000,20 +3008,12 @@
           "url": "https://open.spotify.com/artist/6TNu2GG0r5FZXtSvdGcLsY"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "rank": 44,
-          "name": "STAKILLAZ",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
-          "genres": [],
-          "uri": "spotify:artist:44tWGthIqM3mm0ngpslGO9",
-          "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
           "rank": 45,
