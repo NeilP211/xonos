@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-08T14:00:23.110Z",
+  "updated_at": "2026-07-08T16:28:38.247Z",
   "is_playing": false,
   "track": {
-    "name": "Haunt Muskie",
+    "name": "shadeson (with 2hollis)",
     "artists": [
-      "C418"
+      "Ken Carson",
+      "2hollis"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:6IciXD3wtLksXAR4CHULJC"
+    "album": "xperiment",
+    "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+    "uri": "spotify:track:7155NVwKKJjtQtssuaqgJ9"
   },
-  "played_at": "2026-07-08T13:10:57.270Z"
+  "played_at": "2026-07-08T15:00:17.026Z"
 }

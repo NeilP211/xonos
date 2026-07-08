@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:00:22.845Z",
+  "generated_at": "2026-07-08T16:28:37.966Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -290,6 +290,18 @@
         },
         {
           "rank": 24,
+          "name": "Ac130",
+          "artists": [
+            "Protect"
+          ],
+          "album": "Slimedude2003",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739b35935fd4e0bb7080528e7c",
+          "uri": "spotify:track:6m9JbF0wGxodo7Nkczmkgi",
+          "url": "https://open.spotify.com/track/6m9JbF0wGxodo7Nkczmkgi",
+          "duration_ms": 95863
+        },
+        {
+          "rank": 25,
           "name": "Look at My Life",
           "artists": [
             "Gracie Abrams"
@@ -301,7 +313,7 @@
           "duration_ms": 190533
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -313,7 +325,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Hot N*gga",
           "artists": [
             "Bobby Shmurda"
@@ -325,7 +337,7 @@
           "duration_ms": 194561
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -337,7 +349,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Chimie",
           "artists": [
             "Dialryckx"
@@ -349,7 +361,7 @@
           "duration_ms": 68092
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -361,7 +373,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "cozy",
           "artists": [
             "phreshboyswag"
@@ -373,7 +385,7 @@
           "duration_ms": 147911
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -385,7 +397,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "subhanallah",
           "artists": [
             "soulcast"
@@ -397,7 +409,7 @@
           "duration_ms": 62344
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "real music",
           "artists": [
             "Robin Gan"
@@ -409,7 +421,7 @@
           "duration_ms": 50061
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -419,18 +431,6 @@
           "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
           "url": "https://open.spotify.com/track/6dY5hqP7RPPjjA8rLukrtD",
           "duration_ms": 249813
-        },
-        {
-          "rank": 35,
-          "name": "Ac130",
-          "artists": [
-            "Protect"
-          ],
-          "album": "Slimedude2003",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739b35935fd4e0bb7080528e7c",
-          "uri": "spotify:track:6m9JbF0wGxodo7Nkczmkgi",
-          "url": "https://open.spotify.com/track/6m9JbF0wGxodo7Nkczmkgi",
-          "duration_ms": 95863
         },
         {
           "rank": 36,
@@ -659,6 +659,14 @@
         },
         {
           "rank": 5,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 6,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -666,7 +674,7 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
@@ -674,20 +682,12 @@
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
           "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "rank": 8,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 9,
@@ -707,6 +707,14 @@
         },
         {
           "rank": 11,
+          "name": "Nettspend",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
+          "genres": [],
+          "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "rank": 12,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -714,20 +722,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
           "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 13,
-          "name": "Nettspend",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-          "genres": [],
-          "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
           "rank": 14,
