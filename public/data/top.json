@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T06:42:42.212Z",
+  "generated_at": "2026-07-09T11:55:51.490Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1705,19 +1705,19 @@
         },
         {
           "rank": 8,
-          "name": "phreshboyswag",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
-          "genres": [],
-          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
-          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
-        },
-        {
-          "rank": 9,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
+        },
+        {
+          "rank": 9,
+          "name": "phreshboyswag",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
+          "genres": [],
+          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
+          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
           "rank": 10,
@@ -1993,6 +1993,14 @@
         },
         {
           "rank": 44,
+          "name": "Snow Strippers",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
+          "genres": [],
+          "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "rank": 45,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -2000,7 +2008,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "akkiemi",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf6a9f59782a5672297a7075b",
           "genres": [],
@@ -2008,7 +2016,7 @@
           "url": "https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -2016,7 +2024,7 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Ron Suno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf49a0886c7b50a9430cc79cc",
           "genres": [],
@@ -2024,7 +2032,7 @@
           "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "SugarHill Keem",
           "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
           "genres": [],
@@ -2032,20 +2040,12 @@
           "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "KREZUS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb07e2acaea6d6c4a9bdc4a38e",
           "genres": [],
           "uri": "spotify:artist:6S1GI59Xa6ClqYBqASQxjq",
           "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
-        },
-        {
-          "rank": 50,
-          "name": "DJ TLS DA ZL",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
-          "genres": [],
-          "uri": "spotify:artist:5x1JvGRAKa8f06JxguX7nK",
-          "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         }
       ]
     },
