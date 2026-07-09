@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T22:03:49.635Z",
+  "updated_at": "2026-07-09T02:49:15.360Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -11757,6 +11757,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
       "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
       "duration_ms": 109134
+    },
+    {
+      "played_at": "2026-07-08T22:24:55.655Z",
+      "name": "type london",
+      "artists": [
+        "ONDA ANDAR"
+      ],
+      "album": "type london",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f3c50379840f6bfa28ef0d9",
+      "uri": "spotify:track:6Ksueaf6RSn6cTo9LVHQPJ",
+      "duration_ms": 103529
     }
   ]
 }
