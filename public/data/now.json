@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-09T17:24:00.189Z",
-  "is_playing": false,
+  "updated_at": "2026-07-09T19:43:14.114Z",
+  "is_playing": true,
   "track": {
-    "name": "Back In Black",
+    "name": "Suffocation",
     "artists": [
-      "AC/DC"
+      "Crystal Castles"
     ],
-    "album": "Back In Black",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
-    "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj"
+    "album": "Crystal Castles (II)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273af54621b48da9687dc86011b",
+    "uri": "spotify:track:5ngTZfaLbdMgN8WoCOh0d4"
   },
-  "played_at": "2026-07-09T14:34:20.671Z"
+  "played_at": "2026-07-09T19:43:14.114Z"
 }

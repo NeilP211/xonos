@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T17:24:00.150Z",
+  "updated_at": "2026-07-09T19:43:13.913Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12173,6 +12173,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
       "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj",
       "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-07-09T19:15:53.102Z",
+      "name": "Silhouette",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Silhouette",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ff0068f58e74e677be844ea",
+      "uri": "spotify:track:3HoGF4zDfQOkNQnUY6W2nH",
+      "duration_ms": 239999
+    },
+    {
+      "played_at": "2026-07-09T19:16:04.178Z",
+      "name": "Symphony Of Destruction",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Countdown To Extinction (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b178f928742be1492c6fba2",
+      "uri": "spotify:track:51TG9W3y9qyO8BY5RXKgnZ",
+      "duration_ms": 246733
+    },
+    {
+      "played_at": "2026-07-09T19:27:14.187Z",
+      "name": "Turu R9 - Ultra Slowed Remake",
+      "artists": [
+        "DJ Ikeraus",
+        "DJ JUN01",
+        "0to8"
+      ],
+      "album": "Turu R9 (Ultra Slowed Remake)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3f46026ebf13977987f536d",
+      "uri": "spotify:track:1D3bxUyyXvJtQFzGVgVpgt",
+      "duration_ms": 133690
+    },
+    {
+      "played_at": "2026-07-09T19:29:41.961Z",
+      "name": "Toma Pipocada - Slowed",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Toma Pipocada",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733bdbd200ddb249fda330068b",
+      "uri": "spotify:track:7fwvg3mwCgTshx2HGOInc7",
+      "duration_ms": 119727
     }
   ]
 }
