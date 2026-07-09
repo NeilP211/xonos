@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-09T14:58:00.241Z",
+  "updated_at": "2026-07-09T17:24:00.189Z",
   "is_playing": false,
   "track": {
-    "name": "Symphony Of Destruction",
+    "name": "Back In Black",
     "artists": [
-      "Megadeth"
+      "AC/DC"
     ],
-    "album": "Countdown To Extinction (Expanded Edition - Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737b178f928742be1492c6fba2",
-    "uri": "spotify:track:51TG9W3y9qyO8BY5RXKgnZ"
+    "album": "Back In Black",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+    "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj"
   },
-  "played_at": "2026-07-09T14:58:00.241Z"
+  "played_at": "2026-07-09T14:34:20.671Z"
 }
