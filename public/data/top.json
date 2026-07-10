@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:43:37.166Z",
+  "generated_at": "2026-07-10T11:49:59.148Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1378,6 +1378,18 @@
         },
         {
           "rank": 29,
+          "name": "Im Inna Band",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Im Inna Band",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
+          "duration_ms": 194951
+        },
+        {
+          "rank": 30,
           "name": "Spinnin",
           "artists": [
             "Kyle Richh"
@@ -1389,7 +1401,7 @@
           "duration_ms": 164583
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -1401,7 +1413,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Void",
           "artists": [
             "Tevvez"
@@ -1413,7 +1425,7 @@
           "duration_ms": 209040
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1425,7 +1437,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1435,18 +1447,6 @@
           "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
           "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
           "duration_ms": 299258
-        },
-        {
-          "rank": 34,
-          "name": "Im Inna Band",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Im Inna Band",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
-          "duration_ms": 194951
         },
         {
           "rank": 35,
@@ -1522,6 +1522,18 @@
         },
         {
           "rank": 41,
+          "name": "jaded",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "with 2 (hosted by d9lton)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+          "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+          "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
+          "duration_ms": 112733
+        },
+        {
+          "rank": 42,
           "name": "Baki Hanma Hardstyle",
           "artists": [
             "Kidd Kaneki"
@@ -1533,7 +1545,7 @@
           "duration_ms": 163989
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -1548,7 +1560,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "fancy",
           "artists": [
             "phreshboyswag"
@@ -1560,7 +1572,7 @@
           "duration_ms": 86842
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -1573,7 +1585,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1585,7 +1597,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1597,7 +1609,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1609,7 +1621,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Motamkena",
           "artists": [
             "Lamis Kan"
@@ -1621,7 +1633,7 @@
           "duration_ms": 158376
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Style",
           "artists": [
             "Taylor Swift"
@@ -1631,18 +1643,6 @@
           "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e",
           "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e",
           "duration_ms": 231000
-        },
-        {
-          "rank": 50,
-          "name": "munni & drugs",
-          "artists": [
-            "bleood"
-          ],
-          "album": "how bleood stole Xmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
-          "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
-          "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
-          "duration_ms": 130677
         }
       ],
       "artists": [
@@ -1808,14 +1808,6 @@
         },
         {
           "rank": 21,
-          "name": "Gracie Abrams",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
-          "genres": [],
-          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "rank": 22,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -1823,7 +1815,7 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -1831,12 +1823,20 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        },
+        {
+          "rank": 24,
+          "name": "Gracie Abrams",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+          "genres": [],
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
           "rank": 25,
