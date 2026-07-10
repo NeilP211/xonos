@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T02:51:39.946Z",
+  "updated_at": "2026-07-10T06:43:37.260Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12263,6 +12263,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
       "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
       "duration_ms": 77135
+    },
+    {
+      "played_at": "2026-07-09T23:42:20.804Z",
+      "name": "Turu R9 - Ultra Slowed Remake",
+      "artists": [
+        "DJ Ikeraus",
+        "DJ JUN01",
+        "0to8"
+      ],
+      "album": "Turu R9 (Ultra Slowed Remake)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3f46026ebf13977987f536d",
+      "uri": "spotify:track:1D3bxUyyXvJtQFzGVgVpgt",
+      "duration_ms": 133690
     }
   ]
 }
