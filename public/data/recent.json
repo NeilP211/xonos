@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T22:20:45.627Z",
+  "updated_at": "2026-07-10T02:51:39.946Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12219,6 +12219,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733bdbd200ddb249fda330068b",
       "uri": "spotify:track:7fwvg3mwCgTshx2HGOInc7",
       "duration_ms": 119727
+    },
+    {
+      "played_at": "2026-07-09T23:25:11.632Z",
+      "name": "Suffocation",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles (II)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af54621b48da9687dc86011b",
+      "uri": "spotify:track:5ngTZfaLbdMgN8WoCOh0d4",
+      "duration_ms": 240626
+    },
+    {
+      "played_at": "2026-07-09T23:30:59.903Z",
+      "name": "Team",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
+      "duration_ms": 193058
+    },
+    {
+      "played_at": "2026-07-09T23:38:17.081Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-07-09T23:39:45.027Z",
+      "name": "Yooo",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Yooo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
+      "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
+      "duration_ms": 77135
     }
   ]
 }
