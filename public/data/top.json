@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T15:54:22.482Z",
+  "generated_at": "2026-07-11T18:59:58.031Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -80,18 +80,6 @@
         },
         {
           "rank": 7,
-          "name": "Ain't With That (Late Night Callin')",
-          "artists": [
-            "Julian Fijma"
-          ],
-          "album": "Ain't With That (Late Night Callin')",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
-          "duration_ms": 207272
-        },
-        {
-          "rank": 8,
           "name": "Sadeness - Pt. 1 / Radio Edit",
           "artists": [
             "Enigma"
@@ -101,6 +89,18 @@
           "uri": "spotify:track:3MVm36ouM56jbP5rORxbVy",
           "url": "https://open.spotify.com/track/3MVm36ouM56jbP5rORxbVy",
           "duration_ms": 260400
+        },
+        {
+          "rank": 8,
+          "name": "Ain't With That (Late Night Callin')",
+          "artists": [
+            "Julian Fijma"
+          ],
+          "album": "Ain't With That (Late Night Callin')",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
+          "duration_ms": 207272
         },
         {
           "rank": 9,
@@ -216,31 +216,6 @@
         },
         {
           "rank": 18,
-          "name": "A Desert Rose - Radio Edit",
-          "artists": [
-            "Radion6",
-            "Sarah Lynn"
-          ],
-          "album": "Vocal Trance Selections",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
-          "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
-          "url": "https://open.spotify.com/track/6V8lYQmkHtyki1u4M11iNB",
-          "duration_ms": 201176
-        },
-        {
-          "rank": 19,
-          "name": "Picture To Burn",
-          "artists": [
-            "Taylor Swift"
-          ],
-          "album": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374e5b00878adddd24c9ab44d",
-          "uri": "spotify:track:3f8FaHeG75RzZHWzEQMKm7",
-          "url": "https://open.spotify.com/track/3f8FaHeG75RzZHWzEQMKm7",
-          "duration_ms": 173066
-        },
-        {
-          "rank": 20,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -253,7 +228,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Ac130",
           "artists": [
             "Protect"
@@ -265,7 +240,7 @@
           "duration_ms": 95863
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "HALLUCINATION - Slowed",
           "artists": [
             "HUSSVRX",
@@ -278,7 +253,7 @@
           "duration_ms": 143656
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -290,19 +265,7 @@
           "duration_ms": 249813
         },
         {
-          "rank": 24,
-          "name": "Hot N*gga",
-          "artists": [
-            "Bobby Shmurda"
-          ],
-          "album": "Hot N*gga",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d52e14e0595216ca453572ab",
-          "uri": "spotify:track:19gEmPjfqSZT0ulDRfjl0m",
-          "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m",
-          "duration_ms": 194561
-        },
-        {
-          "rank": 25,
+          "rank": 22,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -314,7 +277,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 26,
+          "rank": 23,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -326,7 +289,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 27,
+          "rank": 24,
           "name": "cozy",
           "artists": [
             "phreshboyswag"
@@ -338,7 +301,7 @@
           "duration_ms": 147911
         },
         {
-          "rank": 28,
+          "rank": 25,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -350,7 +313,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 29,
+          "rank": 26,
           "name": "subhanallah",
           "artists": [
             "soulcast"
@@ -362,7 +325,7 @@
           "duration_ms": 62344
         },
         {
-          "rank": 30,
+          "rank": 27,
           "name": "real music",
           "artists": [
             "Robin Gan"
@@ -374,19 +337,7 @@
           "duration_ms": 50061
         },
         {
-          "rank": 31,
-          "name": "That’s So True",
-          "artists": [
-            "Gracie Abrams"
-          ],
-          "album": "The Secret of Us (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
-          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-          "duration_ms": 166300
-        },
-        {
-          "rank": 32,
+          "rank": 28,
           "name": "Look at My Life",
           "artists": [
             "Gracie Abrams"
@@ -398,7 +349,7 @@
           "duration_ms": 190533
         },
         {
-          "rank": 33,
+          "rank": 29,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -410,7 +361,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 34,
+          "rank": 30,
           "name": "Wrecking Ball",
           "artists": [
             "Miley Cyrus"
@@ -422,7 +373,7 @@
           "duration_ms": 221366
         },
         {
-          "rank": 35,
+          "rank": 31,
           "name": "no reez",
           "artists": [
             "Chris Finesse Exclusives",
@@ -435,7 +386,7 @@
           "duration_ms": 132177
         },
         {
-          "rank": 36,
+          "rank": 32,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -447,7 +398,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 37,
+          "rank": 33,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -459,7 +410,19 @@
           "duration_ms": 77005
         },
         {
-          "rank": 38,
+          "rank": 34,
+          "name": "That’s So True",
+          "artists": [
+            "Gracie Abrams"
+          ],
+          "album": "The Secret of Us (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+          "duration_ms": 166300
+        },
+        {
+          "rank": 35,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -471,7 +434,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 39,
+          "rank": 36,
           "name": "Noblest Strive",
           "artists": [
             "Bladee"
@@ -483,7 +446,7 @@
           "duration_ms": 134893
         },
         {
-          "rank": 40,
+          "rank": 37,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -495,7 +458,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 41,
+          "rank": 38,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -507,7 +470,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 42,
+          "rank": 39,
           "name": "Suffocation",
           "artists": [
             "Crystal Castles"
@@ -519,7 +482,7 @@
           "duration_ms": 242293
         },
         {
-          "rank": 43,
+          "rank": 40,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -531,7 +494,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 44,
+          "rank": 41,
           "name": "Distant Echoes - Slowed + Reverb",
           "artists": [
             "VXLLAIN",
@@ -545,7 +508,19 @@
           "duration_ms": 217076
         },
         {
-          "rank": 45,
+          "rank": 42,
+          "name": "mona lisa",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "HIM",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+          "uri": "spotify:track:6NkEbJ5fwQbSCsbs8RlYSS",
+          "url": "https://open.spotify.com/track/6NkEbJ5fwQbSCsbs8RlYSS",
+          "duration_ms": 111483
+        },
+        {
+          "rank": 43,
           "name": "Montagem Effeminatio Molitia 2 - Hardstyle Ultra Slowed",
           "artists": [
             "DJ Ikeraus",
@@ -560,7 +535,7 @@
           "duration_ms": 97639
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "Evil Twins",
           "artists": [
             "SugarHill Keem",
@@ -573,7 +548,19 @@
           "duration_ms": 135274
         },
         {
-          "rank": 47,
+          "rank": 45,
+          "name": "Picture To Burn",
+          "artists": [
+            "Taylor Swift"
+          ],
+          "album": "Taylor Swift",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374e5b00878adddd24c9ab44d",
+          "uri": "spotify:track:3f8FaHeG75RzZHWzEQMKm7",
+          "url": "https://open.spotify.com/track/3f8FaHeG75RzZHWzEQMKm7",
+          "duration_ms": 173066
+        },
+        {
+          "rank": 46,
           "name": "UPAST - Ultra Slowed",
           "artists": [
             "HELLBLADE",
@@ -586,7 +573,7 @@
           "duration_ms": 108165
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -598,7 +585,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -610,7 +597,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Egyptian Codes",
           "artists": [
             "DotComNirvan",
@@ -621,6 +608,18 @@
           "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
           "url": "https://open.spotify.com/track/5hAlK7tHdxTzMBPtgjVFbi",
           "duration_ms": 150000
+        },
+        {
+          "rank": 50,
+          "name": "Resonance - Slowed & Reverb",
+          "artists": [
+            "noturgf"
+          ],
+          "album": "Resonance (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
+          "duration_ms": 318169
         }
       ],
       "artists": [
@@ -650,19 +649,19 @@
         },
         {
           "rank": 4,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 5,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "rank": 5,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 6,
@@ -706,19 +705,19 @@
         },
         {
           "rank": 11,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 12,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 12,
+          "name": "OsamaSon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+          "genres": [],
+          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
           "rank": 13,
@@ -747,7 +746,7 @@
         {
           "rank": 16,
           "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0a141f4185efe62d1236ddaf",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc045feca9048237c7dec012d",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
@@ -2929,7 +2928,7 @@
         {
           "rank": 35,
           "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0a141f4185efe62d1236ddaf",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc045feca9048237c7dec012d",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
