@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T22:00:05.996Z",
+  "updated_at": "2026-07-11T02:29:28.485Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12356,6 +12356,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
       "uri": "spotify:track:2dLLR6qlu5UJ5gk0dKz0h3",
       "duration_ms": 190185
+    },
+    {
+      "played_at": "2026-07-10T21:45:00.334Z",
+      "name": "In My Feelings",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:269xqcgGTN9PlivhUkOLhX",
+      "duration_ms": 238718
+    },
+    {
+      "played_at": "2026-07-10T23:59:54.717Z",
+      "name": "Frick Da Police",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "Frick Da Police",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
+      "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
+      "duration_ms": 127058
     }
   ]
 }
