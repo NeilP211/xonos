@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T02:29:28.485Z",
+  "updated_at": "2026-07-11T05:39:09.001Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12378,6 +12378,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
       "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
       "duration_ms": 127058
+    },
+    {
+      "played_at": "2026-07-11T01:05:09.092Z",
+      "name": "drollXD",
+      "artists": [
+        "DJ UNIVXRSEL"
+      ],
+      "album": "drollXD",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737ae0ad51ecb0397404996a6e",
+      "uri": "spotify:track:17BWbjrkhjck8yxLio2oVN",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-11T02:36:36.917Z",
+      "name": "God Church",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "God Church",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
+      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
+      "duration_ms": 150622
+    },
+    {
+      "played_at": "2026-07-11T02:38:02.350Z",
+      "name": "Yooo",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Yooo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
+      "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
+      "duration_ms": 77135
     }
   ]
 }
