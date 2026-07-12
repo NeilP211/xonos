@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T02:35:05.122Z",
+  "generated_at": "2026-07-12T05:56:29.452Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -92,18 +92,6 @@
         },
         {
           "rank": 8,
-          "name": "Ain't With That (Late Night Callin')",
-          "artists": [
-            "Julian Fijma"
-          ],
-          "album": "Ain't With That (Late Night Callin')",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
-          "duration_ms": 207272
-        },
-        {
-          "rank": 9,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -115,7 +103,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Turu R9 - Ultra Slowed Remake",
           "artists": [
             "DJ Ikeraus",
@@ -127,6 +115,18 @@
           "uri": "spotify:track:1D3bxUyyXvJtQFzGVgVpgt",
           "url": "https://open.spotify.com/track/1D3bxUyyXvJtQFzGVgVpgt",
           "duration_ms": 133690
+        },
+        {
+          "rank": 10,
+          "name": "Ain't With That (Late Night Callin')",
+          "artists": [
+            "Julian Fijma"
+          ],
+          "album": "Ain't With That (Late Night Callin')",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
+          "duration_ms": 207272
         },
         {
           "rank": 11,
@@ -746,7 +746,7 @@
         {
           "rank": 16,
           "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb9ac16cd50b416901e54905d",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9a2964aba028c949bd1343cd",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
@@ -777,14 +777,6 @@
         },
         {
           "rank": 20,
-          "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
-          "genres": [],
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "rank": 21,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -792,7 +784,7 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
@@ -800,7 +792,7 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "DJ Ikeraus",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9f952a11d98b9a0d1939e30d",
           "genres": [],
@@ -808,12 +800,20 @@
           "url": "https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Ricegum",
           "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
           "genres": [],
           "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
           "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
+        },
+        {
+          "rank": 24,
+          "name": "Taylor Swift",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
+          "genres": [],
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
           "rank": 25,
