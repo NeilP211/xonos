@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:57:59.142Z",
+  "generated_at": "2026-07-12T19:03:01.678Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -130,18 +130,6 @@
         },
         {
           "rank": 11,
-          "name": "Ain't With That (Late Night Callin')",
-          "artists": [
-            "Julian Fijma"
-          ],
-          "album": "Ain't With That (Late Night Callin')",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
-          "duration_ms": 207272
-        },
-        {
-          "rank": 12,
           "name": "Lean On",
           "artists": [
             "Major Lazer",
@@ -155,7 +143,7 @@
           "duration_ms": 176561
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -167,7 +155,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Beneficial For AnyBody",
           "artists": [
             "Glokk40Spaz"
@@ -179,7 +167,7 @@
           "duration_ms": 178329
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "math goat",
           "artists": [
             "Robin Gan"
@@ -189,6 +177,18 @@
           "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
           "url": "https://open.spotify.com/track/64rkGDcxsrmCJjVhRxoc3H",
           "duration_ms": 81843
+        },
+        {
+          "rank": 15,
+          "name": "Ain't With That (Late Night Callin')",
+          "artists": [
+            "Julian Fijma"
+          ],
+          "album": "Ain't With That (Late Night Callin')",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
+          "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
+          "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH",
+          "duration_ms": 207272
         },
         {
           "rank": 16,
@@ -537,6 +537,18 @@
         },
         {
           "rank": 44,
+          "name": "ttwlg",
+          "artists": [
+            "Yung Fazo"
+          ],
+          "album": "me vs me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+          "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+          "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
+          "duration_ms": 141165
+        },
+        {
+          "rank": 45,
           "name": "Picture To Burn",
           "artists": [
             "Taylor Swift"
@@ -548,7 +560,7 @@
           "duration_ms": 173066
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "UPAST - Ultra Slowed",
           "artists": [
             "HELLBLADE",
@@ -561,7 +573,7 @@
           "duration_ms": 108165
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -573,7 +585,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -585,7 +597,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Egyptian Codes",
           "artists": [
             "DotComNirvan",
@@ -598,28 +610,19 @@
           "duration_ms": 150000
         },
         {
-          "rank": 49,
-          "name": "Resonance - Slowed & Reverb",
-          "artists": [
-            "noturgf"
-          ],
-          "album": "Resonance (Slowed & Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
-          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
-          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
-          "duration_ms": 318169
-        },
-        {
           "rank": 50,
-          "name": "Ride",
+          "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
-            "Lana Del Rey"
+            "Jack Ü",
+            "Skrillex",
+            "Diplo",
+            "Justin Bieber"
           ],
-          "album": "Born To Die - The Paradise Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-          "uri": "spotify:track:7yFMhCJOsH7khgpdnyrZAZ",
-          "url": "https://open.spotify.com/track/7yFMhCJOsH7khgpdnyrZAZ",
-          "duration_ms": 289080
+          "album": "Skrillex and Diplo present Jack Ü",
+          "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+          "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+          "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
+          "duration_ms": 250285
         }
       ],
       "artists": [
@@ -777,14 +780,6 @@
         },
         {
           "rank": 20,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "rank": 21,
           "name": "DJ Ikeraus",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9f952a11d98b9a0d1939e30d",
           "genres": [],
@@ -792,7 +787,7 @@
           "url": "https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Ricegum",
           "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
           "genres": [],
@@ -800,7 +795,7 @@
           "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
@@ -808,7 +803,7 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
@@ -816,7 +811,7 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
@@ -824,7 +819,7 @@
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
@@ -832,7 +827,7 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -840,7 +835,7 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
@@ -848,7 +843,7 @@
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Lil O",
           "image": "https://i.scdn.co/image/ab6761610000e5eb55cfeeaec0f19c3193a0d573",
           "genres": [],
@@ -856,7 +851,7 @@
           "url": "https://open.spotify.com/artist/5hv30sKujjm0PyqD2j4v9n"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
@@ -864,7 +859,7 @@
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -872,7 +867,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
           "genres": [],
@@ -880,7 +875,7 @@
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Deproved",
           "image": "https://i.scdn.co/image/ab6761610000e5ebec842c8f2f5b38eb666f542f",
           "genres": [],
@@ -888,7 +883,7 @@
           "url": "https://open.spotify.com/artist/10c6lWcpVwP5yteSS5Z1YE"
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -896,7 +891,7 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
@@ -904,7 +899,7 @@
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -912,7 +907,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
@@ -920,7 +915,7 @@
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "lagoyo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2339977b9a3049796186303a",
           "genres": [],
@@ -928,7 +923,7 @@
           "url": "https://open.spotify.com/artist/4Iqd5rIwHATImcJMlDjYIX"
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "wonder",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe5151dc26c63a49cc6a1d6f7",
           "genres": [],
@@ -936,7 +931,7 @@
           "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "La Capella",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
           "genres": [],
@@ -944,7 +939,7 @@
           "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Antent",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
           "genres": [],
@@ -952,7 +947,7 @@
           "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -960,7 +955,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "nleave",
           "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
           "genres": [],
@@ -968,7 +963,7 @@
           "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "pupsies",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc1464b4044a02da7d25725c",
           "genres": [],
@@ -976,12 +971,20 @@
           "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "D.O.D",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74cf50aa63068966ceebe8ff",
           "genres": [],
           "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB",
           "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "rank": 45,
+          "name": "Ellie Goulding",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb70a7b5f0ee7b18d2f2cc8d74",
+          "genres": [],
+          "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
           "rank": 46,

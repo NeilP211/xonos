@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T15:57:59.373Z",
+  "updated_at": "2026-07-12T19:03:01.898Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12564,6 +12564,113 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
       "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs",
       "duration_ms": 205680
+    },
+    {
+      "played_at": "2026-07-12T16:21:39.384Z",
+      "name": "Rhinestone Cowboy",
+      "artists": [
+        "Glen Campbell"
+      ],
+      "album": "Rhinestone Cowboy (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27363134b3cf76a63e91647e1bb",
+      "uri": "spotify:track:0VwTeYNjcl30DyQlt3GPe0",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-07-12T16:25:22.708Z",
+      "name": "Think I'm In Love With You",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Higher",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f",
+      "uri": "spotify:track:3Gn1zuHNLtGuGEOXwq0k7e",
+      "duration_ms": 222800
+    },
+    {
+      "played_at": "2026-07-12T18:24:42.920Z",
+      "name": "Runaway (U & I)",
+      "artists": [
+        "Galantis"
+      ],
+      "album": "Pharmacy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b574d4c9929a31926d5faf1b",
+      "uri": "spotify:track:46lFttIf5hnUZMGvjK0Wxo",
+      "duration_ms": 227073
+    },
+    {
+      "played_at": "2026-07-12T18:25:05.329Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-12T18:26:20.352Z",
+      "name": "Leaving Carolina",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "Heavy On The Soul",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731659d02d76ffe2e7213c61ce",
+      "uri": "spotify:track:7i9aeFLcFUSnfJwslgBdl2",
+      "duration_ms": 225374
+    },
+    {
+      "played_at": "2026-07-12T18:30:15.278Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-12T18:46:55.813Z",
+      "name": "Burn",
+      "artists": [
+        "Ellie Goulding"
+      ],
+      "album": "Halcyon Nights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8f674745d4e6757a9b35ba0",
+      "uri": "spotify:track:5lF0pHbsJ0QqyIrLweHJPW",
+      "duration_ms": 231213
+    },
+    {
+      "played_at": "2026-07-12T18:55:48.391Z",
+      "name": "Turu R9 - Ultra Slowed Remake",
+      "artists": [
+        "DJ Ikeraus",
+        "DJ JUN01",
+        "0to8"
+      ],
+      "album": "Turu R9 (Ultra Slowed Remake)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3f46026ebf13977987f536d",
+      "uri": "spotify:track:1D3bxUyyXvJtQFzGVgVpgt",
+      "duration_ms": 133690
+    },
+    {
+      "played_at": "2026-07-12T18:57:48.552Z",
+      "name": "Toma Pipocada - Slowed",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Toma Pipocada",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733bdbd200ddb249fda330068b",
+      "uri": "spotify:track:7fwvg3mwCgTshx2HGOInc7",
+      "duration_ms": 119727
     }
   ]
 }

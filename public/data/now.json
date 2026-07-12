@@ -1,14 +1,17 @@
 {
-  "updated_at": "2026-07-12T15:57:59.415Z",
-  "is_playing": false,
+  "updated_at": "2026-07-12T19:03:02.088Z",
+  "is_playing": true,
   "track": {
-    "name": "What Do You Mean?",
+    "name": "Where Are Ü Now (with Justin Bieber)",
     "artists": [
+      "Jack Ü",
+      "Skrillex",
+      "Diplo",
       "Justin Bieber"
     ],
-    "album": "Purpose (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
-    "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs"
+    "album": "Skrillex and Diplo present Jack Ü",
+    "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+    "uri": "spotify:track:66hayvUbTotekKU3H4ta1f"
   },
-  "played_at": "2026-07-12T15:25:43.438Z"
+  "played_at": "2026-07-12T19:03:02.088Z"
 }
