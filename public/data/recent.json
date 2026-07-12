@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T13:15:47.680Z",
+  "updated_at": "2026-07-12T15:57:59.373Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12505,6 +12505,65 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
       "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
       "duration_ms": 141165
+    },
+    {
+      "played_at": "2026-07-12T14:57:31.167Z",
+      "name": "Dark Paradise",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die – Paradise Edition (Special Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+      "uri": "spotify:track:349XIp8EgHWJiIg5K0CUft",
+      "duration_ms": 243173
+    },
+    {
+      "played_at": "2026-07-12T15:06:37.684Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-12T15:10:50.668Z",
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "artists": [
+        "Ellie Goulding"
+      ],
+      "album": "Delirium (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bdee14242f244d9d6ddf2fd",
+      "uri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu",
+      "duration_ms": 252534
+    },
+    {
+      "played_at": "2026-07-12T15:15:33.327Z",
+      "name": "Define",
+      "artists": [
+        "Dom Dolla",
+        "Go Freek"
+      ],
+      "album": "Define",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fda751b535b40b6f1066e480",
+      "uri": "spotify:track:3B1Je3rlEac3p4ikYW13zw",
+      "duration_ms": 232129
+    },
+    {
+      "played_at": "2026-07-12T15:25:43.438Z",
+      "name": "What Do You Mean?",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Purpose (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+      "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs",
+      "duration_ms": 205680
     }
   ]
 }
