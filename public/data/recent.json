@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T10:26:04.585Z",
+  "updated_at": "2026-07-12T13:15:47.680Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12433,6 +12433,78 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273df5564695e4659f579447c5e",
       "uri": "spotify:track:5d11FoptGmxaKbdssnrPZ9",
       "duration_ms": 85577
+    },
+    {
+      "played_at": "2026-07-12T11:45:41.642Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-12T11:48:09.048Z",
+      "name": "ttwlg",
+      "artists": [
+        "Yung Fazo"
+      ],
+      "album": "me vs me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+      "duration_ms": 141165
+    },
+    {
+      "played_at": "2026-07-12T11:52:26.687Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-12T11:56:48.406Z",
+      "name": "ttwlg",
+      "artists": [
+        "Yung Fazo"
+      ],
+      "album": "me vs me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+      "duration_ms": 141165
+    },
+    {
+      "played_at": "2026-07-12T12:01:35.389Z",
+      "name": "ttwlg",
+      "artists": [
+        "Yung Fazo"
+      ],
+      "album": "me vs me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+      "duration_ms": 141165
+    },
+    {
+      "played_at": "2026-07-12T12:04:08.310Z",
+      "name": "ttwlg",
+      "artists": [
+        "Yung Fazo"
+      ],
+      "album": "me vs me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+      "duration_ms": 141165
     }
   ]
 }
