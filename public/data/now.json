@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-13T19:20:53.344Z",
+  "updated_at": "2026-07-13T21:54:38.360Z",
   "is_playing": false,
   "track": {
-    "name": "Southern Nights",
+    "name": "Swan Song",
     "artists": [
-      "Glen Campbell"
+      "Lana Del Rey"
     ],
-    "album": "Southern Nights",
-    "image": "https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097",
-    "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn"
+    "album": "Honeymoon",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+    "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ"
   },
-  "played_at": "2026-07-13T15:05:09.955Z"
+  "played_at": "2026-07-13T20:53:42.020Z"
 }
