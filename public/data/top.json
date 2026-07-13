@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:16:01.959Z",
+  "generated_at": "2026-07-13T12:01:00.883Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -56,15 +56,18 @@
         },
         {
           "rank": 5,
-          "name": "Kirkify",
+          "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
-            "Edo Hunnidz"
+            "Jack Ü",
+            "Skrillex",
+            "Diplo",
+            "Justin Bieber"
           ],
-          "album": "Kirkify",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
-          "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
-          "url": "https://open.spotify.com/track/047CqSS6h5gFgruozkbgy1",
-          "duration_ms": 80000
+          "album": "Skrillex and Diplo present Jack Ü",
+          "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+          "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+          "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
+          "duration_ms": 250285
         },
         {
           "rank": 6,
@@ -106,18 +109,15 @@
         },
         {
           "rank": 9,
-          "name": "Where Are Ü Now (with Justin Bieber)",
+          "name": "Kirkify",
           "artists": [
-            "Jack Ü",
-            "Skrillex",
-            "Diplo",
-            "Justin Bieber"
+            "Edo Hunnidz"
           ],
-          "album": "Skrillex and Diplo present Jack Ü",
-          "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
-          "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
-          "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
-          "duration_ms": 250285
+          "album": "Kirkify",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+          "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+          "url": "https://open.spotify.com/track/047CqSS6h5gFgruozkbgy1",
+          "duration_ms": 80000
         },
         {
           "rank": 10,
@@ -232,6 +232,18 @@
         },
         {
           "rank": 19,
+          "name": "Beneficial For AnyBody",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Beneficial For AnyBody",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
+          "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
+          "url": "https://open.spotify.com/track/3XgPGhBxfMWKx8bbMZVMq3",
+          "duration_ms": 178329
+        },
+        {
+          "rank": 20,
           "name": "HALLUCINATION - Slowed",
           "artists": [
             "HUSSVRX",
@@ -244,7 +256,7 @@
           "duration_ms": 143656
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "...and Suffer As One",
           "artists": [
             "Crowbar"
@@ -256,7 +268,7 @@
           "duration_ms": 249813
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "glamur) (super slowed)",
           "artists": [
             "DJ ZUP RAlii"
@@ -268,7 +280,7 @@
           "duration_ms": 129285
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -278,18 +290,6 @@
           "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
           "url": "https://open.spotify.com/track/314bi2IzSFaBWmAfn1c0eu",
           "duration_ms": 127058
-        },
-        {
-          "rank": 23,
-          "name": "Beneficial For AnyBody",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Beneficial For AnyBody",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f20d5db403fc23c52bc461b",
-          "uri": "spotify:track:3XgPGhBxfMWKx8bbMZVMq3",
-          "url": "https://open.spotify.com/track/3XgPGhBxfMWKx8bbMZVMq3",
-          "duration_ms": 178329
         },
         {
           "rank": 24,
@@ -748,14 +748,6 @@
         },
         {
           "rank": 16,
-          "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
-          "genres": [],
-          "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
-          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
-        },
-        {
-          "rank": 17,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
@@ -763,7 +755,7 @@
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -771,7 +763,7 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -779,7 +771,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -787,12 +779,20 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "DJ Ikeraus",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9f952a11d98b9a0d1939e30d",
           "genres": [],
           "uri": "spotify:artist:21zPGluD0MD68ctSgkuMXi",
           "url": "https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi"
+        },
+        {
+          "rank": 21,
+          "name": "Tay-K",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
+          "genres": [],
+          "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
+          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
           "rank": 22,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T06:16:02.045Z",
+  "updated_at": "2026-07-13T12:01:01.033Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12905,6 +12905,20 @@
     },
     {
       "played_at": "2026-07-12T23:55:24.880Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-13T02:52:07.495Z",
       "name": "Where Are Ü Now (with Justin Bieber)",
       "artists": [
         "Jack Ü",
