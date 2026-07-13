@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T12:01:01.033Z",
+  "updated_at": "2026-07-13T17:11:36.363Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -12930,6 +12930,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
       "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
       "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-13T14:53:56.111Z",
+      "name": "Maggie's Song",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739408342067e2ff50d69a3c98",
+      "uri": "spotify:track:50QWBrZFAhD6N4B0tbfET9",
+      "duration_ms": 211480
+    },
+    {
+      "played_at": "2026-07-13T14:58:26.467Z",
+      "name": "Ends of the Earth",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:6nd49XfTkJQI0rI9fnJIpy",
+      "duration_ms": 269830
+    },
+    {
+      "played_at": "2026-07-13T15:02:09.404Z",
+      "name": "Traveller",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Traveller",
+      "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
+      "uri": "spotify:track:178OI1A3qjROeFeh8lmNwW",
+      "duration_ms": 222413
+    },
+    {
+      "played_at": "2026-07-13T15:05:09.955Z",
+      "name": "Southern Nights",
+      "artists": [
+        "Glen Campbell"
+      ],
+      "album": "Southern Nights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097",
+      "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn",
+      "duration_ms": 180026
     }
   ]
 }
