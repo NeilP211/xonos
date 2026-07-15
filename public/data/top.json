@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T02:13:53.702Z",
+  "generated_at": "2026-07-15T05:29:14.588Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -135,18 +135,6 @@
         },
         {
           "rank": 11,
-          "name": "Thoughts While Incarcerated",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "BABY WHOA",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
-          "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
-          "url": "https://open.spotify.com/track/61vcuXduuAFhBmLetVISBf",
-          "duration_ms": 221387
-        },
-        {
-          "rank": 12,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -158,7 +146,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "math goat",
           "artists": [
             "Robin Gan"
@@ -168,6 +156,18 @@
           "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
           "url": "https://open.spotify.com/track/64rkGDcxsrmCJjVhRxoc3H",
           "duration_ms": 81843
+        },
+        {
+          "rank": 13,
+          "name": "ttwlg",
+          "artists": [
+            "Yung Fazo"
+          ],
+          "album": "me vs me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+          "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+          "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
+          "duration_ms": 141165
         },
         {
           "rank": 14,
@@ -293,18 +293,6 @@
         },
         {
           "rank": 24,
-          "name": "ttwlg",
-          "artists": [
-            "Yung Fazo"
-          ],
-          "album": "me vs me",
-          "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
-          "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
-          "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
-          "duration_ms": 141165
-        },
-        {
-          "rank": 25,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -316,7 +304,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Wrecking Ball",
           "artists": [
             "Miley Cyrus"
@@ -328,7 +316,7 @@
           "duration_ms": 221366
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "no reez",
           "artists": [
             "Chris Finesse Exclusives",
@@ -341,7 +329,7 @@
           "duration_ms": 132177
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -353,7 +341,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "MXRDER IN SHADOWMOOR - Ultra Slowed",
           "artists": [
             "XTFO"
@@ -365,7 +353,7 @@
           "duration_ms": 154285
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -378,7 +366,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Ain't With That (Late Night Callin')",
           "artists": [
             "Julian Fijma"
@@ -390,7 +378,7 @@
           "duration_ms": 207272
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -402,7 +390,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -414,7 +402,7 @@
           "duration_ms": 166300
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -424,6 +412,18 @@
           "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
           "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
           "duration_ms": 112733
+        },
+        {
+          "rank": 34,
+          "name": "Thoughts While Incarcerated",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "BABY WHOA",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+          "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+          "url": "https://open.spotify.com/track/61vcuXduuAFhBmLetVISBf",
+          "duration_ms": 221387
         },
         {
           "rank": 35,
@@ -631,19 +631,19 @@
       "artists": [
         {
           "rank": 1,
-          "name": "Glokk40Spaz",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
-          "genres": [],
-          "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        },
-        {
-          "rank": 2,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
           "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "rank": 2,
+          "name": "Glokk40Spaz",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
+          "genres": [],
+          "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
         {
           "rank": 3,
@@ -655,19 +655,19 @@
         },
         {
           "rank": 4,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 5,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
           "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "rank": 5,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 6,
@@ -743,19 +743,19 @@
         },
         {
           "rank": 15,
-          "name": "phreshboyswag",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
-          "genres": [],
-          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
-          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
-        },
-        {
-          "rank": 16,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
           "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm",
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "rank": 16,
+          "name": "phreshboyswag",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
+          "genres": [],
+          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
+          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
           "rank": 17,
