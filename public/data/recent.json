@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:19:47.352Z",
+  "updated_at": "2026-07-15T19:07:31.639Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -13434,6 +13434,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e4027c9bf134aac21a2697c7",
       "uri": "spotify:track:7D6U4Jef98lIZNr9Leqnv8",
       "duration_ms": 163137
+    },
+    {
+      "played_at": "2026-07-15T01:52:45.609Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "Glokk40Spaz",
+        "2wo2imes"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+      "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-07-15T17:36:53.665Z",
+      "name": "The Old Gods And The New - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273822e909bd0687dadc961e2e5",
+      "uri": "spotify:track:2YVM6DAeKm6gMAy7kmsFj1",
+      "duration_ms": 159813
+    },
+    {
+      "played_at": "2026-07-15T17:38:37.882Z",
+      "name": "A Golden Crown",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones (Music From The HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
+      "uri": "spotify:track:5xrrSZVaQTtktyBux70TKn",
+      "duration_ms": 98426
+    },
+    {
+      "played_at": "2026-07-15T17:42:20.055Z",
+      "name": "It's A Lovely Day Today",
+      "artists": [
+        "Perry Como"
+      ],
+      "album": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e93c50d435d6933bb13d2f4",
+      "uri": "spotify:track:0ApUPYg8ifMJZchhFeFLDs",
+      "duration_ms": 160946
+    },
+    {
+      "played_at": "2026-07-15T17:47:36.677Z",
+      "name": "Pennies From Heaven",
+      "artists": [
+        "Stan Getz",
+        "Oscar Peterson Trio"
+      ],
+      "album": "Stan Getz And The Oscar Peterson Trio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
+      "uri": "spotify:track:1cKieOitNWqzxDdOboOzHy",
+      "duration_ms": 311813
     }
   ]
 }
