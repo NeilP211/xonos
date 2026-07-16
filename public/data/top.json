@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T21:58:28.994Z",
+  "generated_at": "2026-07-16T02:26:27.196Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -32,18 +32,6 @@
         },
         {
           "rank": 3,
-          "name": "Im Inna Band",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Im Inna Band",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
-          "duration_ms": 194951
-        },
-        {
-          "rank": 4,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -53,6 +41,18 @@
           "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
           "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
           "duration_ms": 158966
+        },
+        {
+          "rank": 4,
+          "name": "Im Inna Band",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Im Inna Band",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
+          "duration_ms": 194951
         },
         {
           "rank": 5,
@@ -540,19 +540,6 @@
         },
         {
           "rank": 44,
-          "name": "Evil Twins",
-          "artists": [
-            "SugarHill Keem",
-            "Oy Quan"
-          ],
-          "album": "KING OF DRILL",
-          "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
-          "uri": "spotify:track:6fl4RSPPgvc3o7tndxUEK8",
-          "url": "https://open.spotify.com/track/6fl4RSPPgvc3o7tndxUEK8",
-          "duration_ms": 135274
-        },
-        {
-          "rank": 45,
           "name": "UPAST",
           "artists": [
             "HELLBLADE",
@@ -565,7 +552,7 @@
           "duration_ms": 86095
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -577,7 +564,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -589,7 +576,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -604,7 +591,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -616,7 +603,7 @@
           "duration_ms": 102235
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -626,6 +613,19 @@
           "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
           "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
           "duration_ms": 417226
+        },
+        {
+          "rank": 50,
+          "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
+          "artists": [
+            "snort.",
+            "SAPFIR"
+          ],
+          "album": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27343762e371f87c398d5c31d5a",
+          "uri": "spotify:track:7hvVdfhch3IUZLtrRrJ0SL",
+          "url": "https://open.spotify.com/track/7hvVdfhch3IUZLtrRrJ0SL",
+          "duration_ms": 138115
         }
       ],
       "artists": [
@@ -1853,7 +1853,7 @@
         {
           "rank": 26,
           "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
