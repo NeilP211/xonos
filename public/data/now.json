@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-16T19:06:44.348Z",
-  "is_playing": true,
+  "updated_at": "2026-07-16T22:02:13.909Z",
+  "is_playing": false,
   "track": {
-    "name": "life imitates life",
+    "name": "One Last Breath",
     "artists": [
-      "quannnic"
+      "Creed"
     ],
-    "album": "kenopsia",
-    "image": "https://i.scdn.co/image/ab67616d0000b273780766f32cfa6359c93ae2dc",
-    "uri": "spotify:track:5E9qBEUja2yAjUPhQO8Gx7"
+    "album": "Weathered",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
+    "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK"
   },
-  "played_at": "2026-07-16T19:06:44.348Z"
+  "played_at": "2026-07-16T21:06:37.306Z"
 }

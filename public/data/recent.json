@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T19:06:44.271Z",
+  "updated_at": "2026-07-16T22:02:13.835Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -13905,6 +13905,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
       "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
       "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-07-16T19:13:00.018Z",
+      "name": "I Don't Care",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "I Don't Care",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
+      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
+      "duration_ms": 181028
+    },
+    {
+      "played_at": "2026-07-16T19:30:45.667Z",
+      "name": "Comatose",
+      "artists": [
+        "quannnic"
+      ],
+      "album": "Stepdream",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310de399e9c02ae7a4a61f9e9",
+      "uri": "spotify:track:0u0SIh7y7UopLQMFUvEhvp",
+      "duration_ms": 228916
+    },
+    {
+      "played_at": "2026-07-16T21:06:37.306Z",
+      "name": "One Last Breath",
+      "artists": [
+        "Creed"
+      ],
+      "album": "Weathered",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
+      "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK",
+      "duration_ms": 238240
     }
   ]
 }
