@@ -1,16 +1,15 @@
 {
-  "updated_at": "2026-07-16T13:46:20.942Z",
-  "is_playing": false,
+  "updated_at": "2026-07-16T16:15:57.915Z",
+  "is_playing": true,
   "track": {
-    "name": "MBM",
+    "name": "specialsadism",
     "artists": [
-      "Glokk40Spaz",
-      "2wo2imes",
-      "BabySolid"
+      "voidvoice717",
+      "emosl4t696"
     ],
-    "album": "2wo Glokks",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-    "uri": "spotify:track:03eMSlEVSvMo0HSN9z7Z6L"
+    "album": "specialsadism",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735105c2120eb43e24d21ebe6c",
+    "uri": "spotify:track:644i0cbharv2w1mo2QoiIJ"
   },
-  "played_at": "2026-07-16T09:29:10.472Z"
+  "played_at": "2026-07-16T16:15:57.915Z"
 }
