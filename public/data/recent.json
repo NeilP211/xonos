@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T16:14:03.571Z",
+  "updated_at": "2026-07-17T19:04:40.159Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14082,6 +14082,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
       "uri": "spotify:track:1MTrxy0bdWujFkAHTQN1FV",
       "duration_ms": 122610
+    },
+    {
+      "played_at": "2026-07-17T03:20:07.250Z",
+      "name": "Too Legendary - A.T. mixxx",
+      "artists": [
+        "Rio Da Yung Og",
+        "A.T."
+      ],
+      "album": "Too Legendary (A.T. mixxx)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f07d66027855d6e70ee12ad8",
+      "uri": "spotify:track:5Meubir7Fpss9AKX9fWVfH",
+      "duration_ms": 128300
+    },
+    {
+      "played_at": "2026-07-17T16:47:05.054Z",
+      "name": "Stupid Shit (A.T. mixxx)",
+      "artists": [
+        "Rio Da Yung Og",
+        "A.T."
+      ],
+      "album": "Stupid Shit (A.T. mixxx)",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ceaa57405835e0038c56e92c",
+      "uri": "spotify:track:72LicbonDDWppQG9Cu5oGB",
+      "duration_ms": 104831
+    },
+    {
+      "played_at": "2026-07-17T16:53:13.629Z",
+      "name": "Pink Champagne Lana",
+      "artists": [
+        "LNA43"
+      ],
+      "album": "Pink Champagne Lana",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+      "duration_ms": 359336
+    },
+    {
+      "played_at": "2026-07-17T17:55:31.373Z",
+      "name": "Pink Champagne Lana",
+      "artists": [
+        "LNA43"
+      ],
+      "album": "Pink Champagne Lana",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+      "duration_ms": 359336
+    },
+    {
+      "played_at": "2026-07-17T18:04:30.464Z",
+      "name": "tower of memories",
+      "artists": [
+        "ivri"
+      ],
+      "album": "the theory of you",
+      "image": "https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4",
+      "uri": "spotify:track:3KZTPBbTMFLNbfoQoxEpXn",
+      "duration_ms": 208510
     }
   ]
 }
