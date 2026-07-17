@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-16T22:02:13.909Z",
+  "updated_at": "2026-07-17T02:29:24.114Z",
   "is_playing": false,
   "track": {
-    "name": "One Last Breath",
+    "name": "Snow On The Beach (feat. More Lana Del Rey)",
     "artists": [
-      "Creed"
+      "Taylor Swift",
+      "Lana Del Rey"
     ],
-    "album": "Weathered",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
-    "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK"
+    "album": "Midnights (The Til Dawn Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+    "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot"
   },
-  "played_at": "2026-07-16T21:06:37.306Z"
+  "played_at": "2026-07-17T01:20:07.913Z"
 }
