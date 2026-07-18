@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T21:52:08.563Z",
+  "updated_at": "2026-07-18T02:16:09.980Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14275,6 +14275,85 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738a40aa12e0b5703c920e5c6f",
       "uri": "spotify:track:3aMSKl8vGbUd1WWYzGmWPG",
       "duration_ms": 194948
+    },
+    {
+      "played_at": "2026-07-17T22:22:20.069Z",
+      "name": "I Don't Care",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "I Don't Care",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
+      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
+      "duration_ms": 181028
+    },
+    {
+      "played_at": "2026-07-17T22:31:57.586Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
+    },
+    {
+      "played_at": "2026-07-17T22:38:24.434Z",
+      "name": "Pink Champagne Lana",
+      "artists": [
+        "LNA43"
+      ],
+      "album": "Pink Champagne Lana",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+      "duration_ms": 359336
+    },
+    {
+      "played_at": "2026-07-18T00:34:51.593Z",
+      "name": "Ritmo - Slowed Down",
+      "artists": [
+        "Raffa Fl"
+      ],
+      "album": "Ritmo (Versions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fee1f00b2e0aa2fd58e493e7",
+      "uri": "spotify:track:2SeR6LQy7UQd8J0cwisJfe",
+      "duration_ms": 199471
+    },
+    {
+      "played_at": "2026-07-18T00:40:30.672Z",
+      "name": "UPAST - Sped Up",
+      "artists": [
+        "HELLBLADE",
+        "Asphiphilia"
+      ],
+      "album": "UPAST",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
+      "uri": "spotify:track:2EWsY476CQS627mVj4Hrk0",
+      "duration_ms": 76794
+    },
+    {
+      "played_at": "2026-07-18T00:43:07.992Z",
+      "name": "Vlone - Super Slowed Hardcore Remix",
+      "artists": [
+        "tapzen"
+      ],
+      "album": "Vlone (Hardcore Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
+      "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
+      "duration_ms": 156894
+    },
+    {
+      "played_at": "2026-07-18T00:44:40.893Z",
+      "name": "TIMELESS - SLOWED",
+      "artists": [
+        "YXMI",
+        "evrywxre"
+      ],
+      "album": "TIMELESS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac378f5aa0dc84e13db45c32",
+      "uri": "spotify:track:7K91aURtzolXtlcSDG0xGg",
+      "duration_ms": 92406
     }
   ]
 }
