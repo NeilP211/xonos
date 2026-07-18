@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:23:36.987Z",
+  "generated_at": "2026-07-18T07:45:55.722Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -44,6 +44,18 @@
         },
         {
           "rank": 4,
+          "name": "Pink Champagne Lana",
+          "artists": [
+            "LNA43"
+          ],
+          "album": "Pink Champagne Lana",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
+          "duration_ms": 359336
+        },
+        {
+          "rank": 5,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -58,7 +70,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Turu R9 - Ultra Slowed Remake",
           "artists": [
             "DJ Ikeraus",
@@ -70,18 +82,6 @@
           "uri": "spotify:track:1D3bxUyyXvJtQFzGVgVpgt",
           "url": "https://open.spotify.com/track/1D3bxUyyXvJtQFzGVgVpgt",
           "duration_ms": 133690
-        },
-        {
-          "rank": 6,
-          "name": "Pink Champagne Lana",
-          "artists": [
-            "LNA43"
-          ],
-          "album": "Pink Champagne Lana",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
-          "duration_ms": 359336
         },
         {
           "rank": 7,
@@ -135,6 +135,18 @@
         },
         {
           "rank": 11,
+          "name": "Team",
+          "artists": [
+            "Lorde"
+          ],
+          "album": "Pure Heroine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
+          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
+          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
+          "duration_ms": 193058
+        },
+        {
+          "rank": 12,
           "name": "ttwlg",
           "artists": [
             "Yung Fazo"
@@ -146,7 +158,7 @@
           "duration_ms": 141165
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -156,18 +168,6 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
-        },
-        {
-          "rank": 13,
-          "name": "math goat",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "math goat",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
-          "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
-          "url": "https://open.spotify.com/track/64rkGDcxsrmCJjVhRxoc3H",
-          "duration_ms": 81843
         },
         {
           "rank": 14,
@@ -183,18 +183,6 @@
         },
         {
           "rank": 15,
-          "name": "Team",
-          "artists": [
-            "Lorde"
-          ],
-          "album": "Pure Heroine",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
-          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
-          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
-          "duration_ms": 193058
-        },
-        {
-          "rank": 16,
           "name": "Noblest Strive",
           "artists": [
             "Bladee"
@@ -206,7 +194,7 @@
           "duration_ms": 134893
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -218,7 +206,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "kickin da ball",
           "artists": [
             "Robin Gan"
@@ -230,7 +218,7 @@
           "duration_ms": 66846
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -242,7 +230,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "I Don't Care",
           "artists": [
             "VIOLENT VIRA"
@@ -254,7 +242,7 @@
           "duration_ms": 181028
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -267,7 +255,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Ac130",
           "artists": [
             "Protect"
@@ -279,7 +267,7 @@
           "duration_ms": 95863
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "HALLUCINATION - Slowed",
           "artists": [
             "HUSSVRX",
@@ -292,7 +280,7 @@
           "duration_ms": 143656
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -304,7 +292,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -316,7 +304,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -328,7 +316,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -340,7 +328,7 @@
           "duration_ms": 102235
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "subhanallah",
           "artists": [
             "soulcast"
@@ -350,6 +338,18 @@
           "uri": "spotify:track:5jErVo2zX8ruCUwaAPeJIA",
           "url": "https://open.spotify.com/track/5jErVo2zX8ruCUwaAPeJIA",
           "duration_ms": 62344
+        },
+        {
+          "rank": 28,
+          "name": "math goat",
+          "artists": [
+            "Robin Gan"
+          ],
+          "album": "math goat",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
+          "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
+          "url": "https://open.spotify.com/track/64rkGDcxsrmCJjVhRxoc3H",
+          "duration_ms": 81843
         },
         {
           "rank": 29,
