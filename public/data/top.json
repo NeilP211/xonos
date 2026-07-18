@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:01:38.493Z",
+  "generated_at": "2026-07-18T21:48:52.070Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -133,20 +133,6 @@
         },
         {
           "rank": 11,
-          "name": "Lean On",
-          "artists": [
-            "Major Lazer",
-            "DJ Snake",
-            "MØ"
-          ],
-          "album": "Peace Is The Mission",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736ecc09ef7f3d0be67660ad62",
-          "uri": "spotify:track:4WxU1gDVmoH6gstgR0MT78",
-          "url": "https://open.spotify.com/track/4WxU1gDVmoH6gstgR0MT78",
-          "duration_ms": 176561
-        },
-        {
-          "rank": 12,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -158,7 +144,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "ttwlg",
           "artists": [
             "Yung Fazo"
@@ -170,7 +156,7 @@
           "duration_ms": 141165
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "I Don't Care",
           "artists": [
             "VIOLENT VIRA"
@@ -182,7 +168,7 @@
           "duration_ms": 181028
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -194,7 +180,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -206,7 +192,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Noblest Strive",
           "artists": [
             "Bladee"
@@ -218,7 +204,7 @@
           "duration_ms": 134893
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -230,7 +216,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "kickin da ball",
           "artists": [
             "Robin Gan"
@@ -240,6 +226,20 @@
           "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
           "url": "https://open.spotify.com/track/1qZ29A3lILEHToEThiJEBz",
           "duration_ms": 66846
+        },
+        {
+          "rank": 19,
+          "name": "Lean On",
+          "artists": [
+            "Major Lazer",
+            "DJ Snake",
+            "MØ"
+          ],
+          "album": "Peace Is The Mission",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736ecc09ef7f3d0be67660ad62",
+          "uri": "spotify:track:4WxU1gDVmoH6gstgR0MT78",
+          "url": "https://open.spotify.com/track/4WxU1gDVmoH6gstgR0MT78",
+          "duration_ms": 176561
         },
         {
           "rank": 20,
@@ -814,14 +814,6 @@
         },
         {
           "rank": 24,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 25,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
@@ -829,7 +821,7 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -837,7 +829,7 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
@@ -845,7 +837,7 @@
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
@@ -853,7 +845,7 @@
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Deproved",
           "image": "https://i.scdn.co/image/ab6761610000e5ebec842c8f2f5b38eb666f542f",
           "genres": [],
@@ -861,7 +853,7 @@
           "url": "https://open.spotify.com/artist/10c6lWcpVwP5yteSS5Z1YE"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Lil O",
           "image": "https://i.scdn.co/image/ab6761610000e5eb55cfeeaec0f19c3193a0d573",
           "genres": [],
@@ -869,7 +861,7 @@
           "url": "https://open.spotify.com/artist/5hv30sKujjm0PyqD2j4v9n"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
@@ -877,7 +869,7 @@
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -885,7 +877,7 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
@@ -893,7 +885,7 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9508b912d4b4df71f8245c4e",
           "genres": [],
@@ -901,12 +893,20 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
           "genres": [],
           "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "rank": 35,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 36,
