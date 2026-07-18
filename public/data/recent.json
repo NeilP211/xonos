@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T13:09:56.688Z",
+  "updated_at": "2026-07-18T19:01:38.635Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14398,6 +14398,187 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
       "uri": "spotify:track:3sYDVtqO35oRSOIMx7dOqR",
       "duration_ms": 295093
+    },
+    {
+      "played_at": "2026-07-18T14:34:17.256Z",
+      "name": "Hit the Wall",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "Daughter from Hell",
+      "image": "https://i.scdn.co/image/ab67616d0000b27399bc33b47a0a67fd50783055",
+      "uri": "spotify:track:61Oyg0lrAOMjBpEStqfOZ1",
+      "duration_ms": 194376
+    },
+    {
+      "played_at": "2026-07-18T17:10:41.059Z",
+      "name": "Take Me Home, Country Roads",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Take Me Home, Country Roads",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c6c1ca8d317e97873de0cbeb",
+      "uri": "spotify:track:7qF0FfuzBFwMe1lNHkEDxW",
+      "duration_ms": 166676
+    },
+    {
+      "played_at": "2026-07-18T17:19:02.378Z",
+      "name": "TIMELESS - SLOWED",
+      "artists": [
+        "YXMI",
+        "evrywxre"
+      ],
+      "album": "TIMELESS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac378f5aa0dc84e13db45c32",
+      "uri": "spotify:track:7K91aURtzolXtlcSDG0xGg",
+      "duration_ms": 92406
+    },
+    {
+      "played_at": "2026-07-18T17:21:23.655Z",
+      "name": "Vlone - Slowed Hardcore Remix",
+      "artists": [
+        "tapzen"
+      ],
+      "album": "Vlone (Hardcore Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
+      "uri": "spotify:track:7MM0P08kGAhm4a5jjBLJ26",
+      "duration_ms": 140831
+    },
+    {
+      "played_at": "2026-07-18T17:27:57.180Z",
+      "name": "Moosy - Mega Slowed",
+      "artists": [
+        "ilyhiryu"
+      ],
+      "album": "Moosy (Mega Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a52effb3d89da86cc1eeec26",
+      "uri": "spotify:track:5PxannkL05PUa8nrucOW65",
+      "duration_ms": 124064
+    },
+    {
+      "played_at": "2026-07-18T17:28:15.543Z",
+      "name": "Music To Watch Boys To",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:34rRFl0bz9PocxWuO2ca5J",
+      "duration_ms": 290625
+    },
+    {
+      "played_at": "2026-07-18T17:32:14.826Z",
+      "name": "I Don't Care",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "I Don't Care",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
+      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
+      "duration_ms": 181028
+    },
+    {
+      "played_at": "2026-07-18T17:39:47.892Z",
+      "name": "i heart you - Boy Fantasy Remix",
+      "artists": [
+        "WetDream",
+        "Boy Fantasy"
+      ],
+      "album": "i heart you (Boy Fantasy Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731793805c64ef19f49f587a52",
+      "uri": "spotify:track:2n6sNzxHssmwnLSoRmpRtc",
+      "duration_ms": 84732
+    },
+    {
+      "played_at": "2026-07-18T17:40:58.088Z",
+      "name": "so 0bscene",
+      "artists": [
+        "Punkinloveee"
+      ],
+      "album": "so 0bscene",
+      "image": "https://i.scdn.co/image/ab67616d0000b273381d7ccbd87d8cc51af08265",
+      "uri": "spotify:track:6Z8kAHKhhvZcQPgXX6Kpvo",
+      "duration_ms": 69746
+    },
+    {
+      "played_at": "2026-07-18T17:42:09.226Z",
+      "name": "IN THE H3ART - slowed",
+      "artists": [
+        "AD0RKEN",
+        "Boy Fantasy"
+      ],
+      "album": "IN THE H3ART",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737382cc1ac8b8c5e89405f174",
+      "uri": "spotify:track:0bCiVNDapiPTVbT05l7cvH",
+      "duration_ms": 70640
+    },
+    {
+      "played_at": "2026-07-18T17:47:44.033Z",
+      "name": "Darko Aura",
+      "artists": [
+        "443RAVES"
+      ],
+      "album": "Darko Aura",
+      "image": "https://i.scdn.co/image/ab67616d0000b27394e6995f7430e5beab95bebe",
+      "uri": "spotify:track:0nSie4IcsyUWzyX8lbJo0E",
+      "duration_ms": 95014
+    },
+    {
+      "played_at": "2026-07-18T17:48:56.263Z",
+      "name": "Wave",
+      "artists": [
+        "443RAVES"
+      ],
+      "album": "Wave",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348c35f2f98bbb5807fc60d7f",
+      "uri": "spotify:track:4sE2vY2gwoUcPW485d0vFY",
+      "duration_ms": 71772
+    },
+    {
+      "played_at": "2026-07-18T17:51:42.791Z",
+      "name": "тело - Super Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "тело",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+      "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
+      "duration_ms": 136062
+    },
+    {
+      "played_at": "2026-07-18T17:56:42.129Z",
+      "name": "wush_2 - Viral Version",
+      "artists": [
+        "77yolan",
+        "ilyhiryu"
+      ],
+      "album": "wush_2 (Viral Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae8d3f7c37ece8dbefcae87a",
+      "uri": "spotify:track:4PLFkL50BUZtlghikc2vFK",
+      "duration_ms": 173163
+    },
+    {
+      "played_at": "2026-07-18T17:59:47.423Z",
+      "name": "armadyl.mp3 - slowed",
+      "artists": [
+        "YXMI"
+      ],
+      "album": "armadyl.mp3",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f081ec56d4380367bdc1bb8",
+      "uri": "spotify:track:0UWyXuSsoXu4jnWauIJMsZ",
+      "duration_ms": 74814
+    },
+    {
+      "played_at": "2026-07-18T18:11:35.724Z",
+      "name": "Kifek 3A Fra2e",
+      "artists": [
+        "Fadel Chaker",
+        "Mohamed Chaker"
+      ],
+      "album": "Kifek 3A Fra2e",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
+      "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
+      "duration_ms": 228236
     }
   ]
 }
