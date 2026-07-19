@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T10:26:09.641Z",
+  "updated_at": "2026-07-19T13:13:44.759Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14604,6 +14604,95 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735d81f8b2d4cef76e2ff9cb9c",
       "uri": "spotify:track:7iCbi1qRloIOpWmONYXDBo",
       "duration_ms": 147115
+    },
+    {
+      "played_at": "2026-07-19T00:37:15.215Z",
+      "name": "E So uma Botada Vs Cornetinha",
+      "artists": [
+        "Mc Grigo 22",
+        "DJ ZK3"
+      ],
+      "album": "E So uma Botada Vs Cornetinha",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f3d8f26f459a55742026c94",
+      "uri": "spotify:track:1Z7e311R9SVcy2cGpv9P39",
+      "duration_ms": 124384
+    },
+    {
+      "played_at": "2026-07-19T10:55:32.203Z",
+      "name": "too deep",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "too deep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2946b41c3427131c9d1724f",
+      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
+      "duration_ms": 66899
+    },
+    {
+      "played_at": "2026-07-19T11:31:10.692Z",
+      "name": "too deep",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "too deep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2946b41c3427131c9d1724f",
+      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
+      "duration_ms": 66899
+    },
+    {
+      "played_at": "2026-07-19T11:41:06.783Z",
+      "name": "Wild At Heart",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Chemtrails Over The Country Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+      "uri": "spotify:track:5RJot1fR8C90lLXzHtUqpo",
+      "duration_ms": 246609
+    },
+    {
+      "played_at": "2026-07-19T11:45:30.015Z",
+      "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "artists": [
+        "Teriyaki Boyz"
+      ],
+      "album": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48",
+      "uri": "spotify:track:5iJfzXKvQXlYOBtEQhEmpA",
+      "duration_ms": 255173
+    },
+    {
+      "played_at": "2026-07-19T11:51:29.796Z",
+      "name": "Pink Champagne Lana",
+      "artists": [
+        "LNA43"
+      ],
+      "album": "Pink Champagne Lana",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+      "duration_ms": 359336
+    },
+    {
+      "played_at": "2026-07-19T11:58:23.038Z",
+      "name": "Vlone - Super Slowed Hardcore Remix",
+      "artists": [
+        "tapzen"
+      ],
+      "album": "Vlone (Hardcore Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
+      "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
+      "duration_ms": 156894
+    },
+    {
+      "played_at": "2026-07-19T12:01:14.146Z",
+      "name": "Vlone - Super Slowed Hardcore Remix",
+      "artists": [
+        "tapzen"
+      ],
+      "album": "Vlone (Hardcore Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
+      "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
+      "duration_ms": 156894
     }
   ]
 }
