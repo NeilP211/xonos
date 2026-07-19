@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T21:48:52.162Z",
+  "updated_at": "2026-07-19T02:32:07.892Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14579,6 +14579,31 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
       "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
       "duration_ms": 228236
+    },
+    {
+      "played_at": "2026-07-18T23:49:09.536Z",
+      "name": "Kifek 3A Fra2e",
+      "artists": [
+        "Fadel Chaker",
+        "Mohamed Chaker"
+      ],
+      "album": "Kifek 3A Fra2e",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
+      "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
+      "duration_ms": 228236
+    },
+    {
+      "played_at": "2026-07-18T23:51:50.172Z",
+      "name": "Hahahaha Elice Bandido Canalha Vs Senta Menina",
+      "artists": [
+        "Mc Rose da Treta",
+        "Mc Furdunço",
+        "DJ ELICE FXP"
+      ],
+      "album": "Hahahaha Elice Bandido Canalha Vs Senta Menina",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d81f8b2d4cef76e2ff9cb9c",
+      "uri": "spotify:track:7iCbi1qRloIOpWmONYXDBo",
+      "duration_ms": 147115
     }
   ]
 }
