@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:56:05.662Z",
+  "generated_at": "2026-07-19T19:03:00.195Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -838,19 +838,19 @@
         },
         {
           "rank": 27,
-          "name": "boolymon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
-          "genres": [],
-          "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
-          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
-        },
-        {
-          "rank": 28,
           "name": "Ty Myers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc07877b40d5ce5f34bd7683b",
           "genres": [],
           "uri": "spotify:artist:1Gh0pCAxpjw0Iq3JMoVAwO",
           "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        },
+        {
+          "rank": 28,
+          "name": "boolymon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
+          "genres": [],
+          "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
+          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
           "rank": 29,
@@ -2274,6 +2274,18 @@
         },
         {
           "rank": 19,
+          "name": "тело - Super Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "тело",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
+          "url": "https://open.spotify.com/track/5geork5sU3UClEhyrskqoZ",
+          "duration_ms": 136062
+        },
+        {
+          "rank": 20,
           "name": "funuhyuh",
           "artists": [
             "Nettspend"
@@ -2285,7 +2297,7 @@
           "duration_ms": 75347
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "2 da spot",
           "artists": [
             "phreshboyswag"
@@ -2295,18 +2307,6 @@
           "uri": "spotify:track:5oGMyJwnSIh2qP42t4yPU9",
           "url": "https://open.spotify.com/track/5oGMyJwnSIh2qP42t4yPU9",
           "duration_ms": 142013
-        },
-        {
-          "rank": 21,
-          "name": "тело - Super Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "тело",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
-          "url": "https://open.spotify.com/track/5geork5sU3UClEhyrskqoZ",
-          "duration_ms": 136062
         },
         {
           "rank": 22,
