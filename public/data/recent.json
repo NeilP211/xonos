@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T13:13:44.759Z",
+  "updated_at": "2026-07-19T15:56:05.944Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14693,6 +14693,215 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
       "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
       "duration_ms": 156894
+    },
+    {
+      "played_at": "2026-07-19T13:39:24.228Z",
+      "name": "Choosin' Texas",
+      "artists": [
+        "Ella Langley"
+      ],
+      "album": "Choosin' Texas",
+      "image": "https://i.scdn.co/image/ab67616d0000b27390958927fbba47a62c3e63f8",
+      "uri": "spotify:track:65DbTqJKhbwqYbZ1Okr0rc",
+      "duration_ms": 232226
+    },
+    {
+      "played_at": "2026-07-19T13:43:01.474Z",
+      "name": "Lonely for Long",
+      "artists": [
+        "Zach Top"
+      ],
+      "album": "Cold Beer & Country Music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eff0aba5b84f925e09f70b29",
+      "uri": "spotify:track:6I1AoRgAPKNiYaLwhB7Ejk",
+      "duration_ms": 216794
+    },
+    {
+      "played_at": "2026-07-19T13:47:02.418Z",
+      "name": "Drunk Love",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:18ZbxBOI520oLWi4SlIblW",
+      "duration_ms": 240437
+    },
+    {
+      "played_at": "2026-07-19T13:50:45.668Z",
+      "name": "Think I'm In Love With You",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Higher",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f",
+      "uri": "spotify:track:3Gn1zuHNLtGuGEOXwq0k7e",
+      "duration_ms": 222800
+    },
+    {
+      "played_at": "2026-07-19T13:53:59.343Z",
+      "name": "You Make It Easy",
+      "artists": [
+        "Jason Aldean"
+      ],
+      "album": "Rearview Town",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374ac8d740530487e3bd50378",
+      "uri": "spotify:track:2TXtN9MoV308Y0z1HvyTfV",
+      "duration_ms": 193226
+    },
+    {
+      "played_at": "2026-07-19T13:57:16.407Z",
+      "name": "Pink Skies",
+      "artists": [
+        "Zach Bryan"
+      ],
+      "album": "Pink Skies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336fbdbea696df93933bafdb8",
+      "uri": "spotify:track:4ZJ4vzLQekI0WntDbanNC7",
+      "duration_ms": 194920
+    },
+    {
+      "played_at": "2026-07-19T14:00:21.812Z",
+      "name": "Porch Light",
+      "artists": [
+        "Josh Meloy"
+      ],
+      "album": "Porch Light",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739e917e93a50b83029871627c",
+      "uri": "spotify:track:43SoxERu5UlXAgt4Es1VQU",
+      "duration_ms": 184949
+    },
+    {
+      "played_at": "2026-07-19T14:03:35.633Z",
+      "name": "Pedestal",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "Heavy On The Soul",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731659d02d76ffe2e7213c61ce",
+      "uri": "spotify:track:2sqYcKB90Tl5SITyQOheig",
+      "duration_ms": 193311
+    },
+    {
+      "played_at": "2026-07-19T14:07:57.112Z",
+      "name": "Bad State of Mind",
+      "artists": [
+        "Treaty Oak Revival"
+      ],
+      "album": "West Texas Degenerate",
+      "image": "https://i.scdn.co/image/ab67616d0000b27324c31b71730078493c8a68f4",
+      "uri": "spotify:track:6WYheuwyFXkYkNDQUZm8NE",
+      "duration_ms": 261007
+    },
+    {
+      "played_at": "2026-07-19T14:11:56.336Z",
+      "name": "Valerie",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "Valerie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b9c1ead01fb6f2583c47f5bd",
+      "uri": "spotify:track:2zWoXPulqjfGAJsUyRtxiq",
+      "duration_ms": 238705
+    },
+    {
+      "played_at": "2026-07-19T14:15:33.050Z",
+      "name": "Heartache Medication",
+      "artists": [
+        "Jon Pardi"
+      ],
+      "album": "Heartache Medication",
+      "image": "https://i.scdn.co/image/ab67616d0000b273117a6a747c6495766b29a663",
+      "uri": "spotify:track:5qdQPrWmZv8xYhMJCDrdHF",
+      "duration_ms": 209109
+    },
+    {
+      "played_at": "2026-07-19T14:19:58.687Z",
+      "name": "Friendship",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "From A Room: Volume 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303c4f794113255be4038e45d",
+      "uri": "spotify:track:2ZAqfeq7PMp7XA2IKhuJJ2",
+      "duration_ms": 265173
+    },
+    {
+      "played_at": "2026-07-19T14:23:22.060Z",
+      "name": "Talk You Out Of It",
+      "artists": [
+        "Florida Georgia Line"
+      ],
+      "album": "Can't Say I Ain't Country (Big Machine Radio Release Special)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5079540913065a02764eaca",
+      "uri": "spotify:track:1smOhIn2NNZIsZw96C9fsI",
+      "duration_ms": 202920
+    },
+    {
+      "played_at": "2026-07-19T14:26:52.040Z",
+      "name": "If This Is Just a Game",
+      "artists": [
+        "David Allan Coe"
+      ],
+      "album": "Human Emotions",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731bcce670f784583a43d6f7c9",
+      "uri": "spotify:track:6BLmdSia7fx2jr5INsuPFu",
+      "duration_ms": 209520
+    },
+    {
+      "played_at": "2026-07-19T14:29:57.925Z",
+      "name": "Time Marches On",
+      "artists": [
+        "Tracy Lawrence"
+      ],
+      "album": "Time Marches On",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eac04f4db8c45984d4edb0c",
+      "uri": "spotify:track:2TIEeLrOQrGnO2D2OeDDJu",
+      "duration_ms": 185360
+    },
+    {
+      "played_at": "2026-07-19T14:33:49Z",
+      "name": "Blue Ain't Your Color",
+      "artists": [
+        "Keith Urban"
+      ],
+      "album": "Ripcord",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354cf35cdbebd3ff59e9328b4",
+      "uri": "spotify:track:6wycnu8FWXsj68ig7BEot9",
+      "duration_ms": 230600
+    },
+    {
+      "played_at": "2026-07-19T14:36:59.383Z",
+      "name": "Can't Tell Me I'm Wrong",
+      "artists": [
+        "Luke Combs"
+      ],
+      "album": "The Way I Am",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e07986c3e184a30283b94d61",
+      "uri": "spotify:track:72r9NIGJo9Sx0kkQ8M4xCw",
+      "duration_ms": 189918
+    },
+    {
+      "played_at": "2026-07-19T14:41:14.687Z",
+      "name": "Drinkin' Alone",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:0EAtOrj2O8RLH0JzjvT4YS",
+      "duration_ms": 254837
+    },
+    {
+      "played_at": "2026-07-19T15:30:32.917Z",
+      "name": "Tin Roof Talks",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "Tin Roof Talks",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7239c30070d391aa5246664",
+      "uri": "spotify:track:56RbM2dJaRj4oVCwX7QhuJ",
+      "duration_ms": 209244
     }
   ]
 }
