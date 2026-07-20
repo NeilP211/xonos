@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-20T19:41:26.371Z",
+  "updated_at": "2026-07-20T21:58:29.781Z",
   "is_playing": false,
   "track": {
-    "name": "American",
+    "name": "Sun Down, I'm Up - Slowed & Reverb",
     "artists": [
-      "Lana Del Rey"
+      "Lil Yawh",
+      "Cryjng"
     ],
-    "album": "Paradise",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-    "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j"
+    "album": "Sun Down, I'm Up (Slowed & Reverb)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
+    "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp"
   },
-  "played_at": "2026-07-20T05:50:32.351Z"
+  "played_at": "2026-07-20T21:19:17.046Z"
 }
