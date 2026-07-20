@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:22:53.483Z",
+  "generated_at": "2026-07-20T19:41:26.168Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -157,6 +157,18 @@
         },
         {
           "rank": 13,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
+        },
+        {
+          "rank": 14,
           "name": "I Don't Care",
           "artists": [
             "VIOLENT VIRA"
@@ -168,7 +180,7 @@
           "duration_ms": 181028
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -178,18 +190,6 @@
           "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
           "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
           "duration_ms": 128509
-        },
-        {
-          "rank": 15,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
         },
         {
           "rank": 16,
@@ -267,6 +267,18 @@
         },
         {
           "rank": 22,
+          "name": "American",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die - The Paradise Edition",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+          "uri": "spotify:track:1Yfgbr2kZrb3u0NP8ioyuk",
+          "url": "https://open.spotify.com/track/1Yfgbr2kZrb3u0NP8ioyuk",
+          "duration_ms": 248907
+        },
+        {
+          "rank": 23,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -278,7 +290,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -290,7 +302,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -302,7 +314,7 @@
           "duration_ms": 102235
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Lean On",
           "artists": [
             "Major Lazer",
@@ -316,7 +328,7 @@
           "duration_ms": 176561
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "subhanallah",
           "artists": [
             "soulcast"
@@ -328,7 +340,7 @@
           "duration_ms": 62344
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Not Again - A.T. mixxx",
           "artists": [
             "Rio Da Yung Og",
@@ -341,7 +353,7 @@
           "duration_ms": 163137
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
           "artists": [
             "snort.",
@@ -354,7 +366,7 @@
           "duration_ms": 138115
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Look at My Life",
           "artists": [
             "Gracie Abrams"
@@ -366,7 +378,7 @@
           "duration_ms": 190533
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Vlone - Super Slowed Hardcore Remix",
           "artists": [
             "tapzen"
@@ -378,7 +390,7 @@
           "duration_ms": 156894
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -390,7 +402,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "kickin da ball",
           "artists": [
             "Robin Gan"
@@ -402,7 +414,7 @@
           "duration_ms": 66846
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -414,7 +426,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Wrecking Ball",
           "artists": [
             "Miley Cyrus"
@@ -426,7 +438,7 @@
           "duration_ms": 221366
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "no reez",
           "artists": [
             "Chris Finesse Exclusives",
@@ -439,7 +451,7 @@
           "duration_ms": 132177
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "MXRDER IN SHADOWMOOR - Ultra Slowed",
           "artists": [
             "XTFO"
@@ -451,7 +463,7 @@
           "duration_ms": 154285
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Moosy - Mega Slowed",
           "artists": [
             "ilyhiryu"
@@ -463,7 +475,7 @@
           "duration_ms": 124064
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -475,7 +487,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Suffocation",
           "artists": [
             "Crystal Castles"
@@ -487,7 +499,7 @@
           "duration_ms": 242293
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -497,18 +509,6 @@
           "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
           "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
           "duration_ms": 112733
-        },
-        {
-          "rank": 41,
-          "name": "American",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die - The Paradise Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-          "uri": "spotify:track:1Yfgbr2kZrb3u0NP8ioyuk",
-          "url": "https://open.spotify.com/track/1Yfgbr2kZrb3u0NP8ioyuk",
-          "duration_ms": 248907
         },
         {
           "rank": 42,
@@ -1014,19 +1014,19 @@
         },
         {
           "rank": 49,
-          "name": "EthoSuave",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc167b4149d00129f7916a74c",
-          "genres": [],
-          "uri": "spotify:artist:69YFeZMpPzgB1Tskd2Tj64",
-          "url": "https://open.spotify.com/artist/69YFeZMpPzgB1Tskd2Tj64"
-        },
-        {
-          "rank": 50,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
           "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 50,
+          "name": "EthoSuave",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc167b4149d00129f7916a74c",
+          "genres": [],
+          "uri": "spotify:artist:69YFeZMpPzgB1Tskd2Tj64",
+          "url": "https://open.spotify.com/artist/69YFeZMpPzgB1Tskd2Tj64"
         }
       ]
     },

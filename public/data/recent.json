@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:22:53.585Z",
+  "updated_at": "2026-07-20T19:41:26.334Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -14957,6 +14957,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:6IfPyMb0Sxptpx6jBUATOS",
       "duration_ms": 271480
+    },
+    {
+      "played_at": "2026-07-20T05:50:32.351Z",
+      "name": "American",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
+      "duration_ms": 248907
     }
   ]
 }
