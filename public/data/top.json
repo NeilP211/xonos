@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:50:14.924Z",
+  "generated_at": "2026-07-20T02:46:44.100Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2770,19 +2770,19 @@
         },
         {
           "rank": 14,
-          "name": "bleood",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
-          "genres": [],
-          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
-          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
-        },
-        {
-          "rank": 15,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
           "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
+        },
+        {
+          "rank": 15,
+          "name": "bleood",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
+          "genres": [],
+          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
+          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
           "rank": 16,
