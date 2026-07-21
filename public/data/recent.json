@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T13:44:52.619Z",
+  "updated_at": "2026-07-21T16:21:39.110Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -15160,6 +15160,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
       "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
       "duration_ms": 283800
+    },
+    {
+      "played_at": "2026-07-21T13:06:44.555Z",
+      "name": "Thought It Was Love",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF",
+      "duration_ms": 246141
     }
   ]
 }
