@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T02:30:25.495Z",
+  "updated_at": "2026-07-21T05:48:31.846Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -15149,6 +15149,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
       "uri": "spotify:track:13HD3tYTiz8oSRxWzXEq7g",
       "duration_ms": 217240
+    },
+    {
+      "played_at": "2026-07-21T02:43:43.750Z",
+      "name": "Sweet Home Alabama",
+      "artists": [
+        "Lynyrd Skynyrd"
+      ],
+      "album": "Second Helping (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+      "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
+      "duration_ms": 283800
     }
   ]
 }
