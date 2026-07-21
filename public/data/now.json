@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T19:18:31.963Z",
-  "is_playing": false,
+  "updated_at": "2026-07-21T22:02:03.136Z",
+  "is_playing": true,
   "track": {
-    "name": "Night , Blooming Jasmine .",
+    "name": "acs angel",
     "artists": [
-      "fakemink"
+      "DudePlaya"
     ],
-    "album": "Night , Blooming Jasmine .",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
-    "uri": "spotify:track:4WKUmjoUeYkzyoEvTbiVdW"
+    "album": "acs angel",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731e6734ea93b92fd7d5a41c3c",
+    "uri": "spotify:track:7hEPLRyqKqyVN5su4TWjFp"
   },
-  "played_at": "2026-07-21T15:07:24.116Z"
+  "played_at": "2026-07-21T22:02:03.136Z"
 }
