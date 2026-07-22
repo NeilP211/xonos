@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T22:02:03.136Z",
-  "is_playing": true,
+  "updated_at": "2026-07-22T05:47:52.883Z",
+  "is_playing": false,
   "track": {
-    "name": "acs angel",
+    "name": "Don't Stop Believin' (2022 Remaster)",
     "artists": [
-      "DudePlaya"
+      "Journey"
     ],
-    "album": "acs angel",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731e6734ea93b92fd7d5a41c3c",
-    "uri": "spotify:track:7hEPLRyqKqyVN5su4TWjFp"
+    "album": "Escape (2022 Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018",
+    "uri": "spotify:track:5RKQ5NdjSh2QzD4MaunT91"
   },
-  "played_at": "2026-07-21T22:02:03.136Z"
+  "played_at": "2026-07-22T02:32:05.917Z"
 }
