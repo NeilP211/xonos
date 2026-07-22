@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T13:47:57.229Z",
+  "generated_at": "2026-07-22T16:18:49.266Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -134,18 +134,6 @@
         },
         {
           "rank": 11,
-          "name": "National Anthem",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
-          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
-          "duration_ms": 230533
-        },
-        {
-          "rank": 12,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -157,7 +145,7 @@
           "duration_ms": 194951
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -169,7 +157,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "ttwlg",
           "artists": [
             "Yung Fazo"
@@ -179,6 +167,18 @@
           "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
           "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
           "duration_ms": 141165
+        },
+        {
+          "rank": 14,
+          "name": "National Anthem",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
+          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
+          "duration_ms": 230533
         },
         {
           "rank": 15,
@@ -218,18 +218,6 @@
         },
         {
           "rank": 18,
-          "name": "Paranoid",
-          "artists": [
-            "DJ Iraq"
-          ],
-          "album": "Paranoid",
-          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
-          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
-          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
-          "duration_ms": 158966
-        },
-        {
-          "rank": 19,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -241,7 +229,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -253,7 +241,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -266,7 +254,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "truth yandere^^ - super slowed",
           "artists": [
             "akkiemi"
@@ -278,7 +266,7 @@
           "duration_ms": 106778
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Ac130",
           "artists": [
             "Protect"
@@ -290,7 +278,7 @@
           "duration_ms": 95863
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "UPAST - Ultra Slowed",
           "artists": [
             "HELLBLADE",
@@ -303,7 +291,7 @@
           "duration_ms": 108165
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "HALLUCINATION - Slowed",
           "artists": [
             "HUSSVRX",
@@ -316,19 +304,7 @@
           "duration_ms": 143656
         },
         {
-          "rank": 26,
-          "name": "Swan Song",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-          "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
-          "duration_ms": 323475
-        },
-        {
-          "rank": 27,
+          "rank": 25,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -340,7 +316,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -352,7 +328,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -364,7 +340,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -376,7 +352,7 @@
           "duration_ms": 102235
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Lean On",
           "artists": [
             "Major Lazer",
@@ -390,7 +366,7 @@
           "duration_ms": 176561
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "subhanallah",
           "artists": [
             "soulcast"
@@ -402,7 +378,7 @@
           "duration_ms": 62344
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Night , Blooming Jasmine .",
           "artists": [
             "fakemink"
@@ -414,7 +390,7 @@
           "duration_ms": 178868
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Not Again - A.T. mixxx",
           "artists": [
             "Rio Da Yung Og",
@@ -427,7 +403,7 @@
           "duration_ms": 163137
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
           "artists": [
             "snort.",
@@ -440,7 +416,7 @@
           "duration_ms": 138115
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Look at My Life",
           "artists": [
             "Gracie Abrams"
@@ -452,7 +428,7 @@
           "duration_ms": 190533
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -464,19 +440,19 @@
           "duration_ms": 281093
         },
         {
-          "rank": 38,
-          "name": "munni & drugs",
+          "rank": 36,
+          "name": "Paranoid",
           "artists": [
-            "bleood"
+            "DJ Iraq"
           ],
-          "album": "how bleood stole Xmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
-          "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
-          "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
-          "duration_ms": 130677
+          "album": "Paranoid",
+          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
+          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
+          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
+          "duration_ms": 158966
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "Wrecking Ball",
           "artists": [
             "Miley Cyrus"
@@ -488,7 +464,7 @@
           "duration_ms": 221366
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "MXRDER IN SHADOWMOOR - Ultra Slowed",
           "artists": [
             "XTFO"
@@ -500,7 +476,7 @@
           "duration_ms": 154285
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "too deep",
           "artists": [
             "Robin Gan"
@@ -512,7 +488,7 @@
           "duration_ms": 67745
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -524,7 +500,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Suffocation",
           "artists": [
             "Crystal Castles"
@@ -536,7 +512,19 @@
           "duration_ms": 242293
         },
         {
-          "rank": 44,
+          "rank": 42,
+          "name": "Swan Song",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
+          "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
+          "duration_ms": 323475
+        },
+        {
+          "rank": 43,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -548,7 +536,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -560,7 +548,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "mona lisa",
           "artists": [
             "Nettspend"
@@ -572,7 +560,7 @@
           "duration_ms": 111483
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Montagem Effeminatio Molitia 2 - Hardstyle Ultra Slowed",
           "artists": [
             "DJ Ikeraus",
@@ -587,7 +575,7 @@
           "duration_ms": 97639
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Living Legend",
           "artists": [
             "Lana Del Rey"
@@ -599,7 +587,7 @@
           "duration_ms": 241426
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "RABENVATER - HARDTEKK - SLOWED",
           "artists": [
             "blackpilled"
@@ -611,7 +599,7 @@
           "duration_ms": 254379
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Sweet Home Alabama",
           "artists": [
             "Lynyrd Skynyrd"
@@ -621,6 +609,18 @@
           "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
           "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
           "duration_ms": 283800
+        },
+        {
+          "rank": 50,
+          "name": "тело - Sped Up",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "тело",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "uri": "spotify:track:1ksUKJt9MSlcL8IAd9s78t",
+          "url": "https://open.spotify.com/track/1ksUKJt9MSlcL8IAd9s78t",
+          "duration_ms": 93081
         }
       ],
       "artists": [
@@ -674,19 +674,19 @@
         },
         {
           "rank": 7,
-          "name": "Robin Gan",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
-          "genres": [],
-          "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
-          "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
-        },
-        {
-          "rank": 8,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 8,
+          "name": "Robin Gan",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
+          "genres": [],
+          "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
+          "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
           "rank": 9,
@@ -810,11 +810,11 @@
         },
         {
           "rank": 24,
-          "name": "phreshboyswag",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
-          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
-          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 25,
@@ -850,6 +850,14 @@
         },
         {
           "rank": 29,
+          "name": "Bon Jovi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
+          "genres": [],
+          "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "rank": 30,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9508b912d4b4df71f8245c4e",
           "genres": [],
@@ -857,7 +865,7 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
@@ -865,7 +873,7 @@
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -873,20 +881,12 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
           "genres": [],
           "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        },
-        {
-          "rank": 33,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 34,
@@ -2599,30 +2599,18 @@
         },
         {
           "rank": 46,
-          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+          "name": "truth yandere^^ - super slowed",
           "artists": [
-            "Lana Del Rey"
+            "akkiemi"
           ],
-          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
-          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
-          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
-          "duration_ms": 203080
+          "album": "truth yandere^^",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332029e594c3eb19f2b730724",
+          "uri": "spotify:track:6YWn1w1lu72zgNg8TdIbGw",
+          "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw",
+          "duration_ms": 106778
         },
         {
           "rank": 47,
-          "name": "sidia",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "install",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-          "uri": "spotify:track:1f5Q4a871MYSEc614ybqrZ",
-          "url": "https://open.spotify.com/track/1f5Q4a871MYSEc614ybqrZ",
-          "duration_ms": 79124
-        },
-        {
-          "rank": 48,
           "name": "White Mustang",
           "artists": [
             "Lana Del Rey"
@@ -2634,29 +2622,40 @@
           "duration_ms": 164710
         },
         {
-          "rank": 49,
-          "name": "Brooklyn Baby",
+          "rank": 48,
+          "name": "Living Legend",
           "artists": [
             "Lana Del Rey"
           ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-          "duration_ms": 351640
+          "album": "Blue Banisters",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
+          "uri": "spotify:track:6pZ9Nj3vzj1RW4ZkR9GcQ9",
+          "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9",
+          "duration_ms": 241426
+        },
+        {
+          "rank": 49,
+          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
+          "duration_ms": 203080
         },
         {
           "rank": 50,
-          "name": "bag it 2",
+          "name": "sidia",
           "artists": [
-            "xaviersobased",
-            "david shawty"
+            "xaviersobased"
           ],
-          "album": "bag it 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b27366cd9194d33f6e9b7329642a",
-          "uri": "spotify:track:55t61aLXzFJ4yFBblB8rgO",
-          "url": "https://open.spotify.com/track/55t61aLXzFJ4yFBblB8rgO",
-          "duration_ms": 117002
+          "album": "install",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+          "uri": "spotify:track:1f5Q4a871MYSEc614ybqrZ",
+          "url": "https://open.spotify.com/track/1f5Q4a871MYSEc614ybqrZ",
+          "duration_ms": 79124
         }
       ],
       "artists": [
