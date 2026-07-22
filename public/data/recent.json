@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T19:14:27.633Z",
+  "updated_at": "2026-07-22T22:02:19.295Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -15819,6 +15819,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
       "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
       "duration_ms": 234973
+    },
+    {
+      "played_at": "2026-07-22T20:18:29.887Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-07-22T21:18:38.020Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
     }
   ]
 }
