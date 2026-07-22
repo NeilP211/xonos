@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:07:35.634Z",
+  "generated_at": "2026-07-22T13:47:57.229Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -588,6 +588,18 @@
         },
         {
           "rank": 48,
+          "name": "Living Legend",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Blue Banisters",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
+          "uri": "spotify:track:6pZ9Nj3vzj1RW4ZkR9GcQ9",
+          "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9",
+          "duration_ms": 241426
+        },
+        {
+          "rank": 49,
           "name": "RABENVATER - HARDTEKK - SLOWED",
           "artists": [
             "blackpilled"
@@ -599,7 +611,7 @@
           "duration_ms": 254379
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Sweet Home Alabama",
           "artists": [
             "Lynyrd Skynyrd"
@@ -609,18 +621,6 @@
           "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
           "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
           "duration_ms": 283800
-        },
-        {
-          "rank": 50,
-          "name": "тело - Sped Up",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "тело",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "uri": "spotify:track:1ksUKJt9MSlcL8IAd9s78t",
-          "url": "https://open.spotify.com/track/1ksUKJt9MSlcL8IAd9s78t",
-          "duration_ms": 93081
         }
       ],
       "artists": [
