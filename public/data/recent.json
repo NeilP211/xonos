@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T16:18:49.531Z",
+  "updated_at": "2026-07-22T19:14:27.633Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -15731,6 +15731,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
       "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
       "duration_ms": 267600
+    },
+    {
+      "played_at": "2026-07-22T18:19:52.251Z",
+      "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
+      "artists": [
+        "John Williams"
+      ],
+      "album": "Christmas Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733a6c7b337d0788ffeb82ff83",
+      "uri": "spotify:track:0oEBvSzYp0aS7Obdus1RGm",
+      "duration_ms": 85253
+    },
+    {
+      "played_at": "2026-07-22T18:30:11.298Z",
+      "name": "hold me in your arms",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hold me in your arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
+      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
+      "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-07-22T18:31:23.716Z",
+      "name": "Dream On",
+      "artists": [
+        "Aerosmith"
+      ],
+      "album": "Aerosmith",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
+      "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
+      "duration_ms": 267600
+    },
+    {
+      "played_at": "2026-07-22T18:35:31.916Z",
+      "name": "i miss your warm hands",
+      "artists": [
+        "i don't like mirrors"
+      ],
+      "album": "Not How it's Supposed to be",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a1dc8049634f963d579c215",
+      "uri": "spotify:track:5Mu5BFHb4vFS5cw0hbDICV",
+      "duration_ms": 131730
+    },
+    {
+      "played_at": "2026-07-22T18:39:08.980Z",
+      "name": "Fear",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "A Different Age",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a",
+      "uri": "spotify:track:1JbbYSre3n6j2YlfHH31UL",
+      "duration_ms": 216539
+    },
+    {
+      "played_at": "2026-07-22T18:43:29.615Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-07-22T18:47:31.668Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-07-22T18:51:27.167Z",
+      "name": "Where Is My Mind? - 2007 Remaster",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Surfer Rosa (2007 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
+      "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+      "duration_ms": 234973
     }
   ]
 }
