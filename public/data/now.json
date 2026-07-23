@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T08:27:21.828Z",
-  "is_playing": false,
+  "updated_at": "2026-07-23T13:52:23.581Z",
+  "is_playing": true,
   "track": {
-    "name": "Loving Machine",
+    "name": "did i tell u that i miss u - slowed",
     "artists": [
-      "TV Girl"
+      "adore"
     ],
-    "album": "Who Really Cares",
-    "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-    "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ"
+    "album": "did i tell u that i miss u",
+    "image": "https://i.scdn.co/image/ab67616d0000b27337b9c1d008fe46d755cbcd3c",
+    "uri": "spotify:track:5A619AfuoWdjHA2QFijXjv"
   },
-  "played_at": "2026-07-23T02:32:15.550Z"
+  "played_at": "2026-07-23T13:52:23.581Z"
 }
