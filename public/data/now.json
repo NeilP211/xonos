@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-22T22:02:19.368Z",
-  "is_playing": false,
+  "updated_at": "2026-07-23T02:33:44.963Z",
+  "is_playing": true,
   "track": {
-    "name": "West Coast",
+    "name": "Lovers Rock",
     "artists": [
-      "Lana Del Rey"
+      "TV Girl"
     ],
-    "album": "Ultraviolence (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-    "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV"
+    "album": "French Exit",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+    "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM"
   },
-  "played_at": "2026-07-22T21:18:38.020Z"
+  "played_at": "2026-07-23T02:33:44.963Z"
 }
