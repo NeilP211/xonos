@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:24:46.162Z",
+  "generated_at": "2026-07-23T19:13:13.181Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -57,6 +57,19 @@
         },
         {
           "rank": 5,
+          "name": "Sun Down, I'm Up - Slowed & Reverb",
+          "artists": [
+            "Lil Yawh",
+            "Cryjng"
+          ],
+          "album": "Sun Down, I'm Up (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
+          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
+          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
+          "duration_ms": 131783
+        },
+        {
+          "rank": 6,
           "name": "Turu R9 - Ultra Slowed Remake",
           "artists": [
             "DJ Ikeraus",
@@ -70,7 +83,7 @@
           "duration_ms": 133690
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "ICH VERACHTE (HARDTEKK) - Slowed & Reverb",
           "artists": [
             "blackpilled"
@@ -82,7 +95,7 @@
           "duration_ms": 164985
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Sadeness - Pt. 1 / Radio Edit",
           "artists": [
             "Enigma"
@@ -92,19 +105,6 @@
           "uri": "spotify:track:3MVm36ouM56jbP5rORxbVy",
           "url": "https://open.spotify.com/track/3MVm36ouM56jbP5rORxbVy",
           "duration_ms": 260400
-        },
-        {
-          "rank": 8,
-          "name": "Sun Down, I'm Up - Slowed & Reverb",
-          "artists": [
-            "Lil Yawh",
-            "Cryjng"
-          ],
-          "album": "Sun Down, I'm Up (Slowed & Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
-          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
-          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
-          "duration_ms": 131783
         },
         {
           "rank": 9,
@@ -132,18 +132,6 @@
         },
         {
           "rank": 11,
-          "name": "National Anthem",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
-          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
-          "duration_ms": 230533
-        },
-        {
-          "rank": 12,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -153,6 +141,18 @@
           "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
           "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
           "duration_ms": 194951
+        },
+        {
+          "rank": 12,
+          "name": "National Anthem",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
+          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
+          "duration_ms": 230533
         },
         {
           "rank": 13,
@@ -305,6 +305,18 @@
         },
         {
           "rank": 25,
+          "name": "jaded",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "with 2 (hosted by d9lton)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+          "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+          "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
+          "duration_ms": 112733
+        },
+        {
+          "rank": 26,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -316,7 +328,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -328,7 +340,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -340,7 +352,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -352,7 +364,7 @@
           "duration_ms": 102235
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Lean On",
           "artists": [
             "Major Lazer",
@@ -366,7 +378,7 @@
           "duration_ms": 176561
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "subhanallah",
           "artists": [
             "soulcast"
@@ -378,7 +390,7 @@
           "duration_ms": 62344
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Night , Blooming Jasmine .",
           "artists": [
             "fakemink"
@@ -390,7 +402,7 @@
           "duration_ms": 178868
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Not Again - A.T. mixxx",
           "artists": [
             "Rio Da Yung Og",
@@ -403,7 +415,7 @@
           "duration_ms": 163137
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
           "artists": [
             "snort.",
@@ -416,7 +428,7 @@
           "duration_ms": 138115
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Look at My Life",
           "artists": [
             "Gracie Abrams"
@@ -428,7 +440,19 @@
           "duration_ms": 190533
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "name": "Pet",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Pet",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
+          "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
+          "url": "https://open.spotify.com/track/2SGWuJ7lQGhLCsTdK7Ur2I",
+          "duration_ms": 66618
+        },
+        {
+          "rank": 37,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -440,7 +464,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -452,7 +476,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -464,7 +488,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Wrecking Ball",
           "artists": [
             "Miley Cyrus"
@@ -476,7 +500,7 @@
           "duration_ms": 221366
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "MXRDER IN SHADOWMOOR - Ultra Slowed",
           "artists": [
             "XTFO"
@@ -488,7 +512,7 @@
           "duration_ms": 154285
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "too deep",
           "artists": [
             "Robin Gan"
@@ -500,7 +524,7 @@
           "duration_ms": 67745
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "IN THE H3ART #HARDSTYLE - slowed",
           "artists": [
             "AD0RKEN",
@@ -513,7 +537,7 @@
           "duration_ms": 75880
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -525,7 +549,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Suffocation",
           "artists": [
             "Crystal Castles"
@@ -537,7 +561,7 @@
           "duration_ms": 242293
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -549,19 +573,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 45,
-          "name": "jaded",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "with 2 (hosted by d9lton)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-          "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
-          "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
-          "duration_ms": 112733
-        },
-        {
-          "rank": 46,
+          "rank": 47,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -573,7 +585,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "mona lisa",
           "artists": [
             "Nettspend"
@@ -585,7 +597,7 @@
           "duration_ms": 111483
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Montagem Effeminatio Molitia 2 - Hardstyle Ultra Slowed",
           "artists": [
             "DJ Ikeraus",
@@ -600,7 +612,7 @@
           "duration_ms": 97639
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Living Legend",
           "artists": [
             "Lana Del Rey"
@@ -610,18 +622,6 @@
           "uri": "spotify:track:6pZ9Nj3vzj1RW4ZkR9GcQ9",
           "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9",
           "duration_ms": 241426
-        },
-        {
-          "rank": 50,
-          "name": "RABENVATER - HARDTEKK - SLOWED",
-          "artists": [
-            "blackpilled"
-          ],
-          "album": "RABENVATER (HARDTEKK - SLOWED)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730aa7f0c0372f0280623645f6",
-          "uri": "spotify:track:6B33N8RPaz8JiolTz0Q2DH",
-          "url": "https://open.spotify.com/track/6B33N8RPaz8JiolTz0Q2DH",
-          "duration_ms": 254379
         }
       ],
       "artists": [
@@ -635,19 +635,19 @@
         },
         {
           "rank": 2,
-          "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
-          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
-          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
-        },
-        {
-          "rank": 3,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
           "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "rank": 3,
+          "name": "DJ ZUP RAlii",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "genres": [],
+          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
+          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
           "rank": 4,
@@ -675,6 +675,14 @@
         },
         {
           "rank": 7,
+          "name": "xaviersobased",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
+          "genres": [],
+          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "rank": 8,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
@@ -682,7 +690,7 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -690,7 +698,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -698,7 +706,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -706,7 +714,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
           "genres": [],
@@ -714,20 +722,12 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "rank": 13,
-          "name": "xaviersobased",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [],
-          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
           "rank": 14,
@@ -995,6 +995,14 @@
         },
         {
           "rank": 47,
+          "name": "ksuuvi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
+          "genres": [],
+          "uri": "spotify:artist:7MYVlTfQYFOVKftHoiwO5b",
+          "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
+        },
+        {
+          "rank": 48,
           "name": "nleave",
           "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
           "genres": [],
@@ -1002,7 +1010,7 @@
           "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -1010,20 +1018,12 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Lynyrd Skynyrd",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3f02c2ff7ea1aa208e015f57",
           "genres": [],
           "uri": "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0",
           "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        },
-        {
-          "rank": 50,
-          "name": "Ramin Djawadi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
-          "genres": [],
-          "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ]
     },
