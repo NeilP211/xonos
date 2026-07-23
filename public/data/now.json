@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T13:52:23.581Z",
-  "is_playing": true,
+  "updated_at": "2026-07-23T16:24:46.434Z",
+  "is_playing": false,
   "track": {
-    "name": "did i tell u that i miss u - slowed",
+    "name": "help_urself - slowed",
     "artists": [
-      "adore"
+      "Ezekiel"
     ],
-    "album": "did i tell u that i miss u",
-    "image": "https://i.scdn.co/image/ab67616d0000b27337b9c1d008fe46d755cbcd3c",
-    "uri": "spotify:track:5A619AfuoWdjHA2QFijXjv"
+    "album": "help_urself (Alternates)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27307a64bb7dda36a5fdc516888",
+    "uri": "spotify:track:6ivAviar2zmiKrQ397I4rG"
   },
-  "played_at": "2026-07-23T13:52:23.581Z"
+  "played_at": "2026-07-23T13:56:17.308Z"
 }
