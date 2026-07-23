@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-23T19:13:13.517Z",
-  "is_playing": false,
+  "updated_at": "2026-07-23T22:02:21.694Z",
+  "is_playing": true,
   "track": {
-    "name": "patchmade",
+    "name": "Sun Down, I'm Up",
     "artists": [
-      "xaviersobased"
+      "Lil Yawh",
+      "Cryjng"
     ],
-    "album": "install",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-    "uri": "spotify:track:2RH68g2fChiOIhIxT0HfYP"
+    "album": "Sun Down, I'm Up",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738fe5b2db5107a8a3791ba0bd",
+    "uri": "spotify:track:3H55CCf05tqTMGUG9Bm2ug"
   },
-  "played_at": "2026-07-23T17:48:08.007Z"
+  "played_at": "2026-07-23T22:02:21.694Z"
 }
