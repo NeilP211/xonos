@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:21:58.824Z",
+  "updated_at": "2026-07-24T22:02:45.551Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -16767,6 +16767,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731659d02d76ffe2e7213c61ce",
       "uri": "spotify:track:4aRQECF9TM4mH5Q9YOofI3",
       "duration_ms": 251915
+    },
+    {
+      "played_at": "2026-07-24T19:26:36.384Z",
+      "name": "Tie That Binds",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:5qgOi3ApEdgmUmMwUAAdeV",
+      "duration_ms": 256442
+    },
+    {
+      "played_at": "2026-07-24T19:29:59.142Z",
+      "name": "Too Fast",
+      "artists": [
+        "Jason Aldean"
+      ],
+      "album": "Old Boots, New Dirt",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311c0c61a1f6becef5715107b",
+      "uri": "spotify:track:7FOjsmd4F7fxgjyWaiq5tS",
+      "duration_ms": 202306
+    },
+    {
+      "played_at": "2026-07-24T19:31:09.098Z",
+      "name": "Thought It Was Love",
+      "artists": [
+        "Ty Myers"
+      ],
+      "album": "The Select",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
+      "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF",
+      "duration_ms": 246141
+    },
+    {
+      "played_at": "2026-07-24T21:18:50.137Z",
+      "name": "Million Dollar Man",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:4lXHVnmDO5u62tGJIpTafd",
+      "duration_ms": 231573
+    },
+    {
+      "played_at": "2026-07-24T21:27:06.661Z",
+      "name": "Pretty When You Cry",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+      "duration_ms": 234146
+    },
+    {
+      "played_at": "2026-07-24T21:31:52.505Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-07-24T21:47:33.725Z",
+      "name": "Radio",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:4PMdq7Q7xOFrY424ZelZEb",
+      "duration_ms": 214573
     }
   ]
 }

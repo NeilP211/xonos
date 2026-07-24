@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-24T19:21:59.068Z",
-  "is_playing": true,
+  "updated_at": "2026-07-24T22:02:45.599Z",
+  "is_playing": false,
   "track": {
-    "name": "Cheatin’ Songs",
+    "name": "Radio",
     "artists": [
-      "Midland"
+      "Lana Del Rey"
     ],
-    "album": "Let It Roll",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f7453f2aad02bad5cb1fd209",
-    "uri": "spotify:track:01dBLHq3UWyDRWDZJXj235"
+    "album": "Born To Die - The Paradise Edition",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+    "uri": "spotify:track:4PMdq7Q7xOFrY424ZelZEb"
   },
-  "played_at": "2026-07-24T19:21:59.068Z"
+  "played_at": "2026-07-24T21:47:33.725Z"
 }
