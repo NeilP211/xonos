@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:24:32.763Z",
+  "updated_at": "2026-07-24T11:03:26.141Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -16623,6 +16623,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c8ebaf14b07771034c5aa00f",
       "uri": "spotify:track:17MAP5wLWQFqFo4rfO2kqZ",
       "duration_ms": 170364
+    },
+    {
+      "played_at": "2026-07-24T00:39:47.569Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
     }
   ]
 }
