@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:03:26.000Z",
+  "generated_at": "2026-07-24T16:40:20.770Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -108,18 +108,6 @@
         },
         {
           "rank": 9,
-          "name": "Im Inna Band",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Im Inna Band",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
-          "duration_ms": 194951
-        },
-        {
-          "rank": 10,
           "name": "I Don't Care",
           "artists": [
             "VIOLENT VIRA"
@@ -131,7 +119,7 @@
           "duration_ms": 181028
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -143,7 +131,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -155,7 +143,7 @@
           "duration_ms": 230533
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -167,7 +155,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "ttwlg",
           "artists": [
             "Yung Fazo"
@@ -177,6 +165,18 @@
           "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
           "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
           "duration_ms": 141165
+        },
+        {
+          "rank": 14,
+          "name": "Im Inna Band",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Im Inna Band",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
+          "duration_ms": 194951
         },
         {
           "rank": 15,
@@ -2223,18 +2223,6 @@
         },
         {
           "rank": 15,
-          "name": "yellow rose",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "someone help",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739635d97f8567299785a628b3",
-          "uri": "spotify:track:18znj1NxAmbod4Wxby66MK",
-          "url": "https://open.spotify.com/track/18znj1NxAmbod4Wxby66MK",
-          "duration_ms": 72071
-        },
-        {
-          "rank": 16,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -2244,6 +2232,18 @@
           "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
           "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
           "duration_ms": 112733
+        },
+        {
+          "rank": 16,
+          "name": "yellow rose",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "someone help",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739635d97f8567299785a628b3",
+          "uri": "spotify:track:18znj1NxAmbod4Wxby66MK",
+          "url": "https://open.spotify.com/track/18znj1NxAmbod4Wxby66MK",
+          "duration_ms": 72071
         },
         {
           "rank": 17,
@@ -2488,6 +2488,18 @@
         },
         {
           "rank": 37,
+          "name": "truth yandere^^ - super slowed",
+          "artists": [
+            "akkiemi"
+          ],
+          "album": "truth yandere^^",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332029e594c3eb19f2b730724",
+          "uri": "spotify:track:6YWn1w1lu72zgNg8TdIbGw",
+          "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw",
+          "duration_ms": 106778
+        },
+        {
+          "rank": 38,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -2499,7 +2511,7 @@
           "duration_ms": 211043
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Impact (with xaviersobased)",
           "artists": [
             "Nettspend",
@@ -2512,7 +2524,7 @@
           "duration_ms": 115764
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "bag it",
           "artists": [
             "sleepyherd"
@@ -2524,7 +2536,7 @@
           "duration_ms": 67223
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Mascara",
           "artists": [
             "Deftones"
@@ -2536,7 +2548,7 @@
           "duration_ms": 225293
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "2 Phones",
           "artists": [
             "Zukovstheworld",
@@ -2549,7 +2561,7 @@
           "duration_ms": 147623
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -2562,7 +2574,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "U gon fall",
           "artists": [
             "Nettspend"
@@ -2574,7 +2586,7 @@
           "duration_ms": 112078
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "MXRDER IN SHADOWMOOR - Diabolically Slowed",
           "artists": [
             "XTFO"
@@ -2586,7 +2598,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "army of two",
           "artists": [
             "ksuuvi",
@@ -2597,18 +2609,6 @@
           "uri": "spotify:track:69VQAr0u9W5DcQAjZHJ3C5",
           "url": "https://open.spotify.com/track/69VQAr0u9W5DcQAjZHJ3C5",
           "duration_ms": 129567
-        },
-        {
-          "rank": 46,
-          "name": "truth yandere^^ - super slowed",
-          "artists": [
-            "akkiemi"
-          ],
-          "album": "truth yandere^^",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332029e594c3eb19f2b730724",
-          "uri": "spotify:track:6YWn1w1lu72zgNg8TdIbGw",
-          "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw",
-          "duration_ms": 106778
         },
         {
           "rank": 47,
@@ -2982,19 +2982,19 @@
         },
         {
           "rank": 41,
-          "name": "Gutter Whore",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb414eb1b4dcdef93a163f2e99",
-          "genres": [],
-          "uri": "spotify:artist:09TAxArvBAjqTaVBE7viuU",
-          "url": "https://open.spotify.com/artist/09TAxArvBAjqTaVBE7viuU"
-        },
-        {
-          "rank": 42,
           "name": "ksuuvi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
           "genres": [],
           "uri": "spotify:artist:7MYVlTfQYFOVKftHoiwO5b",
           "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
+        },
+        {
+          "rank": 42,
+          "name": "Gutter Whore",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb414eb1b4dcdef93a163f2e99",
+          "genres": [],
+          "uri": "spotify:artist:09TAxArvBAjqTaVBE7viuU",
+          "url": "https://open.spotify.com/artist/09TAxArvBAjqTaVBE7viuU"
         },
         {
           "rank": 43,
