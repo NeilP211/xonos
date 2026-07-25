@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T02:28:55.453Z",
+  "updated_at": "2026-07-25T05:41:31.375Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -16913,6 +16913,45 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27386672ed76d5bbee5db63c5b1",
       "uri": "spotify:track:0Cp85ha3RN0FDytbku8nzq",
       "duration_ms": 185173
+    },
+    {
+      "played_at": "2026-07-25T03:50:41.637Z",
+      "name": "Goodbye (feat. Lyse) - Slow Version",
+      "artists": [
+        "Feder",
+        "Lyse"
+      ],
+      "album": "Goodbye (feat. Lyse) [Slow Version]",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386672ed76d5bbee5db63c5b1",
+      "uri": "spotify:track:0Cp85ha3RN0FDytbku8nzq",
+      "duration_ms": 185173
+    },
+    {
+      "played_at": "2026-07-25T03:51:03.498Z",
+      "name": "BLIKKK",
+      "artists": [
+        "FRANCIS JEREMY",
+        "Metr01d"
+      ],
+      "album": "BLIKKK",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320a57351a61026edc69c5ccb",
+      "uri": "spotify:track:2vnwYFEKvWcGHTWz5Ab9rG",
+      "duration_ms": 86805
+    },
+    {
+      "played_at": "2026-07-25T03:55:28.492Z",
+      "name": "Sttraw cypher verse",
+      "artists": [
+        "UDG PERÚ",
+        "donniedarko",
+        "sourr",
+        "bladeonme",
+        "truett2x"
+      ],
+      "album": "UDG PERÚ CYPHER (VOL I)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f2c25c67bae4e1a5b8aae12",
+      "uri": "spotify:track:63sDAdZu2XbCTCkBh8fJ0c",
+      "duration_ms": 87250
     }
   ]
 }
