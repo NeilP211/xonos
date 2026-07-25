@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T05:41:31.157Z",
+  "generated_at": "2026-07-25T08:03:17.732Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1385,18 +1385,6 @@
         },
         {
           "rank": 30,
-          "name": "Vlone - Super Slowed Hardcore Remix",
-          "artists": [
-            "tapzen"
-          ],
-          "album": "Vlone (Hardcore Remix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
-          "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
-          "url": "https://open.spotify.com/track/6LwBcLU3L2wDNAb0O160iS",
-          "duration_ms": 156894
-        },
-        {
-          "rank": 31,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1406,6 +1394,18 @@
           "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
           "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
           "duration_ms": 299258
+        },
+        {
+          "rank": 31,
+          "name": "Vlone - Super Slowed Hardcore Remix",
+          "artists": [
+            "tapzen"
+          ],
+          "album": "Vlone (Hardcore Remix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
+          "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
+          "url": "https://open.spotify.com/track/6LwBcLU3L2wDNAb0O160iS",
+          "duration_ms": 156894
         },
         {
           "rank": 32,
@@ -1916,11 +1916,11 @@
         },
         {
           "rank": 35,
-          "name": "YXMI",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd30b87ef5464df7bc0454274",
+          "name": "tapzen",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb486e6a9e552628fff5b8cecd",
           "genres": [],
-          "uri": "spotify:artist:0vBPuNcJXIMQFtlVLZJxMH",
-          "url": "https://open.spotify.com/artist/0vBPuNcJXIMQFtlVLZJxMH"
+          "uri": "spotify:artist:107G3QtFj23UGmjn6azbVd",
+          "url": "https://open.spotify.com/artist/107G3QtFj23UGmjn6azbVd"
         },
         {
           "rank": 36,
@@ -1956,6 +1956,14 @@
         },
         {
           "rank": 40,
+          "name": "YXMI",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd30b87ef5464df7bc0454274",
+          "genres": [],
+          "uri": "spotify:artist:0vBPuNcJXIMQFtlVLZJxMH",
+          "url": "https://open.spotify.com/artist/0vBPuNcJXIMQFtlVLZJxMH"
+        },
+        {
+          "rank": 41,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5eb76fa7647be6296b5fa76a8cf",
           "genres": [],
@@ -1963,7 +1971,7 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Edot Babyy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
           "genres": [],
@@ -1971,7 +1979,7 @@
           "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Rihanna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "genres": [],
@@ -1979,7 +1987,7 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -1987,7 +1995,7 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -1995,20 +2003,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Ron Suno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf49a0886c7b50a9430cc79cc",
           "genres": [],
           "uri": "spotify:artist:3A63dHvKuavknOcvWVgZA9",
           "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
-        },
-        {
-          "rank": 46,
-          "name": "tapzen",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb486e6a9e552628fff5b8cecd",
-          "genres": [],
-          "uri": "spotify:artist:107G3QtFj23UGmjn6azbVd",
-          "url": "https://open.spotify.com/artist/107G3QtFj23UGmjn6azbVd"
         },
         {
           "rank": 47,
