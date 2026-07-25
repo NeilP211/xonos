@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-24T22:02:45.599Z",
+  "updated_at": "2026-07-25T02:28:55.540Z",
   "is_playing": false,
   "track": {
-    "name": "Radio",
+    "name": "Goodbye (feat. Lyse) - Slow Version",
     "artists": [
-      "Lana Del Rey"
+      "Feder",
+      "Lyse"
     ],
-    "album": "Born To Die - The Paradise Edition",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-    "uri": "spotify:track:4PMdq7Q7xOFrY424ZelZEb"
+    "album": "Goodbye (feat. Lyse) [Slow Version]",
+    "image": "https://i.scdn.co/image/ab67616d0000b27386672ed76d5bbee5db63c5b1",
+    "uri": "spotify:track:0Cp85ha3RN0FDytbku8nzq"
   },
-  "played_at": "2026-07-24T21:47:33.725Z"
+  "played_at": "2026-07-24T23:09:50.391Z"
 }
