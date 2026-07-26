@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-26T13:16:51.806Z",
-  "is_playing": true,
+  "updated_at": "2026-07-26T19:07:15.564Z",
+  "is_playing": false,
   "track": {
-    "name": "Night , Blooming Jasmine .",
+    "name": "Don't Stop Believin' (2022 Remaster)",
     "artists": [
-      "fakemink"
+      "Journey"
     ],
-    "album": "Night , Blooming Jasmine .",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
-    "uri": "spotify:track:4WKUmjoUeYkzyoEvTbiVdW"
+    "album": "Escape (2022 Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018",
+    "uri": "spotify:track:5RKQ5NdjSh2QzD4MaunT91"
   },
-  "played_at": "2026-07-26T13:16:51.806Z"
+  "played_at": "2026-07-26T16:24:13.591Z"
 }
