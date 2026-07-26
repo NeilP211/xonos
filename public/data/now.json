@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-26T10:43:22.198Z",
-  "is_playing": false,
+  "updated_at": "2026-07-26T13:16:51.806Z",
+  "is_playing": true,
   "track": {
-    "name": "Broken Wings",
+    "name": "Night , Blooming Jasmine .",
     "artists": [
-      "Mr. Mister"
+      "fakemink"
     ],
-    "album": "Welcome To The Real World",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cfccabf39d00d34235d5bcd6",
-    "uri": "spotify:track:78FHUZRbFDCG6VkRAQdFLm"
+    "album": "Night , Blooming Jasmine .",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
+    "uri": "spotify:track:4WKUmjoUeYkzyoEvTbiVdW"
   },
-  "played_at": "2026-07-26T03:15:45.963Z"
+  "played_at": "2026-07-26T13:16:51.806Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T10:43:22.051Z",
+  "generated_at": "2026-07-26T13:16:51.473Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -216,6 +216,18 @@
         },
         {
           "rank": 18,
+          "name": "Zombie - 2025 Remastered",
+          "artists": [
+            "The Cranberries"
+          ],
+          "album": "No Need To Argue (2025 Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+          "duration_ms": 305626
+        },
+        {
+          "rank": 19,
           "name": "Noblest Strive",
           "artists": [
             "Bladee"
@@ -227,7 +239,7 @@
           "duration_ms": 134893
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -239,7 +251,7 @@
           "duration_ms": 194951
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "too deep",
           "artists": [
             "Robin Gan"
@@ -251,7 +263,7 @@
           "duration_ms": 67745
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "mona lisa",
           "artists": [
             "Nettspend"
@@ -263,7 +275,7 @@
           "duration_ms": 111483
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -275,18 +287,6 @@
           "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
           "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H",
           "duration_ms": 259071
-        },
-        {
-          "rank": 23,
-          "name": "Zombie - 2025 Remastered",
-          "artists": [
-            "The Cranberries"
-          ],
-          "album": "No Need To Argue (2025 Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
-          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-          "duration_ms": 305626
         },
         {
           "rank": 24,
@@ -339,6 +339,18 @@
         },
         {
           "rank": 28,
+          "name": "Mr. Brightside",
+          "artists": [
+            "The Killers"
+          ],
+          "album": "Hot Fuss",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+          "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+          "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+          "duration_ms": 222973
+        },
+        {
+          "rank": 29,
           "name": "UPAST - Ultra Slowed",
           "artists": [
             "HELLBLADE",
@@ -351,7 +363,7 @@
           "duration_ms": 108165
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "HALLUCINATION - Slowed",
           "artists": [
             "HUSSVRX",
@@ -364,7 +376,7 @@
           "duration_ms": 143656
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -376,7 +388,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -388,7 +400,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -400,7 +412,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -412,7 +424,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -424,7 +436,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -436,7 +448,7 @@
           "duration_ms": 102235
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Not Again - A.T. mixxx",
           "artists": [
             "Rio Da Yung Og",
@@ -449,7 +461,7 @@
           "duration_ms": 163137
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
           "artists": [
             "snort.",
@@ -462,7 +474,7 @@
           "duration_ms": 138115
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -474,7 +486,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Look at My Life",
           "artists": [
             "Gracie Abrams"
@@ -486,7 +498,7 @@
           "duration_ms": 190533
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Pet",
           "artists": [
             "xaviersobased"
@@ -498,7 +510,7 @@
           "duration_ms": 66618
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -510,7 +522,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -522,7 +534,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Suffocation",
           "artists": [
             "Crystal Castles"
@@ -534,7 +546,7 @@
           "duration_ms": 242293
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "MXRDER IN SHADOWMOOR - Ultra Slowed",
           "artists": [
             "XTFO"
@@ -546,7 +558,7 @@
           "duration_ms": 154285
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -559,7 +571,19 @@
           "duration_ms": 135510
         },
         {
-          "rank": 46,
+          "rank": 47,
+          "name": "Don't Stop Believin' (2022 Remaster)",
+          "artists": [
+            "Journey"
+          ],
+          "album": "Escape (2022 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018",
+          "uri": "spotify:track:5RKQ5NdjSh2QzD4MaunT91",
+          "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91",
+          "duration_ms": 249600
+        },
+        {
+          "rank": 48,
           "name": "Art Deco",
           "artists": [
             "Lana Del Rey"
@@ -571,7 +595,7 @@
           "duration_ms": 295066
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "IN THE H3ART #HARDSTYLE - slowed",
           "artists": [
             "AD0RKEN",
@@ -584,7 +608,7 @@
           "duration_ms": 75880
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -594,30 +618,6 @@
           "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
           "url": "https://open.spotify.com/track/6vSCM2SU46QPusXLiy0kjz",
           "duration_ms": 150622
-        },
-        {
-          "rank": 49,
-          "name": "Swan Song",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-          "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
-          "duration_ms": 323475
-        },
-        {
-          "rank": 50,
-          "name": "GUTS RAGE x HARDSTYLE",
-          "artists": [
-            "MyMotivation"
-          ],
-          "album": "GUTS RAGE x HARDSTYLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
-          "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
-          "url": "https://open.spotify.com/track/3YPfO65kiw8oCq5vSSKFyP",
-          "duration_ms": 153200
         }
       ],
       "artists": [
@@ -680,7 +680,7 @@
         {
           "rank": 8,
           "name": "Robin Gan",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
           "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
@@ -1660,7 +1660,7 @@
         {
           "rank": 3,
           "name": "Robin Gan",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
           "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
@@ -2755,7 +2755,7 @@
         {
           "rank": 13,
           "name": "Robin Gan",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb17330605a06e37cd099ab4a8",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
           "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
