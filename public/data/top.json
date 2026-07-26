@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:07:15.336Z",
+  "generated_at": "2026-07-26T21:57:29.186Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -728,7 +728,7 @@
         {
           "rank": 14,
           "name": "pupsies",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba2442fef57b0d091950b34cd",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb423b77c4e3b58d21a42a8c76",
           "genres": [],
           "uri": "spotify:artist:0Uo0W0Vfq9ZOLCFngwxOLm",
           "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
@@ -1602,6 +1602,19 @@
         },
         {
           "rank": 48,
+          "name": "Sun Down, I'm Up - Slowed & Reverb",
+          "artists": [
+            "Lil Yawh",
+            "Cryjng"
+          ],
+          "album": "Sun Down, I'm Up (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
+          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
+          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
+          "duration_ms": 131783
+        },
+        {
+          "rank": 49,
           "name": "in china",
           "artists": [
             "Robin Gan"
@@ -1613,7 +1626,7 @@
           "duration_ms": 65061
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -1626,18 +1639,6 @@
           "uri": "spotify:track:30096a5EMOSaF9c2aSa4TH",
           "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH",
           "duration_ms": 180927
-        },
-        {
-          "rank": 50,
-          "name": "zombie",
-          "artists": [
-            "bleood"
-          ],
-          "album": "zombie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
-          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
-          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
-          "duration_ms": 121573
         }
       ],
       "artists": [
