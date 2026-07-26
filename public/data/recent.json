@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T02:35:51.174Z",
+  "updated_at": "2026-07-26T06:01:32.681Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -17199,6 +17199,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ede118b5f0e159dd18d42b90",
       "uri": "spotify:track:0X1sqQ652p1sceKM2nJlIJ",
       "duration_ms": 230666
+    },
+    {
+      "played_at": "2026-07-26T03:15:45.963Z",
+      "name": "Broken Wings",
+      "artists": [
+        "Mr. Mister"
+      ],
+      "album": "Welcome To The Real World",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfccabf39d00d34235d5bcd6",
+      "uri": "spotify:track:78FHUZRbFDCG6VkRAQdFLm",
+      "duration_ms": 343933
     }
   ]
 }
