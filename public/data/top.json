@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:27:53.752Z",
+  "generated_at": "2026-07-27T12:21:08.862Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -730,7 +730,7 @@
         {
           "rank": 14,
           "name": "pupsies",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb12e230f4e1e65439292bad38",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb3b65a13b37be6ffb68a6ee9",
           "genres": [],
           "uri": "spotify:artist:0Uo0W0Vfq9ZOLCFngwxOLm",
           "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
@@ -1446,102 +1446,6 @@
         },
         {
           "rank": 35,
-          "name": "Glamorous",
-          "artists": [
-            "Hospital"
-          ],
-          "album": "Glamorous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
-          "duration_ms": 128509
-        },
-        {
-          "rank": 36,
-          "name": "الوتر الحساس",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "نساى",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
-          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
-          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
-          "duration_ms": 261224
-        },
-        {
-          "rank": 37,
-          "name": "Kirkify",
-          "artists": [
-            "Edo Hunnidz"
-          ],
-          "album": "Kirkify",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
-          "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
-          "url": "https://open.spotify.com/track/047CqSS6h5gFgruozkbgy1",
-          "duration_ms": 80000
-        },
-        {
-          "rank": 38,
-          "name": "National Anthem",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
-          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
-          "duration_ms": 230533
-        },
-        {
-          "rank": 39,
-          "name": "Paranoid",
-          "artists": [
-            "DJ Iraq"
-          ],
-          "album": "Paranoid",
-          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
-          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
-          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
-          "duration_ms": 158966
-        },
-        {
-          "rank": 40,
-          "name": "Too Much For Me",
-          "artists": [
-            "SELKER"
-          ],
-          "album": "Too Much For Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
-          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
-          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
-          "duration_ms": 153869
-        },
-        {
-          "rank": 41,
-          "name": "Void",
-          "artists": [
-            "Tevvez"
-          ],
-          "album": "Obsidian",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
-          "uri": "spotify:track:6Zo3F8D0mYLNvx9wJD9AiR",
-          "url": "https://open.spotify.com/track/6Zo3F8D0mYLNvx9wJD9AiR",
-          "duration_ms": 209040
-        },
-        {
-          "rank": 42,
-          "name": "Motamkena",
-          "artists": [
-            "Lamis Kan"
-          ],
-          "album": "Motamkena",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d3455d9e9e7550b05ddd935d",
-          "uri": "spotify:track:6dpVxlXfuYV96sm784Zrzm",
-          "url": "https://open.spotify.com/track/6dpVxlXfuYV96sm784Zrzm",
-          "duration_ms": 158376
-        },
-        {
-          "rank": 43,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -1553,7 +1457,116 @@
           "duration_ms": 130677
         },
         {
+          "rank": 36,
+          "name": "Glamorous",
+          "artists": [
+            "Hospital"
+          ],
+          "album": "Glamorous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
+          "duration_ms": 128509
+        },
+        {
+          "rank": 37,
+          "name": "الوتر الحساس",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "نساى",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
+          "duration_ms": 261224
+        },
+        {
+          "rank": 38,
+          "name": "Kirkify",
+          "artists": [
+            "Edo Hunnidz"
+          ],
+          "album": "Kirkify",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+          "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+          "url": "https://open.spotify.com/track/047CqSS6h5gFgruozkbgy1",
+          "duration_ms": 80000
+        },
+        {
+          "rank": 39,
+          "name": "National Anthem",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
+          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
+          "duration_ms": 230533
+        },
+        {
+          "rank": 40,
+          "name": "Paranoid",
+          "artists": [
+            "DJ Iraq"
+          ],
+          "album": "Paranoid",
+          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
+          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
+          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
+          "duration_ms": 158966
+        },
+        {
+          "rank": 41,
+          "name": "Sun Down, I'm Up - Slowed & Reverb",
+          "artists": [
+            "Lil Yawh",
+            "Cryjng"
+          ],
+          "album": "Sun Down, I'm Up (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
+          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
+          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
+          "duration_ms": 131783
+        },
+        {
+          "rank": 42,
+          "name": "Too Much For Me",
+          "artists": [
+            "SELKER"
+          ],
+          "album": "Too Much For Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
+          "duration_ms": 153869
+        },
+        {
+          "rank": 43,
+          "name": "Void",
+          "artists": [
+            "Tevvez"
+          ],
+          "album": "Obsidian",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
+          "uri": "spotify:track:6Zo3F8D0mYLNvx9wJD9AiR",
+          "url": "https://open.spotify.com/track/6Zo3F8D0mYLNvx9wJD9AiR",
+          "duration_ms": 209040
+        },
+        {
           "rank": 44,
+          "name": "Motamkena",
+          "artists": [
+            "Lamis Kan"
+          ],
+          "album": "Motamkena",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d3455d9e9e7550b05ddd935d",
+          "uri": "spotify:track:6dpVxlXfuYV96sm784Zrzm",
+          "url": "https://open.spotify.com/track/6dpVxlXfuYV96sm784Zrzm",
+          "duration_ms": 158376
+        },
+        {
+          "rank": 45,
           "name": "دبكات زمر",
           "artists": [
             "احمد ابراهيم"
@@ -1565,7 +1578,7 @@
           "duration_ms": 167590
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1577,7 +1590,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1589,7 +1602,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -1601,19 +1614,6 @@
           "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
           "url": "https://open.spotify.com/track/3lJ3mblBvLWDhrzi1qxh05",
           "duration_ms": 115296
-        },
-        {
-          "rank": 48,
-          "name": "Sun Down, I'm Up - Slowed & Reverb",
-          "artists": [
-            "Lil Yawh",
-            "Cryjng"
-          ],
-          "album": "Sun Down, I'm Up (Slowed & Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
-          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
-          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
-          "duration_ms": 131783
         },
         {
           "rank": 49,
@@ -1782,19 +1782,19 @@
         },
         {
           "rank": 18,
-          "name": "Gracie Abrams",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
-          "genres": [],
-          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "rank": 19,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 19,
+          "name": "Gracie Abrams",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+          "genres": [],
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
           "rank": 20,
