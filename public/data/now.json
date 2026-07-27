@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-27T12:21:08.966Z",
+  "updated_at": "2026-07-27T16:55:39.176Z",
   "is_playing": false,
   "track": {
-    "name": "too deep",
+    "name": "esc_drive",
     "artists": [
-      "Robin Gan"
+      "$undown",
+      "simvlacrvm"
     ],
-    "album": "too deep",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
-    "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h"
+    "album": "esc_drive",
+    "image": "https://i.scdn.co/image/ab67616d0000b273860777880cc7f0e93ff4dfd3",
+    "uri": "spotify:track:35HL0U88chLbJSOzG4O6vV"
   },
-  "played_at": "2026-07-27T01:21:40.884Z"
+  "played_at": "2026-07-27T15:24:44.663Z"
 }
