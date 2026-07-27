@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T21:57:29.248Z",
+  "updated_at": "2026-07-27T02:44:04.561Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -17731,6 +17731,220 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018",
       "uri": "spotify:track:5RKQ5NdjSh2QzD4MaunT91",
       "duration_ms": 249600
+    },
+    {
+      "played_at": "2026-07-26T16:25:25.736Z",
+      "name": "Zombie - 2025 Remastered",
+      "artists": [
+        "The Cranberries"
+      ],
+      "album": "No Need To Argue (2025 Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+      "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+      "duration_ms": 305626
+    },
+    {
+      "played_at": "2026-07-26T23:56:26.281Z",
+      "name": "Your Love",
+      "artists": [
+        "The Outfield"
+      ],
+      "album": "Play Deep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ffaeb2f6c1acc0ed7180929a",
+      "uri": "spotify:track:0WoFs3EdGOx58yX5BtXvOa",
+      "duration_ms": 223458
+    },
+    {
+      "played_at": "2026-07-27T00:00:52.779Z",
+      "name": "Noblest Strive",
+      "artists": [
+        "Bladee"
+      ],
+      "album": "333",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+      "uri": "spotify:track:4qA6oEXpK6NlmLG37PiABi",
+      "duration_ms": 134893
+    },
+    {
+      "played_at": "2026-07-27T00:04:05.281Z",
+      "name": "National Anthem",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
+      "duration_ms": 230520
+    },
+    {
+      "played_at": "2026-07-27T00:05:52.925Z",
+      "name": "Take You Out",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Take You Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732b17bd205f4d7fbebc9be09d",
+      "uri": "spotify:track:0cGjUnkLjOBqFCF8YYuoUA",
+      "duration_ms": 89000
+    },
+    {
+      "played_at": "2026-07-27T00:07:38.057Z",
+      "name": "patchmade",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:2RH68g2fChiOIhIxT0HfYP",
+      "duration_ms": 112848
+    },
+    {
+      "played_at": "2026-07-27T00:11:18.559Z",
+      "name": "Something In The Way",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
+      "duration_ms": 232146
+    },
+    {
+      "played_at": "2026-07-27T00:15:01.764Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-07-27T00:16:41.009Z",
+      "name": "Roi - Instrumental Slowed",
+      "artists": [
+        "Mckyyy"
+      ],
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737655d2dbe3a254cba972db9c",
+      "uri": "spotify:track:2Y1kGjAic94r4tEohhSDZ4",
+      "duration_ms": 92589
+    },
+    {
+      "played_at": "2026-07-27T01:00:20.935Z",
+      "name": "Gently (feat. Bad Bunny)",
+      "artists": [
+        "Drake",
+        "Bad Bunny"
+      ],
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "uri": "spotify:track:6ZprqcYFC6D9eIZaCoqrSn",
+      "duration_ms": 133694
+    },
+    {
+      "played_at": "2026-07-27T01:02:16.794Z",
+      "name": "Wokeup",
+      "artists": [
+        "Kankan"
+      ],
+      "album": "Wokeup",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+      "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+      "duration_ms": 115347
+    },
+    {
+      "played_at": "2026-07-27T01:04:01.973Z",
+      "name": "TIMELESS - SUPER SLOWED",
+      "artists": [
+        "YXMI",
+        "evrywxre"
+      ],
+      "album": "TIMELESS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac378f5aa0dc84e13db45c32",
+      "uri": "spotify:track:16jvrQDSRX0BfEwkdyVuhk",
+      "duration_ms": 104727
+    },
+    {
+      "played_at": "2026-07-27T01:05:18.332Z",
+      "name": "IN THE H3ART #HARDSTYLE - slowed",
+      "artists": [
+        "AD0RKEN",
+        "wintr"
+      ],
+      "album": "IN THE H3ART #HARDSTYLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a788704826cfe1e2d05566a",
+      "uri": "spotify:track:4lTAzBnaUjRp9g8tdeDOui",
+      "duration_ms": 75880
+    },
+    {
+      "played_at": "2026-07-27T01:08:17.663Z",
+      "name": "Night , Blooming Jasmine .",
+      "artists": [
+        "fakemink"
+      ],
+      "album": "Night , Blooming Jasmine .",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
+      "uri": "spotify:track:4WKUmjoUeYkzyoEvTbiVdW",
+      "duration_ms": 178868
+    },
+    {
+      "played_at": "2026-07-27T01:10:29.907Z",
+      "name": "Sun Down, I'm Up - Slowed & Reverb",
+      "artists": [
+        "Lil Yawh",
+        "Cryjng"
+      ],
+      "album": "Sun Down, I'm Up (Slowed & Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
+      "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
+      "duration_ms": 131783
+    },
+    {
+      "played_at": "2026-07-27T01:12:25.599Z",
+      "name": "Sun Down, I'm Up",
+      "artists": [
+        "Lil Yawh",
+        "Cryjng"
+      ],
+      "album": "Sun Down, I'm Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fe5b2db5107a8a3791ba0bd",
+      "uri": "spotify:track:3H55CCf05tqTMGUG9Bm2ug",
+      "duration_ms": 115226
+    },
+    {
+      "played_at": "2026-07-27T01:16:39.994Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-07-27T01:20:32.686Z",
+      "name": "Choosin' Texas",
+      "artists": [
+        "Ella Langley"
+      ],
+      "album": "Choosin' Texas",
+      "image": "https://i.scdn.co/image/ab67616d0000b27390958927fbba47a62c3e63f8",
+      "uri": "spotify:track:65DbTqJKhbwqYbZ1Okr0rc",
+      "duration_ms": 232226
+    },
+    {
+      "played_at": "2026-07-27T01:21:40.884Z",
+      "name": "too deep",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "too deep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
+      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
+      "duration_ms": 67745
     }
   ]
 }
