@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T16:55:39.069Z",
+  "updated_at": "2026-07-27T19:24:28.150Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18102,6 +18102,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273860777880cc7f0e93ff4dfd3",
       "uri": "spotify:track:35HL0U88chLbJSOzG4O6vV",
       "duration_ms": 192000
+    },
+    {
+      "played_at": "2026-07-27T15:30:31.482Z",
+      "name": "Escalator",
+      "artists": [
+        "pathetic240px"
+      ],
+      "album": "Escalator",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6920a2cb068dc0748080df5",
+      "uri": "spotify:track:0HuFhVBMb4Ahpcw2IyFWHF",
+      "duration_ms": 215076
+    },
+    {
+      "played_at": "2026-07-27T17:44:17.824Z",
+      "name": "i love u. (ultra slowed)",
+      "artists": [
+        "wiv"
+      ],
+      "album": "quiet disappearance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
+      "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
+      "duration_ms": 170008
+    },
+    {
+      "played_at": "2026-07-27T17:46:53.745Z",
+      "name": "come with me - slowed + reverb",
+      "artists": [
+        "wiv"
+      ],
+      "album": "come with me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a3fab3233e447d71637a1cd",
+      "uri": "spotify:track:4dWhMdakBb6Z6pJsKsPZoD",
+      "duration_ms": 133892
+    },
+    {
+      "played_at": "2026-07-27T17:48:57.514Z",
+      "name": "three (slowed)",
+      "artists": [
+        "Cult Member Archive"
+      ],
+      "album": "three (remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f22c01ec6782368bf5af5cb1",
+      "uri": "spotify:track:4Rzsg8KRcoWrjHsNlpsUkO",
+      "duration_ms": 70700
+    },
+    {
+      "played_at": "2026-07-27T17:51:17.663Z",
+      "name": "Turn Echo",
+      "artists": [
+        "Kaikobad"
+      ],
+      "album": "Turn Echo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b9bb9d2d3ef779ec2f5310d",
+      "uri": "spotify:track:2OebX2MtFyVAASVHDmzinj",
+      "duration_ms": 139672
+    },
+    {
+      "played_at": "2026-07-27T18:52:15.357Z",
+      "name": "i love u. - slowed + reverb",
+      "artists": [
+        "wiv"
+      ],
+      "album": "i love u. (extras)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e57698883e7259c2218dd1f3",
+      "uri": "spotify:track:1gCpf5jhAqegPJeXG0BCn5",
+      "duration_ms": 132639
+    },
+    {
+      "played_at": "2026-07-27T18:53:17.763Z",
+      "name": "three",
+      "artists": [
+        "Cult Member"
+      ],
+      "album": "2017 Archives",
+      "image": "https://i.scdn.co/image/ab67616d0000b27394d783d7c1d720b7c3bb2fe3",
+      "uri": "spotify:track:0YvtuzxqHtn4f5cEQnBKJC",
+      "duration_ms": 60952
+    },
+    {
+      "played_at": "2026-07-27T18:57:25.286Z",
+      "name": "Clouds",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:4hrxPxnI4hCZdUusjcGaXh",
+      "duration_ms": 247000
     }
   ]
 }
