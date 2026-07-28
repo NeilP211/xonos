@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T16:39:13.942Z",
+  "updated_at": "2026-07-28T19:19:50.690Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18348,6 +18348,110 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730f81ed1bf84b3585a8492d3d",
       "uri": "spotify:track:4f0D7T8yswXUJ62AKLoMtS",
       "duration_ms": 505453
+    },
+    {
+      "played_at": "2026-07-28T18:29:09.228Z",
+      "name": "Fables of Faubus",
+      "artists": [
+        "Charles Mingus"
+      ],
+      "album": "Mingus Ah Um",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346ae4364de12380a77ebfd20",
+      "uri": "spotify:track:5RWzKLxXVzkJQ702yWfp1w",
+      "duration_ms": 493866
+    },
+    {
+      "played_at": "2026-07-28T18:31:18.229Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-07-28T18:35:31.424Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-07-28T18:38:51.599Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-07-28T18:47:18.680Z",
+      "name": "Waste my time",
+      "artists": [
+        "avoidaleaks"
+      ],
+      "album": "Waste my time",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735205413a768e6e8909c89bf4",
+      "uri": "spotify:track:51lJwcl6tIHkaFppSIVJMK",
+      "duration_ms": 133504
+    },
+    {
+      "played_at": "2026-07-28T18:50:38.232Z",
+      "name": "Yugoslavskiy Groove - Slowed + Reverb",
+      "artists": [
+        "Xodyl"
+      ],
+      "album": "Yugoslavskiy Groove (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393399152c93440efa3468c60",
+      "uri": "spotify:track:43m1AxHLrKA6ALZQM6PJyM",
+      "duration_ms": 67200
+    },
+    {
+      "played_at": "2026-07-28T18:54:14.917Z",
+      "name": "BABYDOLL",
+      "artists": [
+        "Ari Abdul"
+      ],
+      "album": "BABYDOLL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ef2703ce223d63435928571",
+      "uri": "spotify:track:5rPNVwYjVEgkq6YNPki4Zc",
+      "duration_ms": 196235
+    },
+    {
+      "played_at": "2026-07-28T18:58:31.390Z",
+      "name": "Love Potions Slowed and Reverbed",
+      "artists": [
+        "BJ Lips",
+        "princess paparazzi",
+        "BJ Lips HDD"
+      ],
+      "album": "Love Potions Slowed and Reverbed",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732aa489a08de8784ad572cacc",
+      "uri": "spotify:track:3RAtQezT066Fhi2NC0VDNZ",
+      "duration_ms": 207567
+    },
+    {
+      "played_at": "2026-07-28T19:00:18.394Z",
+      "name": "run run run",
+      "artists": [
+        "rebug"
+      ],
+      "album": "run run run",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+      "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+      "duration_ms": 79464
     }
   ]
 }
