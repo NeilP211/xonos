@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T05:44:36.738Z",
+  "generated_at": "2026-07-28T08:30:44.754Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1204,6 +1204,18 @@
         },
         {
           "rank": 15,
+          "name": "Team",
+          "artists": [
+            "Lorde"
+          ],
+          "album": "Pure Heroine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
+          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
+          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
+          "duration_ms": 193058
+        },
+        {
+          "rank": 16,
           "name": "Electronic Heart - Slowed",
           "artists": [
             "NIVEK FFORHS"
@@ -1215,7 +1227,7 @@
           "duration_ms": 235839
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -1228,7 +1240,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Mesytara",
           "artists": [
             "Lamis Kan"
@@ -1240,7 +1252,7 @@
           "duration_ms": 167688
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Wherever I May Roam - Remastered 2021",
           "artists": [
             "Metallica"
@@ -1252,7 +1264,7 @@
           "duration_ms": 404333
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Lose It",
           "artists": [
             "Ken Carson"
@@ -1262,18 +1274,6 @@
           "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
           "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz",
           "duration_ms": 140811
-        },
-        {
-          "rank": 20,
-          "name": "Team",
-          "artists": [
-            "Lorde"
-          ],
-          "album": "Pure Heroine",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
-          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
-          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
-          "duration_ms": 193058
         },
         {
           "rank": 21,
@@ -1302,6 +1302,18 @@
         },
         {
           "rank": 23,
+          "name": "Glamorous",
+          "artists": [
+            "Hospital"
+          ],
+          "album": "Glamorous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
+          "duration_ms": 128509
+        },
+        {
+          "rank": 24,
           "name": "fatman",
           "artists": [
             "boolymon"
@@ -1313,7 +1325,7 @@
           "duration_ms": 90426
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -1325,7 +1337,7 @@
           "duration_ms": 194951
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "B2b",
           "artists": [
             "Charli xcx"
@@ -1337,7 +1349,7 @@
           "duration_ms": 178579
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -1349,7 +1361,7 @@
           "duration_ms": 188095
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -1361,7 +1373,7 @@
           "duration_ms": 132456
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -1373,7 +1385,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1385,7 +1397,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1397,7 +1409,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Vlone - Super Slowed Hardcore Remix",
           "artists": [
             "tapzen"
@@ -1409,7 +1421,7 @@
           "duration_ms": 156894
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -1421,7 +1433,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1433,7 +1445,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -1445,7 +1457,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -1455,18 +1467,6 @@
           "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
           "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
           "duration_ms": 130677
-        },
-        {
-          "rank": 36,
-          "name": "Glamorous",
-          "artists": [
-            "Hospital"
-          ],
-          "album": "Glamorous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
-          "duration_ms": 128509
         },
         {
           "rank": 37,
@@ -1998,6 +1998,14 @@
         },
         {
           "rank": 45,
+          "name": "Snow Strippers",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
+          "genres": [],
+          "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "rank": 46,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -2005,7 +2013,7 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Ron Suno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf49a0886c7b50a9430cc79cc",
           "genres": [],
@@ -2013,7 +2021,7 @@
           "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
           "genres": [],
@@ -2021,7 +2029,7 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "The Chainsmokers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4567279fac84a0375c3d819b",
           "genres": [],
@@ -2029,20 +2037,12 @@
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "SugarHill Keem",
           "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
           "genres": [],
           "uri": "spotify:artist:7DY7ygEiVKNki7ZIPnZoNB",
           "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
-        },
-        {
-          "rank": 50,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ]
     },
