@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-27T22:04:36.231Z",
+  "updated_at": "2026-07-28T02:23:40.321Z",
   "is_playing": false,
   "track": {
-    "name": "Yugoslavskiy Groove - Slowed + Reverb",
+    "name": "Snow On The Beach (feat. More Lana Del Rey)",
     "artists": [
-      "Xodyl"
+      "Taylor Swift",
+      "Lana Del Rey"
     ],
-    "album": "Yugoslavskiy Groove (Slowed + Reverb)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27393399152c93440efa3468c60",
-    "uri": "spotify:track:43m1AxHLrKA6ALZQM6PJyM"
+    "album": "Midnights (The Til Dawn Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+    "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot"
   },
-  "played_at": "2026-07-27T21:57:58.491Z"
+  "played_at": "2026-07-28T00:04:43.527Z"
 }

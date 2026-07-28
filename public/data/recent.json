@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T22:04:36.023Z",
+  "updated_at": "2026-07-28T02:23:40.205Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18224,6 +18224,108 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27393399152c93440efa3468c60",
       "uri": "spotify:track:43m1AxHLrKA6ALZQM6PJyM",
       "duration_ms": 67200
+    },
+    {
+      "played_at": "2026-07-27T22:01:37.164Z",
+      "name": "Fright Night - Ultra Slowed+Reverb",
+      "artists": [
+        "Royal Records"
+      ],
+      "album": "Fright Night",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a15e4a583ba1d44517beebf6",
+      "uri": "spotify:track:1rK7EgsWzUppeGT49bBp8c",
+      "duration_ms": 171052
+    },
+    {
+      "played_at": "2026-07-27T22:33:53.401Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-07-27T22:39:51.177Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-07-27T22:42:00.691Z",
+      "name": "Haunted",
+      "artists": [
+        "Laura Les"
+      ],
+      "album": "Haunted",
+      "image": "https://i.scdn.co/image/ab67616d0000b273469decd59db9e3c542dcf1e9",
+      "uri": "spotify:track:1toNKayLMeCcVlsLGXJl7n",
+      "duration_ms": 102007
+    },
+    {
+      "played_at": "2026-07-27T23:21:47.626Z",
+      "name": "STUPID GIRL",
+      "artists": [
+        "Boy Fantasy"
+      ],
+      "album": "STUPID GIRL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737735f113ac1b3b7703645f83",
+      "uri": "spotify:track:2OoGJQ9V1oUrpuato3EqXI",
+      "duration_ms": 103503
+    },
+    {
+      "played_at": "2026-07-27T23:25:28.554Z",
+      "name": "Team",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
+      "duration_ms": 193058
+    },
+    {
+      "played_at": "2026-07-27T23:28:47.915Z",
+      "name": "Tennis Court",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
+      "duration_ms": 198907
+    },
+    {
+      "played_at": "2026-07-27T23:32:49.777Z",
+      "name": "Living Legend",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Blue Banisters",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
+      "uri": "spotify:track:6pZ9Nj3vzj1RW4ZkR9GcQ9",
+      "duration_ms": 241426
+    },
+    {
+      "played_at": "2026-07-28T00:04:43.527Z",
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "artists": [
+        "Taylor Swift",
+        "Lana Del Rey"
+      ],
+      "album": "Midnights (The Til Dawn Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+      "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot",
+      "duration_ms": 229942
     }
   ]
 }
