@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T02:27:59.103Z",
+  "updated_at": "2026-07-29T05:50:38.255Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18452,6 +18452,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
       "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
       "duration_ms": 79464
+    },
+    {
+      "played_at": "2026-07-29T02:57:53.578Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-07-29T02:58:53.037Z",
+      "name": "Velvet Ring",
+      "artists": [
+        "Big Thief"
+      ],
+      "album": "Masterpiece",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
+      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
+      "duration_ms": 155938
     }
   ]
 }
