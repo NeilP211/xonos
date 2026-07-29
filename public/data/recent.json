@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:12:40.452Z",
+  "updated_at": "2026-07-29T21:59:12.382Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18474,6 +18474,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
       "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
       "duration_ms": 155938
+    },
+    {
+      "played_at": "2026-07-29T12:56:03.016Z",
+      "name": "Clouds",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:4hrxPxnI4hCZdUusjcGaXh",
+      "duration_ms": 247000
+    },
+    {
+      "played_at": "2026-07-29T20:57:18.432Z",
+      "name": "صراط الله",
+      "artists": [
+        "مجتبى الكعبي"
+      ],
+      "album": "كولكشن 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391261b7720fbe09183b27f7a",
+      "uri": "spotify:track:4iM2WMKSBDHeNT02P8zkb3",
+      "duration_ms": 391186
     }
   ]
 }
