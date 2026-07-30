@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:09:53.168Z",
+  "generated_at": "2026-07-30T05:39:00.806Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2825,19 +2825,19 @@
         },
         {
           "rank": 22,
-          "name": "fakemink",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfea7ad1b3bc4a7f94234bd1c",
-          "genres": [],
-          "uri": "spotify:artist:0qc4BFxcwRFZfevTck4fOi",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        },
-        {
-          "rank": 23,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 23,
+          "name": "fakemink",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfea7ad1b3bc4a7f94234bd1c",
+          "genres": [],
+          "uri": "spotify:artist:0qc4BFxcwRFZfevTck4fOi",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
         },
         {
           "rank": 24,
