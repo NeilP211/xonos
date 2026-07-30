@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:59:12.382Z",
+  "updated_at": "2026-07-30T02:09:53.303Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18496,6 +18496,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27391261b7720fbe09183b27f7a",
       "uri": "spotify:track:4iM2WMKSBDHeNT02P8zkb3",
       "duration_ms": 391186
+    },
+    {
+      "played_at": "2026-07-29T20:58:30.631Z",
+      "name": "жених и невеста",
+      "artists": [
+        "DJ ZUP RAlii",
+        "akkiemi"
+      ],
+      "album": "жених и невеста",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
+      "uri": "spotify:track:5Rwg5jc2kNLSuaHpCOLjq1",
+      "duration_ms": 122884
     }
   ]
 }
