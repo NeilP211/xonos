@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T13:55:01.166Z",
+  "updated_at": "2026-07-30T16:25:00.859Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18519,6 +18519,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273695c10ee628c7c3c6881983e",
       "uri": "spotify:track:5HVlfkBAzYwrtXMgxJQdxO",
       "duration_ms": 163040
+    },
+    {
+      "played_at": "2026-07-30T14:18:07.169Z",
+      "name": "Wannabe IShowSpeed (Whiteboyem Diss Track)",
+      "artists": [
+        "Lil T"
+      ],
+      "album": "Wannabe IShowSpeed (Whiteboyem Diss Track)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f89cbd5358e33f79f752cbc1",
+      "uri": "spotify:track:2psOfBMszQKhkwUSZyzlBS",
+      "duration_ms": 128082
+    },
+    {
+      "played_at": "2026-07-30T15:30:08.227Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-07-30T15:36:23.292Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
     }
   ]
 }
