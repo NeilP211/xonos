@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T19:22:26.440Z",
+  "updated_at": "2026-07-30T22:03:51.192Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18577,6 +18577,108 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
       "uri": "spotify:track:5Rwg5jc2kNLSuaHpCOLjq1",
       "duration_ms": 122884
+    },
+    {
+      "played_at": "2026-07-30T19:40:51.306Z",
+      "name": "Where Are Ü Now (with Justin Bieber)",
+      "artists": [
+        "Jack Ü",
+        "Skrillex",
+        "Diplo",
+        "Justin Bieber"
+      ],
+      "album": "Skrillex and Diplo present Jack Ü",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+      "duration_ms": 250285
+    },
+    {
+      "played_at": "2026-07-30T19:42:19.396Z",
+      "name": "شلونه شلونه",
+      "artists": [
+        "ساريه السواس"
+      ],
+      "album": "شلونه شلونه",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb65f8c690a0647f4c5100c2",
+      "uri": "spotify:track:7KKPaeAHhAe5qPDsRrQDrW",
+      "duration_ms": 348550
+    },
+    {
+      "played_at": "2026-07-30T21:32:58.531Z",
+      "name": "Back In Black",
+      "artists": [
+        "AC/DC"
+      ],
+      "album": "Back In Black",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+      "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj",
+      "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-07-30T21:39:48.643Z",
+      "name": "My Friend of Misery (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:6e9oTF6tSrSReHI6IcHZef",
+      "duration_ms": 409666
+    },
+    {
+      "played_at": "2026-07-30T21:44:41.473Z",
+      "name": "Thunderstruck",
+      "artists": [
+        "AC/DC"
+      ],
+      "album": "The Razors Edge",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2",
+      "uri": "spotify:track:57bgtoPSgt236HzfBOd8kj",
+      "duration_ms": 292333
+    },
+    {
+      "played_at": "2026-07-30T21:50:30.676Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-07-30T21:52:58.995Z",
+      "name": "Wait and Bleed",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "Slipknot",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381e0d9617e70d75e7ae11fa6",
+      "uri": "spotify:track:15DLl1r2zi07Ssq5RT1yT0",
+      "duration_ms": 147840
+    },
+    {
+      "played_at": "2026-07-30T21:56:17.822Z",
+      "name": "Ice Cream Man - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:2TXzXJWWzESQq5glbDtZc9",
+      "duration_ms": 198373
+    },
+    {
+      "played_at": "2026-07-30T21:59:53.513Z",
+      "name": "Attaining Heaven By Force",
+      "artists": [
+        "Doomsday"
+      ],
+      "album": "Attaining Heaven By Force",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f65bbde9e5f5efcd6eb990e",
+      "uri": "spotify:track:3cAAtbHEN4ebQx10k2WarA",
+      "duration_ms": 215215
     }
   ]
 }

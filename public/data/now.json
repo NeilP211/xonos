@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-30T19:22:26.558Z",
-  "is_playing": false,
+  "updated_at": "2026-07-30T22:03:51.375Z",
+  "is_playing": true,
   "track": {
-    "name": "жених и невеста",
+    "name": "Harvester of Sorrow (Remastered)",
     "artists": [
-      "DJ ZUP RAlii",
-      "akkiemi"
+      "Metallica"
     ],
-    "album": "жених и невеста",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
-    "uri": "spotify:track:5Rwg5jc2kNLSuaHpCOLjq1"
+    "album": "...And Justice for All (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
+    "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu"
   },
-  "played_at": "2026-07-30T18:17:42.934Z"
+  "played_at": "2026-07-30T22:03:51.375Z"
 }
