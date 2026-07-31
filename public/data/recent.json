@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T19:21:08.504Z",
+  "updated_at": "2026-07-31T22:03:40.413Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18825,6 +18825,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
       "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
       "duration_ms": 299258
+    },
+    {
+      "played_at": "2026-07-31T20:13:02.312Z",
+      "name": "LOLI",
+      "artists": [
+        "vers1zee"
+      ],
+      "album": "LOLI",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7eb5ab99d356e5ae7bc00d8",
+      "uri": "spotify:track:75nqfcGngF3ElOCVUjBq6W",
+      "duration_ms": 133161
+    },
+    {
+      "played_at": "2026-07-31T20:19:20.124Z",
+      "name": "Pink Champagne Lana",
+      "artists": [
+        "LNA43"
+      ],
+      "album": "Pink Champagne Lana",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+      "duration_ms": 359336
+    },
+    {
+      "played_at": "2026-07-31T20:22:33.706Z",
+      "name": "Nicotine - Slowed + Reverb",
+      "artists": [
+        "CUPREOUS",
+        "DJ WESSTAG"
+      ],
+      "album": "Nicotine (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736de022c2c7c5467a4369a4a2",
+      "uri": "spotify:track:09dt7MaJ77Nl0ob9NNs1PP",
+      "duration_ms": 170790
     }
   ]
 }
