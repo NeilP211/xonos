@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T22:03:51.375Z",
-  "is_playing": true,
+  "updated_at": "2026-07-31T02:37:52.297Z",
+  "is_playing": false,
   "track": {
-    "name": "Harvester of Sorrow (Remastered)",
+    "name": "μajesbeedle",
     "artists": [
-      "Metallica"
+      "Carlos Esmeralda Jalapeño"
     ],
-    "album": "...And Justice for All (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
-    "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu"
+    "album": "Demo",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738dcfaa805d528ca1447b5741",
+    "uri": "spotify:track:6aE3lMXOqo0DHetdjG7o6V"
   },
-  "played_at": "2026-07-30T22:03:51.375Z"
+  "played_at": "2026-07-30T22:41:00.313Z"
 }
