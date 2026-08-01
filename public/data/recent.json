@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:16:51.568Z",
+  "updated_at": "2026-08-01T15:58:53.077Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -18859,6 +18859,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736de022c2c7c5467a4369a4a2",
       "uri": "spotify:track:09dt7MaJ77Nl0ob9NNs1PP",
       "duration_ms": 170790
+    },
+    {
+      "played_at": "2026-08-01T02:17:16.602Z",
+      "name": "3la Bali",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "Lazem A3eesh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+      "uri": "spotify:track:05nDuLXu5ejNOM05LNbS8a",
+      "duration_ms": 279457
     }
   ]
 }
