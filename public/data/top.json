@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:03:40.247Z",
+  "generated_at": "2026-08-01T02:36:32.639Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1264,6 +1264,18 @@
         },
         {
           "rank": 20,
+          "name": "شلونه شلونه",
+          "artists": [
+            "ساريه السواس"
+          ],
+          "album": "شلونه شلونه",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b16a84401b61f988f3972083",
+          "uri": "spotify:track:1G2E4WufQHK8xVN5VD6dzN",
+          "url": "https://open.spotify.com/track/1G2E4WufQHK8xVN5VD6dzN",
+          "duration_ms": 348622
+        },
+        {
+          "rank": 21,
           "name": "Lose It",
           "artists": [
             "Ken Carson"
@@ -1275,7 +1287,7 @@
           "duration_ms": 140811
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Love Me Like You Do",
           "artists": [
             "Ellie Goulding"
@@ -1287,7 +1299,19 @@
           "duration_ms": 253520
         },
         {
-          "rank": 22,
+          "rank": 23,
+          "name": "Ya Layaly",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "Ana Kteer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
+          "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
+          "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
+          "duration_ms": 299258
+        },
+        {
+          "rank": 24,
           "name": "Kifek 3A Fra2e",
           "artists": [
             "Fadel Chaker",
@@ -1300,19 +1324,7 @@
           "duration_ms": 228236
         },
         {
-          "rank": 23,
-          "name": "شلونه شلونه",
-          "artists": [
-            "ساريه السواس"
-          ],
-          "album": "شلونه شلونه",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b16a84401b61f988f3972083",
-          "uri": "spotify:track:1G2E4WufQHK8xVN5VD6dzN",
-          "url": "https://open.spotify.com/track/1G2E4WufQHK8xVN5VD6dzN",
-          "duration_ms": 348622
-        },
-        {
-          "rank": 24,
+          "rank": 25,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -1324,7 +1336,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "fatman",
           "artists": [
             "boolymon"
@@ -1336,7 +1348,7 @@
           "duration_ms": 90426
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -1348,7 +1360,7 @@
           "duration_ms": 194951
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -1361,7 +1373,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "B2b",
           "artists": [
             "Charli xcx"
@@ -1373,7 +1385,7 @@
           "duration_ms": 178579
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -1385,7 +1397,7 @@
           "duration_ms": 188095
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -1397,7 +1409,7 @@
           "duration_ms": 132456
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -1409,7 +1421,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1419,18 +1431,6 @@
           "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
           "url": "https://open.spotify.com/track/5CBekqMfv1B1FF8Fp6RIOW",
           "duration_ms": 77005
-        },
-        {
-          "rank": 33,
-          "name": "Ya Layaly",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "Ana Kteer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
-          "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
-          "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
-          "duration_ms": 299258
         },
         {
           "rank": 34,
@@ -1506,6 +1506,18 @@
         },
         {
           "rank": 40,
+          "name": "Pink Champagne Lana",
+          "artists": [
+            "LNA43"
+          ],
+          "album": "Pink Champagne Lana",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
+          "duration_ms": 359336
+        },
+        {
+          "rank": 41,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1517,7 +1529,7 @@
           "duration_ms": 230533
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1529,7 +1541,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -1542,7 +1554,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1554,7 +1566,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Motamkena",
           "artists": [
             "Lamis Kan"
@@ -1566,7 +1578,7 @@
           "duration_ms": 158376
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "دبكات زمر",
           "artists": [
             "احمد ابراهيم"
@@ -1578,7 +1590,7 @@
           "duration_ms": 167590
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1590,7 +1602,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1602,7 +1614,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -1616,7 +1628,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -1629,18 +1641,6 @@
           "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
           "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
           "duration_ms": 250285
-        },
-        {
-          "rank": 50,
-          "name": "in china",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "huzz in the bay",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
-          "uri": "spotify:track:27LbXHWPshMVsgRebEmop2",
-          "url": "https://open.spotify.com/track/27LbXHWPshMVsgRebEmop2",
-          "duration_ms": 65061
         }
       ],
       "artists": [
