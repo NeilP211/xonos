@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:15:58.111Z",
+  "generated_at": "2026-08-02T15:58:49.275Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2638,6 +2638,19 @@
         },
         {
           "rank": 49,
+          "name": "lilacs - slowed",
+          "artists": [
+            "azrxel",
+            "abxddon"
+          ],
+          "album": "lilacs - slowed",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
+          "duration_ms": 70866
+        },
+        {
+          "rank": 50,
           "name": "White Mustang",
           "artists": [
             "Lana Del Rey"
@@ -2647,18 +2660,6 @@
           "uri": "spotify:track:6eygbzyL6hY8jFQTARDuo9",
           "url": "https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9",
           "duration_ms": 164710
-        },
-        {
-          "rank": 50,
-          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
-          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
-          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
-          "duration_ms": 203080
         }
       ],
       "artists": [
