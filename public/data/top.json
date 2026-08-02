@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T10:38:54.842Z",
+  "generated_at": "2026-08-02T13:15:58.111Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1217,6 +1217,19 @@
         },
         {
           "rank": 16,
+          "name": "lilacs - slowed",
+          "artists": [
+            "azrxel",
+            "abxddon"
+          ],
+          "album": "lilacs - slowed",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
+          "duration_ms": 70866
+        },
+        {
+          "rank": 17,
           "name": "Mesytara",
           "artists": [
             "Lamis Kan"
@@ -1228,7 +1241,7 @@
           "duration_ms": 167688
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -1241,7 +1254,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Wherever I May Roam - Remastered 2021",
           "artists": [
             "Metallica"
@@ -1251,19 +1264,6 @@
           "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
           "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
           "duration_ms": 404333
-        },
-        {
-          "rank": 19,
-          "name": "lilacs - slowed",
-          "artists": [
-            "azrxel",
-            "abxddon"
-          ],
-          "album": "lilacs - slowed",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
-          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
-          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
-          "duration_ms": 70866
         },
         {
           "rank": 20,
@@ -1437,6 +1437,18 @@
         },
         {
           "rank": 34,
+          "name": "Vlone - Super Slowed Hardcore Remix",
+          "artists": [
+            "tapzen"
+          ],
+          "album": "Vlone (Hardcore Remix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
+          "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
+          "url": "https://open.spotify.com/track/6LwBcLU3L2wDNAb0O160iS",
+          "duration_ms": 156894
+        },
+        {
+          "rank": 35,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -1449,18 +1461,6 @@
           "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
           "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
           "duration_ms": 250285
-        },
-        {
-          "rank": 35,
-          "name": "Vlone - Super Slowed Hardcore Remix",
-          "artists": [
-            "tapzen"
-          ],
-          "album": "Vlone (Hardcore Remix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
-          "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
-          "url": "https://open.spotify.com/track/6LwBcLU3L2wDNAb0O160iS",
-          "duration_ms": 156894
         },
         {
           "rank": 36,
@@ -1921,14 +1921,6 @@
         },
         {
           "rank": 35,
-          "name": "blackpilled",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb17e9dbfbc1f8fcd6682a151f",
-          "genres": [],
-          "uri": "spotify:artist:2Z0iKSuJ5jKErxhsFpLpXH",
-          "url": "https://open.spotify.com/artist/2Z0iKSuJ5jKErxhsFpLpXH"
-        },
-        {
-          "rank": 36,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
@@ -1936,12 +1928,20 @@
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
           "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm",
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "rank": 37,
+          "name": "blackpilled",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb17e9dbfbc1f8fcd6682a151f",
+          "genres": [],
+          "uri": "spotify:artist:2Z0iKSuJ5jKErxhsFpLpXH",
+          "url": "https://open.spotify.com/artist/2Z0iKSuJ5jKErxhsFpLpXH"
         },
         {
           "rank": 38,
