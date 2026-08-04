@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T11:21:42.023Z",
+  "updated_at": "2026-08-04T14:06:04.529Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -19530,6 +19530,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f178ef6a0e6c23f6330bd982",
       "uri": "spotify:track:5vCREmODQpdzOmcNOVsN6B",
       "duration_ms": 92589
+    },
+    {
+      "played_at": "2026-08-04T00:57:11.350Z",
+      "name": "Cry Kill Die",
+      "artists": [
+        "Cover Del Rey"
+      ],
+      "album": "Cry Kill Die",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d55ecee3de96463ab21fc678",
+      "uri": "spotify:track:0rtppp6KmG7ltU6TIhSrCp",
+      "duration_ms": 340055
     }
   ]
 }
