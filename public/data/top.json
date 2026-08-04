@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:07:03.327Z",
+  "generated_at": "2026-08-04T02:21:49.519Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -352,6 +352,30 @@
         },
         {
           "rank": 29,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
+        },
+        {
+          "rank": 30,
+          "name": "dj hazel dropsik - slowed + bass boosted",
+          "artists": [
+            "blackpilled"
+          ],
+          "album": "dj hazel dropsik (slowed + bass boosted)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c37eea363b5e2e620cb6778",
+          "uri": "spotify:track:4BXPS9LBv3vhFunlV1R980",
+          "url": "https://open.spotify.com/track/4BXPS9LBv3vhFunlV1R980",
+          "duration_ms": 102235
+        },
+        {
+          "rank": 31,
           "name": "UPAST - Ultra Slowed",
           "artists": [
             "HELLBLADE",
@@ -364,7 +388,7 @@
           "duration_ms": 108165
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "HALLUCINATION - Slowed",
           "artists": [
             "HUSSVRX",
@@ -375,30 +399,6 @@
           "uri": "spotify:track:6sRS0qa4WYyn6GT0fQxvs7",
           "url": "https://open.spotify.com/track/6sRS0qa4WYyn6GT0fQxvs7",
           "duration_ms": 143656
-        },
-        {
-          "rank": 31,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 32,
-          "name": "dj hazel dropsik - slowed + bass boosted",
-          "artists": [
-            "blackpilled"
-          ],
-          "album": "dj hazel dropsik (slowed + bass boosted)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c37eea363b5e2e620cb6778",
-          "uri": "spotify:track:4BXPS9LBv3vhFunlV1R980",
-          "url": "https://open.spotify.com/track/4BXPS9LBv3vhFunlV1R980",
-          "duration_ms": 102235
         },
         {
           "rank": 33,
@@ -415,19 +415,6 @@
         },
         {
           "rank": 34,
-          "name": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
-          "artists": [
-            "snort.",
-            "SAPFIR"
-          ],
-          "album": "GUTS RAGE. (Berserk x HOLLY TEST Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27343762e371f87c398d5c31d5a",
-          "uri": "spotify:track:7hvVdfhch3IUZLtrRrJ0SL",
-          "url": "https://open.spotify.com/track/7hvVdfhch3IUZLtrRrJ0SL",
-          "duration_ms": 138115
-        },
-        {
-          "rank": 35,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -439,7 +426,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "TIMELESS - SUPER SLOWED",
           "artists": [
             "YXMI",
@@ -450,6 +437,18 @@
           "uri": "spotify:track:16jvrQDSRX0BfEwkdyVuhk",
           "url": "https://open.spotify.com/track/16jvrQDSRX0BfEwkdyVuhk",
           "duration_ms": 104727
+        },
+        {
+          "rank": 36,
+          "name": "Your Love",
+          "artists": [
+            "The Outfield"
+          ],
+          "album": "Play Deep",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ffaeb2f6c1acc0ed7180929a",
+          "uri": "spotify:track:0WoFs3EdGOx58yX5BtXvOa",
+          "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa",
+          "duration_ms": 223458
         },
         {
           "rank": 37,
@@ -465,30 +464,6 @@
         },
         {
           "rank": 38,
-          "name": "MXRDER IN SHADOWMOOR - Ultra Slowed",
-          "artists": [
-            "XTFO"
-          ],
-          "album": "MXRDER IN SHADOWMOOR",
-          "image": "https://i.scdn.co/image/ab67616d0000b27311eb53da9bbd5c76954cf83f",
-          "uri": "spotify:track:3P1SqvxvUGN7CzSYuCI7Wg",
-          "url": "https://open.spotify.com/track/3P1SqvxvUGN7CzSYuCI7Wg",
-          "duration_ms": 154285
-        },
-        {
-          "rank": 39,
-          "name": "Your Love",
-          "artists": [
-            "The Outfield"
-          ],
-          "album": "Play Deep",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ffaeb2f6c1acc0ed7180929a",
-          "uri": "spotify:track:0WoFs3EdGOx58yX5BtXvOa",
-          "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa",
-          "duration_ms": 223458
-        },
-        {
-          "rank": 40,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -500,7 +475,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -512,7 +487,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -524,7 +499,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -537,7 +512,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -549,7 +524,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "жених и невеста",
           "artists": [
             "DJ ZUP RAlii",
@@ -562,7 +537,7 @@
           "duration_ms": 122884
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "UPAST",
           "artists": [
             "HELLBLADE",
@@ -575,7 +550,7 @@
           "duration_ms": 86095
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "тело - Sped Up",
           "artists": [
             "DJ ZUP RAlii"
@@ -587,7 +562,7 @@
           "duration_ms": 93081
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Nicotine - Slowed + Reverb",
           "artists": [
             "CUPREOUS",
@@ -600,7 +575,7 @@
           "duration_ms": 170790
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Sweet Home Alabama",
           "artists": [
             "Lynyrd Skynyrd"
@@ -612,7 +587,7 @@
           "duration_ms": 283800
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Goodbye (feat. Lyse) - Slow Version",
           "artists": [
             "Feder",
@@ -623,6 +598,30 @@
           "uri": "spotify:track:0Cp85ha3RN0FDytbku8nzq",
           "url": "https://open.spotify.com/track/0Cp85ha3RN0FDytbku8nzq",
           "duration_ms": 185173
+        },
+        {
+          "rank": 49,
+          "name": "Radio",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:0PZ04XgQ14FmKZBg3Gxlhr",
+          "url": "https://open.spotify.com/track/0PZ04XgQ14FmKZBg3Gxlhr",
+          "duration_ms": 214586
+        },
+        {
+          "rank": 50,
+          "name": "شلونه شلونه",
+          "artists": [
+            "ساريه السواس"
+          ],
+          "album": "شلونه شلونه",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b16a84401b61f988f3972083",
+          "uri": "spotify:track:1G2E4WufQHK8xVN5VD6dzN",
+          "url": "https://open.spotify.com/track/1G2E4WufQHK8xVN5VD6dzN",
+          "duration_ms": 348622
         }
       ],
       "artists": [
@@ -876,22 +875,6 @@
         },
         {
           "rank": 32,
-          "name": "EL$E",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb090cb0cbc5c203cd3249dbfa",
-          "genres": [],
-          "uri": "spotify:artist:36zaLvAR3hvPMtlSqgQs2i",
-          "url": "https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i"
-        },
-        {
-          "rank": 33,
-          "name": "PHANTANONIK",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb193390c551b07f71f253e664",
-          "genres": [],
-          "uri": "spotify:artist:3wq8O7jOmyvQqLCvOfLBio",
-          "url": "https://open.spotify.com/artist/3wq8O7jOmyvQqLCvOfLBio"
-        },
-        {
-          "rank": 34,
           "name": "NIVEK FFORHS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
           "genres": [],
@@ -899,7 +882,7 @@
           "url": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "wiv",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6322459df61bd6af4b46163",
           "genres": [],
@@ -907,7 +890,7 @@
           "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Punkinloveee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb61d746ebd85c2c4881665886",
           "genres": [],
@@ -915,15 +898,7 @@
           "url": "https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw"
         },
         {
-          "rank": 37,
-          "name": "juno",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc8fbc059b5baa6a8f4553e23",
-          "genres": [],
-          "uri": "spotify:artist:7BL9UhIyCdF12GbmLZAx1A",
-          "url": "https://open.spotify.com/artist/7BL9UhIyCdF12GbmLZAx1A"
-        },
-        {
-          "rank": 38,
+          "rank": 35,
           "name": "Guns N' Roses",
           "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
           "genres": [],
@@ -931,7 +906,7 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         },
         {
-          "rank": 39,
+          "rank": 36,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
           "genres": [],
@@ -939,7 +914,7 @@
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 40,
+          "rank": 37,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -947,7 +922,7 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 41,
+          "rank": 38,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -955,7 +930,7 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 42,
+          "rank": 39,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
           "genres": [],
@@ -963,7 +938,7 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 43,
+          "rank": 40,
           "name": "Red Hot Chili Peppers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
           "genres": [],
@@ -971,7 +946,7 @@
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         },
         {
-          "rank": 44,
+          "rank": 41,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -979,7 +954,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 45,
+          "rank": 42,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -987,7 +962,7 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 46,
+          "rank": 43,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
@@ -995,7 +970,7 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "rank": 47,
+          "rank": 44,
           "name": "Lynyrd Skynyrd",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3f02c2ff7ea1aa208e015f57",
           "genres": [],
@@ -1003,7 +978,7 @@
           "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         },
         {
-          "rank": 48,
+          "rank": 45,
           "name": "Midland",
           "image": "https://i.scdn.co/image/ab6761610000e5ebac726ae0d850d7d4f4dd694c",
           "genres": [],
@@ -1011,7 +986,7 @@
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         },
         {
-          "rank": 49,
+          "rank": 46,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -1019,12 +994,20 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 50,
+          "rank": 47,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 48,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ]
     },
