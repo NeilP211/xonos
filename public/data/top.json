@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T11:19:31.516Z",
+  "generated_at": "2026-08-05T14:03:57.179Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -340,18 +340,6 @@
         },
         {
           "rank": 28,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 29,
           "name": "dj hazel dropsik - slowed + bass boosted",
           "artists": [
             "blackpilled"
@@ -361,6 +349,19 @@
           "uri": "spotify:track:4BXPS9LBv3vhFunlV1R980",
           "url": "https://open.spotify.com/track/4BXPS9LBv3vhFunlV1R980",
           "duration_ms": 102235
+        },
+        {
+          "rank": 29,
+          "name": "жених и невеста",
+          "artists": [
+            "DJ ZUP RAlii",
+            "akkiemi"
+          ],
+          "album": "жених и невеста",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
+          "uri": "spotify:track:5Rwg5jc2kNLSuaHpCOLjq1",
+          "url": "https://open.spotify.com/track/5Rwg5jc2kNLSuaHpCOLjq1",
+          "duration_ms": 122884
         },
         {
           "rank": 30,
@@ -377,6 +378,18 @@
         },
         {
           "rank": 31,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
+        },
+        {
+          "rank": 32,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -388,7 +401,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "TIMELESS - SUPER SLOWED",
           "artists": [
             "YXMI",
@@ -401,7 +414,7 @@
           "duration_ms": 104727
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Your Love",
           "artists": [
             "The Outfield"
@@ -413,7 +426,7 @@
           "duration_ms": 223458
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Don't Stop Believin' (2022 Remaster)",
           "artists": [
             "Journey"
@@ -425,7 +438,7 @@
           "duration_ms": 249600
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -435,18 +448,6 @@
           "uri": "spotify:track:43m1AxHLrKA6ALZQM6PJyM",
           "url": "https://open.spotify.com/track/43m1AxHLrKA6ALZQM6PJyM",
           "duration_ms": 67200
-        },
-        {
-          "rank": 36,
-          "name": "Resonance - Slowed & Reverb",
-          "artists": [
-            "noturgf"
-          ],
-          "album": "Resonance (Slowed & Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
-          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
-          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
-          "duration_ms": 318169
         },
         {
           "rank": 37,
@@ -462,6 +463,18 @@
         },
         {
           "rank": 38,
+          "name": "Resonance - Slowed & Reverb",
+          "artists": [
+            "noturgf"
+          ],
+          "album": "Resonance (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
+          "duration_ms": 318169
+        },
+        {
+          "rank": 39,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -474,7 +487,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -486,20 +499,19 @@
           "duration_ms": 115347
         },
         {
-          "rank": 40,
-          "name": "жених и невеста",
+          "rank": 41,
+          "name": "RABENVATER - HARDTEKK - SLOWED",
           "artists": [
-            "DJ ZUP RAlii",
-            "akkiemi"
+            "blackpilled"
           ],
-          "album": "жених и невеста",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
-          "uri": "spotify:track:5Rwg5jc2kNLSuaHpCOLjq1",
-          "url": "https://open.spotify.com/track/5Rwg5jc2kNLSuaHpCOLjq1",
-          "duration_ms": 122884
+          "album": "RABENVATER (HARDTEKK - SLOWED)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730aa7f0c0372f0280623645f6",
+          "uri": "spotify:track:6B33N8RPaz8JiolTz0Q2DH",
+          "url": "https://open.spotify.com/track/6B33N8RPaz8JiolTz0Q2DH",
+          "duration_ms": 254379
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "mona lisa",
           "artists": [
             "Nettspend"
@@ -511,7 +523,7 @@
           "duration_ms": 111483
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "тело - Sped Up",
           "artists": [
             "DJ ZUP RAlii"
@@ -523,7 +535,7 @@
           "duration_ms": 93081
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Nicotine - Slowed + Reverb",
           "artists": [
             "CUPREOUS",
@@ -536,7 +548,7 @@
           "duration_ms": 170790
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Sweet Home Alabama",
           "artists": [
             "Lynyrd Skynyrd"
@@ -548,7 +560,7 @@
           "duration_ms": 283800
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Goodbye (feat. Lyse) - Slow Version",
           "artists": [
             "Feder",
@@ -561,7 +573,7 @@
           "duration_ms": 185173
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Radio",
           "artists": [
             "Lana Del Rey"
@@ -573,7 +585,7 @@
           "duration_ms": 214586
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -585,7 +597,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -597,7 +609,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Not You Too (feat. Chris Brown)",
           "artists": [
             "Drake",
@@ -608,21 +620,6 @@
           "uri": "spotify:track:3Q4gttWQ6hxqWOa3tHoTNi",
           "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi",
           "duration_ms": 269680
-        },
-        {
-          "rank": 50,
-          "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
-          "artists": [
-            "MC Mazzie",
-            "Mc Rd",
-            "DJ Wizard",
-            "DJ NpcSize"
-          ],
-          "album": "Saka Saka Saka Phonk Slowed + Reverb (Remix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732913996c1b145a9007f58e48",
-          "uri": "spotify:track:3Z7f8dudlMIlbKE3anuX0A",
-          "url": "https://open.spotify.com/track/3Z7f8dudlMIlbKE3anuX0A",
-          "duration_ms": 219036
         }
       ],
       "artists": [
