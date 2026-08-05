@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T02:21:49.322Z",
+  "updated_at": "2026-08-05T05:44:20.155Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -19640,6 +19640,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b9c4979446c4d39bc08e9503",
       "uri": "spotify:track:4S1VYqwfkLit9mKVY3MXoo",
       "duration_ms": 226706
+    },
+    {
+      "played_at": "2026-08-05T02:58:50.743Z",
+      "name": "The Sign",
+      "artists": [
+        "Ace of Base"
+      ],
+      "album": "The Sign",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
+      "uri": "spotify:track:0hrBpAOgrt8RXigk83LLNE",
+      "duration_ms": 191240
     }
   ]
 }
