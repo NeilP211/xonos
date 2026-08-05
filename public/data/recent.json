@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T22:09:24.505Z",
+  "updated_at": "2026-08-05T02:21:49.322Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -19541,6 +19541,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d55ecee3de96463ab21fc678",
       "uri": "spotify:track:0rtppp6KmG7ltU6TIhSrCp",
       "duration_ms": 340055
+    },
+    {
+      "played_at": "2026-08-04T23:52:37.800Z",
+      "name": "Down Under",
+      "artists": [
+        "Men At Work"
+      ],
+      "album": "Business As Usual",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+      "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi",
+      "duration_ms": 222320
+    },
+    {
+      "played_at": "2026-08-04T23:56:21.213Z",
+      "name": "Mr. Brightside",
+      "artists": [
+        "The Killers"
+      ],
+      "album": "Hot Fuss",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+      "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+      "duration_ms": 222973
+    },
+    {
+      "played_at": "2026-08-05T00:02:11.995Z",
+      "name": "Comatose",
+      "artists": [
+        "quannnic"
+      ],
+      "album": "Stepdream",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310de399e9c02ae7a4a61f9e9",
+      "uri": "spotify:track:0u0SIh7y7UopLQMFUvEhvp",
+      "duration_ms": 228916
+    },
+    {
+      "played_at": "2026-08-05T00:05:57.733Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-08-05T00:11:15.911Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-08-05T00:18:13.685Z",
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "artists": [
+        "Phil Collins"
+      ],
+      "album": "...But Seriously (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737624d538b596bfdf565184a6",
+      "uri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD",
+      "duration_ms": 322133
+    },
+    {
+      "played_at": "2026-08-05T00:22:28.109Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-08-05T00:26:47.259Z",
+      "name": "Smooth Operator - Single Version",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "uri": "spotify:track:1Hv1VTm8zeOeybub15mA2R",
+      "duration_ms": 258693
+    },
+    {
+      "played_at": "2026-08-05T00:30:34.433Z",
+      "name": "Forever Young",
+      "artists": [
+        "Alphaville"
+      ],
+      "album": "Forever Young",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b9c4979446c4d39bc08e9503",
+      "uri": "spotify:track:4S1VYqwfkLit9mKVY3MXoo",
+      "duration_ms": 226706
     }
   ]
 }
