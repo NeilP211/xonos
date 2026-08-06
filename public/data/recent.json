@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T14:03:08.025Z",
+  "updated_at": "2026-08-06T23:56:18.974Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -19811,6 +19811,186 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735799d0d5359f56c109fd93f4",
       "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
       "duration_ms": 391403
+    },
+    {
+      "played_at": "2026-08-06T20:25:48.703Z",
+      "name": "addiction - Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
+      "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
+      "duration_ms": 233480
+    },
+    {
+      "played_at": "2026-08-06T20:29:05.512Z",
+      "name": "Turn Echo (Slowed Version)",
+      "artists": [
+        "Kaikobad"
+      ],
+      "album": "Turn Echo (Slowed Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a0917ea37a84e6d0e20f4ec",
+      "uri": "spotify:track:0SfRur4asjqaySk55PftAA",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-08-06T20:31:14.274Z",
+      "name": "i love u.",
+      "artists": [
+        "wiv"
+      ],
+      "album": "i love u.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731ceb35636eb66fb8115a3443",
+      "uri": "spotify:track:44kZxZbdmhfr6sK4Bxkiv6",
+      "duration_ms": 122793
+    },
+    {
+      "played_at": "2026-08-06T20:48:49.741Z",
+      "name": "Untrust Us",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
+      "duration_ms": 186373
+    },
+    {
+      "played_at": "2026-08-06T20:52:19.762Z",
+      "name": "Memory Reboot",
+      "artists": [
+        "VØJ",
+        "Narvent"
+      ],
+      "album": "Memory Reboot",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738e04b5ec21c60f8745a435e5",
+      "uri": "spotify:track:1Q68oodivzKjIDnPTXFy83",
+      "duration_ms": 209416
+    },
+    {
+      "played_at": "2026-08-06T20:52:24.153Z",
+      "name": "this feeling",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "this feeling",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4cb02237ee42c602d2bb9f9",
+      "uri": "spotify:track:1r232i80xFiNHzSUmrFc01",
+      "duration_ms": 94333
+    },
+    {
+      "played_at": "2026-08-06T20:59:30.812Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-08-06T21:03:48.901Z",
+      "name": "Enjoy the Silence",
+      "artists": [
+        "Depeche Mode"
+      ],
+      "album": "Violator | The 12\" Singles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273972ac79d249efed1c7b2c8c1",
+      "uri": "spotify:track:0yp3TvJNlG50Q4tAHWNCRm",
+      "duration_ms": 257630
+    },
+    {
+      "played_at": "2026-08-06T21:07:12.706Z",
+      "name": "Sex on Fire",
+      "artists": [
+        "Kings of Leon"
+      ],
+      "album": "Only By The Night",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
+      "uri": "spotify:track:0ntQJM78wzOLVeCUAW7Y45",
+      "duration_ms": 203346
+    },
+    {
+      "played_at": "2026-08-06T21:09:50.692Z",
+      "name": "Boys Don't Cry - Single Version",
+      "artists": [
+        "The Cure"
+      ],
+      "album": "Three Imaginary Boys (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+      "uri": "spotify:track:4dneV7C1yDt9UtyxrQY375",
+      "duration_ms": 157533
+    },
+    {
+      "played_at": "2026-08-06T21:15:48.427Z",
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "artists": [
+        "The Verve"
+      ],
+      "album": "Urban Hymns (Remastered 2016)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273707d13d3f87652e737e94d45",
+      "uri": "spotify:track:57iDDD9N9tTWe75x6qhStw",
+      "duration_ms": 357266
+    },
+    {
+      "played_at": "2026-08-06T23:23:00.761Z",
+      "name": "Skins - Ultra Slowed + Reverb",
+      "artists": [
+        "KREZUS",
+        "Surreal_dvd"
+      ],
+      "album": "Skins (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364aca33327d55f8308ab85ab",
+      "uri": "spotify:track:4t3NJNTxDwlne22NHtUkAK",
+      "duration_ms": 306995
+    },
+    {
+      "played_at": "2026-08-06T23:26:54.698Z",
+      "name": "addiction - Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
+      "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
+      "duration_ms": 233480
+    },
+    {
+      "played_at": "2026-08-06T23:30:53.185Z",
+      "name": "wutiwant - SLOWD",
+      "artists": [
+        "saraunh0ly"
+      ],
+      "album": "wutuwant",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398f96551e4c468d48f48f3e3",
+      "uri": "spotify:track:6bxukxNnfPyph0sqhnGhpW",
+      "duration_ms": 106173
+    },
+    {
+      "played_at": "2026-08-06T23:34:56.607Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-08-06T23:39:35.908Z",
+      "name": "Void in Blue",
+      "artists": [
+        "Glare"
+      ],
+      "album": "Void in Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22",
+      "uri": "spotify:track:0eZjwNa0wGZSzsOnt4T2hG",
+      "duration_ms": 278822
     }
   ]
 }
