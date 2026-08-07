@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T23:56:18.974Z",
+  "updated_at": "2026-08-07T02:40:33.488Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -19991,6 +19991,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22",
       "uri": "spotify:track:0eZjwNa0wGZSzsOnt4T2hG",
       "duration_ms": 278822
+    },
+    {
+      "played_at": "2026-08-07T00:06:25.040Z",
+      "name": "Sea, Swallow Me",
+      "artists": [
+        "Cocteau Twins",
+        "Harold Budd"
+      ],
+      "album": "The Moon and the Melodies",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732bace4cf1388fa974fcdc14c",
+      "uri": "spotify:track:7vPHiwgCOAjSBRjAirbMvS",
+      "duration_ms": 189040
+    },
+    {
+      "played_at": "2026-08-07T00:09:17.861Z",
+      "name": "Warmpop",
+      "artists": [
+        "ESPRIT 空想",
+        "George Clanton"
+      ],
+      "album": "200% Electronica",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739bf7d13db51dfd26eb1e49b0",
+      "uri": "spotify:track:0Ubp7kMZ6MWZIL8qkloYub",
+      "duration_ms": 172374
+    },
+    {
+      "played_at": "2026-08-07T00:13:18.219Z",
+      "name": "Serpentskirt",
+      "artists": [
+        "Cocteau Twins"
+      ],
+      "album": "Milk & Kisses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
+      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
+      "duration_ms": 239920
+    },
+    {
+      "played_at": "2026-08-07T00:16:33.125Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-08-07T00:20:07.498Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
     }
   ]
 }
