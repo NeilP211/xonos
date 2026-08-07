@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T18:52:59.623Z",
+  "updated_at": "2026-08-07T21:36:45.348Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -20104,6 +20104,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
       "uri": "spotify:track:6ZprqcYFC6D9eIZaCoqrSn",
       "duration_ms": 133694
+    },
+    {
+      "played_at": "2026-08-07T18:14:36.225Z",
+      "name": "OK",
+      "artists": [
+        "FRANCIS JEREMY",
+        "CZeta",
+        "GloZula"
+      ],
+      "album": "TDF MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314eed996d84c6676dcee0eb4",
+      "uri": "spotify:track:3w7yYByy9IU6t7C5kpHBFL",
+      "duration_ms": 108169
     }
   ]
 }
