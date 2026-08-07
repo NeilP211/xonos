@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-07T15:53:51.063Z",
+  "updated_at": "2026-08-07T18:52:59.723Z",
   "is_playing": false,
   "track": {
-    "name": "God Church",
+    "name": "Gently (feat. Bad Bunny)",
     "artists": [
-      "Ricegum"
+      "Drake",
+      "Bad Bunny"
     ],
-    "album": "God Church",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
-    "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz"
+    "album": "For All The Dogs",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+    "uri": "spotify:track:6ZprqcYFC6D9eIZaCoqrSn"
   },
-  "played_at": "2026-08-07T15:39:11.273Z"
+  "played_at": "2026-08-07T18:14:13.745Z"
 }
