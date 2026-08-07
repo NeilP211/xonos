@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T12:58:03.854Z",
+  "updated_at": "2026-08-07T15:53:50.957Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -20048,6 +20048,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
       "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-07T00:33:27.611Z",
+      "name": "Zombie - 2025 Remastered",
+      "artists": [
+        "The Cranberries"
+      ],
+      "album": "No Need To Argue (2025 Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+      "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+      "duration_ms": 305626
+    },
+    {
+      "played_at": "2026-08-07T15:32:07.884Z",
+      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:6fybp4N6eW3bsFAvARxyVe",
+      "duration_ms": 227800
+    },
+    {
+      "played_at": "2026-08-07T15:36:25.020Z",
+      "name": "Team",
+      "artists": [
+        "Xavier Weeks"
+      ],
+      "album": "We All Gon Win",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344791e2a2c62c4934c1948f1",
+      "uri": "spotify:track:0TwclCfgNTwMnrC1QYmZHT",
+      "duration_ms": 150883
+    },
+    {
+      "played_at": "2026-08-07T15:39:11.273Z",
+      "name": "God Church",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "God Church",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
+      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
+      "duration_ms": 150622
     }
   ]
 }
