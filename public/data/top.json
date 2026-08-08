@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:42:25.884Z",
+  "generated_at": "2026-08-08T15:26:26.435Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2856,19 +2856,19 @@
         },
         {
           "rank": 31,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "rank": 32,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
           "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "rank": 32,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
           "rank": 33,

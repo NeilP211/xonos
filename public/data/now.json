@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-08-08T12:42:26.084Z",
+  "updated_at": "2026-08-08T15:26:26.728Z",
   "is_playing": false,
   "track": {
-    "name": "OK",
+    "name": "Mr. Crowley",
     "artists": [
-      "FRANCIS JEREMY",
-      "CZeta",
-      "GloZula"
+      "Ozzy Osbourne"
     ],
-    "album": "TDF MUSIC",
-    "image": "https://i.scdn.co/image/ab67616d0000b27314eed996d84c6676dcee0eb4",
-    "uri": "spotify:track:3w7yYByy9IU6t7C5kpHBFL"
+    "album": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734936b5b7caeb7524e50fd8cb",
+    "uri": "spotify:track:2ov8L95QD25TLpZAZPYWXL"
   },
-  "played_at": "2026-08-07T18:14:36.225Z"
+  "played_at": "2026-08-08T15:21:37.184Z"
 }
