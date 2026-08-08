@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:26:26.614Z",
+  "updated_at": "2026-08-08T18:33:43.282Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -20216,6 +20216,285 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734936b5b7caeb7524e50fd8cb",
       "uri": "spotify:track:2ov8L95QD25TLpZAZPYWXL",
       "duration_ms": 302647
+    },
+    {
+      "played_at": "2026-08-08T15:48:42.975Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-08-08T15:51:10.723Z",
+      "name": "Ain't That A Kick In The Head - Remastered 1997",
+      "artists": [
+        "Dean Martin"
+      ],
+      "album": "At The Movies",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d3ff72e140b46903b52765c",
+      "uri": "spotify:track:4qQ8sToR3GNossXlwSlyKz",
+      "duration_ms": 147293
+    },
+    {
+      "played_at": "2026-08-08T15:54:23.085Z",
+      "name": "Banana Pancakes",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+      "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv",
+      "duration_ms": 191906
+    },
+    {
+      "played_at": "2026-08-08T15:57:16.011Z",
+      "name": "Beyond the Sea",
+      "artists": [
+        "Bobby Darin"
+      ],
+      "album": "That's All",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
+      "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
+      "duration_ms": 172480
+    },
+    {
+      "played_at": "2026-08-08T16:28:52.497Z",
+      "name": "A Desert Rose - Radio Edit",
+      "artists": [
+        "Radion6",
+        "Sarah Lynn"
+      ],
+      "album": "Vocal Trance Selections",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
+      "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
+      "duration_ms": 201176
+    },
+    {
+      "played_at": "2026-08-08T16:35:58.168Z",
+      "name": "Style",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "1989",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "duration_ms": 231000
+    },
+    {
+      "played_at": "2026-08-08T16:44:07.637Z",
+      "name": "Bad Blood",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "1989",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+      "uri": "spotify:track:273dCMFseLcVsoSWx59IoE",
+      "duration_ms": 211933
+    },
+    {
+      "played_at": "2026-08-08T16:59:18.379Z",
+      "name": "Million Dollar Man",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:4lXHVnmDO5u62tGJIpTafd",
+      "duration_ms": 231573
+    },
+    {
+      "played_at": "2026-08-08T17:03:49.343Z",
+      "name": "Cola",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:6LrNqp69g8ngQ0Oem7DGWK",
+      "duration_ms": 260893
+    },
+    {
+      "played_at": "2026-08-08T17:07:18.184Z",
+      "name": "Risk",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+      "duration_ms": 191586
+    },
+    {
+      "played_at": "2026-08-08T17:11:16.291Z",
+      "name": "Bel Air",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:1OI3ZMcABE1U7hnhf9BENL",
+      "duration_ms": 237640
+    },
+    {
+      "played_at": "2026-08-08T17:14:56.913Z",
+      "name": "Look at My Life",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "Look at My Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
+      "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
+      "duration_ms": 190533
+    },
+    {
+      "played_at": "2026-08-08T17:18:47.906Z",
+      "name": "National Anthem",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
+      "duration_ms": 230520
+    },
+    {
+      "played_at": "2026-08-08T17:24:24.144Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-08-08T17:30:42.085Z",
+      "name": "addiction - Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
+      "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
+      "duration_ms": 233480
+    },
+    {
+      "played_at": "2026-08-08T17:36:17.702Z",
+      "name": "Shadow Lady - Slowed + Reverb",
+      "artists": [
+        "Portwave"
+      ],
+      "album": "Shadow Lady (Выпуск в честь 10-летия)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d3ca4a785082cf720cfd58fa",
+      "uri": "spotify:track:7IB1bIMUeHL7fRa1LDRF5U",
+      "duration_ms": 335122
+    },
+    {
+      "played_at": "2026-08-08T17:39:06.172Z",
+      "name": "Turn Echo (Slowed Version)",
+      "artists": [
+        "Kaikobad"
+      ],
+      "album": "Turn Echo (Slowed Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a0917ea37a84e6d0e20f4ec",
+      "uri": "spotify:track:0SfRur4asjqaySk55PftAA",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-08-08T17:42:29.724Z",
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+      "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+      "duration_ms": 203080
+    },
+    {
+      "played_at": "2026-08-08T17:45:08.830Z",
+      "name": "Blue Velvet",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:0B4AIlB1jjT9l6QjKCdSLG",
+      "duration_ms": 158653
+    },
+    {
+      "played_at": "2026-08-08T17:49:12.467Z",
+      "name": "Dark Paradise",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2Y115i0IhELJhyyftvoSFt",
+      "duration_ms": 243187
+    },
+    {
+      "played_at": "2026-08-08T17:53:00.995Z",
+      "name": "How to disappear",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Norman Fucking Rockwell!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+      "uri": "spotify:track:4qUtC2BwFC154Ha8YQRrkk",
+      "duration_ms": 228071
+    },
+    {
+      "played_at": "2026-08-08T17:57:10.391Z",
+      "name": "Norman fucking Rockwell",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Norman Fucking Rockwell!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+      "uri": "spotify:track:3RIgHHpnFKj5Rni1shokDj",
+      "duration_ms": 248934
+    },
+    {
+      "played_at": "2026-08-08T18:00:21.317Z",
+      "name": "God Church",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "God Church",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
+      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
+      "duration_ms": 150622
+    },
+    {
+      "played_at": "2026-08-08T18:03:22.253Z",
+      "name": "Frick Da Police",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "Frick Da Police",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
+      "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
+      "duration_ms": 127058
+    },
+    {
+      "played_at": "2026-08-08T18:05:57.903Z",
+      "name": "Its Every Night Sis",
+      "artists": [
+        "Ricegum",
+        "Alissa Violet"
+      ],
+      "album": "Its Every Night Sis",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734eee35a3af59fa32ac8624fb",
+      "uri": "spotify:track:15Uxmx6D6hW0gY5kc7bpqU",
+      "duration_ms": 155193
     }
   ]
 }
