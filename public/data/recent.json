@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:27:30.029Z",
+  "updated_at": "2026-08-09T01:28:36.030Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -20495,6 +20495,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734eee35a3af59fa32ac8624fb",
       "uri": "spotify:track:15Uxmx6D6hW0gY5kc7bpqU",
       "duration_ms": 155193
+    },
+    {
+      "played_at": "2026-08-08T18:23:47.120Z",
+      "name": "Rosemary",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4FEr6dIdH6EqLKR0jB560J",
+      "duration_ms": 413346
+    },
+    {
+      "played_at": "2026-08-09T01:20:11.674Z",
+      "name": "Runaway",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Bon Jovi",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ede118b5f0e159dd18d42b90",
+      "uri": "spotify:track:0X1sqQ652p1sceKM2nJlIJ",
+      "duration_ms": 230666
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:27:29.978Z",
+  "generated_at": "2026-08-09T01:28:35.862Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1135,18 +1135,6 @@
         },
         {
           "rank": 12,
-          "name": "Team",
-          "artists": [
-            "Lorde"
-          ],
-          "album": "Pure Heroine",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
-          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
-          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
-          "duration_ms": 193058
-        },
-        {
-          "rank": 13,
           "name": "Electronic Heart - Slowed",
           "artists": [
             "NIVEK FFORHS"
@@ -1156,6 +1144,18 @@
           "uri": "spotify:track:1RJY9Sgj963s3nQfF3VuR3",
           "url": "https://open.spotify.com/track/1RJY9Sgj963s3nQfF3VuR3",
           "duration_ms": 235839
+        },
+        {
+          "rank": 13,
+          "name": "Team",
+          "artists": [
+            "Lorde"
+          ],
+          "album": "Pure Heroine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
+          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
+          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
+          "duration_ms": 193058
         },
         {
           "rank": 14,
@@ -1378,6 +1378,18 @@
         },
         {
           "rank": 32,
+          "name": "Risk",
+          "artists": [
+            "Gracie Abrams"
+          ],
+          "album": "The Secret of Us",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+          "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
+          "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos",
+          "duration_ms": 191586
+        },
+        {
+          "rank": 33,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -1392,67 +1404,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 33,
-          "name": "GoOd Night",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "GoOd Night",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
-          "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
-          "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
-          "duration_ms": 109244
-        },
-        {
           "rank": 34,
-          "name": "Playing Dangerous",
-          "artists": [
-            "ceZk"
-          ],
-          "album": "Playing Dangerous",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b4a5fdde79b5f3cc0c1f463",
-          "uri": "spotify:track:26pSRRS2RrBWE9UWklSAAb",
-          "url": "https://open.spotify.com/track/26pSRRS2RrBWE9UWklSAAb",
-          "duration_ms": 207124
-        },
-        {
-          "rank": 35,
-          "name": "munni & drugs",
-          "artists": [
-            "bleood"
-          ],
-          "album": "how bleood stole Xmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
-          "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
-          "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
-          "duration_ms": 130677
-        },
-        {
-          "rank": 36,
-          "name": "الوتر الحساس",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "نساى",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
-          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
-          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
-          "duration_ms": 261224
-        },
-        {
-          "rank": 37,
-          "name": "Kirkify",
-          "artists": [
-            "Edo Hunnidz"
-          ],
-          "album": "Kirkify",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
-          "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
-          "url": "https://open.spotify.com/track/047CqSS6h5gFgruozkbgy1",
-          "duration_ms": 80000
-        },
-        {
-          "rank": 38,
           "name": "Pink Champagne Lana",
           "artists": [
             "LNA43"
@@ -1464,7 +1416,67 @@
           "duration_ms": 359336
         },
         {
+          "rank": 35,
+          "name": "GoOd Night",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "GoOd Night",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
+          "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
+          "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
+          "duration_ms": 109244
+        },
+        {
+          "rank": 36,
+          "name": "Playing Dangerous",
+          "artists": [
+            "ceZk"
+          ],
+          "album": "Playing Dangerous",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b4a5fdde79b5f3cc0c1f463",
+          "uri": "spotify:track:26pSRRS2RrBWE9UWklSAAb",
+          "url": "https://open.spotify.com/track/26pSRRS2RrBWE9UWklSAAb",
+          "duration_ms": 207124
+        },
+        {
+          "rank": 37,
+          "name": "munni & drugs",
+          "artists": [
+            "bleood"
+          ],
+          "album": "how bleood stole Xmas",
+          "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
+          "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
+          "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
+          "duration_ms": 130677
+        },
+        {
+          "rank": 38,
+          "name": "الوتر الحساس",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "نساى",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
+          "duration_ms": 261224
+        },
+        {
           "rank": 39,
+          "name": "Kirkify",
+          "artists": [
+            "Edo Hunnidz"
+          ],
+          "album": "Kirkify",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
+          "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
+          "url": "https://open.spotify.com/track/047CqSS6h5gFgruozkbgy1",
+          "duration_ms": 80000
+        },
+        {
+          "rank": 40,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -1476,7 +1488,19 @@
           "duration_ms": 79464
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "name": "National Anthem",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
+          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
+          "duration_ms": 230533
+        },
+        {
+          "rank": 42,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1488,7 +1512,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -1501,7 +1525,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1513,7 +1537,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -1525,7 +1549,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -1538,7 +1562,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Motamkena",
           "artists": [
             "Lamis Kan"
@@ -1550,7 +1574,7 @@
           "duration_ms": 158376
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "دبكات زمر",
           "artists": [
             "احمد ابراهيم"
@@ -1562,31 +1586,20 @@
           "duration_ms": 167590
         },
         {
-          "rank": 47,
-          "name": "Risk",
-          "artists": [
-            "Gracie Abrams"
-          ],
-          "album": "The Secret of Us",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
-          "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
-          "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos",
-          "duration_ms": 191586
-        },
-        {
-          "rank": 48,
-          "name": "National Anthem",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
-          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
-          "duration_ms": 230533
-        },
-        {
           "rank": 49,
+          "name": "A Desert Rose - Radio Edit",
+          "artists": [
+            "Radion6",
+            "Sarah Lynn"
+          ],
+          "album": "Vocal Trance Selections",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
+          "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
+          "url": "https://open.spotify.com/track/6V8lYQmkHtyki1u4M11iNB",
+          "duration_ms": 201176
+        },
+        {
+          "rank": 50,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1596,20 +1609,6 @@
           "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
           "url": "https://open.spotify.com/track/0WR4Bo24zWRujhjrof1tJS",
           "duration_ms": 71726
-        },
-        {
-          "rank": 50,
-          "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
-          "artists": [
-            "DJ XFOCOS",
-            "DJ ZXN DA 077",
-            "DJ LKS DA ZS"
-          ],
-          "album": "FUNK DO MALAME AMARELO",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732c887d470360bda258ee19c0",
-          "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
-          "url": "https://open.spotify.com/track/3lJ3mblBvLWDhrzi1qxh05",
-          "duration_ms": 115296
         }
       ],
       "artists": [
@@ -1671,19 +1670,19 @@
         },
         {
           "rank": 8,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 9,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 9,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 10,
@@ -1735,19 +1734,19 @@
         },
         {
           "rank": 16,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 17,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
           "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "rank": 17,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 18,
@@ -1999,19 +1998,19 @@
         },
         {
           "rank": 49,
+          "name": "Ricegum",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
+          "genres": [],
+          "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
+          "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
+        },
+        {
+          "rank": 50,
           "name": "Playboi Carti",
           "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
           "genres": [],
           "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "rank": 50,
-          "name": "SugarHill Keem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
-          "genres": [],
-          "uri": "spotify:artist:7DY7ygEiVKNki7ZIPnZoNB",
-          "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
         }
       ]
     },
