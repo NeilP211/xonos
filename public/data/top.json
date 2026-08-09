@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:52:32.085Z",
+  "generated_at": "2026-08-09T09:36:44.399Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -635,9 +635,7 @@
           "rank": 2,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [
-            "tekno"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
@@ -645,9 +643,7 @@
           "rank": 3,
           "name": "blackpilled",
           "image": "https://i.scdn.co/image/ab6761610000e5eb17e9dbfbc1f8fcd6682a151f",
-          "genres": [
-            "tekno"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2Z0iKSuJ5jKErxhsFpLpXH",
           "url": "https://open.spotify.com/artist/2Z0iKSuJ5jKErxhsFpLpXH"
         },
@@ -655,10 +651,7 @@
           "rank": 4,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [
-            "grunge",
-            "rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
@@ -666,10 +659,7 @@
           "rank": 5,
           "name": "HELLBLADE",
           "image": "https://i.scdn.co/image/ab6761610000e5eba57415be0cbb8ad9068722f5",
-          "genres": [
-            "tekno",
-            "phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7bEPCmDmXU7GbO8iid7YvP",
           "url": "https://open.spotify.com/artist/7bEPCmDmXU7GbO8iid7YvP"
         },
@@ -677,10 +667,7 @@
           "rank": 6,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
-          "genres": [
-            "underground hip hop",
-            "rage rap"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
@@ -688,10 +675,7 @@
           "rank": 7,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [
-            "cloud rap",
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
@@ -707,10 +691,7 @@
           "rank": 9,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-          "genres": [
-            "rage rap",
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
@@ -742,10 +723,7 @@
           "rank": 13,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [
-            "witch house",
-            "darkwave"
-          ],
+          "genres": [],
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
@@ -753,12 +731,7 @@
           "rank": 14,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [
-            "witch house",
-            "electroclash",
-            "new rave",
-            "alternative dance"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -774,13 +747,7 @@
           "rank": 16,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [
-            "nu metal",
-            "alternative metal",
-            "rap metal",
-            "rock",
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
@@ -788,9 +755,7 @@
           "rank": 17,
           "name": "tapzen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb486e6a9e552628fff5b8cecd",
-          "genres": [
-            "tekno"
-          ],
+          "genres": [],
           "uri": "spotify:artist:107G3QtFj23UGmjn6azbVd",
           "url": "https://open.spotify.com/artist/107G3QtFj23UGmjn6azbVd"
         },
@@ -806,9 +771,7 @@
           "rank": 19,
           "name": "Bon Jovi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
-          "genres": [
-            "glam metal"
-          ],
+          "genres": [],
           "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp",
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
@@ -816,10 +779,7 @@
           "rank": 20,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [
-            "darkwave",
-            "cold wave"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
@@ -827,9 +787,7 @@
           "rank": 21,
           "name": "Ty Myers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc07877b40d5ce5f34bd7683b",
-          "genres": [
-            "country"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1Gh0pCAxpjw0Iq3JMoVAwO",
           "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         },
@@ -845,13 +803,7 @@
           "rank": 23,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [
-            "metal",
-            "thrash metal",
-            "rock",
-            "heavy metal",
-            "hard rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
@@ -859,10 +811,7 @@
           "rank": 24,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
-          "genres": [
-            "trance",
-            "progressive trance"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2AyyZ8mU5Kmsz2ibu2FP8h",
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
@@ -870,11 +819,7 @@
           "rank": 25,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
-          "genres": [
-            "egyptian pop",
-            "sholawat",
-            "khaleeji"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2Wk167T0fY1fABsHM5qFcI",
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
@@ -882,9 +827,7 @@
           "rank": 26,
           "name": "YXMI",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd30b87ef5464df7bc0454274",
-          "genres": [
-            "tekno"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0vBPuNcJXIMQFtlVLZJxMH",
           "url": "https://open.spotify.com/artist/0vBPuNcJXIMQFtlVLZJxMH"
         },
@@ -892,9 +835,7 @@
           "rank": 27,
           "name": "AD0RKEN",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf293842c7df66346dff41025",
-          "genres": [
-            "hyperpop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3hzTZv4BMkYpMnMinNzd9Y",
           "url": "https://open.spotify.com/artist/3hzTZv4BMkYpMnMinNzd9Y"
         },
@@ -902,9 +843,7 @@
           "rank": 28,
           "name": "wiv",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6322459df61bd6af4b46163",
-          "genres": [
-            "breakcore"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4tGnFjmjmMdZZh7NxWjNaw",
           "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
         },
@@ -912,9 +851,7 @@
           "rank": 29,
           "name": "akkiemi",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf6a9f59782a5672297a7075b",
-          "genres": [
-            "tekno"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5QsmdS9RBPIphb0DcpKf6E",
           "url": "https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E"
         },
@@ -922,10 +859,7 @@
           "rank": 30,
           "name": "Chris Stapleton",
           "image": "https://i.scdn.co/image/ab6761610000e5eba0c87c8f329b436eac8b9784",
-          "genres": [
-            "country",
-            "outlaw country"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4YLtscXsxbVgi031ovDDdh",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         },
@@ -949,9 +883,7 @@
           "rank": 33,
           "name": "Cult Member",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe5a93c1d69c541812ebb741e",
-          "genres": [
-            "lo-fi house"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1pR1W2iWfLwtMK776UeIcF",
           "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
         },
@@ -967,12 +899,7 @@
           "rank": 35,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-          "genres": [
-            "glam metal",
-            "classic rock",
-            "rock",
-            "hard rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
@@ -980,10 +907,7 @@
           "rank": 36,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-          "genres": [
-            "indie",
-            "lo-fi indie"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         },
@@ -991,9 +915,7 @@
           "rank": 37,
           "name": "Punkinloveee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb61d746ebd85c2c4881665886",
-          "genres": [
-            "hyperpop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6CrThJMQVJfWaHeliiLHuw",
           "url": "https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw"
         },
@@ -1001,9 +923,7 @@
           "rank": 38,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
-          "genres": [
-            "pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
@@ -1011,13 +931,7 @@
           "rank": 39,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
-          "genres": [
-            "nu metal",
-            "metal",
-            "alternative metal",
-            "rap metal",
-            "heavy metal"
-          ],
+          "genres": [],
           "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
@@ -1025,12 +939,7 @@
           "rank": 40,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
-          "genres": [
-            "groove metal",
-            "metal",
-            "thrash metal",
-            "heavy metal"
-          ],
+          "genres": [],
           "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
@@ -1038,12 +947,7 @@
           "rank": 41,
           "name": "Guns N' Roses",
           "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
-          "genres": [
-            "rock",
-            "glam metal",
-            "hard rock",
-            "classic rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC",
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         },
@@ -1051,9 +955,7 @@
           "rank": 42,
           "name": "Dawg Fight",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b7edb7ac84a90c88c44d218",
-          "genres": [
-            "hardcore"
-          ],
+          "genres": [],
           "uri": "spotify:artist:05e5TGqK5LPMNLiuPU1nef",
           "url": "https://open.spotify.com/artist/05e5TGqK5LPMNLiuPU1nef"
         },
@@ -1061,11 +963,7 @@
           "rank": 43,
           "name": "Red Hot Chili Peppers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
-          "genres": [
-            "funk rock",
-            "alternative rock",
-            "rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5",
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         },
@@ -1073,10 +971,7 @@
           "rank": 44,
           "name": "Midland",
           "image": "https://i.scdn.co/image/ab6761610000e5ebac726ae0d850d7d4f4dd694c",
-          "genres": [
-            "country",
-            "honky tonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1DTZRmlVZBxx2wRQBtx6yi",
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         },
@@ -1084,10 +979,7 @@
           "rank": 45,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
-          "genres": [
-            "soundtrack",
-            "score"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
@@ -1095,10 +987,7 @@
           "rank": 46,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [
-            "grunge",
-            "post-grunge"
-          ],
+          "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
@@ -3151,56 +3040,7 @@
     }
   },
   "genres": {
-    "short_term": [
-      {
-        "genre": "tekno",
-        "weight": 0.12030075187969924
-      },
-      {
-        "genre": "rock",
-        "weight": 0.07733619763694952
-      },
-      {
-        "genre": "underground hip hop",
-        "weight": 0.07035445757250268
-      },
-      {
-        "genre": "rage rap",
-        "weight": 0.04672395273899033
-      },
-      {
-        "genre": "witch house",
-        "weight": 0.040279269602577876
-      },
-      {
-        "genre": "darkwave",
-        "weight": 0.03705692803437164
-      },
-      {
-        "genre": "glam metal",
-        "weight": 0.031149301825993556
-      },
-      {
-        "genre": "country",
-        "weight": 0.031149301825993556
-      },
-      {
-        "genre": "hard rock",
-        "weight": 0.02900107411385607
-      },
-      {
-        "genre": "grunge",
-        "weight": 0.027926960257787327
-      },
-      {
-        "genre": "metal",
-        "weight": 0.027389903329752954
-      },
-      {
-        "genre": "heavy metal",
-        "weight": 0.027389903329752954
-      }
-    ],
+    "short_term": [],
     "medium_term": [],
     "long_term": []
   }
