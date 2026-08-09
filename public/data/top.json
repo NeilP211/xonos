@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:44:30.912Z",
+  "generated_at": "2026-08-09T15:29:02.881Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -43,6 +43,18 @@
         },
         {
           "rank": 4,
+          "name": "Pink Champagne Lana",
+          "artists": [
+            "LNA43"
+          ],
+          "album": "Pink Champagne Lana",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
+          "duration_ms": 359336
+        },
+        {
+          "rank": 5,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -55,18 +67,6 @@
           "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
           "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
           "duration_ms": 250285
-        },
-        {
-          "rank": 5,
-          "name": "Pink Champagne Lana",
-          "artists": [
-            "LNA43"
-          ],
-          "album": "Pink Champagne Lana",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
-          "duration_ms": 359336
         },
         {
           "rank": 6,
@@ -218,18 +218,6 @@
         },
         {
           "rank": 18,
-          "name": "ttwlg",
-          "artists": [
-            "Yung Fazo"
-          ],
-          "album": "me vs me",
-          "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
-          "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
-          "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
-          "duration_ms": 141165
-        },
-        {
-          "rank": 19,
           "name": "truth yandere^^ - super slowed",
           "artists": [
             "akkiemi"
@@ -241,7 +229,7 @@
           "duration_ms": 106778
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -253,7 +241,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "too deep",
           "artists": [
             "Robin Gan"
@@ -265,7 +253,7 @@
           "duration_ms": 67745
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "God Knows I Tried",
           "artists": [
             "Lana Del Rey"
@@ -277,7 +265,7 @@
           "duration_ms": 280653
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -289,7 +277,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -301,7 +289,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Moosy - Mega Slowed",
           "artists": [
             "ilyhiryu"
@@ -313,7 +301,7 @@
           "duration_ms": 124064
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -325,7 +313,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -337,7 +325,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "BLIKKK",
           "artists": [
             "FRANCIS JEREMY",
@@ -350,7 +338,7 @@
           "duration_ms": 86805
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Ostblock 3 - The Dark Triad - Slowed TikTok Version",
           "artists": [
             "tapzen"
@@ -360,6 +348,18 @@
           "uri": "spotify:track:4kGyQU4d3AwqaePOevAP83",
           "url": "https://open.spotify.com/track/4kGyQU4d3AwqaePOevAP83",
           "duration_ms": 169324
+        },
+        {
+          "rank": 29,
+          "name": "ttwlg",
+          "artists": [
+            "Yung Fazo"
+          ],
+          "album": "me vs me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
+          "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
+          "url": "https://open.spotify.com/track/7z0jR7Aptz8X5jOw980b6W",
+          "duration_ms": 141165
         },
         {
           "rank": 30,
@@ -2198,6 +2198,18 @@
         },
         {
           "rank": 15,
+          "name": "Necrotic Bimbatitis",
+          "artists": [
+            "Bimb0nicplague"
+          ],
+          "album": "Split W/ Septic Abrasions",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e0027c2f4941b54c2dd999a1",
+          "uri": "spotify:track:7nC11rmbnep471LADThi9L",
+          "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
+          "duration_ms": 232000
+        },
+        {
+          "rank": 16,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -2209,7 +2221,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "yellow rose",
           "artists": [
             "xaviersobased"
@@ -2219,18 +2231,6 @@
           "uri": "spotify:track:18znj1NxAmbod4Wxby66MK",
           "url": "https://open.spotify.com/track/18znj1NxAmbod4Wxby66MK",
           "duration_ms": 72071
-        },
-        {
-          "rank": 17,
-          "name": "Necrotic Bimbatitis",
-          "artists": [
-            "Bimb0nicplague"
-          ],
-          "album": "Split W/ Septic Abrasions",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e0027c2f4941b54c2dd999a1",
-          "uri": "spotify:track:7nC11rmbnep471LADThi9L",
-          "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
-          "duration_ms": 232000
         },
         {
           "rank": 18,
@@ -2599,6 +2599,18 @@
         },
         {
           "rank": 48,
+          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
+          "duration_ms": 203080
+        },
+        {
+          "rank": 49,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -2610,7 +2622,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -2621,18 +2633,6 @@
           "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
           "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
           "duration_ms": 70866
-        },
-        {
-          "rank": 50,
-          "name": "White Mustang",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Lust For Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
-          "uri": "spotify:track:6eygbzyL6hY8jFQTARDuo9",
-          "url": "https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9",
-          "duration_ms": 164710
         }
       ],
       "artists": [
@@ -2790,19 +2790,19 @@
         },
         {
           "rank": 20,
-          "name": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-          "genres": [],
-          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "rank": 21,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 21,
+          "name": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+          "genres": [],
+          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
           "rank": 22,
