@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-08-10T01:38:38.176Z",
+  "updated_at": "2026-08-10T04:27:46.555Z",
   "is_playing": false,
   "track": {
-    "name": "Walk",
+    "name": "OK",
     "artists": [
-      "Pantera"
+      "FRANCIS JEREMY",
+      "CZeta",
+      "GloZula"
     ],
-    "album": "Vulgar Display of Power",
-    "image": "https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6",
-    "uri": "spotify:track:7fcfNW0XxTWlwVlftzfDOR"
+    "album": "TDF MUSIC",
+    "image": "https://i.scdn.co/image/ab67616d0000b27314eed996d84c6676dcee0eb4",
+    "uri": "spotify:track:3w7yYByy9IU6t7C5kpHBFL"
   },
-  "played_at": "2026-08-09T16:59:37.609Z"
+  "played_at": "2026-08-10T02:36:56.286Z"
 }
