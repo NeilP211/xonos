@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-08-10T13:02:21.913Z",
+  "updated_at": "2026-08-10T15:58:13.882Z",
   "is_playing": false,
   "track": {
-    "name": "OK",
+    "name": "Rotten Apple",
     "artists": [
-      "FRANCIS JEREMY",
-      "CZeta",
-      "GloZula"
+      "Alice In Chains"
     ],
-    "album": "TDF MUSIC",
-    "image": "https://i.scdn.co/image/ab67616d0000b27314eed996d84c6676dcee0eb4",
-    "uri": "spotify:track:3w7yYByy9IU6t7C5kpHBFL"
+    "album": "Jar Of Flies",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+    "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB"
   },
-  "played_at": "2026-08-10T02:36:56.286Z"
+  "played_at": "2026-08-10T14:29:13.547Z"
 }
