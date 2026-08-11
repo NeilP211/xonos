@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T15:59:13.657Z",
+  "updated_at": "2026-08-11T18:59:07.023Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -21056,6 +21056,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
       "uri": "spotify:track:7on45JTbuUgroAC4DXwBqQ",
       "duration_ms": 215040
+    },
+    {
+      "played_at": "2026-08-11T18:19:43.504Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
     }
   ]
 }
