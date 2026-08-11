@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T21:38:42.456Z",
+  "updated_at": "2026-08-11T01:28:08.655Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -20922,6 +20922,129 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
       "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
       "duration_ms": 127058
+    },
+    {
+      "played_at": "2026-08-10T20:32:43.010Z",
+      "name": "Its Every Night Sis",
+      "artists": [
+        "Ricegum",
+        "Alissa Violet"
+      ],
+      "album": "Its Every Night Sis",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734eee35a3af59fa32ac8624fb",
+      "uri": "spotify:track:15Uxmx6D6hW0gY5kc7bpqU",
+      "duration_ms": 155193
+    },
+    {
+      "played_at": "2026-08-11T00:19:06.467Z",
+      "name": "run run run",
+      "artists": [
+        "rebug"
+      ],
+      "album": "run run run",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+      "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+      "duration_ms": 79464
+    },
+    {
+      "played_at": "2026-08-11T00:20:14.168Z",
+      "name": "Yugoslavskiy Groove - Slowed + Reverb",
+      "artists": [
+        "Xodyl"
+      ],
+      "album": "Yugoslavskiy Groove (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393399152c93440efa3468c60",
+      "uri": "spotify:track:43m1AxHLrKA6ALZQM6PJyM",
+      "duration_ms": 67200
+    },
+    {
+      "played_at": "2026-08-11T00:25:52.822Z",
+      "name": "In Love With Me",
+      "artists": [
+        "Xavier Weeks"
+      ],
+      "album": "In Love With Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273daf098bbaeef0d40cd13d47a",
+      "uri": "spotify:track:1ssTqqkay99pjHh1WKpVf9",
+      "duration_ms": 113528
+    },
+    {
+      "played_at": "2026-08-11T00:28:23.442Z",
+      "name": "Scorin",
+      "artists": [
+        "Xavier Weeks",
+        "Lucus"
+      ],
+      "album": "Scorin",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391ecf9820c187b15ebc1107a",
+      "uri": "spotify:track:3e0B5E7JXgclLZyZaj10ng",
+      "duration_ms": 150166
+    },
+    {
+      "played_at": "2026-08-11T00:30:18.527Z",
+      "name": "Doja",
+      "artists": [
+        "Xavier Weeks"
+      ],
+      "album": "We All Gon Win",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344791e2a2c62c4934c1948f1",
+      "uri": "spotify:track:3h9Xd3YqKOpSvFbbkQ7Nt5",
+      "duration_ms": 114546
+    },
+    {
+      "played_at": "2026-08-11T00:32:49.896Z",
+      "name": "Team",
+      "artists": [
+        "Xavier Weeks"
+      ],
+      "album": "We All Gon Win",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344791e2a2c62c4934c1948f1",
+      "uri": "spotify:track:0TwclCfgNTwMnrC1QYmZHT",
+      "duration_ms": 150883
+    },
+    {
+      "played_at": "2026-08-11T00:44:01.810Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-08-11T00:47:36.022Z",
+      "name": "Rollin' (Air Raid Vehicle)",
+      "artists": [
+        "Limp Bizkit"
+      ],
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe",
+      "uri": "spotify:track:3IV4swNduIRunHREK80owz",
+      "duration_ms": 213760
+    },
+    {
+      "played_at": "2026-08-11T00:50:54.847Z",
+      "name": "Ice Cream Man - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:2TXzXJWWzESQq5glbDtZc9",
+      "duration_ms": 198373
+    },
+    {
+      "played_at": "2026-08-11T00:53:37.675Z",
+      "name": "California Dreamin' - Single Version",
+      "artists": [
+        "The Mamas & The Papas"
+      ],
+      "album": "If You Can Believe Your Eyes & Ears",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+      "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
+      "duration_ms": 162373
     }
   ]
 }
