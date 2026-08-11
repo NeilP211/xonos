@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:58:24.758Z",
+  "generated_at": "2026-08-11T12:58:41.929Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -969,6 +969,14 @@
         },
         {
           "rank": 44,
+          "name": "Limp Bizkit",
+          "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
+          "genres": [],
+          "uri": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "rank": 45,
           "name": "Dawg Fight",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b7edb7ac84a90c88c44d218",
           "genres": [],
@@ -976,7 +984,7 @@
           "url": "https://open.spotify.com/artist/05e5TGqK5LPMNLiuPU1nef"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Red Hot Chili Peppers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
           "genres": [],
@@ -984,7 +992,7 @@
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -992,7 +1000,7 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
@@ -1862,6 +1870,14 @@
         },
         {
           "rank": 31,
+          "name": "Ricegum",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
+          "genres": [],
+          "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
+          "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
+        },
+        {
+          "rank": 32,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -1869,7 +1885,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
@@ -1877,7 +1893,7 @@
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -1885,7 +1901,7 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "blackpilled",
           "image": "https://i.scdn.co/image/ab6761610000e5eb17e9dbfbc1f8fcd6682a151f",
           "genres": [],
@@ -1893,7 +1909,7 @@
           "url": "https://open.spotify.com/artist/2Z0iKSuJ5jKErxhsFpLpXH"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -1901,7 +1917,7 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
@@ -1909,7 +1925,7 @@
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "HELLBLADE",
           "image": "https://i.scdn.co/image/ab6761610000e5eba57415be0cbb8ad9068722f5",
           "genres": [],
@@ -1917,7 +1933,7 @@
           "url": "https://open.spotify.com/artist/7bEPCmDmXU7GbO8iid7YvP"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
@@ -1925,20 +1941,12 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
           "uri": "spotify:artist:2AyyZ8mU5Kmsz2ibu2FP8h",
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
-        },
-        {
-          "rank": 40,
-          "name": "Ricegum",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
-          "genres": [],
-          "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
-          "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
         },
         {
           "rank": 41,
@@ -2006,19 +2014,19 @@
         },
         {
           "rank": 49,
+          "name": "Xavier Weeks",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb76fa7647be6296b5fa76a8cf",
+          "genres": [],
+          "uri": "spotify:artist:1I87BJvTcv6gia06HaBl9e",
+          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
+        },
+        {
+          "rank": 50,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
           "uri": "spotify:artist:44tWGthIqM3mm0ngpslGO9",
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
-        },
-        {
-          "rank": 50,
-          "name": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-          "genres": [],
-          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ]
     },
