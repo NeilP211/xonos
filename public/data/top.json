@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:43:06.844Z",
+  "generated_at": "2026-08-12T01:46:03.664Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -80,6 +80,19 @@
         },
         {
           "rank": 7,
+          "name": "addiction - Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "captivation",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
+          "uri": "spotify:track:07SnvbvFJ1jUzpoBp9N4Cc",
+          "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc",
+          "duration_ms": 233480
+        },
+        {
+          "rank": 8,
           "name": "i love u. (ultra slowed)",
           "artists": [
             "wiv"
@@ -91,7 +104,7 @@
           "duration_ms": 170008
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "ICH VERACHTE (HARDTEKK) - Slowed & Reverb",
           "artists": [
             "ASCEND",
@@ -102,19 +115,6 @@
           "uri": "spotify:track:66AXQOWUKuWDntDVBPvcjU",
           "url": "https://open.spotify.com/track/66AXQOWUKuWDntDVBPvcjU",
           "duration_ms": 164985
-        },
-        {
-          "rank": 9,
-          "name": "addiction - Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "captivation",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
-          "uri": "spotify:track:07SnvbvFJ1jUzpoBp9N4Cc",
-          "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc",
-          "duration_ms": 233480
         },
         {
           "rank": 10,
@@ -142,6 +142,19 @@
         },
         {
           "rank": 12,
+          "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
+          "artists": [
+            "HRDSND",
+            "Syntekkz"
+          ],
+          "album": "ICH SCHNEIDE EUCH DIE ZUNGE AB (Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735799d0d5359f56c109fd93f4",
+          "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
+          "url": "https://open.spotify.com/track/3fnY60tVLs3S7YGqMJSMwV",
+          "duration_ms": 391403
+        },
+        {
+          "rank": 13,
           "name": "Gently (feat. Bad Bunny)",
           "artists": [
             "Drake",
@@ -154,7 +167,7 @@
           "duration_ms": 133694
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Night , Blooming Jasmine .",
           "artists": [
             "fakemink"
@@ -166,7 +179,7 @@
           "duration_ms": 178868
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -178,7 +191,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "IN THE H3ART #HARDSTYLE - slowed",
           "artists": [
             "AD0RKEN",
@@ -191,7 +204,7 @@
           "duration_ms": 75880
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "сакадзуки - Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -203,7 +216,7 @@
           "duration_ms": 114995
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -215,7 +228,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "truth yandere^^ - super slowed",
           "artists": [
             "akkiemi"
@@ -227,7 +240,7 @@
           "duration_ms": 106778
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "too deep",
           "artists": [
             "Robin Gan"
@@ -239,7 +252,7 @@
           "duration_ms": 67745
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "God Knows I Tried",
           "artists": [
             "Lana Del Rey"
@@ -251,7 +264,7 @@
           "duration_ms": 280653
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -263,7 +276,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -275,7 +288,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Moosy - Mega Slowed",
           "artists": [
             "ilyhiryu"
@@ -287,7 +300,7 @@
           "duration_ms": 124064
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -299,7 +312,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -311,7 +324,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "BLIKKK",
           "artists": [
             "FRANCIS JEREMY",
@@ -324,7 +337,7 @@
           "duration_ms": 86805
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Ostblock 3 - The Dark Triad - Slowed TikTok Version",
           "artists": [
             "tapzen"
@@ -334,19 +347,6 @@
           "uri": "spotify:track:4kGyQU4d3AwqaePOevAP83",
           "url": "https://open.spotify.com/track/4kGyQU4d3AwqaePOevAP83",
           "duration_ms": 169324
-        },
-        {
-          "rank": 28,
-          "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
-          "artists": [
-            "HRDSND",
-            "Syntekkz"
-          ],
-          "album": "ICH SCHNEIDE EUCH DIE ZUNGE AB (Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735799d0d5359f56c109fd93f4",
-          "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
-          "url": "https://open.spotify.com/track/3fnY60tVLs3S7YGqMJSMwV",
-          "duration_ms": 391403
         },
         {
           "rank": 29,
@@ -488,18 +488,6 @@
         },
         {
           "rank": 40,
-          "name": "Salvatore",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
-          "duration_ms": 281093
-        },
-        {
-          "rank": 41,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -511,7 +499,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -523,7 +511,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Skins - Ultra Slowed + Reverb",
           "artists": [
             "KREZUS",
@@ -536,7 +524,7 @@
           "duration_ms": 306995
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "RABENVATER - HARDTEKK - SLOWED",
           "artists": [
             "blackpilled"
@@ -548,7 +536,7 @@
           "duration_ms": 254379
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Sweet Home Alabama",
           "artists": [
             "Lynyrd Skynyrd"
@@ -560,7 +548,7 @@
           "duration_ms": 283800
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "тело - Sped Up",
           "artists": [
             "DJ ZUP RAlii"
@@ -572,7 +560,7 @@
           "duration_ms": 93081
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Nicotine - Slowed + Reverb",
           "artists": [
             "CUPREOUS",
@@ -585,7 +573,7 @@
           "duration_ms": 170790
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Goodbye (feat. Lyse) - Slow Version",
           "artists": [
             "Feder",
@@ -598,7 +586,7 @@
           "duration_ms": 185173
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -610,7 +598,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -620,6 +608,18 @@
           "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
           "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
           "duration_ms": 299258
+        },
+        {
+          "rank": 50,
+          "name": "Pet",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Pet",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
+          "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
+          "url": "https://open.spotify.com/track/2SGWuJ7lQGhLCsTdK7Ur2I",
+          "duration_ms": 66618
         }
       ],
       "artists": [
@@ -681,19 +681,19 @@
         },
         {
           "rank": 8,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 9,
           "name": "blackpilled",
           "image": "https://i.scdn.co/image/ab6761610000e5eb17e9dbfbc1f8fcd6682a151f",
           "genres": [],
           "uri": "spotify:artist:2Z0iKSuJ5jKErxhsFpLpXH",
           "url": "https://open.spotify.com/artist/2Z0iKSuJ5jKErxhsFpLpXH"
+        },
+        {
+          "rank": 9,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 10,
