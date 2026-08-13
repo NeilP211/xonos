@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-13T15:57:21.622Z",
-  "is_playing": true,
+  "updated_at": "2026-08-13T19:00:06.227Z",
+  "is_playing": false,
   "track": {
-    "name": "Creep - 2017 Remaster",
+    "name": "...and Suffer As One",
     "artists": [
-      "Stone Temple Pilots"
+      "Crowbar"
     ],
-    "album": "Core (Super Deluxe Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b8bc0f023ff7a1c6663f28ec",
-    "uri": "spotify:track:6dmueYtoihUhlQZlImBCmm"
+    "album": "Odd Fellows Rest",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+    "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD"
   },
-  "played_at": "2026-08-13T15:57:21.622Z"
+  "played_at": "2026-08-13T16:19:53.607Z"
 }
