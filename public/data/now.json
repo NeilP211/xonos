@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-13T13:04:48.755Z",
-  "is_playing": false,
+  "updated_at": "2026-08-13T15:57:21.622Z",
+  "is_playing": true,
   "track": {
-    "name": "addiction - Slowed",
+    "name": "Creep - 2017 Remaster",
     "artists": [
-      "LONOWN",
-      "Asenssia"
+      "Stone Temple Pilots"
     ],
-    "album": "addiction",
-    "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
-    "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT"
+    "album": "Core (Super Deluxe Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b8bc0f023ff7a1c6663f28ec",
+    "uri": "spotify:track:6dmueYtoihUhlQZlImBCmm"
   },
-  "played_at": "2026-08-13T04:52:03.146Z"
+  "played_at": "2026-08-13T15:57:21.622Z"
 }
