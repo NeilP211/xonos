@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:49:13.703Z",
+  "updated_at": "2026-08-13T07:22:58.819Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -21316,6 +21316,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f94f6ebe610a0cd1dd8e227a",
       "uri": "spotify:track:78puMZPIsAiF2igXQ0tq7F",
       "duration_ms": 149211
+    },
+    {
+      "played_at": "2026-08-13T04:52:03.146Z",
+      "name": "addiction - Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
+      "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
+      "duration_ms": 233480
     }
   ]
 }
