@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:22:26.415Z",
+  "updated_at": "2026-08-15T01:05:42.902Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -21483,6 +21483,31 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
       "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
       "duration_ms": 277662
+    },
+    {
+      "played_at": "2026-08-14T23:24:20.588Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-08-14T23:24:34.625Z",
+      "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+      "artists": [
+        "Charli xcx",
+        "Kim Petras",
+        "Jay Park"
+      ],
+      "album": "Pop 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
+      "uri": "spotify:track:3qGHAKgjQruzj6doKkyEb5",
+      "duration_ms": 232933
     }
   ]
 }
