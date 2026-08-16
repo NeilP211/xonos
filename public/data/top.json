@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:45:41.605Z",
+  "generated_at": "2026-08-16T06:35:38.500Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1230,6 +1230,18 @@
         },
         {
           "rank": 23,
+          "name": "Pink Champagne Lana",
+          "artists": [
+            "LNA43"
+          ],
+          "album": "Pink Champagne Lana",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
+          "duration_ms": 359336
+        },
+        {
+          "rank": 24,
           "name": "B2b",
           "artists": [
             "Charli xcx"
@@ -1241,7 +1253,7 @@
           "duration_ms": 178579
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -1253,7 +1265,7 @@
           "duration_ms": 188095
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -1265,7 +1277,7 @@
           "duration_ms": 132456
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1277,7 +1289,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1289,7 +1301,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -1304,7 +1316,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -1316,7 +1328,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Love Me Like You Do",
           "artists": [
             "Ellie Goulding"
@@ -1328,7 +1340,7 @@
           "duration_ms": 253520
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1339,18 +1351,6 @@
           "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
           "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
           "duration_ms": 70866
-        },
-        {
-          "rank": 32,
-          "name": "Pink Champagne Lana",
-          "artists": [
-            "LNA43"
-          ],
-          "album": "Pink Champagne Lana",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
-          "duration_ms": 359336
         },
         {
           "rank": 33,
@@ -1887,6 +1887,14 @@
         },
         {
           "rank": 40,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 41,
           "name": "Rihanna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "genres": [],
@@ -1894,7 +1902,7 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
           "genres": [],
@@ -1902,7 +1910,7 @@
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "YXMI",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd30b87ef5464df7bc0454274",
           "genres": [],
@@ -1910,7 +1918,7 @@
           "url": "https://open.spotify.com/artist/0vBPuNcJXIMQFtlVLZJxMH"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Ron Suno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf49a0886c7b50a9430cc79cc",
           "genres": [],
@@ -1918,7 +1926,7 @@
           "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
           "genres": [],
@@ -1926,7 +1934,7 @@
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
@@ -1934,7 +1942,7 @@
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
@@ -1942,7 +1950,7 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5eb76fa7647be6296b5fa76a8cf",
           "genres": [],
@@ -1950,7 +1958,7 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -1958,20 +1966,12 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "SugarHill Keem",
           "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
           "genres": [],
           "uri": "spotify:artist:7DY7ygEiVKNki7ZIPnZoNB",
           "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
-        },
-        {
-          "rank": 50,
-          "name": "Edot Babyy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
-          "genres": [],
-          "uri": "spotify:artist:3bOV7IH0Lb13ifOUrwACa7",
-          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
         }
       ]
     },
