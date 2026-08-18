@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:41:57.084Z",
+  "generated_at": "2026-08-18T06:39:07.017Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -44,16 +44,15 @@
         },
         {
           "rank": 4,
-          "name": "Sun Down, I'm Up - Slowed & Reverb",
+          "name": "сакадзуки - Slowed",
           "artists": [
-            "Lil Yawh",
-            "Cryjng"
+            "DJ ZUP RAlii"
           ],
-          "album": "Sun Down, I'm Up (Slowed & Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
-          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
-          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
-          "duration_ms": 131783
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
         },
         {
           "rank": 5,
@@ -82,6 +81,19 @@
         },
         {
           "rank": 7,
+          "name": "Sun Down, I'm Up - Slowed & Reverb",
+          "artists": [
+            "Lil Yawh",
+            "Cryjng"
+          ],
+          "album": "Sun Down, I'm Up (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273597c3ad10aad67e53eaf3a78",
+          "uri": "spotify:track:59MpDEHZHoGWmi88jLVOBp",
+          "url": "https://open.spotify.com/track/59MpDEHZHoGWmi88jLVOBp",
+          "duration_ms": 131783
+        },
+        {
+          "rank": 8,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -93,7 +105,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "i love u. (ultra slowed)",
           "artists": [
             "wiv"
@@ -103,18 +115,6 @@
           "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
           "url": "https://open.spotify.com/track/2NUqjbsDUwEFM6TyqN0moy",
           "duration_ms": 170008
-        },
-        {
-          "rank": 9,
-          "name": "сакадзуки - Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "сакадзуки",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
-          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
-          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
-          "duration_ms": 114995
         },
         {
           "rank": 10,
@@ -501,18 +501,6 @@
         },
         {
           "rank": 41,
-          "name": "too deep",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "too deep",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
-          "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
-          "url": "https://open.spotify.com/track/3TtDP2uIv6TZaHFviD7s0h",
-          "duration_ms": 67745
-        },
-        {
-          "rank": 42,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -524,7 +512,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -536,7 +524,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Skins - Ultra Slowed + Reverb",
           "artists": [
             "KREZUS",
@@ -549,19 +537,7 @@
           "duration_ms": 306995
         },
         {
-          "rank": 45,
-          "name": "Sweet Home Alabama",
-          "artists": [
-            "Lynyrd Skynyrd"
-          ],
-          "album": "Second Helping (Expanded Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
-          "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
-          "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
-          "duration_ms": 283800
-        },
-        {
-          "rank": 46,
+          "rank": 44,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -574,7 +550,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Goodbye (feat. Lyse) - Slow Version",
           "artists": [
             "Feder",
@@ -587,7 +563,7 @@
           "duration_ms": 185173
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -599,7 +575,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Pet",
           "artists": [
             "xaviersobased"
@@ -611,7 +587,7 @@
           "duration_ms": 66618
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Not You Too (feat. Chris Brown)",
           "artists": [
             "Drake",
@@ -622,6 +598,30 @@
           "uri": "spotify:track:3Q4gttWQ6hxqWOa3tHoTNi",
           "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi",
           "duration_ms": 269680
+        },
+        {
+          "rank": 49,
+          "name": "Velvet Ring - 2023 Remaster",
+          "artists": [
+            "Big Thief"
+          ],
+          "album": "Masterpiece (2023 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
+          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
+          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
+          "duration_ms": 155938
+        },
+        {
+          "rank": 50,
+          "name": "صراط الله",
+          "artists": [
+            "مجتبى الكعبي"
+          ],
+          "album": "كولكشن 2",
+          "image": "https://i.scdn.co/image/ab67616d0000b27391261b7720fbe09183b27f7a",
+          "uri": "spotify:track:4iM2WMKSBDHeNT02P8zkb3",
+          "url": "https://open.spotify.com/track/4iM2WMKSBDHeNT02P8zkb3",
+          "duration_ms": 391186
         }
       ],
       "artists": [
@@ -635,19 +635,19 @@
         },
         {
           "rank": 2,
-          "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
-          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
-          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
-        },
-        {
-          "rank": 3,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "rank": 3,
+          "name": "DJ ZUP RAlii",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "genres": [],
+          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
+          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
           "rank": 4,
@@ -708,7 +708,7 @@
         {
           "rank": 11,
           "name": "Xavier Weeks",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb76fa7647be6296b5fa76a8cf",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
           "uri": "spotify:artist:1I87BJvTcv6gia06HaBl9e",
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
@@ -1451,6 +1451,18 @@
         },
         {
           "rank": 41,
+          "name": "Glamorous",
+          "artists": [
+            "Hospital"
+          ],
+          "album": "Glamorous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
+          "duration_ms": 128509
+        },
+        {
+          "rank": 42,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1462,7 +1474,7 @@
           "duration_ms": 230533
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "glamur) (super slowed)",
           "artists": [
             "DJ ZUP RAlii"
@@ -1474,7 +1486,7 @@
           "duration_ms": 129285
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -1487,7 +1499,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1499,7 +1511,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -1512,7 +1524,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1524,7 +1536,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Motamkena",
           "artists": [
             "Lamis Kan"
@@ -1536,7 +1548,7 @@
           "duration_ms": 158376
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "دبكات زمر",
           "artists": [
             "احمد ابراهيم"
@@ -1548,7 +1560,7 @@
           "duration_ms": 167590
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -1559,18 +1571,6 @@
           "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
           "url": "https://open.spotify.com/track/6V8lYQmkHtyki1u4M11iNB",
           "duration_ms": 201176
-        },
-        {
-          "rank": 50,
-          "name": "Feeliinuu",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "Feeliinuu",
-          "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
-          "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
-          "url": "https://open.spotify.com/track/0WR4Bo24zWRujhjrof1tJS",
-          "duration_ms": 71726
         }
       ],
       "artists": [
@@ -1616,19 +1616,19 @@
         },
         {
           "rank": 6,
-          "name": "xaviersobased",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [],
-          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "rank": 7,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
+        },
+        {
+          "rank": 7,
+          "name": "xaviersobased",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
+          "genres": [],
+          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
           "rank": 8,
@@ -1888,19 +1888,19 @@
         },
         {
           "rank": 40,
-          "name": "LONOWN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
-          "genres": [],
-          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "rank": 41,
           "name": "Rihanna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "genres": [],
           "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "rank": 41,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
           "rank": 42,
@@ -1953,7 +1953,7 @@
         {
           "rank": 48,
           "name": "Xavier Weeks",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb76fa7647be6296b5fa76a8cf",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
           "uri": "spotify:artist:1I87BJvTcv6gia06HaBl9e",
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
