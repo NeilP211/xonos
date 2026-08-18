@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-17T21:23:03.375Z",
-  "is_playing": true,
+  "updated_at": "2026-08-18T01:05:26.468Z",
+  "is_playing": false,
   "track": {
-    "name": "E.S.M.D",
+    "name": "cachalot",
     "artists": [
-      "Lefty Gzz",
-      "Jeff Loc"
+      "ONDA ANDAR"
     ],
-    "album": "For The Gang",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b88d54399227cdea2c68d880",
-    "uri": "spotify:track:1UVtWlUpLUfNdY7WWPcpBn"
+    "album": "cachalot",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
+    "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs"
   },
-  "played_at": "2026-08-17T21:23:03.375Z"
+  "played_at": "2026-08-17T22:12:19.308Z"
 }
