@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:43:36.079Z",
+  "generated_at": "2026-08-19T06:39:46.246Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -166,15 +166,15 @@
         },
         {
           "rank": 14,
-          "name": "Night , Blooming Jasmine .",
+          "name": "Glamorous",
           "artists": [
-            "fakemink"
+            "Hospital"
           ],
-          "album": "Terrified .",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734987b5a78ae7e264e17aa35e",
-          "uri": "spotify:track:6gLXuUHVKVhVO40ZfmysPa",
-          "url": "https://open.spotify.com/track/6gLXuUHVKVhVO40ZfmysPa",
-          "duration_ms": 178868
+          "album": "Glamorous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
+          "duration_ms": 128509
         },
         {
           "rank": 15,
@@ -392,30 +392,6 @@
         },
         {
           "rank": 32,
-          "name": "Cola",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die - The Paradise Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-          "uri": "spotify:track:3I5azi0831uNpYQsfYsW7G",
-          "url": "https://open.spotify.com/track/3I5azi0831uNpYQsfYsW7G",
-          "duration_ms": 260893
-        },
-        {
-          "rank": 33,
-          "name": "Glamorous",
-          "artists": [
-            "Hospital"
-          ],
-          "album": "Glamorous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
-          "duration_ms": 128509
-        },
-        {
-          "rank": 34,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -427,19 +403,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 35,
-          "name": "Don't Stop Believin' (2022 Remaster)",
-          "artists": [
-            "Journey"
-          ],
-          "album": "Escape (2022 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018",
-          "uri": "spotify:track:5RKQ5NdjSh2QzD4MaunT91",
-          "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91",
-          "duration_ms": 249600
-        },
-        {
-          "rank": 36,
+          "rank": 33,
           "name": "Vlone - Super Slowed Hardcore Remix",
           "artists": [
             "tapzen"
@@ -451,7 +415,19 @@
           "duration_ms": 156894
         },
         {
-          "rank": 37,
+          "rank": 34,
+          "name": "Don't Stop Believin' (2022 Remaster)",
+          "artists": [
+            "Journey"
+          ],
+          "album": "Escape (2022 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018",
+          "uri": "spotify:track:5RKQ5NdjSh2QzD4MaunT91",
+          "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91",
+          "duration_ms": 249600
+        },
+        {
+          "rank": 35,
           "name": "glamur) (super slowed)",
           "artists": [
             "DJ ZUP RAlii"
@@ -463,7 +439,7 @@
           "duration_ms": 129285
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "I Don't Care",
           "artists": [
             "VIOLENT VIRA"
@@ -475,19 +451,19 @@
           "duration_ms": 181028
         },
         {
-          "rank": 39,
-          "name": "Wokeup",
+          "rank": 37,
+          "name": "Cola",
           "artists": [
-            "Kankan"
+            "Lana Del Rey"
           ],
-          "album": "Wokeup",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
-          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
-          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
-          "duration_ms": 115347
+          "album": "Born To Die - The Paradise Edition",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+          "uri": "spotify:track:3I5azi0831uNpYQsfYsW7G",
+          "url": "https://open.spotify.com/track/3I5azi0831uNpYQsfYsW7G",
+          "duration_ms": 260893
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -499,7 +475,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Skins - Ultra Slowed + Reverb",
           "artists": [
             "KREZUS",
@@ -512,19 +488,7 @@
           "duration_ms": 306995
         },
         {
-          "rank": 42,
-          "name": "truth yandere^^ - super slowed",
-          "artists": [
-            "akkiemi"
-          ],
-          "album": "truth yandere^^",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332029e594c3eb19f2b730724",
-          "uri": "spotify:track:6YWn1w1lu72zgNg8TdIbGw",
-          "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw",
-          "duration_ms": 106778
-        },
-        {
-          "rank": 43,
+          "rank": 40,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -537,7 +501,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 44,
+          "rank": 41,
           "name": "Goodbye (feat. Lyse) - Slow Version",
           "artists": [
             "Feder",
@@ -550,7 +514,7 @@
           "duration_ms": 185173
         },
         {
-          "rank": 45,
+          "rank": 42,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -562,7 +526,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 46,
+          "rank": 43,
           "name": "Pet",
           "artists": [
             "xaviersobased"
@@ -574,7 +538,7 @@
           "duration_ms": 66618
         },
         {
-          "rank": 47,
+          "rank": 44,
           "name": "Not You Too (feat. Chris Brown)",
           "artists": [
             "Drake",
@@ -587,7 +551,7 @@
           "duration_ms": 269680
         },
         {
-          "rank": 48,
+          "rank": 45,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -599,7 +563,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 49,
+          "rank": 46,
           "name": "صراط الله",
           "artists": [
             "مجتبى الكعبي"
@@ -611,7 +575,7 @@
           "duration_ms": 391186
         },
         {
-          "rank": 50,
+          "rank": 47,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -621,6 +585,42 @@
           "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
           "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
           "duration_ms": 198960
+        },
+        {
+          "rank": 48,
+          "name": "i like the way you kiss me - slowed down",
+          "artists": [
+            "10X"
+          ],
+          "album": "i like the way you kiss me (sped up & slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730a53c677c06a2feffab1c474",
+          "uri": "spotify:track:6TxrU9ldAkoESfGOEuYEqR",
+          "url": "https://open.spotify.com/track/6TxrU9ldAkoESfGOEuYEqR",
+          "duration_ms": 179557
+        },
+        {
+          "rank": 49,
+          "name": "Night , Blooming Jasmine .",
+          "artists": [
+            "fakemink"
+          ],
+          "album": "Terrified .",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734987b5a78ae7e264e17aa35e",
+          "uri": "spotify:track:6gLXuUHVKVhVO40ZfmysPa",
+          "url": "https://open.spotify.com/track/6gLXuUHVKVhVO40ZfmysPa",
+          "duration_ms": 178868
+        },
+        {
+          "rank": 50,
+          "name": "Gallowdance",
+          "artists": [
+            "Lebanon Hanover"
+          ],
+          "album": "Tomb for Two",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
+          "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
+          "url": "https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo",
+          "duration_ms": 231911
         }
       ],
       "artists": [
@@ -1194,6 +1194,18 @@
         },
         {
           "rank": 20,
+          "name": "B2b",
+          "artists": [
+            "Charli xcx"
+          ],
+          "album": "BRAT",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+          "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
+          "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
+          "duration_ms": 178579
+        },
+        {
+          "rank": 21,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -1205,7 +1217,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "fatman",
           "artists": [
             "boolymon"
@@ -1217,7 +1229,7 @@
           "duration_ms": 90426
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -1229,7 +1241,7 @@
           "duration_ms": 194951
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Pink Champagne Lana",
           "artists": [
             "LNA43"
@@ -1239,18 +1251,6 @@
           "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
           "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
           "duration_ms": 359336
-        },
-        {
-          "rank": 24,
-          "name": "B2b",
-          "artists": [
-            "Charli xcx"
-          ],
-          "album": "BRAT",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
-          "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
-          "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
-          "duration_ms": 178579
         },
         {
           "rank": 25,
@@ -1329,6 +1329,18 @@
         },
         {
           "rank": 31,
+          "name": "Glamorous",
+          "artists": [
+            "Hospital"
+          ],
+          "album": "Glamorous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
+          "duration_ms": 128509
+        },
+        {
+          "rank": 32,
           "name": "Love Me Like You Do",
           "artists": [
             "Ellie Goulding"
@@ -1340,7 +1352,7 @@
           "duration_ms": 253520
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1353,7 +1365,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -1365,7 +1377,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -1377,7 +1389,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1389,7 +1401,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -1401,7 +1413,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "тело - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -1413,7 +1425,7 @@
           "duration_ms": 136062
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "الوتر الحساس",
           "artists": [
             "Sherine"
@@ -1425,7 +1437,7 @@
           "duration_ms": 261224
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Kirkify",
           "artists": [
             "Edo Hunnidz"
@@ -1437,7 +1449,7 @@
           "duration_ms": 80000
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -1447,18 +1459,6 @@
           "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
           "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
           "duration_ms": 130677
-        },
-        {
-          "rank": 41,
-          "name": "Glamorous",
-          "artists": [
-            "Hospital"
-          ],
-          "album": "Glamorous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
-          "duration_ms": 128509
         },
         {
           "rank": 42,
@@ -1631,19 +1631,19 @@
         },
         {
           "rank": 8,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 9,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 9,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 10,
@@ -1759,6 +1759,14 @@
         },
         {
           "rank": 24,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 25,
           "name": "Calvin Harris",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "genres": [],
@@ -1766,20 +1774,12 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
           "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 26,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "rank": 27,
