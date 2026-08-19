@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T01:06:37.030Z",
+  "updated_at": "2026-08-19T03:43:36.243Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -21658,6 +21658,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273239cc1b00dbe1a1147dad01e",
       "uri": "spotify:track:3DLRRpaDETZYltj3KZ7kxo",
       "duration_ms": 221467
+    },
+    {
+      "played_at": "2026-08-18T22:12:06.469Z",
+      "name": "Glamorous",
+      "artists": [
+        "Hospital"
+      ],
+      "album": "Glamorous",
+      "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+      "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+      "duration_ms": 128509
+    },
+    {
+      "played_at": "2026-08-19T02:53:21.208Z",
+      "name": "Sip N Smoke",
+      "artists": [
+        "BLW"
+      ],
+      "album": "Sip N Smoke",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377ea2ad1e637de8c99b2db61",
+      "uri": "spotify:track:2ER10iG4bQKzZq7R4HwYI6",
+      "duration_ms": 233299
+    },
+    {
+      "played_at": "2026-08-19T03:03:36.821Z",
+      "name": "Titanium (feat. Sia)",
+      "artists": [
+        "David Guetta",
+        "Sia"
+      ],
+      "album": "Nothing but the Beat 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b27387e2f8346625bb6fd20d52be",
+      "uri": "spotify:track:0lHAMNU8RGiIObScrsRgmP",
+      "duration_ms": 245040
+    },
+    {
+      "played_at": "2026-08-19T03:07:12.941Z",
+      "name": "Dark Horse",
+      "artists": [
+        "Katy Perry",
+        "Juicy J"
+      ],
+      "album": "PRISM (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2",
+      "uri": "spotify:track:5jrdCoLpJSvHHorevXBATy",
+      "duration_ms": 215672
     }
   ]
 }

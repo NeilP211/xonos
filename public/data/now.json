@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-19T01:06:37.069Z",
+  "updated_at": "2026-08-19T03:43:36.279Z",
   "is_playing": false,
   "track": {
-    "name": "AirForce",
+    "name": "Dark Horse",
     "artists": [
-      "DigDat"
+      "Katy Perry",
+      "Juicy J"
     ],
-    "album": "AirForce",
-    "image": "https://i.scdn.co/image/ab67616d0000b273239cc1b00dbe1a1147dad01e",
-    "uri": "spotify:track:3DLRRpaDETZYltj3KZ7kxo"
+    "album": "PRISM (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2",
+    "uri": "spotify:track:5jrdCoLpJSvHHorevXBATy"
   },
-  "played_at": "2026-08-18T04:47:44.069Z"
+  "played_at": "2026-08-19T03:07:12.941Z"
 }
