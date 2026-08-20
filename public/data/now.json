@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T12:43:09.037Z",
-  "is_playing": false,
+  "updated_at": "2026-08-20T15:30:54.480Z",
+  "is_playing": true,
   "track": {
-    "name": "i love u. - slowed + reverb",
+    "name": "Nutshell",
     "artists": [
-      "wiv"
+      "Alice In Chains"
     ],
-    "album": "i love u. (extras)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e57698883e7259c2218dd1f3",
-    "uri": "spotify:track:1gCpf5jhAqegPJeXG0BCn5"
+    "album": "Jar Of Flies",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+    "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ"
   },
-  "played_at": "2026-08-20T04:56:49.650Z"
+  "played_at": "2026-08-20T15:30:54.480Z"
 }

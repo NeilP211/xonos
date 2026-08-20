@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T12:43:08.949Z",
+  "updated_at": "2026-08-20T15:30:54.379Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -21771,6 +21771,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e57698883e7259c2218dd1f3",
       "uri": "spotify:track:1gCpf5jhAqegPJeXG0BCn5",
       "duration_ms": 132639
+    },
+    {
+      "played_at": "2026-08-20T14:29:11.494Z",
+      "name": "cachalot",
+      "artists": [
+        "ONDA ANDAR"
+      ],
+      "album": "cachalot",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
+      "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
+      "duration_ms": 120685
+    },
+    {
+      "played_at": "2026-08-20T15:24:01.025Z",
+      "name": "Would? (2022 Remaster)",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Dirt (2022 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+      "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
+      "duration_ms": 206773
+    },
+    {
+      "played_at": "2026-08-20T15:24:11.698Z",
+      "name": "Would? (2022 Remaster)",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Dirt (2022 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+      "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
+      "duration_ms": 206773
     }
   ]
 }
