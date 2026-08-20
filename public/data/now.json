@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T15:30:54.480Z",
-  "is_playing": true,
+  "updated_at": "2026-08-20T18:35:35.101Z",
+  "is_playing": false,
   "track": {
     "name": "Nutshell",
     "artists": [
@@ -10,5 +10,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
     "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ"
   },
-  "played_at": "2026-08-20T15:30:54.480Z"
+  "played_at": "2026-08-20T15:32:00.363Z"
 }
