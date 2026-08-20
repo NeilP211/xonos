@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:43:59.033Z",
+  "generated_at": "2026-08-20T06:40:44.412Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -80,6 +80,19 @@
         },
         {
           "rank": 7,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 8,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -91,7 +104,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Gently (feat. Bad Bunny)",
           "artists": [
             "Drake",
@@ -104,7 +117,7 @@
           "duration_ms": 133694
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -115,19 +128,6 @@
           "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
           "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
           "duration_ms": 109134
-        },
-        {
-          "rank": 10,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
         },
         {
           "rank": 11,
@@ -192,6 +192,18 @@
         },
         {
           "rank": 16,
+          "name": "Jacking the Trend",
+          "artists": [
+            "Please Don't Lack"
+          ],
+          "album": "Jacking the Trend",
+          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
+          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
+          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
+          "duration_ms": 169646
+        },
+        {
+          "rank": 17,
           "name": "BLIKKK",
           "artists": [
             "FRANCIS JEREMY",
@@ -204,7 +216,7 @@
           "duration_ms": 86805
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ostblock 3 - The Dark Triad - Slowed TikTok Version",
           "artists": [
             "tapzen"
@@ -216,7 +228,7 @@
           "duration_ms": 169324
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -228,7 +240,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -241,7 +253,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Nicotine - Slowed + Reverb",
           "artists": [
             "CUPREOUS",
@@ -254,7 +266,7 @@
           "duration_ms": 170790
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -266,7 +278,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Pink Champagne Lana",
           "artists": [
             "LNA43"
@@ -276,18 +288,6 @@
           "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
           "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
           "duration_ms": 359336
-        },
-        {
-          "rank": 23,
-          "name": "Zombie - 2025 Remastered",
-          "artists": [
-            "The Cranberries"
-          ],
-          "album": "No Need To Argue (2025 Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
-          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-          "duration_ms": 305626
         },
         {
           "rank": 24,
@@ -319,18 +319,6 @@
         },
         {
           "rank": 26,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 27,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -342,7 +330,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Team",
           "artists": [
             "Xavier Weeks"
@@ -354,7 +342,7 @@
           "duration_ms": 150883
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -366,7 +354,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Your Love",
           "artists": [
             "The Outfield"
@@ -378,7 +366,7 @@
           "duration_ms": 223458
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Don't Stop Believin' (2022 Remaster)",
           "artists": [
             "Journey"
@@ -390,7 +378,7 @@
           "duration_ms": 249600
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "glamur) (super slowed)",
           "artists": [
             "DJ ZUP RAlii"
@@ -400,6 +388,18 @@
           "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
           "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
           "duration_ms": 129285
+        },
+        {
+          "rank": 32,
+          "name": "i love u. - slowed + reverb",
+          "artists": [
+            "wiv"
+          ],
+          "album": "i love u. (extras)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e57698883e7259c2218dd1f3",
+          "uri": "spotify:track:1gCpf5jhAqegPJeXG0BCn5",
+          "url": "https://open.spotify.com/track/1gCpf5jhAqegPJeXG0BCn5",
+          "duration_ms": 132639
         },
         {
           "rank": 33,
@@ -493,18 +493,6 @@
         },
         {
           "rank": 40,
-          "name": "Jacking the Trend",
-          "artists": [
-            "Please Don't Lack"
-          ],
-          "album": "Jacking the Trend",
-          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
-          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
-          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
-          "duration_ms": 169646
-        },
-        {
-          "rank": 41,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -516,7 +504,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Pet",
           "artists": [
             "xaviersobased"
@@ -528,7 +516,7 @@
           "duration_ms": 66618
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -540,7 +528,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Not You Too (feat. Chris Brown)",
           "artists": [
             "Drake",
@@ -551,6 +539,18 @@
           "uri": "spotify:track:3Q4gttWQ6hxqWOa3tHoTNi",
           "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi",
           "duration_ms": 269680
+        },
+        {
+          "rank": 44,
+          "name": "Zombie - 2025 Remastered",
+          "artists": [
+            "The Cranberries"
+          ],
+          "album": "No Need To Argue (2025 Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+          "duration_ms": 305626
         },
         {
           "rank": 45,
@@ -578,18 +578,6 @@
         },
         {
           "rank": 47,
-          "name": "Cigarettes out the Window",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-          "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
-          "duration_ms": 198960
-        },
-        {
-          "rank": 48,
           "name": "i like the way you kiss me - slowed down",
           "artists": [
             "10X"
@@ -601,7 +589,7 @@
           "duration_ms": 179557
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Night , Blooming Jasmine .",
           "artists": [
             "fakemink"
@@ -613,7 +601,7 @@
           "duration_ms": 178868
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Gallowdance",
           "artists": [
             "Lebanon Hanover"
@@ -623,6 +611,18 @@
           "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
           "url": "https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo",
           "duration_ms": 231911
+        },
+        {
+          "rank": 50,
+          "name": "Dark Beach - Slowed",
+          "artists": [
+            "Pastel Ghost"
+          ],
+          "album": "Dark Beach (Remixes)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273212b0d275d01eb8c459a8935",
+          "uri": "spotify:track:7BweTrvwLUIPWpBpUmpO2g",
+          "url": "https://open.spotify.com/track/7BweTrvwLUIPWpBpUmpO2g",
+          "duration_ms": 266400
         }
       ],
       "artists": [
@@ -676,14 +676,6 @@
         },
         {
           "rank": 7,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 8,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -691,12 +683,20 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
           "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "rank": 9,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
           "rank": 10,
@@ -1070,6 +1070,19 @@
         },
         {
           "rank": 11,
+          "name": "ILLUMINATI",
+          "artists": [
+            "LyteSpeed",
+            "Punkinloveee"
+          ],
+          "album": "ILLUMINATI",
+          "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+          "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+          "url": "https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E",
+          "duration_ms": 120702
+        },
+        {
+          "rank": 12,
           "name": "Electronic Heart - Slowed",
           "artists": [
             "NIVEK FFORHS"
@@ -1081,7 +1094,7 @@
           "duration_ms": 235839
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -1091,18 +1104,6 @@
           "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
           "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
           "duration_ms": 193058
-        },
-        {
-          "rank": 13,
-          "name": "Mesytara",
-          "artists": [
-            "Lamis Kan"
-          ],
-          "album": "Mesytara",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
-          "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
-          "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
-          "duration_ms": 167688
         },
         {
           "rank": 14,
@@ -1118,16 +1119,15 @@
         },
         {
           "rank": 15,
-          "name": "ILLUMINATI",
+          "name": "Mesytara",
           "artists": [
-            "LyteSpeed",
-            "Punkinloveee"
+            "Lamis Kan"
           ],
-          "album": "ILLUMINATI",
-          "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
-          "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
-          "url": "https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E",
-          "duration_ms": 120702
+          "album": "Mesytara",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
+          "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
+          "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
+          "duration_ms": 167688
         },
         {
           "rank": 16,
@@ -1593,19 +1593,19 @@
         },
         {
           "rank": 5,
-          "name": "Glokk40Spaz",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
-          "genres": [],
-          "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        },
-        {
-          "rank": 6,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
+        },
+        {
+          "rank": 6,
+          "name": "Glokk40Spaz",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
+          "genres": [],
+          "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
         {
           "rank": 7,
@@ -1817,6 +1817,14 @@
         },
         {
           "rank": 33,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 34,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -1824,7 +1832,7 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -1832,7 +1840,7 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
           "genres": [],
@@ -1840,7 +1848,7 @@
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
@@ -1848,7 +1856,7 @@
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "HELLBLADE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5ca25f8e25a34be7db74f1a0",
           "genres": [],
@@ -1856,7 +1864,7 @@
           "url": "https://open.spotify.com/artist/7bEPCmDmXU7GbO8iid7YvP"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
@@ -1864,7 +1872,7 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -1872,20 +1880,12 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Rihanna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "genres": [],
           "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "rank": 41,
-          "name": "LONOWN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
-          "genres": [],
-          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
           "rank": 42,
@@ -1921,6 +1921,14 @@
         },
         {
           "rank": 46,
+          "name": "akkiemi",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf6a9f59782a5672297a7075b",
+          "genres": [],
+          "uri": "spotify:artist:5QsmdS9RBPIphb0DcpKf6E",
+          "url": "https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E"
+        },
+        {
+          "rank": 47,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
@@ -1928,7 +1936,7 @@
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
@@ -1936,7 +1944,7 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
@@ -1944,20 +1952,12 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
           "uri": "spotify:artist:44tWGthIqM3mm0ngpslGO9",
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
-        },
-        {
-          "rank": 50,
-          "name": "SugarHill Keem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
-          "genres": [],
-          "uri": "spotify:artist:7DY7ygEiVKNki7ZIPnZoNB",
-          "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
         }
       ]
     },
