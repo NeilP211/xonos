@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T21:25:09.957Z",
-  "is_playing": false,
+  "updated_at": "2026-08-21T01:09:46.470Z",
+  "is_playing": true,
   "track": {
-    "name": "cachalot",
+    "name": "BETRAYAL - Ultra Slowed",
     "artists": [
-      "ONDA ANDAR"
+      "AV3RN1X"
     ],
-    "album": "cachalot",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
-    "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs"
+    "album": "BETRAYAL",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734807495ee06d634f29e34941",
+    "uri": "spotify:track:7EnIuQMkrQ06kCcGeysGK2"
   },
-  "played_at": "2026-08-20T20:58:13.469Z"
+  "played_at": "2026-08-21T01:09:46.470Z"
 }
