@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:33:56.143Z",
+  "generated_at": "2026-08-21T12:41:17.517Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1215,6 +1215,18 @@
         },
         {
           "rank": 25,
+          "name": "cachalot",
+          "artists": [
+            "ONDA ANDAR"
+          ],
+          "album": "cachalot",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
+          "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
+          "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs",
+          "duration_ms": 120685
+        },
+        {
+          "rank": 26,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -1226,7 +1238,7 @@
           "duration_ms": 188095
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -1238,7 +1250,7 @@
           "duration_ms": 132456
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1250,7 +1262,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1262,7 +1274,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -1277,7 +1289,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -1289,7 +1301,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -1301,7 +1313,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Love Me Like You Do",
           "artists": [
             "Ellie Goulding"
@@ -1313,7 +1325,7 @@
           "duration_ms": 253520
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1326,7 +1338,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -1338,7 +1350,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -1351,7 +1363,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -1363,7 +1375,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1375,7 +1387,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -1387,7 +1399,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "тело - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -1399,7 +1411,7 @@
           "duration_ms": 136062
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "الوتر الحساس",
           "artists": [
             "Sherine"
@@ -1411,7 +1423,7 @@
           "duration_ms": 261224
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Kirkify",
           "artists": [
             "Edo Hunnidz"
@@ -1423,7 +1435,7 @@
           "duration_ms": 80000
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -1433,18 +1445,6 @@
           "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
           "url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD",
           "duration_ms": 130677
-        },
-        {
-          "rank": 43,
-          "name": "cachalot",
-          "artists": [
-            "ONDA ANDAR"
-          ],
-          "album": "cachalot",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
-          "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
-          "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs",
-          "duration_ms": 120685
         },
         {
           "rank": 44,
@@ -1712,6 +1712,14 @@
         },
         {
           "rank": 23,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 24,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -1719,20 +1727,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
           "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 25,
-          "name": "LONOWN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
-          "genres": [],
-          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
           "rank": 26,
