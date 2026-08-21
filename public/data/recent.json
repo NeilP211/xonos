@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T18:33:03.290Z",
+  "updated_at": "2026-08-21T21:21:42.719Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -22047,6 +22047,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
       "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
       "duration_ms": 220440
+    },
+    {
+      "played_at": "2026-08-21T04:22:49.101Z",
+      "name": "cachalot",
+      "artists": [
+        "ONDA ANDAR"
+      ],
+      "album": "cachalot",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
+      "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
+      "duration_ms": 120685
+    },
+    {
+      "played_at": "2026-08-21T20:56:59.537Z",
+      "name": "glamur) (super slowed)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+      "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+      "duration_ms": 129285
     }
   ]
 }

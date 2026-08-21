@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-21T18:33:03.373Z",
-  "is_playing": false,
+  "updated_at": "2026-08-21T21:21:42.816Z",
+  "is_playing": true,
   "track": {
-    "name": "Wildest Dreams",
+    "name": "Cachalot - Super Slowed",
     "artists": [
-      "Taylor Swift"
+      "LUKE"
     ],
-    "album": "1989",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
-    "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw"
+    "album": "Cachalot",
+    "image": "https://i.scdn.co/image/ab67616d0000b273df2f79fa04678e3b7e777ef4",
+    "uri": "spotify:track:7xJAlQqT1EkH7Nt3kd4qz5"
   },
-  "played_at": "2026-08-21T04:21:27.296Z"
+  "played_at": "2026-08-21T21:21:42.816Z"
 }
