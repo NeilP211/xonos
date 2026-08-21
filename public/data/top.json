@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:48:06.519Z",
+  "generated_at": "2026-08-21T06:41:23.502Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -683,19 +683,19 @@
         },
         {
           "rank": 8,
-          "name": "Xavier Weeks",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
-          "genres": [],
-          "uri": "spotify:artist:1I87BJvTcv6gia06HaBl9e",
-          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
-        },
-        {
-          "rank": 9,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 9,
+          "name": "Xavier Weeks",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
+          "genres": [],
+          "uri": "spotify:artist:1I87BJvTcv6gia06HaBl9e",
+          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
           "rank": 10,
