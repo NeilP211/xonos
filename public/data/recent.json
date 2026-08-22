@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:21:42.719Z",
+  "updated_at": "2026-08-22T01:05:59.837Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -22069,6 +22069,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
       "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
       "duration_ms": 129285
+    },
+    {
+      "played_at": "2026-08-21T21:25:16.017Z",
+      "name": "Cachalot - Super Slowed",
+      "artists": [
+        "LUKE"
+      ],
+      "album": "Cachalot",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df2f79fa04678e3b7e777ef4",
+      "uri": "spotify:track:7xJAlQqT1EkH7Nt3kd4qz5",
+      "duration_ms": 172445
     }
   ]
 }
