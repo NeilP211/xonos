@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-23T12:35:01.616Z",
+  "updated_at": "2026-08-23T15:19:18.369Z",
   "is_playing": false,
   "track": {
-    "name": "My Friend of Misery (Remastered)",
+    "name": "Wait For Life",
     "artists": [
-      "Metallica"
+      "Emile Haynie",
+      "Lana Del Rey"
     ],
-    "album": "Metallica (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
-    "uri": "spotify:track:6e9oTF6tSrSReHI6IcHZef"
+    "album": "We Fall",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733c8a560919c8e841fd34ad5f",
+    "uri": "spotify:track:6FfpDslh2zhECLBbqLWE22"
   },
-  "played_at": "2026-08-23T09:17:48.003Z"
+  "played_at": "2026-08-23T13:37:19.032Z"
 }
