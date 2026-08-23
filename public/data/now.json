@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-23T09:24:39.369Z",
+  "updated_at": "2026-08-23T12:35:01.616Z",
   "is_playing": false,
   "track": {
-    "name": "Sultans of Swing",
+    "name": "My Friend of Misery (Remastered)",
     "artists": [
-      "Dire Straits"
+      "Metallica"
     ],
-    "album": "Dire Straits",
-    "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
-    "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ"
+    "album": "Metallica (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+    "uri": "spotify:track:6e9oTF6tSrSReHI6IcHZef"
   },
-  "played_at": "2026-08-23T09:12:19.692Z"
+  "played_at": "2026-08-23T09:17:48.003Z"
 }
