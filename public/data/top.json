@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:36:40.231Z",
+  "generated_at": "2026-08-23T09:24:39.109Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -204,6 +204,18 @@
         },
         {
           "rank": 17,
+          "name": "Cola",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die - The Paradise Edition",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+          "uri": "spotify:track:3I5azi0831uNpYQsfYsW7G",
+          "url": "https://open.spotify.com/track/3I5azi0831uNpYQsfYsW7G",
+          "duration_ms": 260893
+        },
+        {
+          "rank": 18,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -215,7 +227,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cachalot - Super Slowed",
           "artists": [
             "LUKE"
@@ -227,7 +239,7 @@
           "duration_ms": 172445
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nicotine - Slowed + Reverb",
           "artists": [
             "CUPREOUS",
@@ -240,7 +252,7 @@
           "duration_ms": 170790
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -252,7 +264,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Pink Champagne Lana",
           "artists": [
             "LNA43"
@@ -264,7 +276,7 @@
           "duration_ms": 359336
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "жених и невеста",
           "artists": [
             "DJ ZUP RAlii",
@@ -277,7 +289,7 @@
           "duration_ms": 122884
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -292,7 +304,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Same Old Love",
           "artists": [
             "Selena Gomez"
@@ -304,7 +316,7 @@
           "duration_ms": 229080
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Team",
           "artists": [
             "Xavier Weeks"
@@ -316,7 +328,7 @@
           "duration_ms": 150883
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -328,7 +340,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Your Love",
           "artists": [
             "The Outfield"
@@ -340,7 +352,7 @@
           "duration_ms": 223458
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Don't Stop Believin' (2022 Remaster)",
           "artists": [
             "Journey"
@@ -352,7 +364,7 @@
           "duration_ms": 249600
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "i love u. - slowed + reverb",
           "artists": [
             "wiv"
@@ -364,7 +376,7 @@
           "duration_ms": 132639
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "God Knows I Tried",
           "artists": [
             "Lana Del Rey"
@@ -376,7 +388,7 @@
           "duration_ms": 280653
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -389,7 +401,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "IN THE H3ART #HARDSTYLE - slowed",
           "artists": [
             "AD0RKEN",
@@ -402,7 +414,7 @@
           "duration_ms": 75880
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -414,7 +426,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Not You Too (feat. Chris Brown)",
           "artists": [
             "Drake",
@@ -427,7 +439,7 @@
           "duration_ms": 269680
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -439,7 +451,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -451,7 +463,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "صراط الله",
           "artists": [
             "مجتبى الكعبي"
@@ -463,7 +475,7 @@
           "duration_ms": 391186
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Dark Beach - Slowed",
           "artists": [
             "Pastel Ghost"
@@ -475,7 +487,7 @@
           "duration_ms": 266400
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Shadow Lady - Slowed + Reverb",
           "artists": [
             "Portwave"
@@ -487,7 +499,7 @@
           "duration_ms": 335122
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -499,7 +511,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -511,7 +523,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Its Every Night Sis",
           "artists": [
             "Ricegum",
@@ -524,7 +536,7 @@
           "duration_ms": 155193
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -536,7 +548,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -548,7 +560,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "I'm so fucked up please help me",
           "artists": [
             "Rebzyyx"
@@ -560,7 +572,7 @@
           "duration_ms": 110602
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -572,7 +584,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "OH NO NO NO FUNK",
           "artists": [
             "DJ KVNXD"
@@ -584,7 +596,7 @@
           "duration_ms": 74954
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -596,7 +608,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -607,36 +619,24 @@
           "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
           "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
           "duration_ms": 70866
-        },
-        {
-          "rank": 50,
-          "name": "Cola",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die - The Paradise Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-          "uri": "spotify:track:3I5azi0831uNpYQsfYsW7G",
-          "url": "https://open.spotify.com/track/3I5azi0831uNpYQsfYsW7G",
-          "duration_ms": 260893
         }
       ],
       "artists": [
         {
           "rank": 1,
-          "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
-          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
-          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
-        },
-        {
-          "rank": 2,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
           "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "rank": 2,
+          "name": "DJ ZUP RAlii",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "genres": [],
+          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
+          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
           "rank": 3,
@@ -760,6 +760,14 @@
         },
         {
           "rank": 18,
+          "name": "Van Halen",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+          "genres": [],
+          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        },
+        {
+          "rank": 19,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -767,20 +775,12 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cult Member",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe5a93c1d69c541812ebb741e",
           "genres": [],
           "uri": "spotify:artist:1pR1W2iWfLwtMK776UeIcF",
           "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
-        },
-        {
-          "rank": 20,
-          "name": "Van Halen",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-          "genres": [],
-          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
           "rank": 21,
