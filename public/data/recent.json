@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:36:36.538Z",
+  "updated_at": "2026-08-24T21:25:50.524Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -22347,6 +22347,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f4cb02237ee42c602d2bb9f9",
       "uri": "spotify:track:1r232i80xFiNHzSUmrFc01",
       "duration_ms": 94333
+    },
+    {
+      "played_at": "2026-08-24T18:34:24.122Z",
+      "name": "My Soldiers Rage",
+      "artists": [
+        "Maul"
+      ],
+      "album": "My Soldiers Rage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb2843cc9c0979de31069d6b",
+      "uri": "spotify:track:360RgTK0Z2olCRvgrPVWpz",
+      "duration_ms": 174694
+    },
+    {
+      "played_at": "2026-08-24T20:49:11.423Z",
+      "name": "Idea 22 - Slowed + Reverb",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 22 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c6865033641a27f882fc627",
+      "uri": "spotify:track:7A4Vo39I9jTC8adK43ZE5W",
+      "duration_ms": 178800
+    },
+    {
+      "played_at": "2026-08-24T21:07:40.056Z",
+      "name": "bipolar",
+      "artists": [
+        ".diedlonely"
+      ],
+      "album": "bipolar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b1c566781a9f621d5d2d0f0",
+      "uri": "spotify:track:1uvn7eP1I7mIKGvpsqDcoW",
+      "duration_ms": 132418
     }
   ]
 }
