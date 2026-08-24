@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T12:44:05.203Z",
+  "updated_at": "2026-08-24T15:36:42.540Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -22325,6 +22325,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
       "uri": "spotify:track:0Oqxt6JixieLHbwMfnJGWO",
       "duration_ms": 206722
+    },
+    {
+      "played_at": "2026-08-23T17:47:08.725Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
     }
   ]
 }
