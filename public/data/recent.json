@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-08-26T03:51:30.481Z",
+  "updated_at": "2026-08-26T06:43:35.277Z",
   "plays": [
-    {
-      "played_at": "2026-06-03T14:39:40.955Z",
-      "name": "Cherry",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Lust For Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
-      "uri": "spotify:track:1Ym6aMuT5bliaZMC67AmPp",
-      "duration_ms": 180902
-    },
     {
       "played_at": "2026-06-03T14:43:20.203Z",
       "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
@@ -22633,6 +22622,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27377095deffc8e8ec1d769f2f4",
       "uri": "spotify:track:5tyDOVfFJcgP6W6DRDN39q",
       "duration_ms": 105600
+    },
+    {
+      "played_at": "2026-08-26T03:20:39.620Z",
+      "name": "RAVE RUNNER 2049",
+      "artists": [
+        "Dionysus"
+      ],
+      "album": "RAVE RUNNER 2049",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7901aec7ad3f7aecb78b666",
+      "uri": "spotify:track:2f6Q8aIJDDks0f7Li4wxb5",
+      "duration_ms": 216813
     }
   ]
 }
