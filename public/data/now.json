@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-25T21:25:23.827Z",
-  "is_playing": false,
+  "updated_at": "2026-08-26T01:09:51.466Z",
+  "is_playing": true,
   "track": {
-    "name": "Covet",
+    "name": "Kerosene",
     "artists": [
-      "Basement"
+      "Crystal Castles"
     ],
-    "album": "Colourmeinkindness",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-    "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF"
+    "album": "(III)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383",
+    "uri": "spotify:track:2K70ZV0Ls65Kkj0WUEfHlz"
   },
-  "played_at": "2026-08-25T01:34:58.162Z"
+  "played_at": "2026-08-26T01:09:51.466Z"
 }
