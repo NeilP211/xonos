@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-08-26T01:09:51.257Z",
+  "updated_at": "2026-08-26T03:51:30.481Z",
   "plays": [
-    {
-      "played_at": "2026-06-03T14:30:49.254Z",
-      "name": "Lost at Sea",
-      "artists": [
-        "Rob Grant",
-        "Lana Del Rey"
-      ],
-      "album": "Lost At Sea",
-      "image": "https://i.scdn.co/image/ab67616d0000b273281f863d259823fb192a0ddf",
-      "uri": "spotify:track:6N7NO9Z1Hi6la8dqG3Aoew",
-      "duration_ms": 187906
-    },
-    {
-      "played_at": "2026-06-03T14:35:18.146Z",
-      "name": "West Coast",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
-      "duration_ms": 256760
-    },
     {
       "played_at": "2026-06-03T14:39:40.955Z",
       "name": "Cherry",
@@ -22611,6 +22588,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733d3e888c8f89b95815862b53",
       "uri": "spotify:track:3KEjqz0kXInHGqMYRKAiew",
       "duration_ms": 266026
+    },
+    {
+      "played_at": "2026-08-26T01:09:57.838Z",
+      "name": "Kerosene",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "(III)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383",
+      "uri": "spotify:track:2K70ZV0Ls65Kkj0WUEfHlz",
+      "duration_ms": 192000
+    },
+    {
+      "played_at": "2026-08-26T01:13:10.824Z",
+      "name": "Team",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Pure Heroine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
+      "duration_ms": 193058
+    },
+    {
+      "played_at": "2026-08-26T01:17:09.642Z",
+      "name": "forgotten dreams",
+      "artists": [
+        "angelcry",
+        "ifeelmanythings"
+      ],
+      "album": "forgotten dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b273967efca7b56d483f3530c686",
+      "uri": "spotify:track:7MyucpVKGH37mZwKwgmNbL",
+      "duration_ms": 136470
+    },
+    {
+      "played_at": "2026-08-26T03:14:27.306Z",
+      "name": "outside",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "outside",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377095deffc8e8ec1d769f2f4",
+      "uri": "spotify:track:5tyDOVfFJcgP6W6DRDN39q",
+      "duration_ms": 105600
     }
   ]
 }

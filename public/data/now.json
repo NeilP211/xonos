@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-26T01:09:51.466Z",
-  "is_playing": true,
+  "updated_at": "2026-08-26T03:51:30.577Z",
+  "is_playing": false,
   "track": {
-    "name": "Kerosene",
+    "name": "outside",
     "artists": [
-      "Crystal Castles"
+      "Øneheart"
     ],
-    "album": "(III)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383",
-    "uri": "spotify:track:2K70ZV0Ls65Kkj0WUEfHlz"
+    "album": "outside",
+    "image": "https://i.scdn.co/image/ab67616d0000b27377095deffc8e8ec1d769f2f4",
+    "uri": "spotify:track:5tyDOVfFJcgP6W6DRDN39q"
   },
-  "played_at": "2026-08-26T01:09:51.466Z"
+  "played_at": "2026-08-26T03:14:27.306Z"
 }
