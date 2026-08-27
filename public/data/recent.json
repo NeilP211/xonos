@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-08-27T00:26:54.425Z",
+  "updated_at": "2026-08-27T13:46:26.254Z",
   "plays": [
-    {
-      "played_at": "2026-06-03T15:10:59.842Z",
-      "name": "army of two",
-      "artists": [
-        "ksuuvi",
-        "xaviersobased"
-      ],
-      "album": "army of two",
-      "image": "https://i.scdn.co/image/ab67616d0000b27346b17cfa09a2eba47b2ec699",
-      "uri": "spotify:track:69VQAr0u9W5DcQAjZHJ3C5",
-      "duration_ms": 129567
-    },
-    {
-      "played_at": "2026-06-03T15:16:11.622Z",
-      "name": "bacardi",
-      "artists": [
-        "phreshboyswag"
-      ],
-      "album": "VIP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b04c4505cb1d00e12582b762",
-      "uri": "spotify:track:178eiv7y1ot3IBaJEvceHe",
-      "duration_ms": 112198
-    },
     {
       "played_at": "2026-06-03T15:19:02.632Z",
       "name": "funuhyuh",
@@ -22635,6 +22612,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ddc57b42013edb50aa30dc84",
       "uri": "spotify:track:2w1b2c766xPt4AVQuTnyQU",
       "duration_ms": 136500
+    },
+    {
+      "played_at": "2026-08-27T03:19:17.618Z",
+      "name": "Void",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Obsidian",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
+      "uri": "spotify:track:6Zo3F8D0mYLNvx9wJD9AiR",
+      "duration_ms": 209040
+    },
+    {
+      "played_at": "2026-08-27T03:31:35.364Z",
+      "name": "last breath",
+      "artists": [
+        "Øneheart",
+        "$werve"
+      ],
+      "album": "last breath",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730010e138a4ef1fc6943974c1",
+      "uri": "spotify:track:6E2h4qMO2CSXlWxE43bd9Q",
+      "duration_ms": 101333
     }
   ]
 }
