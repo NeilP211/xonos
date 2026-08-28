@@ -1,176 +1,6 @@
 {
-  "updated_at": "2026-08-28T00:13:51.984Z",
+  "updated_at": "2026-08-28T14:53:27.610Z",
   "plays": [
-    {
-      "played_at": "2026-06-03T17:09:06.832Z",
-      "name": "Tennis Court",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
-      "duration_ms": 198907
-    },
-    {
-      "played_at": "2026-06-03T17:16:39.458Z",
-      "name": "Team",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
-      "duration_ms": 193058
-    },
-    {
-      "played_at": "2026-06-03T17:20:59.037Z",
-      "name": "Ribs",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
-      "duration_ms": 258969
-    },
-    {
-      "played_at": "2026-06-03T17:24:46.086Z",
-      "name": "Roses",
-      "artists": [
-        "The Chainsmokers",
-        "ROZES"
-      ],
-      "album": "Roses",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135",
-      "uri": "spotify:track:3vv9phIu6Y1vX3jcqaGz5Z",
-      "duration_ms": 226738
-    },
-    {
-      "played_at": "2026-06-03T17:28:49.641Z",
-      "name": "Yoda",
-      "artists": [
-        "Deproved"
-      ],
-      "album": "Tata",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f15d4b898083bf6ab9603b5",
-      "uri": "spotify:track:5SiF72ywLsehUDMyJyBhat",
-      "duration_ms": 103166
-    },
-    {
-      "played_at": "2026-06-03T17:31:45.745Z",
-      "name": "hyperjerk",
-      "artists": [
-        "thesoupiscold"
-      ],
-      "album": "hyperjerk",
-      "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
-      "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
-      "duration_ms": 124941
-    },
-    {
-      "played_at": "2026-06-03T17:35:04.367Z",
-      "name": "Just Kitten",
-      "artists": [
-        "fakemink"
-      ],
-      "album": "London's Saviour",
-      "image": "https://i.scdn.co/image/ab67616d0000b27311177bbdbdd2ed6f8d409616",
-      "uri": "spotify:track:1Asgl3E0Zbu55iqJziisdR",
-      "duration_ms": 198012
-    },
-    {
-      "played_at": "2026-06-03T17:37:20.397Z",
-      "name": "Forrest Gump (feat. ABG Neal)",
-      "artists": [
-        "Krimelife Ca$$",
-        "ABG Neal"
-      ],
-      "album": "Forrest Gump (feat. ABG Neal)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27300d50a21d8626037e9fb3bdd",
-      "uri": "spotify:track:32LLYzFcucxGqqIOQzpcNM",
-      "duration_ms": 92640
-    },
-    {
-      "played_at": "2026-06-03T17:39:36.472Z",
-      "name": "Yung Nigga Shit",
-      "artists": [
-        "Glokk40Spaz",
-        "2wo2imes"
-      ],
-      "album": "2wo Glokks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-      "duration_ms": 135510
-    },
-    {
-      "played_at": "2026-06-03T17:46:46.714Z",
-      "name": "FAKENGGAS",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "NO STYLIST",
-      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
-      "uri": "spotify:track:6BlfsdUgeFwkFC30cD4EFO",
-      "duration_ms": 180000
-    },
-    {
-      "played_at": "2026-06-03T17:50:35.887Z",
-      "name": "Succubus",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:2pcv4nUQqaZnJk1kYvCfXV",
-      "duration_ms": 149892
-    },
-    {
-      "played_at": "2026-06-03T17:55:23.258Z",
-      "name": "afraid (feat. nate sib)",
-      "artists": [
-        "2hollis",
-        "nate sib"
-      ],
-      "album": "afraid (feat. nate sib)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb",
-      "uri": "spotify:track:41YlWhySoJVw2TXaxW1q5G",
-      "duration_ms": 178826
-    },
-    {
-      "played_at": "2026-06-03T20:00:38.240Z",
-      "name": "Risk",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
-      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
-      "duration_ms": 191586
-    },
-    {
-      "played_at": "2026-06-03T20:03:15.681Z",
-      "name": "I Love You, I'm Sorry",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
-      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
-      "duration_ms": 157146
-    },
-    {
-      "played_at": "2026-06-03T20:07:20.117Z",
-      "name": "us. (feat. Taylor Swift)",
-      "artists": [
-        "Gracie Abrams",
-        "Taylor Swift"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
-      "uri": "spotify:track:0hhzNPE68LWLfgZwdpxVdR",
-      "duration_ms": 242666
-    },
     {
       "played_at": "2026-06-03T21:37:19.722Z",
       "name": "Lolita",
@@ -22637,6 +22467,179 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
       "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
       "duration_ms": 255591
+    },
+    {
+      "played_at": "2026-08-28T03:12:49.534Z",
+      "name": "сакадзуки - Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "сакадзуки",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+      "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+      "duration_ms": 114995
+    },
+    {
+      "played_at": "2026-08-28T03:42:01.369Z",
+      "name": "Ultraviolence",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+      "duration_ms": 251480
+    },
+    {
+      "played_at": "2026-08-28T04:22:08.524Z",
+      "name": "Summertime Sadness",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2dBwB667LHQkLhdYlwLUZK",
+      "duration_ms": 265427
+    },
+    {
+      "played_at": "2026-08-28T04:25:42.728Z",
+      "name": "Summertime Sadness",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2dBwB667LHQkLhdYlwLUZK",
+      "duration_ms": 265427
+    },
+    {
+      "played_at": "2026-08-28T04:29:06.253Z",
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+      "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+      "duration_ms": 203080
+    },
+    {
+      "played_at": "2026-08-28T04:32:38.333Z",
+      "name": "Watercolor Eyes - From “Euphoria” An HBO Original Series",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Watercolor Eyes (From “Euphoria” An HBO Original Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0a93f4d6d61ec9f850218f9",
+      "uri": "spotify:track:1G1R0XgChe18Zr1o6tlmN6",
+      "duration_ms": 211613
+    },
+    {
+      "played_at": "2026-08-28T04:36:37.229Z",
+      "name": "This Is What Makes Us Girls",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:6QOU3FhUkPeA2RtaXcvgi7",
+      "duration_ms": 238427
+    },
+    {
+      "played_at": "2026-08-28T04:37:00.739Z",
+      "name": "Cruel World",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:6ayKgleoMF26lvU1Z7wVm7",
+      "duration_ms": 399083
+    },
+    {
+      "played_at": "2026-08-28T13:59:39.340Z",
+      "name": "Dreams pt. II",
+      "artists": [
+        "Lost Sky",
+        "Sara Skinner"
+      ],
+      "album": "Dreams pt. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
+      "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
+      "duration_ms": 215196
+    },
+    {
+      "played_at": "2026-08-28T14:03:36.187Z",
+      "name": "Shelter Me",
+      "artists": [
+        "Dart Rayne",
+        "Yura Moonlight",
+        "Cate Kanell"
+      ],
+      "album": "Shelter Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+      "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+      "duration_ms": 236375
+    },
+    {
+      "played_at": "2026-08-28T14:07:51.986Z",
+      "name": "Stole The Sun - Allen & Envy Edit",
+      "artists": [
+        "Dart Rayne",
+        "Yura Moonlight",
+        "Katty Heath",
+        "Allen & Envy"
+      ],
+      "album": "Stole The Sun",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357d6a78da2beffee26b88c42",
+      "uri": "spotify:track:46jA0N7MgMLnT5Y4etmrnL",
+      "duration_ms": 255434
+    },
+    {
+      "played_at": "2026-08-28T14:11:35.645Z",
+      "name": "Linked",
+      "artists": [
+        "Jim Yosef",
+        "Anna Yvette"
+      ],
+      "album": "Linked",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373f07a2fa5f4bf495c1737ca",
+      "uri": "spotify:track:5NpOPMiMq3kmUYDSx39rhn",
+      "duration_ms": 223218
+    },
+    {
+      "played_at": "2026-08-28T14:14:50.420Z",
+      "name": "Fearless",
+      "artists": [
+        "Lost Sky"
+      ],
+      "album": "Fearless",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338f5c633ceb7a5667e4d93f4",
+      "uri": "spotify:track:4LVK6fV5jqhL4Zedt3MMrY",
+      "duration_ms": 194284
+    },
+    {
+      "played_at": "2026-08-28T14:19:17.997Z",
+      "name": "My Heart",
+      "artists": [
+        "Different Heaven",
+        "EH!DE"
+      ],
+      "album": "My Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e3967f347f104bf20d2072d",
+      "uri": "spotify:track:1jGBudElZDBzzu6QgFHHnm",
+      "duration_ms": 267102
+    },
+    {
+      "played_at": "2026-08-28T14:24:34.065Z",
+      "name": "Shine",
+      "artists": [
+        "Spektrem"
+      ],
+      "album": "Shine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1137f926e9926c04bb34d1c",
+      "uri": "spotify:track:28nJtITSktvCECziG14oRr",
+      "duration_ms": 315585
     }
   ]
 }
