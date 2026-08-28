@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-08-28T14:53:27.610Z",
+  "updated_at": "2026-08-28T23:51:07.828Z",
   "plays": [
-    {
-      "played_at": "2026-06-03T21:37:19.722Z",
-      "name": "Lolita",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:696cNqpF2NwRLzC7KqCurz",
-      "duration_ms": 220040
-    },
-    {
-      "played_at": "2026-06-03T21:41:13.413Z",
-      "name": "Risk",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
-      "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos",
-      "duration_ms": 191586
-    },
-    {
-      "played_at": "2026-06-03T21:43:50.998Z",
-      "name": "I Love You, I'm Sorry",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
-      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
-      "duration_ms": 157146
-    },
     {
       "played_at": "2026-06-03T21:47:53.686Z",
       "name": "us. (feat. Taylor Swift)",
@@ -22640,6 +22607,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d1137f926e9926c04bb34d1c",
       "uri": "spotify:track:28nJtITSktvCECziG14oRr",
       "duration_ms": 315585
+    },
+    {
+      "played_at": "2026-08-28T15:42:08.331Z",
+      "name": "Turn It Up",
+      "artists": [
+        "Anikdote"
+      ],
+      "album": "Turn It Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344197af590d960eafca841c9",
+      "uri": "spotify:track:0gC25fBDME4eketFhsMxWb",
+      "duration_ms": 247547
+    },
+    {
+      "played_at": "2026-08-28T15:46:27.218Z",
+      "name": "Dreams pt. II",
+      "artists": [
+        "Lost Sky",
+        "Sara Skinner"
+      ],
+      "album": "Dreams pt. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
+      "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
+      "duration_ms": 215196
+    },
+    {
+      "played_at": "2026-08-28T19:47:11.401Z",
+      "name": "Link",
+      "artists": [
+        "Jim Yosef"
+      ],
+      "album": "Link",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccf7b760bb51562514d2bc8b",
+      "uri": "spotify:track:4J8bcO8KFvSk0lriqbhtF0",
+      "duration_ms": 224412
     }
   ]
 }

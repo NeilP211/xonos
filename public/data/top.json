@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:53:27.387Z",
+  "generated_at": "2026-08-28T23:51:07.726Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -30,18 +30,6 @@
         },
         {
           "rank": 3,
-          "name": "сакадзуки - Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "сакадзуки",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
-          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
-          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
-          "duration_ms": 114995
-        },
-        {
-          "rank": 4,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -54,7 +42,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -65,6 +53,18 @@
           "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
           "url": "https://open.spotify.com/track/3fnY60tVLs3S7YGqMJSMwV",
           "duration_ms": 391403
+        },
+        {
+          "rank": 5,
+          "name": "сакадзуки - Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
         },
         {
           "rank": 6,
@@ -119,6 +119,19 @@
         },
         {
           "rank": 10,
+          "name": "Dreams pt. II",
+          "artists": [
+            "Lost Sky",
+            "Sara Skinner"
+          ],
+          "album": "Dreams pt. II",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
+          "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
+          "url": "https://open.spotify.com/track/4cPjdCjNaGEgK0uXvjd7ql",
+          "duration_ms": 215196
+        },
+        {
+          "rank": 11,
           "name": "Idea 22 - Slowed + Reverb",
           "artists": [
             "Gibran Alcocer"
@@ -130,7 +143,7 @@
           "duration_ms": 178800
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Misirlou",
           "artists": [
             "Dick Dale & His Del-Tones"
@@ -142,7 +155,7 @@
           "duration_ms": 134933
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Jacking the Trend",
           "artists": [
             "Please Don't Lack"
@@ -154,7 +167,7 @@
           "duration_ms": 169646
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -167,7 +180,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
           "artists": [
             "Charli xcx",
@@ -181,7 +194,7 @@
           "duration_ms": 232933
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cachalot - Super Slowed",
           "artists": [
             "LUKE"
@@ -193,7 +206,7 @@
           "duration_ms": 172445
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -206,7 +219,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "i love u. (ultra slowed)",
           "artists": [
             "wiv"
@@ -218,7 +231,7 @@
           "duration_ms": 170008
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -230,7 +243,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -240,19 +253,6 @@
           "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
           "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
           "duration_ms": 299533
-        },
-        {
-          "rank": 20,
-          "name": "Nicotine - Slowed + Reverb",
-          "artists": [
-            "CUPREOUS",
-            "DJ WESSTAG"
-          ],
-          "album": "Nicotine (Slowed + Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736de022c2c7c5467a4369a4a2",
-          "uri": "spotify:track:09dt7MaJ77Nl0ob9NNs1PP",
-          "url": "https://open.spotify.com/track/09dt7MaJ77Nl0ob9NNs1PP",
-          "duration_ms": 170790
         },
         {
           "rank": 21,
@@ -268,18 +268,6 @@
         },
         {
           "rank": 22,
-          "name": "Pink Champagne Lana",
-          "artists": [
-            "LNA43"
-          ],
-          "album": "Pink Champagne Lana",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
-          "duration_ms": 359336
-        },
-        {
-          "rank": 23,
           "name": "Same Old Love",
           "artists": [
             "Selena Gomez"
@@ -291,7 +279,7 @@
           "duration_ms": 229080
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Team",
           "artists": [
             "Xavier Weeks"
@@ -303,20 +291,7 @@
           "duration_ms": 150883
         },
         {
-          "rank": 25,
-          "name": "Dreams pt. II",
-          "artists": [
-            "Lost Sky",
-            "Sara Skinner"
-          ],
-          "album": "Dreams pt. II",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
-          "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
-          "url": "https://open.spotify.com/track/4cPjdCjNaGEgK0uXvjd7ql",
-          "duration_ms": 215196
-        },
-        {
-          "rank": 26,
+          "rank": 24,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -328,7 +303,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -341,7 +316,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "IN THE H3ART #HARDSTYLE - slowed",
           "artists": [
             "AD0RKEN",
@@ -354,7 +329,7 @@
           "duration_ms": 75880
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "God Knows I Tried",
           "artists": [
             "Lana Del Rey"
@@ -366,7 +341,7 @@
           "duration_ms": 280653
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Vlone - Super Slowed Hardcore Remix",
           "artists": [
             "tapzen"
@@ -378,7 +353,7 @@
           "duration_ms": 156894
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Not You Too (feat. Chris Brown)",
           "artists": [
             "Drake",
@@ -391,7 +366,7 @@
           "duration_ms": 269680
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -403,7 +378,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -415,7 +390,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -427,7 +402,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -440,7 +415,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Gently (feat. Bad Bunny)",
           "artists": [
             "Drake",
@@ -453,7 +428,7 @@
           "duration_ms": 133694
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Shadow Lady - Slowed + Reverb",
           "artists": [
             "Portwave"
@@ -465,7 +440,20 @@
           "duration_ms": 335122
         },
         {
-          "rank": 38,
+          "rank": 36,
+          "name": "Nicotine - Slowed + Reverb",
+          "artists": [
+            "CUPREOUS",
+            "DJ WESSTAG"
+          ],
+          "album": "Nicotine (Slowed + Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736de022c2c7c5467a4369a4a2",
+          "uri": "spotify:track:09dt7MaJ77Nl0ob9NNs1PP",
+          "url": "https://open.spotify.com/track/09dt7MaJ77Nl0ob9NNs1PP",
+          "duration_ms": 170790
+        },
+        {
+          "rank": 37,
           "name": "Its Every Night Sis",
           "artists": [
             "Ricegum",
@@ -478,7 +466,7 @@
           "duration_ms": 155193
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -488,6 +476,18 @@
           "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
           "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
           "duration_ms": 264773
+        },
+        {
+          "rank": 39,
+          "name": "Pink Champagne Lana",
+          "artists": [
+            "LNA43"
+          ],
+          "album": "Pink Champagne Lana",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
+          "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
+          "url": "https://open.spotify.com/track/2HVaVrAYe529v1wtUVdpZN",
+          "duration_ms": 359336
         },
         {
           "rank": 40,
@@ -730,6 +730,22 @@
         },
         {
           "rank": 14,
+          "name": "Lost Sky",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
+          "genres": [],
+          "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "rank": 15,
+          "name": "Jim Yosef",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
+          "genres": [],
+          "uri": "spotify:artist:40HDiLfKm0tXk2FxlJx6aO",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "rank": 16,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -737,7 +753,7 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": ".diedlonely",
           "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
           "genres": [],
@@ -745,7 +761,7 @@
           "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
@@ -753,7 +769,7 @@
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "wiv",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6322459df61bd6af4b46163",
           "genres": [],
@@ -761,7 +777,7 @@
           "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Gibran Alcocer",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
           "genres": [],
@@ -769,7 +785,7 @@
           "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -777,7 +793,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "Ty Myers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc07877b40d5ce5f34bd7683b",
           "genres": [],
@@ -785,7 +801,7 @@
           "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -1930,6 +1946,18 @@
         },
         {
           "rank": 10,
+          "name": "Ultraviolence",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
+          "duration_ms": 251480
+        },
+        {
+          "rank": 11,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -1943,7 +1971,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
           "artists": [
             "Crowbar"
@@ -1955,7 +1983,7 @@
           "duration_ms": 238266
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -1967,7 +1995,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -1979,7 +2007,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "My Own Summer (Shove It)",
           "artists": [
             "Deftones"
@@ -1989,18 +2017,6 @@
           "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
           "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
           "duration_ms": 214760
-        },
-        {
-          "rank": 15,
-          "name": "Ultraviolence",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
-          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-          "duration_ms": 251480
         },
         {
           "rank": 16,
@@ -2100,90 +2116,6 @@
         },
         {
           "rank": 24,
-          "name": "BRUTAL AURAA",
-          "artists": [
-            "443RAVES"
-          ],
-          "album": "BRUTAL AURAA",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b10af4c599a24842f2279d6d",
-          "uri": "spotify:track:3GiyNEtnOYyMrVCWHxfUe0",
-          "url": "https://open.spotify.com/track/3GiyNEtnOYyMrVCWHxfUe0",
-          "duration_ms": 77251
-        },
-        {
-          "rank": 25,
-          "name": "Art Deco",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
-          "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF",
-          "duration_ms": 295066
-        },
-        {
-          "rank": 26,
-          "name": "Sad Girl",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
-          "url": "https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq",
-          "duration_ms": 317760
-        },
-        {
-          "rank": 27,
-          "name": "Mira",
-          "artists": [
-            "rommulas"
-          ],
-          "album": "ANIMÁL",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bb6d4085cac785ec685792b1",
-          "uri": "spotify:track:4StszRDsbHSV4JogQ1MPFn",
-          "url": "https://open.spotify.com/track/4StszRDsbHSV4JogQ1MPFn",
-          "duration_ms": 101068
-        },
-        {
-          "rank": 28,
-          "name": "Spin on Him",
-          "artists": [
-            "Selune"
-          ],
-          "album": "Spin on Him",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
-          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
-          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
-          "duration_ms": 208620
-        },
-        {
-          "rank": 29,
-          "name": "HER0INE",
-          "artists": [
-            "AD0RKEN"
-          ],
-          "album": "HER0INE",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c39caa6aa7b46e89a29c438f",
-          "uri": "spotify:track:1rJBDxs15j94vPXcWXnPUB",
-          "url": "https://open.spotify.com/track/1rJBDxs15j94vPXcWXnPUB",
-          "duration_ms": 60649
-        },
-        {
-          "rank": 30,
-          "name": "insane",
-          "artists": [
-            "rommulas"
-          ],
-          "album": "insane",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732c70bd15f00d134d7b6459b7",
-          "uri": "spotify:track:0ZOhGcUqRx3ifaBsWj0umh",
-          "url": "https://open.spotify.com/track/0ZOhGcUqRx3ifaBsWj0umh",
-          "duration_ms": 176516
-        },
-        {
-          "rank": 31,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -2196,7 +2128,104 @@
           "duration_ms": 255591
         },
         {
+          "rank": 25,
+          "name": "BRUTAL AURAA",
+          "artists": [
+            "443RAVES"
+          ],
+          "album": "BRUTAL AURAA",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b10af4c599a24842f2279d6d",
+          "uri": "spotify:track:3GiyNEtnOYyMrVCWHxfUe0",
+          "url": "https://open.spotify.com/track/3GiyNEtnOYyMrVCWHxfUe0",
+          "duration_ms": 77251
+        },
+        {
+          "rank": 26,
+          "name": "Art Deco",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
+          "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF",
+          "duration_ms": 295066
+        },
+        {
+          "rank": 27,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 28,
+          "name": "Sad Girl",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
+          "url": "https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq",
+          "duration_ms": 317760
+        },
+        {
+          "rank": 29,
+          "name": "Mira",
+          "artists": [
+            "rommulas"
+          ],
+          "album": "ANIMÁL",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bb6d4085cac785ec685792b1",
+          "uri": "spotify:track:4StszRDsbHSV4JogQ1MPFn",
+          "url": "https://open.spotify.com/track/4StszRDsbHSV4JogQ1MPFn",
+          "duration_ms": 101068
+        },
+        {
+          "rank": 30,
+          "name": "Spin on Him",
+          "artists": [
+            "Selune"
+          ],
+          "album": "Spin on Him",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
+          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
+          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
+          "duration_ms": 208620
+        },
+        {
+          "rank": 31,
+          "name": "HER0INE",
+          "artists": [
+            "AD0RKEN"
+          ],
+          "album": "HER0INE",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c39caa6aa7b46e89a29c438f",
+          "uri": "spotify:track:1rJBDxs15j94vPXcWXnPUB",
+          "url": "https://open.spotify.com/track/1rJBDxs15j94vPXcWXnPUB",
+          "duration_ms": 60649
+        },
+        {
           "rank": 32,
+          "name": "insane",
+          "artists": [
+            "rommulas"
+          ],
+          "album": "insane",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732c70bd15f00d134d7b6459b7",
+          "uri": "spotify:track:0ZOhGcUqRx3ifaBsWj0umh",
+          "url": "https://open.spotify.com/track/0ZOhGcUqRx3ifaBsWj0umh",
+          "duration_ms": 176516
+        },
+        {
+          "rank": 33,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -2208,7 +2237,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "1c in tha cut 2",
           "artists": [
             "xaviersobased"
@@ -2220,7 +2249,7 @@
           "duration_ms": 75807
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -2232,7 +2261,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "HOLY TERRA - Slowed",
           "artists": [
             "VILLAIN ARC",
@@ -2245,7 +2274,7 @@
           "duration_ms": 109723
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -2255,19 +2284,6 @@
           "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR",
           "url": "https://open.spotify.com/track/5ZHXZSLGLg1Ce8rMsT2OoR",
           "duration_ms": 211043
-        },
-        {
-          "rank": 37,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
         },
         {
           "rank": 38,
@@ -2419,15 +2435,15 @@
         },
         {
           "rank": 50,
-          "name": "CODE A - Mega Slowed",
+          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
           "artists": [
-            "YOUTHISENDING"
+            "Lana Del Rey"
           ],
-          "album": "CODE A",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734b5fbb05c851dca44fbe5e38",
-          "uri": "spotify:track:4oMMSVBL7D7nIqlbRr5zwR",
-          "url": "https://open.spotify.com/track/4oMMSVBL7D7nIqlbRr5zwR",
-          "duration_ms": 114307
+          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
+          "duration_ms": 203080
         }
       ],
       "artists": [
