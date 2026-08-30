@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-08-30T11:16:05.058Z",
+  "updated_at": "2026-08-30T16:02:45.173Z",
   "plays": [
-    {
-      "played_at": "2026-06-04T00:47:43.135Z",
-      "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "Hatful of Hollow",
-      "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
-      "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
-      "duration_ms": 215760
-    },
     {
       "played_at": "2026-06-04T00:48:13.295Z",
       "name": "7 Summers",
@@ -22643,6 +22632,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273479c9842be5a7b9dd0b7454c",
       "uri": "spotify:track:4Pxm8GR4lQT1WnhvN2qNvx",
       "duration_ms": 101420
+    },
+    {
+      "played_at": "2026-08-30T07:05:18.202Z",
+      "name": "sober",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "sober",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336ff78831a9a410c8e73f83e",
+      "uri": "spotify:track:4I23Fjo2rgJoufB4Z8bGo9",
+      "duration_ms": 118272
     }
   ]
 }
