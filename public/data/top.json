@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:34:06.277Z",
+  "generated_at": "2026-08-30T23:10:05.560Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2037,6 +2037,19 @@
         },
         {
           "rank": 17,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 18,
           "name": "yellow rose",
           "artists": [
             "xaviersobased"
@@ -2048,7 +2061,7 @@
           "duration_ms": 72071
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "тело - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -2060,67 +2073,7 @@
           "duration_ms": 136062
         },
         {
-          "rank": 19,
-          "name": "run run run",
-          "artists": [
-            "rebug"
-          ],
-          "album": "run run run",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
-          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
-          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
-          "duration_ms": 79464
-        },
-        {
           "rank": 20,
-          "name": "What they say",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "What they say",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732b0ba8a9db30e278d33a479d",
-          "uri": "spotify:track:4UFj2SLrRhYDPedJWO5bwk",
-          "url": "https://open.spotify.com/track/4UFj2SLrRhYDPedJWO5bwk",
-          "duration_ms": 92019
-        },
-        {
-          "rank": 21,
-          "name": "Lose It",
-          "artists": [
-            "Ken Carson"
-          ],
-          "album": "A Great Chaos",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-          "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
-          "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz",
-          "duration_ms": 140811
-        },
-        {
-          "rank": 22,
-          "name": "funuhyuh",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "funuhyuh",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
-          "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
-          "url": "https://open.spotify.com/track/6jwCUzXJwNLaP1rnU0fJTz",
-          "duration_ms": 75347
-        },
-        {
-          "rank": 23,
-          "name": "2 da spot",
-          "artists": [
-            "phreshboyswag"
-          ],
-          "album": "2 da spot",
-          "image": "https://i.scdn.co/image/ab67616d0000b27344760962230fe31217598500",
-          "uri": "spotify:track:5oGMyJwnSIh2qP42t4yPU9",
-          "url": "https://open.spotify.com/track/5oGMyJwnSIh2qP42t4yPU9",
-          "duration_ms": 142013
-        },
-        {
-          "rank": 24,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -2133,7 +2086,67 @@
           "duration_ms": 255591
         },
         {
+          "rank": 21,
+          "name": "run run run",
+          "artists": [
+            "rebug"
+          ],
+          "album": "run run run",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
+          "duration_ms": 79464
+        },
+        {
+          "rank": 22,
+          "name": "What they say",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "What they say",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732b0ba8a9db30e278d33a479d",
+          "uri": "spotify:track:4UFj2SLrRhYDPedJWO5bwk",
+          "url": "https://open.spotify.com/track/4UFj2SLrRhYDPedJWO5bwk",
+          "duration_ms": 92019
+        },
+        {
+          "rank": 23,
+          "name": "Lose It",
+          "artists": [
+            "Ken Carson"
+          ],
+          "album": "A Great Chaos",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+          "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
+          "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz",
+          "duration_ms": 140811
+        },
+        {
+          "rank": 24,
+          "name": "funuhyuh",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "funuhyuh",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
+          "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
+          "url": "https://open.spotify.com/track/6jwCUzXJwNLaP1rnU0fJTz",
+          "duration_ms": 75347
+        },
+        {
           "rank": 25,
+          "name": "2 da spot",
+          "artists": [
+            "phreshboyswag"
+          ],
+          "album": "2 da spot",
+          "image": "https://i.scdn.co/image/ab67616d0000b27344760962230fe31217598500",
+          "uri": "spotify:track:5oGMyJwnSIh2qP42t4yPU9",
+          "url": "https://open.spotify.com/track/5oGMyJwnSIh2qP42t4yPU9",
+          "duration_ms": 142013
+        },
+        {
+          "rank": 26,
           "name": "BRUTAL AURAA",
           "artists": [
             "443RAVES"
@@ -2145,7 +2158,7 @@
           "duration_ms": 77251
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Art Deco",
           "artists": [
             "Lana Del Rey"
@@ -2155,19 +2168,6 @@
           "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
           "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF",
           "duration_ms": 295066
-        },
-        {
-          "rank": 27,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
         },
         {
           "rank": 28,
@@ -2822,6 +2822,14 @@
         },
         {
           "rank": 47,
+          "name": "Snow Strippers",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
+          "genres": [],
+          "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "rank": 48,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -2829,7 +2837,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -2837,20 +2845,12 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "La Capella",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
           "genres": [],
           "uri": "spotify:artist:4mP87yxki6BtYCjIMwOJsg",
           "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
-        },
-        {
-          "rank": 50,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ]
     }
