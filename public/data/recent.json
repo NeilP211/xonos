@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-08-31T12:42:44.439Z",
+  "updated_at": "2026-08-31T20:39:09.127Z",
   "plays": [
-    {
-      "played_at": "2026-06-04T12:10:58.117Z",
-      "name": "7 Summers",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "Dangerous: The Double Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-      "duration_ms": 210506
-    },
-    {
-      "played_at": "2026-06-04T12:18:51.464Z",
-      "name": "Tennessee Whiskey",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Traveller",
-      "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
-      "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
-      "duration_ms": 293293
-    },
-    {
-      "played_at": "2026-06-04T12:22:17.432Z",
-      "name": "Chasin' You",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "If I Know Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
-      "uri": "spotify:track:0WiyWiJDkNCyGNqkv7NByy",
-      "duration_ms": 205453
-    },
-    {
-      "played_at": "2026-06-04T15:08:54.378Z",
-      "name": "Thought It Was Love",
-      "artists": [
-        "Ty Myers"
-      ],
-      "album": "The Select",
-      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
-      "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF",
-      "duration_ms": 246141
-    },
     {
       "played_at": "2026-06-04T15:17:32.710Z",
       "name": "zombie",
@@ -22642,6 +22598,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
       "duration_ms": 317760
+    },
+    {
+      "played_at": "2026-08-31T16:54:22.697Z",
+      "name": "Johnny B. Goode",
+      "artists": [
+        "Chuck Berry"
+      ],
+      "album": "Berry Is On Top",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+      "uri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2",
+      "duration_ms": 161560
+    },
+    {
+      "played_at": "2026-08-31T16:59:02.662Z",
+      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
+      "artists": [
+        "The Hollies"
+      ],
+      "album": "Distant Light (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739edcf15aa5f593bc7ced5254",
+      "uri": "spotify:track:1J5XEPamp7iQaCU0aFuMnd",
+      "duration_ms": 199200
+    },
+    {
+      "played_at": "2026-08-31T17:02:26.732Z",
+      "name": "You Really Got Me",
+      "artists": [
+        "The Kinks"
+      ],
+      "album": "Kinks (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b662e4bab01440eb4f31793",
+      "uri": "spotify:track:6tZdL3Zp8JgrfDbsSeSV1S",
+      "duration_ms": 133933
+    },
+    {
+      "played_at": "2026-08-31T17:06:37.570Z",
+      "name": "Sunshine Of Your Love",
+      "artists": [
+        "Cream"
+      ],
+      "album": "Disraeli Gears (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db1fb2dede292908e86d94d7",
+      "uri": "spotify:track:2K2M0TcglCRLLpFOzKeFZA",
+      "duration_ms": 250400
     }
   ]
 }
