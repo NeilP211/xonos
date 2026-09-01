@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:39:08.820Z",
+  "generated_at": "2026-09-01T00:22:55.309Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -807,6 +807,14 @@
         },
         {
           "rank": 24,
+          "name": "Led Zeppelin",
+          "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+          "genres": [],
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        },
+        {
+          "rank": 25,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -844,18 +852,6 @@
         },
         {
           "rank": 3,
-          "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
-          "artists": [
-            "Crowbar"
-          ],
-          "album": "Sonic Excess In Its Purest Form",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
-          "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
-          "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo",
-          "duration_ms": 238266
-        },
-        {
-          "rank": 4,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -866,6 +862,18 @@
           "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
           "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
           "duration_ms": 277662
+        },
+        {
+          "rank": 4,
+          "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
+          "artists": [
+            "Crowbar"
+          ],
+          "album": "Sonic Excess In Its Purest Form",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+          "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
+          "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo",
+          "duration_ms": 238266
         },
         {
           "rank": 5,
@@ -1963,6 +1971,19 @@
         },
         {
           "rank": 11,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 12,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -1976,7 +1997,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
           "artists": [
             "Crowbar"
@@ -1988,7 +2009,7 @@
           "duration_ms": 238266
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -2000,7 +2021,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -2012,7 +2033,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "My Own Summer (Shove It)",
           "artists": [
             "Deftones"
@@ -2024,7 +2045,7 @@
           "duration_ms": 214760
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -2034,19 +2055,6 @@
           "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
           "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
           "duration_ms": 112733
-        },
-        {
-          "rank": 17,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
         },
         {
           "rank": 18,
@@ -2147,6 +2155,18 @@
         },
         {
           "rank": 26,
+          "name": "Sad Girl",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
+          "url": "https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq",
+          "duration_ms": 317760
+        },
+        {
+          "rank": 27,
           "name": "BRUTAL AURAA",
           "artists": [
             "443RAVES"
@@ -2158,7 +2178,7 @@
           "duration_ms": 77251
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Art Deco",
           "artists": [
             "Lana Del Rey"
@@ -2168,18 +2188,6 @@
           "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
           "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF",
           "duration_ms": 295066
-        },
-        {
-          "rank": 28,
-          "name": "Sad Girl",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
-          "url": "https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq",
-          "duration_ms": 317760
         },
         {
           "rank": 29,
