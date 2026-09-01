@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:22:55.309Z",
+  "generated_at": "2026-09-01T08:17:37.848Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -759,6 +759,14 @@
         },
         {
           "rank": 18,
+          "name": "Øneheart",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
+          "genres": [],
+          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "rank": 19,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -766,7 +774,7 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": ".diedlonely",
           "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
           "genres": [],
@@ -774,7 +782,7 @@
           "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
@@ -782,7 +790,7 @@
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "wiv",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6322459df61bd6af4b46163",
           "genres": [],
@@ -790,7 +798,7 @@
           "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Gibran Alcocer",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
           "genres": [],
@@ -798,7 +806,7 @@
           "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -806,7 +814,15 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "my head is empty",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
+          "genres": [],
+          "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "rank": 26,
           "name": "Led Zeppelin",
           "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
           "genres": [],
@@ -814,7 +830,7 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],

@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-01T00:22:55.611Z",
+  "updated_at": "2026-09-01T08:17:38.083Z",
   "is_playing": false,
   "track": {
-    "name": "Gallowdance",
+    "name": "gray cat",
     "artists": [
-      "Lebanon Hanover"
+      "nleave",
+      "wintercat"
     ],
-    "album": "Tomb for Two",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
-    "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo"
+    "album": "gray cat",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+    "uri": "spotify:track:5WIaKimmml8rsXap5iSoUp"
   },
-  "played_at": "2026-08-31T22:01:33.984Z"
+  "played_at": "2026-09-01T03:08:17.384Z"
 }
