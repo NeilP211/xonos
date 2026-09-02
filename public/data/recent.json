@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-09-02T18:25:11.490Z",
+  "updated_at": "2026-09-02T22:58:16.919Z",
   "plays": [
-    {
-      "played_at": "2026-06-05T23:04:21.894Z",
-      "name": "Welcome To The Party",
-      "artists": [
-        "Pop Smoke"
-      ],
-      "album": "Meet The Woo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c1522381cb5d91ef16326867",
-      "uri": "spotify:track:16PAC7NLpbryofiPTlqTFK",
-      "duration_ms": 214960
-    },
-    {
-      "played_at": "2026-06-06T03:43:29.700Z",
-      "name": "wistful",
-      "artists": [
-        "Øneheart",
-        "james king"
-      ],
-      "album": "wistful",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ac7585041cf0f4981a61250a",
-      "uri": "spotify:track:3MRsE4kOIhk4FNTTwu3X6w",
-      "duration_ms": 157183
-    },
     {
       "played_at": "2026-06-06T04:17:49.325Z",
       "name": "Wherever I May Roam (Remastered)",
@@ -22648,6 +22625,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273df1e0c6802ff4723a425179c",
       "uri": "spotify:track:2NHkwSwm6C6eAX3z6xm7Uy",
       "duration_ms": 212938
+    },
+    {
+      "played_at": "2026-09-02T21:09:17.903Z",
+      "name": "I'm God - Best Part Looped",
+      "artists": [
+        "Crystalline"
+      ],
+      "album": "I'm God (Best Part Looped)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f1c82036797341ff30a00bf",
+      "uri": "spotify:track:0fOnj927axijY8dAM352zj",
+      "duration_ms": 88173
+    },
+    {
+      "played_at": "2026-09-02T21:33:01.328Z",
+      "name": "Idea 1",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f55e4844869257e24d9eb2f0",
+      "uri": "spotify:track:3kJACFlgn1rg0I0l4XmzLI",
+      "duration_ms": 154500
     }
   ]
 }
