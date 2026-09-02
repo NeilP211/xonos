@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-02T02:54:22.893Z",
-  "is_playing": true,
+  "updated_at": "2026-09-02T07:37:53.171Z",
+  "is_playing": false,
   "track": {
-    "name": "Resonance - Slowed & Reverb",
+    "name": "Resonance",
     "artists": [
-      "noturgf"
+      "Home"
     ],
-    "album": "Resonance (Slowed & Reverb)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
-    "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv"
+    "album": "Odyssey",
+    "image": "https://i.scdn.co/image/ab67616d0000b273df1e0c6802ff4723a425179c",
+    "uri": "spotify:track:2NHkwSwm6C6eAX3z6xm7Uy"
   },
-  "played_at": "2026-09-02T02:54:22.893Z"
+  "played_at": "2026-09-02T03:43:23.549Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:54:22.589Z",
+  "generated_at": "2026-09-02T07:37:53.035Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -280,18 +280,6 @@
         },
         {
           "rank": 23,
-          "name": "Cherry Waves",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Saturday Night Wrist",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-          "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-          "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
-          "duration_ms": 317706
-        },
-        {
-          "rank": 24,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -304,7 +292,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "God Knows I Tried",
           "artists": [
             "Lana Del Rey"
@@ -316,7 +304,7 @@
           "duration_ms": 280653
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -328,7 +316,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -340,7 +328,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "IN THE H3ART #HARDSTYLE - slowed",
           "artists": [
             "AD0RKEN",
@@ -353,19 +341,7 @@
           "duration_ms": 75880
         },
         {
-          "rank": 29,
-          "name": "Down Under",
-          "artists": [
-            "Men At Work"
-          ],
-          "album": "Business As Usual",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a",
-          "uri": "spotify:track:5pSvjjfsh34sLrkYSNGCl4",
-          "url": "https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4",
-          "duration_ms": 225706
-        },
-        {
-          "rank": 30,
+          "rank": 28,
           "name": "Vlone - Super Slowed Hardcore Remix",
           "artists": [
             "tapzen"
@@ -377,7 +353,7 @@
           "duration_ms": 156894
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -390,7 +366,19 @@
           "duration_ms": 201176
         },
         {
-          "rank": 32,
+          "rank": 30,
+          "name": "Cherry Waves",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Saturday Night Wrist",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+          "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+          "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
+          "duration_ms": 317706
+        },
+        {
+          "rank": 31,
           "name": "Shadow Lady - Slowed + Reverb",
           "artists": [
             "Portwave"
@@ -402,7 +390,7 @@
           "duration_ms": 335122
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Its Every Night Sis",
           "artists": [
             "Ricegum",
@@ -415,7 +403,7 @@
           "duration_ms": 155193
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -427,7 +415,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Pink Champagne Lana",
           "artists": [
             "LNA43"
@@ -439,7 +427,7 @@
           "duration_ms": 359336
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Pretty",
           "artists": [
             "Coco & Clair Clair",
@@ -452,7 +440,7 @@
           "duration_ms": 224343
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Frick Da Police",
           "artists": [
             "Ricegum"
@@ -464,7 +452,7 @@
           "duration_ms": 127058
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -477,7 +465,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -489,7 +477,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Till Oblivion - Radio Edit",
           "artists": [
             "Somna",
@@ -503,7 +491,7 @@
           "duration_ms": 265454
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -515,7 +503,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -527,7 +515,7 @@
           "duration_ms": 210906
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -537,6 +525,18 @@
           "uri": "spotify:track:0WFm91xboijAqLzd6KHrxt",
           "url": "https://open.spotify.com/track/0WFm91xboijAqLzd6KHrxt",
           "duration_ms": 130909
+        },
+        {
+          "rank": 43,
+          "name": "Resonance - Slowed & Reverb",
+          "artists": [
+            "noturgf"
+          ],
+          "album": "Resonance (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
+          "duration_ms": 318169
         },
         {
           "rank": 44,
@@ -554,18 +554,6 @@
         },
         {
           "rank": 45,
-          "name": "Don't Dream It's Over",
-          "artists": [
-            "Crowded House"
-          ],
-          "album": "Crowded House",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
-          "duration_ms": 236933
-        },
-        {
-          "rank": 46,
           "name": "patchmade",
           "artists": [
             "xaviersobased"
@@ -577,7 +565,7 @@
           "duration_ms": 112848
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -590,7 +578,7 @@
           "duration_ms": 208561
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Cry Kill Die",
           "artists": [
             "Cover Del Rey"
@@ -602,7 +590,7 @@
           "duration_ms": 340055
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Style",
           "artists": [
             "Taylor Swift"
@@ -614,7 +602,7 @@
           "duration_ms": 231000
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -624,6 +612,18 @@
           "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
           "url": "https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT",
           "duration_ms": 152000
+        },
+        {
+          "rank": 50,
+          "name": "Судно (Борис Рыжий)",
+          "artists": [
+            "Molchat Doma"
+          ],
+          "album": "Этажи",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+          "uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
+          "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO",
+          "duration_ms": 141394
         }
       ],
       "artists": [
@@ -677,14 +677,6 @@
         },
         {
           "rank": 7,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 8,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
@@ -692,7 +684,7 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
@@ -700,7 +692,7 @@
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -708,7 +700,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -716,7 +708,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9f14290929a9973433c1bb60",
           "genres": [],
@@ -724,7 +716,7 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -732,7 +724,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -740,7 +732,7 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Lost Sky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
           "genres": [],
@@ -748,7 +740,7 @@
           "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
@@ -756,12 +748,20 @@
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "rank": 17,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 18,

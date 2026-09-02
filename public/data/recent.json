@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-09-02T02:54:22.740Z",
+  "updated_at": "2026-09-02T07:37:53.131Z",
   "plays": [
-    {
-      "played_at": "2026-06-05T17:18:22.082Z",
-      "name": "Devotion",
-      "artists": [
-        "Lance Savali"
-      ],
-      "album": "Devotion",
-      "image": "https://i.scdn.co/image/ab67616d0000b27395d861b84734bd0712ddb443",
-      "uri": "spotify:track:3BM5hoJ168Kh4hYEhiNxwK",
-      "duration_ms": 136406
-    },
-    {
-      "played_at": "2026-06-05T22:44:18.841Z",
-      "name": "Dancing In the Dark",
-      "artists": [
-        "Bruce Springsteen"
-      ],
-      "album": "Born In The U.S.A.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
-      "uri": "spotify:track:7FwBtcecmlpc1sLySPXeGE",
-      "duration_ms": 245296
-    },
-    {
-      "played_at": "2026-06-05T22:47:04.705Z",
-      "name": "That’s So True",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
-      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-      "duration_ms": 166300
-    },
-    {
-      "played_at": "2026-06-05T22:55:06.840Z",
-      "name": "AirForce",
-      "artists": [
-        "DigDat"
-      ],
-      "album": "AirForce",
-      "image": "https://i.scdn.co/image/ab67616d0000b273239cc1b00dbe1a1147dad01e",
-      "uri": "spotify:track:3DLRRpaDETZYltj3KZ7kxo",
-      "duration_ms": 221467
-    },
     {
       "played_at": "2026-06-05T23:04:21.894Z",
       "name": "Welcome To The Party",
@@ -22647,6 +22603,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e",
       "uri": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
       "duration_ms": 184447
+    },
+    {
+      "played_at": "2026-09-02T02:56:23.434Z",
+      "name": "Resonance - Slowed & Reverb",
+      "artists": [
+        "noturgf"
+      ],
+      "album": "Resonance (Slowed & Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+      "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+      "duration_ms": 318169
+    },
+    {
+      "played_at": "2026-09-02T03:01:17.292Z",
+      "name": "Resonance x Genesis x Not allowed - Slowed",
+      "artists": [
+        "mikeeysmind"
+      ],
+      "album": "Resonance x Genesis x Not allowed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6bda9e64ed0ee73bbff71da",
+      "uri": "spotify:track:42FQ6SWMnzb6QAVEuTBTiO",
+      "duration_ms": 293407
+    },
+    {
+      "played_at": "2026-09-02T03:04:26.332Z",
+      "name": "U Weren't Here I Really Miss You - slowed",
+      "artists": [
+        "Cult Member",
+        "Mia Martina"
+      ],
+      "album": "U Weren't Here I Really Miss You (slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e85d09d7a1cbf8fb5aa5cf0",
+      "uri": "spotify:track:0gCkIC8Zo808SZ1BzYIGwV",
+      "duration_ms": 188464
+    },
+    {
+      "played_at": "2026-09-02T03:43:23.549Z",
+      "name": "Resonance",
+      "artists": [
+        "Home"
+      ],
+      "album": "Odyssey",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df1e0c6802ff4723a425179c",
+      "uri": "spotify:track:2NHkwSwm6C6eAX3z6xm7Uy",
+      "duration_ms": 212938
     }
   ]
 }
