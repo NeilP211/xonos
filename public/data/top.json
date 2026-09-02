@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:00:19.617Z",
+  "generated_at": "2026-09-02T02:54:22.589Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1691,6 +1691,14 @@
         },
         {
           "rank": 29,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 30,
           "name": "Ricegum",
           "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
           "genres": [],
@@ -1698,20 +1706,12 @@
           "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
           "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "rank": 31,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "rank": 32,
@@ -1981,18 +1981,6 @@
         },
         {
           "rank": 10,
-          "name": "Ultraviolence",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
-          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-          "duration_ms": 251480
-        },
-        {
-          "rank": 11,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -2003,6 +1991,18 @@
           "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
           "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
           "duration_ms": 277662
+        },
+        {
+          "rank": 11,
+          "name": "Ultraviolence",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
+          "duration_ms": 251480
         },
         {
           "rank": 12,

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-01T23:00:19.888Z",
-  "is_playing": false,
+  "updated_at": "2026-09-02T02:54:22.893Z",
+  "is_playing": true,
   "track": {
-    "name": "Slow Down",
+    "name": "Resonance - Slowed & Reverb",
     "artists": [
-      "Selena Gomez"
+      "noturgf"
     ],
-    "album": "Stars Dance (Bonus Track Version)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604",
-    "uri": "spotify:track:2OsEJFTfzfjG4oC92cuP2c"
+    "album": "Resonance (Slowed & Reverb)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+    "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv"
   },
-  "played_at": "2026-09-01T21:54:48.479Z"
+  "played_at": "2026-09-02T02:54:22.893Z"
 }

@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-01T23:00:19.783Z",
+  "updated_at": "2026-09-02T02:54:22.740Z",
   "plays": [
-    {
-      "played_at": "2026-06-05T17:17:58.193Z",
-      "name": "I'm Not Alone - 2019 Edit",
-      "artists": [
-        "Calvin Harris"
-      ],
-      "album": "96 Months",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
-      "uri": "spotify:track:6zAUCritANdhceCMLVB8xR",
-      "duration_ms": 201313
-    },
     {
       "played_at": "2026-06-05T17:18:22.082Z",
       "name": "Devotion",
@@ -22647,6 +22636,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604",
       "uri": "spotify:track:2OsEJFTfzfjG4oC92cuP2c",
       "duration_ms": 210293
+    },
+    {
+      "played_at": "2026-09-02T02:46:57.053Z",
+      "name": "MIDDLE OF THE NIGHT",
+      "artists": [
+        "Elley Duhé"
+      ],
+      "album": "MIDDLE OF THE NIGHT",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e",
+      "uri": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
+      "duration_ms": 184447
     }
   ]
 }
