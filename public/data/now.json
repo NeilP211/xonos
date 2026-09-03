@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-03T13:14:44.045Z",
-  "is_playing": false,
+  "updated_at": "2026-09-03T18:20:06.490Z",
+  "is_playing": true,
   "track": {
-    "name": "Idea 1",
+    "name": "Idea 7 (Slowed + Reverb)",
     "artists": [
       "Gibran Alcocer"
     ],
-    "album": "Idea 1",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f55e4844869257e24d9eb2f0",
-    "uri": "spotify:track:3kJACFlgn1rg0I0l4XmzLI"
+    "album": "Idea 7 (Remixes)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27304aea8ec014ac026bc58c74e",
+    "uri": "spotify:track:1TMjYr0cOiVgiDsatvsQPI"
   },
-  "played_at": "2026-09-02T21:33:01.328Z"
+  "played_at": "2026-09-03T18:20:06.490Z"
 }
