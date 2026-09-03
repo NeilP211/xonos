@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:57:56.810Z",
+  "generated_at": "2026-09-03T07:55:10.314Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -942,19 +942,6 @@
         },
         {
           "rank": 9,
-          "name": "Yung Nigga Shit",
-          "artists": [
-            "Glokk40Spaz",
-            "2wo2imes"
-          ],
-          "album": "2wo Glokks",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
-          "duration_ms": 135510
-        },
-        {
-          "rank": 10,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -967,6 +954,19 @@
           "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
           "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
           "duration_ms": 250285
+        },
+        {
+          "rank": 10,
+          "name": "Yung Nigga Shit",
+          "artists": [
+            "Glokk40Spaz",
+            "2wo2imes"
+          ],
+          "album": "2wo Glokks",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+          "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+          "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
+          "duration_ms": 135510
         },
         {
           "rank": 11,
@@ -1843,19 +1843,19 @@
         },
         {
           "rank": 49,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "rank": 50,
           "name": "SugarHill Keem",
           "image": "https://i.scdn.co/image/ab67616d0000b273693242fcb46541d1f52f7d53",
           "genres": [],
           "uri": "spotify:artist:7DY7ygEiVKNki7ZIPnZoNB",
           "url": "https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB"
-        },
-        {
-          "rank": 50,
-          "name": "Edot Babyy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb52873826fdcc5bc1cd9a494c",
-          "genres": [],
-          "uri": "spotify:artist:3bOV7IH0Lb13ifOUrwACa7",
-          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
         }
       ]
     },
