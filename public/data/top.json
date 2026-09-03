@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:20:06.125Z",
+  "generated_at": "2026-09-03T23:03:17.613Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -529,6 +529,18 @@
         },
         {
           "rank": 43,
+          "name": "Wild At Heart",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Chemtrails Over The Country Club",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+          "uri": "spotify:track:5RJot1fR8C90lLXzHtUqpo",
+          "url": "https://open.spotify.com/track/5RJot1fR8C90lLXzHtUqpo",
+          "duration_ms": 246609
+        },
+        {
+          "rank": 44,
           "name": "Vlone - Super Slowed Hardcore Remix",
           "artists": [
             "tapzen"
@@ -540,7 +552,7 @@
           "duration_ms": 156894
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -552,7 +564,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -566,7 +578,7 @@
           "duration_ms": 259071
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "patchmade",
           "artists": [
             "xaviersobased"
@@ -578,7 +590,19 @@
           "duration_ms": 112848
         },
         {
-          "rank": 47,
+          "rank": 48,
+          "name": "in your head",
+          "artists": [
+            "cloudyfield"
+          ],
+          "album": "in your head",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+          "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+          "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
+          "duration_ms": 170000
+        },
+        {
+          "rank": 49,
           "name": "Sky High",
           "artists": [
             "Elektronomia"
@@ -590,7 +614,7 @@
           "duration_ms": 236254
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Turn It Up",
           "artists": [
             "Anikdote"
@@ -600,30 +624,6 @@
           "uri": "spotify:track:0gC25fBDME4eketFhsMxWb",
           "url": "https://open.spotify.com/track/0gC25fBDME4eketFhsMxWb",
           "duration_ms": 247547
-        },
-        {
-          "rank": 49,
-          "name": "Style",
-          "artists": [
-            "Taylor Swift"
-          ],
-          "album": "1989 (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
-          "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e",
-          "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e",
-          "duration_ms": 231000
-        },
-        {
-          "rank": 50,
-          "name": "Судно (Борис Рыжий)",
-          "artists": [
-            "Molchat Doma"
-          ],
-          "album": "Этажи",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
-          "uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
-          "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO",
-          "duration_ms": 141394
         }
       ],
       "artists": [
@@ -693,6 +693,14 @@
         },
         {
           "rank": 9,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "rank": 10,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -700,7 +708,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9f14290929a9973433c1bb60",
           "genres": [],
@@ -708,7 +716,7 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
           "genres": [],
@@ -716,7 +724,7 @@
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -724,7 +732,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -732,7 +740,7 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lost Sky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
           "genres": [],
@@ -740,7 +748,7 @@
           "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -748,20 +756,12 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
           "uri": "spotify:artist:40HDiLfKm0tXk2FxlJx6aO",
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
-        },
-        {
-          "rank": 17,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
-          "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
           "rank": 18,
