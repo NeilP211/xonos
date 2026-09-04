@@ -1,64 +1,6 @@
 {
-  "updated_at": "2026-09-04T18:05:13.352Z",
+  "updated_at": "2026-09-04T22:46:27.232Z",
   "plays": [
-    {
-      "played_at": "2026-06-06T17:23:51.046Z",
-      "name": "Just For the Night",
-      "artists": [
-        "Shankz",
-        "javicanx"
-      ],
-      "album": "Just For the Night",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bdf383636c8661480a946e49",
-      "uri": "spotify:track:1QbVZ0ts3B4LRRCG1gO5v8",
-      "duration_ms": 205201
-    },
-    {
-      "played_at": "2026-06-06T17:26:46.316Z",
-      "name": "I Need You",
-      "artists": [
-        "TWOFACED",
-        "Nikita W."
-      ],
-      "album": "I Need You",
-      "image": "https://i.scdn.co/image/ab67616d0000b273922f280c3fcb7581a5d8a35f",
-      "uri": "spotify:track:2EMj2j03BtJeAmbfl7TeEr",
-      "duration_ms": 174818
-    },
-    {
-      "played_at": "2026-06-06T17:31:19.576Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-06-06T17:34:14.590Z",
-      "name": "u can get it",
-      "artists": [
-        "Soul Legend"
-      ],
-      "album": "u can get it",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308c39ac848047637be4b1379",
-      "uri": "spotify:track:3TgBBgdNupVOVKDVskdO0f",
-      "duration_ms": 174545
-    },
-    {
-      "played_at": "2026-06-06T17:37:49.340Z",
-      "name": "Paradise",
-      "artists": [
-        "Lewis Taylor"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a4a592cc8d5385428d8f7b0",
-      "uri": "spotify:track:1mjJPwJaSnj1wMWazselPS",
-      "duration_ms": 214291
-    },
     {
       "played_at": "2026-06-06T17:41:12.369Z",
       "name": "House Music Will Never Die",
@@ -22634,6 +22576,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
       "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
       "duration_ms": 210906
+    },
+    {
+      "played_at": "2026-09-04T20:43:49.108Z",
+      "name": "Titanium (feat. Sia)",
+      "artists": [
+        "David Guetta",
+        "Sia"
+      ],
+      "album": "Nothing but the Beat 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b27387e2f8346625bb6fd20d52be",
+      "uri": "spotify:track:0lHAMNU8RGiIObScrsRgmP",
+      "duration_ms": 245040
+    },
+    {
+      "played_at": "2026-09-04T20:44:58.144Z",
+      "name": "Titanium (feat. Sia)",
+      "artists": [
+        "David Guetta",
+        "Sia"
+      ],
+      "album": "Nothing but the Beat 2.0",
+      "image": "https://i.scdn.co/image/ab67616d0000b27387e2f8346625bb6fd20d52be",
+      "uri": "spotify:track:0lHAMNU8RGiIObScrsRgmP",
+      "duration_ms": 245040
+    },
+    {
+      "played_at": "2026-09-04T21:13:26.212Z",
+      "name": "няшка - Super Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "няшка",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302265d430e12b1563c81f1e5",
+      "uri": "spotify:track:3OW4xZmhF0cl5x1fChLGeP",
+      "duration_ms": 120000
+    },
+    {
+      "played_at": "2026-09-04T21:15:21.920Z",
+      "name": "Sun Down, I'm Up",
+      "artists": [
+        "Lil Yawh",
+        "Cryjng"
+      ],
+      "album": "Sun Down, I'm Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fe5b2db5107a8a3791ba0bd",
+      "uri": "spotify:track:3H55CCf05tqTMGUG9Bm2ug",
+      "duration_ms": 115226
+    },
+    {
+      "played_at": "2026-09-04T21:49:13.455Z",
+      "name": "Moosy - viral",
+      "artists": [
+        "ilyhiryu"
+      ],
+      "album": "Moosy (viral)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
+      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
+      "duration_ms": 140197
     }
   ]
 }
