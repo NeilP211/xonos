@@ -1,31 +1,6 @@
 {
-  "updated_at": "2026-09-04T13:09:23.514Z",
+  "updated_at": "2026-09-04T18:05:13.352Z",
   "plays": [
-    {
-      "played_at": "2026-06-06T17:17:26.616Z",
-      "name": "Who do u?",
-      "artists": [
-        "JACK MARLOW",
-        "Phantom Records"
-      ],
-      "album": "Who do u?",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
-      "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf",
-      "duration_ms": 196874
-    },
-    {
-      "played_at": "2026-06-06T17:20:25.395Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
     {
       "played_at": "2026-06-06T17:23:51.046Z",
       "name": "Just For the Night",
@@ -22637,6 +22612,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38",
       "uri": "spotify:track:26ZzSLUJMmYp5u1hDELEWH",
       "duration_ms": 184760
+    },
+    {
+      "played_at": "2026-09-03T23:33:57.660Z",
+      "name": "TiK ToK",
+      "artists": [
+        "Kesha"
+      ],
+      "album": "Animal (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27397c7b770b28ffeed164f4d0e",
+      "uri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "duration_ms": 199693
+    },
+    {
+      "played_at": "2026-09-04T15:17:47.839Z",
+      "name": "The Greatest",
+      "artists": [
+        "Sia"
+      ],
+      "album": "This Is Acting (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+      "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+      "duration_ms": 210906
     }
   ]
 }
