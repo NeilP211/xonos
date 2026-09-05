@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:22:02.910Z",
+  "generated_at": "2026-09-05T17:08:38.074Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -42,18 +42,6 @@
         },
         {
           "rank": 4,
-          "name": "сакадзуки - Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "сакадзуки",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
-          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
-          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
-          "duration_ms": 114995
-        },
-        {
-          "rank": 5,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -66,7 +54,31 @@
           "duration_ms": 391403
         },
         {
+          "rank": 5,
+          "name": "Misirlou",
+          "artists": [
+            "Dick Dale & His Del-Tones"
+          ],
+          "album": "Reverb at High Tide",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
+          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
+          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
+          "duration_ms": 134933
+        },
+        {
           "rank": 6,
+          "name": "сакадзуки - Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
+        },
+        {
+          "rank": 7,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -78,7 +90,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -93,7 +105,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Idea 22 - Slowed + Reverb",
           "artists": [
             "Gibran Alcocer"
@@ -105,7 +117,7 @@
           "duration_ms": 178800
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -116,18 +128,6 @@
           "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
           "url": "https://open.spotify.com/track/4cPjdCjNaGEgK0uXvjd7ql",
           "duration_ms": 215196
-        },
-        {
-          "rank": 10,
-          "name": "Misirlou",
-          "artists": [
-            "Dick Dale & His Del-Tones"
-          ],
-          "album": "Reverb at High Tide",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
-          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
-          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
-          "duration_ms": 134933
         },
         {
           "rank": 11,
@@ -169,6 +169,18 @@
         },
         {
           "rank": 14,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
+        },
+        {
+          "rank": 15,
           "name": "Jacking the Trend",
           "artists": [
             "Please Don't Lack"
@@ -180,7 +192,7 @@
           "duration_ms": 169646
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
           "artists": [
             "Charli xcx",
@@ -194,7 +206,7 @@
           "duration_ms": 232933
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Cachalot - Super Slowed",
           "artists": [
             "LUKE"
@@ -206,7 +218,7 @@
           "duration_ms": 172445
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -217,18 +229,6 @@
           "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
           "url": "https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E",
           "duration_ms": 120702
-        },
-        {
-          "rank": 18,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
         },
         {
           "rank": 19,
