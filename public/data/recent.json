@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-09-05T07:34:04.419Z",
+  "updated_at": "2026-09-05T12:22:03.015Z",
   "plays": [
-    {
-      "played_at": "2026-06-06T17:41:12.369Z",
-      "name": "House Music Will Never Die",
-      "artists": [
-        "Tim Sanders"
-      ],
-      "album": "House Music Will Never Die",
-      "image": "https://i.scdn.co/image/ab67616d0000b273866aa8e175eb80b9d9e2d1fa",
-      "uri": "spotify:track:4K3DmvSqBEo8lG0OkQjL0B",
-      "duration_ms": 202570
-    },
-    {
-      "played_at": "2026-06-06T17:47:12.687Z",
-      "name": "Thinking About You (feat. Ayah Marar)",
-      "artists": [
-        "Calvin Harris",
-        "Ayah Marar"
-      ],
-      "album": "18 Months",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
-      "uri": "spotify:track:1KtD0xaLAikgIt5tPbteZQ",
-      "duration_ms": 247933
-    },
     {
       "played_at": "2026-06-06T17:49:47.022Z",
       "name": "Too Much For Me",
@@ -22634,6 +22611,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
       "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
       "duration_ms": 140197
+    },
+    {
+      "played_at": "2026-09-05T02:39:25.826Z",
+      "name": "Модель (Model) - super slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "Модель (Model)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273715f60b43a1f624680612aaf",
+      "uri": "spotify:track:0U1hgBw6ulEWibLpNLh6vH",
+      "duration_ms": 171525
+    },
+    {
+      "played_at": "2026-09-05T12:11:52.658Z",
+      "name": "Miserlou",
+      "artists": [
+        "Dick Dale & His Del-Tones"
+      ],
+      "album": "Surfer's Choice",
+      "image": "https://i.scdn.co/image/ab67616d0000b273189c10c705d2967fc0f503f7",
+      "uri": "spotify:track:587i4g5fwUDAdl5xTP7UtW",
+      "duration_ms": 137426
     }
   ]
 }
