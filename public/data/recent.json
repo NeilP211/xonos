@@ -1,160 +1,6 @@
 {
-  "updated_at": "2026-09-06T07:46:01.634Z",
+  "updated_at": "2026-09-06T12:36:52.422Z",
   "plays": [
-    {
-      "played_at": "2026-06-06T18:14:06.765Z",
-      "name": "Tennessee Whiskey",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Traveller",
-      "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
-      "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
-      "duration_ms": 293293
-    },
-    {
-      "played_at": "2026-06-06T18:17:42.496Z",
-      "name": "7 Summers",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "Dangerous: The Double Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-      "duration_ms": 210506
-    },
-    {
-      "played_at": "2026-06-06T18:20:36.033Z",
-      "name": "Picture To Burn",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "album": "Taylor Swift",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
-      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
-      "duration_ms": 173066
-    },
-    {
-      "played_at": "2026-06-06T20:32:14.467Z",
-      "name": "Loving You On My Mind",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Higher",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f",
-      "uri": "spotify:track:28UbGXKOcm70brxGctiek4",
-      "duration_ms": 209040
-    },
-    {
-      "played_at": "2026-06-06T20:45:42.632Z",
-      "name": "Loving You On My Mind",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Higher",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f",
-      "uri": "spotify:track:28UbGXKOcm70brxGctiek4",
-      "duration_ms": 209040
-    },
-    {
-      "played_at": "2026-06-06T20:49:54.630Z",
-      "name": "Thought It Was Love",
-      "artists": [
-        "Ty Myers"
-      ],
-      "album": "The Select",
-      "image": "https://i.scdn.co/image/ab67616d0000b273494cfae243393ca4d90523cd",
-      "uri": "spotify:track:4fVoX6BG2jFhPx6uHKevpF",
-      "duration_ms": 246141
-    },
-    {
-      "played_at": "2026-06-06T20:53:25.588Z",
-      "name": "7 Summers",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "Dangerous: The Double Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-      "duration_ms": 210506
-    },
-    {
-      "played_at": "2026-06-06T20:57:55.874Z",
-      "name": "Ends of the Earth",
-      "artists": [
-        "Ty Myers"
-      ],
-      "album": "Ends of the Earth",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342fa570246439211b1136654",
-      "uri": "spotify:track:30rU9CBF5cwiexNHJffkLS",
-      "duration_ms": 269830
-    },
-    {
-      "played_at": "2026-06-06T21:01:49.670Z",
-      "name": "28",
-      "artists": [
-        "Zach Bryan"
-      ],
-      "album": "The Great American Bar Scene",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732bcbc6c38c3e8a35b32223c2",
-      "uri": "spotify:track:6dANcQ00uiiWoBDYVrsGvz",
-      "duration_ms": 233333
-    },
-    {
-      "played_at": "2026-06-06T21:04:53.866Z",
-      "name": "Something Like That",
-      "artists": [
-        "Tim McGraw"
-      ],
-      "album": "A Place In The Sun",
-      "image": "https://i.scdn.co/image/ab67616d0000b273674c7a81aa925a9d6071f60c",
-      "uri": "spotify:track:6leiB1fEsTnVCuPiielde5",
-      "duration_ms": 183733
-    },
-    {
-      "played_at": "2026-06-06T21:07:31.452Z",
-      "name": "I Love You, I'm Sorry",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
-      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
-      "duration_ms": 157146
-    },
-    {
-      "played_at": "2026-06-06T21:11:17.804Z",
-      "name": "Tonight Tonight",
-      "artists": [
-        "Hot Chelle Rae"
-      ],
-      "album": "Whatever",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b97f1c9a0273bfbdc6bd791",
-      "uri": "spotify:track:2i0AUcEnsDm3dsqLrFWUCq",
-      "duration_ms": 200466
-    },
-    {
-      "played_at": "2026-06-06T21:15:35.002Z",
-      "name": "Two Princes",
-      "artists": [
-        "Spin Doctors"
-      ],
-      "album": "Pocket Full Of Kryptonite",
-      "image": "https://i.scdn.co/image/ab67616d0000b273436e38032cf3389d01426eca",
-      "uri": "spotify:track:4ePP9So5xRzspjLFVVbj90",
-      "duration_ms": 256733
-    },
-    {
-      "played_at": "2026-06-06T22:14:46.014Z",
-      "name": "Brooklyn Baby",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-      "duration_ms": 351640
-    },
     {
       "played_at": "2026-06-06T22:15:25.050Z",
       "name": "Émotions",
@@ -22633,6 +22479,164 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
       "uri": "spotify:track:0TcJ7QWpggdSg8t0fHThHm",
       "duration_ms": 216333
+    },
+    {
+      "played_at": "2026-09-05T20:08:41.013Z",
+      "name": "Lost at Sea",
+      "artists": [
+        "Rob Grant",
+        "Lana Del Rey"
+      ],
+      "album": "Lost At Sea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273281f863d259823fb192a0ddf",
+      "uri": "spotify:track:6N7NO9Z1Hi6la8dqG3Aoew",
+      "duration_ms": 187906
+    },
+    {
+      "played_at": "2026-09-05T20:13:33.761Z",
+      "name": "Wait For Life",
+      "artists": [
+        "Emile Haynie",
+        "Lana Del Rey"
+      ],
+      "album": "We Fall",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8a560919c8e841fd34ad5f",
+      "uri": "spotify:track:6FfpDslh2zhECLBbqLWE22",
+      "duration_ms": 292280
+    },
+    {
+      "played_at": "2026-09-05T20:17:24.103Z",
+      "name": "Suburban House",
+      "artists": [
+        "Holly Macve",
+        "Lana Del Rey"
+      ],
+      "album": "Suburban House",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe52d887ac28755a40dbb927",
+      "uri": "spotify:track:676TvM26wVq88afbYDPRO3",
+      "duration_ms": 229878
+    },
+    {
+      "played_at": "2026-09-05T20:21:18.617Z",
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "White Feather Hawk Tail Deer Hunter",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735137f42d1cbb2a831d56ff3f",
+      "uri": "spotify:track:7IM4xK4W4n06UAV48ZXMup",
+      "duration_ms": 234049
+    },
+    {
+      "played_at": "2026-09-05T20:26:11.355Z",
+      "name": "Wait For Life",
+      "artists": [
+        "Emile Haynie",
+        "Lana Del Rey"
+      ],
+      "album": "We Fall",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8a560919c8e841fd34ad5f",
+      "uri": "spotify:track:6FfpDslh2zhECLBbqLWE22",
+      "duration_ms": 292280
+    },
+    {
+      "played_at": "2026-09-05T20:30:07.494Z",
+      "name": "Dark But Just A Game",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Chemtrails Over The Country Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+      "uri": "spotify:track:1dBBmAddRRIw6GwF7dPz6z",
+      "duration_ms": 235664
+    },
+    {
+      "played_at": "2026-09-05T20:34:48.617Z",
+      "name": "God Knows I Tried",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:5R65WfxdtxpTNSIloTfIdM",
+      "duration_ms": 280653
+    },
+    {
+      "played_at": "2026-09-05T20:42:08.534Z",
+      "name": "Miserlou",
+      "artists": [
+        "Dick Dale & His Del-Tones"
+      ],
+      "album": "Surfer's Choice",
+      "image": "https://i.scdn.co/image/ab67616d0000b273189c10c705d2967fc0f503f7",
+      "uri": "spotify:track:587i4g5fwUDAdl5xTP7UtW",
+      "duration_ms": 137426
+    },
+    {
+      "played_at": "2026-09-06T01:04:37.024Z",
+      "name": "White Mustang",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:6eygbzyL6hY8jFQTARDuo9",
+      "duration_ms": 164710
+    },
+    {
+      "played_at": "2026-09-06T01:09:15.464Z",
+      "name": "American",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
+      "duration_ms": 248907
+    },
+    {
+      "played_at": "2026-09-06T01:13:42.241Z",
+      "name": "National Anthem",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
+      "duration_ms": 230520
+    },
+    {
+      "played_at": "2026-09-06T01:17:22.836Z",
+      "name": "Lolita",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:696cNqpF2NwRLzC7KqCurz",
+      "duration_ms": 220040
+    },
+    {
+      "played_at": "2026-09-06T01:22:10.886Z",
+      "name": "Young And Beautiful",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Young And Beautiful",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "duration_ms": 236053
+    },
+    {
+      "played_at": "2026-09-06T02:44:32.192Z",
+      "name": "Ride",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:3l2S2RkGG4lbh7WqmCV3NB",
+      "duration_ms": 289080
     }
   ]
 }
