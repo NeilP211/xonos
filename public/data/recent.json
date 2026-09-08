@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-07T23:16:25.724Z",
+  "updated_at": "2026-09-08T03:05:12.529Z",
   "plays": [
-    {
-      "played_at": "2026-06-07T15:25:31.551Z",
-      "name": "Just The Way You Are",
-      "artists": [
-        "Milky",
-        "Mall Grab"
-      ],
-      "album": "Just The Way You Are",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
-      "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
-      "duration_ms": 159500
-    },
     {
       "played_at": "2026-06-07T17:25:39.285Z",
       "name": "Just The Way You Are",
@@ -22635,6 +22623,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fdfceb44fe179b3098bdd6b7",
       "uri": "spotify:track:5AJumUVqlQIm5uzPOO4BJT",
       "duration_ms": 89509
+    },
+    {
+      "played_at": "2026-09-08T01:44:07.287Z",
+      "name": "Chubina - Slowed",
+      "artists": [
+        "East Duo"
+      ],
+      "album": "Chubina",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fdfceb44fe179b3098bdd6b7",
+      "uri": "spotify:track:5hphuBmK2LHrQvd6gfc0uX",
+      "duration_ms": 116356
     }
   ]
 }
