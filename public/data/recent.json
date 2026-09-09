@@ -1,63 +1,6 @@
 {
-  "updated_at": "2026-09-09T03:06:35.543Z",
+  "updated_at": "2026-09-09T10:45:44.333Z",
   "plays": [
-    {
-      "played_at": "2026-06-09T16:03:15.156Z",
-      "name": "Kifek 3A Fra2e",
-      "artists": [
-        "Fadel Chaker",
-        "Mohamed Chaker"
-      ],
-      "album": "Kifek 3A Fra2e",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ad66d20f0d1afbb42939815c",
-      "uri": "spotify:track:1dDMi1rMxOXGFVDFcF41Ii",
-      "duration_ms": 228236
-    },
-    {
-      "played_at": "2026-06-09T16:08:59.494Z",
-      "name": "Baddi Doub",
-      "artists": [
-        "Elissa"
-      ],
-      "album": "Baddi Doub",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
-      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
-      "duration_ms": 239098
-    },
-    {
-      "played_at": "2026-06-09T16:16:18.894Z",
-      "name": "Baddi Doub",
-      "artists": [
-        "Elissa"
-      ],
-      "album": "Baddi Doub",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
-      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
-      "duration_ms": 239098
-    },
-    {
-      "played_at": "2026-06-09T16:22:04.025Z",
-      "name": "فاكر",
-      "artists": [
-        "Elissa"
-      ],
-      "album": "اسعد واحدة",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b36f08f6d67013dd52ebf9b",
-      "uri": "spotify:track:7x3R3jMAwggZW9VipgKafl",
-      "duration_ms": 344659
-    },
-    {
-      "played_at": "2026-06-09T16:25:25.807Z",
-      "name": "شيخ العشيره عمي",
-      "artists": [
-        "يحيى الدميرى",
-        "محمد الشيخ"
-      ],
-      "album": "شيخ العشيره عمي",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738dd7fd731cdfc1da9e096539",
-      "uri": "spotify:track:2s256i9K5CVyFwS5WTpc8y",
-      "duration_ms": 201333
-    },
     {
       "played_at": "2026-06-09T16:29:20.756Z",
       "name": "Baddi Doub",
@@ -22624,6 +22567,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:0xpq6tciSb9xZJaQ4eyjEY",
       "duration_ms": 192000
+    },
+    {
+      "played_at": "2026-09-08T19:45:31.106Z",
+      "name": "Headlock",
+      "artists": [
+        "Imogen Heap"
+      ],
+      "album": "Speak for Yourself (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396623f4784c88259592fb8a1",
+      "uri": "spotify:track:63Pi2NAx5yCgeLhCTOrEou",
+      "duration_ms": 215338
+    },
+    {
+      "played_at": "2026-09-08T19:52:14.936Z",
+      "name": "On The Floor - Radio Edit",
+      "artists": [
+        "Jennifer Lopez",
+        "Pitbull"
+      ],
+      "album": "On The Floor",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c7fdd07d99c156401073aaa",
+      "uri": "spotify:track:0Oe49j06Bjrxs8PltuVeaW",
+      "duration_ms": 230906
+    },
+    {
+      "played_at": "2026-09-08T19:56:24.110Z",
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artists": [
+        "Shakira",
+        "Wyclef Jean"
+      ],
+      "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
+      "uri": "spotify:track:3d0WouFnFmr0K3kjeza3fF",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-09-08T20:03:55.419Z",
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "artists": [
+        "Fifth Harmony",
+        "Ty Dolla $ign"
+      ],
+      "album": "7/27 (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382db43e5091301205076d6ab",
+      "uri": "spotify:track:4tCtwWceOPWzenK2HAIJSb",
+      "duration_ms": 214477
+    },
+    {
+      "played_at": "2026-09-09T04:31:10.485Z",
+      "name": "Kids",
+      "artists": [
+        "MGMT"
+      ],
+      "album": "Oracular Spectacular",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abdf7749aeb5229dbf305f03",
+      "uri": "spotify:track:1jJci4qxiYcOHhQR247rEU",
+      "duration_ms": 302840
     }
   ]
 }
