@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-09-10T03:06:51.403Z",
+  "updated_at": "2026-09-10T10:37:35.275Z",
   "plays": [
-    {
-      "played_at": "2026-06-09T16:29:20.756Z",
-      "name": "Baddi Doub",
-      "artists": [
-        "Elissa"
-      ],
-      "album": "Baddi Doub",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
-      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
-      "duration_ms": 239098
-    },
-    {
-      "played_at": "2026-06-09T16:33:02.150Z",
-      "name": "Baddi Doub",
-      "artists": [
-        "Elissa"
-      ],
-      "album": "Baddi Doub",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
-      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
-      "duration_ms": 239098
-    },
     {
       "played_at": "2026-06-09T16:37:01.582Z",
       "name": "Baddi Doub",
@@ -22625,6 +22603,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273abdf7749aeb5229dbf305f03",
       "uri": "spotify:track:1jJci4qxiYcOHhQR247rEU",
       "duration_ms": 302840
+    },
+    {
+      "played_at": "2026-09-10T03:21:56.618Z",
+      "name": "Johnny B. Goode",
+      "artists": [
+        "Chuck Berry"
+      ],
+      "album": "Berry Is On Top",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+      "uri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2",
+      "duration_ms": 161560
+    },
+    {
+      "played_at": "2026-09-10T05:01:20.071Z",
+      "name": "Aria Math",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6VK8OMA2FhX4KoS3QCH7rL",
+      "duration_ms": 310000
     }
   ]
 }
