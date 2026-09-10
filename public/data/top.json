@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:37:35.163Z",
+  "generated_at": "2026-09-10T15:50:28.545Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -999,30 +999,6 @@
         },
         {
           "rank": 16,
-          "name": "Mesytara",
-          "artists": [
-            "Lamis Kan"
-          ],
-          "album": "Mesytara",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
-          "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
-          "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
-          "duration_ms": 167688
-        },
-        {
-          "rank": 17,
-          "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
-          "artists": [
-            "Crowbar"
-          ],
-          "album": "Sonic Excess In Its Purest Form",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
-          "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
-          "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo",
-          "duration_ms": 238266
-        },
-        {
-          "rank": 18,
           "name": "شلونه شلونه",
           "artists": [
             "ساريه السواس"
@@ -1034,7 +1010,7 @@
           "duration_ms": 348622
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -1046,7 +1022,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1058,7 +1034,19 @@
           "duration_ms": 299258
         },
         {
-          "rank": 21,
+          "rank": 19,
+          "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
+          "artists": [
+            "Crowbar"
+          ],
+          "album": "Sonic Excess In Its Purest Form",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+          "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
+          "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo",
+          "duration_ms": 238266
+        },
+        {
+          "rank": 20,
           "name": "Kifek 3A Fra2e",
           "artists": [
             "Fadel Chaker",
@@ -1071,7 +1059,7 @@
           "duration_ms": 228236
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -1083,7 +1071,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "сакадзуки - Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -1095,7 +1083,7 @@
           "duration_ms": 114995
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -1105,6 +1093,18 @@
           "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
           "url": "https://open.spotify.com/track/56wX6aQnbsW96GUMTAQX6i",
           "duration_ms": 77135
+        },
+        {
+          "rank": 24,
+          "name": "Mesytara",
+          "artists": [
+            "Lamis Kan"
+          ],
+          "album": "Mesytara",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
+          "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
+          "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
+          "duration_ms": 167688
         },
         {
           "rank": 25,
@@ -1230,19 +1230,6 @@
         },
         {
           "rank": 35,
-          "name": "lilacs - slowed",
-          "artists": [
-            "azrxel",
-            "abxddon"
-          ],
-          "album": "lilacs - slowed",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
-          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
-          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
-          "duration_ms": 70866
-        },
-        {
-          "rank": 36,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -1254,7 +1241,7 @@
           "duration_ms": 208620
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -1267,7 +1254,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -1280,7 +1267,7 @@
           "duration_ms": 391403
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -1292,7 +1279,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -1304,7 +1291,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1316,7 +1303,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1326,6 +1313,19 @@
           "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
           "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
           "duration_ms": 230533
+        },
+        {
+          "rank": 42,
+          "name": "lilacs - slowed",
+          "artists": [
+            "azrxel",
+            "abxddon"
+          ],
+          "album": "lilacs - slowed",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+          "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+          "url": "https://open.spotify.com/track/0ccbLXnIFSRzHcALyvPtde",
+          "duration_ms": 70866
         },
         {
           "rank": 43,
@@ -1365,18 +1365,6 @@
         },
         {
           "rank": 46,
-          "name": "الوتر الحساس",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "نساى",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
-          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
-          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
-          "duration_ms": 261224
-        },
-        {
-          "rank": 47,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1388,7 +1376,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "munni & drugs",
           "artists": [
             "bleood"
@@ -1400,7 +1388,7 @@
           "duration_ms": 130677
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1412,16 +1400,28 @@
           "duration_ms": 153869
         },
         {
-          "rank": 50,
-          "name": "Motamkena",
+          "rank": 49,
+          "name": "Misirlou",
           "artists": [
-            "Lamis Kan"
+            "Dick Dale & His Del-Tones"
           ],
-          "album": "Motamkena",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d3455d9e9e7550b05ddd935d",
-          "uri": "spotify:track:6dpVxlXfuYV96sm784Zrzm",
-          "url": "https://open.spotify.com/track/6dpVxlXfuYV96sm784Zrzm",
-          "duration_ms": 158376
+          "album": "Reverb at High Tide",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
+          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
+          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
+          "duration_ms": 134933
+        },
+        {
+          "rank": 50,
+          "name": "الوتر الحساس",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "نساى",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
+          "duration_ms": 261224
         }
       ],
       "artists": [
@@ -1691,14 +1691,6 @@
         },
         {
           "rank": 34,
-          "name": "Katy Perry",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
-          "genres": [],
-          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "rank": 35,
           "name": "HELLBLADE",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe4e3decb69d545a638a33de2",
           "genres": [],
@@ -1706,7 +1698,7 @@
           "url": "https://open.spotify.com/artist/7bEPCmDmXU7GbO8iid7YvP"
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
@@ -1714,7 +1706,7 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -1722,12 +1714,20 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
           "uri": "spotify:artist:2AyyZ8mU5Kmsz2ibu2FP8h",
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
+        },
+        {
+          "rank": 38,
+          "name": "Katy Perry",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+          "genres": [],
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
           "rank": 39,
