@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-09-10T15:50:28.598Z",
+  "updated_at": "2026-09-10T20:25:21.307Z",
   "plays": [
-    {
-      "played_at": "2026-06-09T16:37:01.582Z",
-      "name": "Baddi Doub",
-      "artists": [
-        "Elissa"
-      ],
-      "album": "Baddi Doub",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
-      "uri": "spotify:track:571ElrlNtK4djFptlFgtU3",
-      "duration_ms": 239098
-    },
-    {
-      "played_at": "2026-06-09T17:28:45.525Z",
-      "name": "Invisible",
-      "artists": [
-        "Zeus X Crona",
-        "Julius Dreisig"
-      ],
-      "album": "Invisible",
-      "image": "https://i.scdn.co/image/ab67616d0000b27392dd1e69b42bacdb2e2c8e1d",
-      "uri": "spotify:track:0uK5E8V7Q3aK8OafsDvLlY",
-      "duration_ms": 201015
-    },
-    {
-      "played_at": "2026-06-09T17:32:17.636Z",
-      "name": "Fearless Pt. II",
-      "artists": [
-        "Lost Sky",
-        "Chris Linton"
-      ],
-      "album": "Fearless Pt. II (Sped Up/Slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd3526c1285518f78f344cc5",
-      "uri": "spotify:track:0bdx0Cr5WFxPCgg59CzNb5",
-      "duration_ms": 194181
-    },
     {
       "played_at": "2026-06-09T17:36:03.901Z",
       "name": "Fearless Pt. II",
@@ -22625,6 +22590,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:6VK8OMA2FhX4KoS3QCH7rL",
       "duration_ms": 310000
+    },
+    {
+      "played_at": "2026-09-10T15:53:50.026Z",
+      "name": "Sweden",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:716HpbfSkMkU7TwQsJlhHT",
+      "duration_ms": 215500
+    },
+    {
+      "played_at": "2026-09-10T15:59:11.620Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-09-10T16:13:20.125Z",
+      "name": "Biome Fest",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:2EjOx0o0TTsCFTkwj2Px6S",
+      "duration_ms": 378068
     }
   ]
 }
