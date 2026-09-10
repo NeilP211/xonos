@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:25:21.136Z",
+  "generated_at": "2026-09-10T22:56:00.210Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -205,19 +205,6 @@
         },
         {
           "rank": 17,
-          "name": "addiction - Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "captivation",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
-          "uri": "spotify:track:07SnvbvFJ1jUzpoBp9N4Cc",
-          "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc",
-          "duration_ms": 233480
-        },
-        {
-          "rank": 18,
           "name": "truth yandere^^ - mega slowed",
           "artists": [
             "akkiemi"
@@ -229,7 +216,7 @@
           "duration_ms": 118182
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -242,20 +229,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 20,
-          "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
-          "artists": [
-            "HRDSND",
-            "Syntekkz"
-          ],
-          "album": "ICH SCHNEIDE EUCH DIE ZUNGE AB (Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735799d0d5359f56c109fd93f4",
-          "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
-          "url": "https://open.spotify.com/track/3fnY60tVLs3S7YGqMJSMwV",
-          "duration_ms": 391403
-        },
-        {
-          "rank": 21,
+          "rank": 19,
           "name": "Chubina - Re-recorded",
           "artists": [
             "East Duo"
@@ -267,7 +241,7 @@
           "duration_ms": 103269
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "Chubina - Speed Up",
           "artists": [
             "East Duo"
@@ -279,7 +253,7 @@
           "duration_ms": 89509
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -291,7 +265,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -303,7 +277,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "Chubina - Super Slowed",
           "artists": [
             "East Duo"
@@ -315,7 +289,7 @@
           "duration_ms": 136897
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -327,7 +301,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -340,7 +314,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -352,7 +326,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -364,7 +338,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -377,7 +351,7 @@
           "duration_ms": 214477
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -390,7 +364,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -403,7 +377,20 @@
           "duration_ms": 208561
         },
         {
-          "rank": 33,
+          "rank": 31,
+          "name": "addiction - Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "captivation",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
+          "uri": "spotify:track:07SnvbvFJ1jUzpoBp9N4Cc",
+          "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc",
+          "duration_ms": 233480
+        },
+        {
+          "rank": 32,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -415,7 +402,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -427,7 +414,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -439,7 +426,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Transgender",
           "artists": [
             "Crystal Castles"
@@ -451,7 +438,7 @@
           "duration_ms": 184760
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -463,7 +450,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -473,6 +460,19 @@
           "uri": "spotify:track:3I5azi0831uNpYQsfYsW7G",
           "url": "https://open.spotify.com/track/3I5azi0831uNpYQsfYsW7G",
           "duration_ms": 260893
+        },
+        {
+          "rank": 38,
+          "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
+          "artists": [
+            "HRDSND",
+            "Syntekkz"
+          ],
+          "album": "ICH SCHNEIDE EUCH DIE ZUNGE AB (Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735799d0d5359f56c109fd93f4",
+          "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
+          "url": "https://open.spotify.com/track/3fnY60tVLs3S7YGqMJSMwV",
+          "duration_ms": 391403
         },
         {
           "rank": 39,
@@ -639,20 +639,14 @@
           "rank": 2,
           "name": "DJ ZUP RAlii",
           "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
+          "genres": [
+            "tekno"
+          ],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
           "rank": 3,
-          "name": "LONOWN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
-          "genres": [],
-          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "rank": 4,
           "name": "East Duo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf90a5b8db7f3245888e61591",
           "genres": [],
@@ -660,28 +654,45 @@
           "url": "https://open.spotify.com/artist/42v0kfdXXwjA3cLRr4DTyY"
         },
         {
+          "rank": 4,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [
+            "phonk",
+            "witch house",
+            "electroclash"
+          ],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
           "rank": 5,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 6,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
-          "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
-        },
-        {
-          "rank": 7,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 6,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 7,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
           "rank": 8,
@@ -693,14 +704,6 @@
         },
         {
           "rank": 9,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "rank": 10,
           "name": "Lost Sky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
           "genres": [],
@@ -708,7 +711,7 @@
           "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
@@ -716,31 +719,39 @@
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Calvin Harris",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "genres": [],
+          "genres": [
+            "edm"
+          ],
           "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
-          "genres": [],
+          "genres": [
+            "dark ambient",
+            "ambient"
+          ],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 14,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "rank": 13,
+          "name": ".diedlonely",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
+          "genres": [
+            "dark ambient",
+            "ambient"
+          ],
+          "uri": "spotify:artist:2LbjW13j6rNtFgYcPjR2ur",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4768fe855a864c154a2a2d39",
           "genres": [],
@@ -748,50 +759,61 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
-          "rank": 16,
-          "name": ".diedlonely",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
-          "genres": [],
-          "uri": "spotify:artist:2LbjW13j6rNtFgYcPjR2ur",
-          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
-        },
-        {
-          "rank": 17,
+          "rank": 15,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
-          "genres": [],
+          "genres": [
+            "dark ambient",
+            "ambient"
+          ],
           "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Led Zeppelin",
           "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
-          "genres": [],
+          "genres": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "rock and roll"
+          ],
           "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp",
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
+          "genres": [
+            "metal",
+            "thrash metal",
+            "rock",
+            "heavy metal",
+            "hard rock"
+          ],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
+          "genres": [
+            "grunge",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [],
+          "genres": [
+            "rap"
+          ],
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
@@ -2838,7 +2860,56 @@
     }
   },
   "genres": {
-    "short_term": [],
+    "short_term": [
+      {
+        "genre": "dark ambient",
+        "weight": 0.1082375478927203
+      },
+      {
+        "genre": "ambient",
+        "weight": 0.1082375478927203
+      },
+      {
+        "genre": "witch house",
+        "weight": 0.08812260536398467
+      },
+      {
+        "genre": "electroclash",
+        "weight": 0.08812260536398467
+      },
+      {
+        "genre": "rock",
+        "weight": 0.06609195402298851
+      },
+      {
+        "genre": "hard rock",
+        "weight": 0.06609195402298851
+      },
+      {
+        "genre": "tekno",
+        "weight": 0.04693486590038314
+      },
+      {
+        "genre": "phonk",
+        "weight": 0.045019157088122604
+      },
+      {
+        "genre": "new rave",
+        "weight": 0.04310344827586207
+      },
+      {
+        "genre": "alternative dance",
+        "weight": 0.04310344827586207
+      },
+      {
+        "genre": "edm",
+        "weight": 0.038314176245210725
+      },
+      {
+        "genre": "classic rock",
+        "weight": 0.033524904214559385
+      }
+    ],
     "medium_term": [],
     "long_term": []
   }

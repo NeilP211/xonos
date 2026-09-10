@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-10T20:25:21.375Z",
+  "updated_at": "2026-09-10T22:56:00.435Z",
   "is_playing": false,
   "track": {
-    "name": "Biome Fest",
+    "name": "Haggstrom",
     "artists": [
       "C418"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:2EjOx0o0TTsCFTkwj2Px6S"
+    "album": "Minecraft - Volume Alpha",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+    "uri": "spotify:track:0Ncumev5aG7HZHsKrgFYCq"
   },
-  "played_at": "2026-09-10T16:13:20.125Z"
+  "played_at": "2026-09-10T21:47:12.654Z"
 }
