@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:26:53.470Z",
+  "generated_at": "2026-09-11T22:57:39.010Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -54,6 +54,18 @@
         },
         {
           "rank": 5,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
+        },
+        {
+          "rank": 6,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -68,7 +80,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Misirlou",
           "artists": [
             "Dick Dale & His Del-Tones"
@@ -80,7 +92,7 @@
           "duration_ms": 134933
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Idea 22 - Slowed + Reverb",
           "artists": [
             "Gibran Alcocer"
@@ -90,18 +102,6 @@
           "uri": "spotify:track:7A4Vo39I9jTC8adK43ZE5W",
           "url": "https://open.spotify.com/track/7A4Vo39I9jTC8adK43ZE5W",
           "duration_ms": 178800
-        },
-        {
-          "rank": 8,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
         },
         {
           "rank": 9,
@@ -118,6 +118,18 @@
         },
         {
           "rank": 10,
+          "name": "Jacking the Trend",
+          "artists": [
+            "Please Don't Lack"
+          ],
+          "album": "Jacking the Trend",
+          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
+          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
+          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
+          "duration_ms": 169646
+        },
+        {
+          "rank": 11,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -128,18 +140,6 @@
           "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
           "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
           "duration_ms": 255591
-        },
-        {
-          "rank": 11,
-          "name": "Jacking the Trend",
-          "artists": [
-            "Please Don't Lack"
-          ],
-          "album": "Jacking the Trend",
-          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
-          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
-          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
-          "duration_ms": 169646
         },
         {
           "rank": 12,
@@ -205,18 +205,6 @@
         },
         {
           "rank": 17,
-          "name": "truth yandere^^ - mega slowed",
-          "artists": [
-            "akkiemi"
-          ],
-          "album": "truth yandere^^ (mega slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731b10ac13ce21ccad3e39777b",
-          "uri": "spotify:track:1enPtxiWcViPXfYeUlRq0k",
-          "url": "https://open.spotify.com/track/1enPtxiWcViPXfYeUlRq0k",
-          "duration_ms": 118182
-        },
-        {
-          "rank": 18,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -227,6 +215,18 @@
           "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
           "url": "https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E",
           "duration_ms": 120702
+        },
+        {
+          "rank": 18,
+          "name": "truth yandere^^ - mega slowed",
+          "artists": [
+            "akkiemi"
+          ],
+          "album": "truth yandere^^ (mega slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731b10ac13ce21ccad3e39777b",
+          "uri": "spotify:track:1enPtxiWcViPXfYeUlRq0k",
+          "url": "https://open.spotify.com/track/1enPtxiWcViPXfYeUlRq0k",
+          "duration_ms": 118182
         },
         {
           "rank": 19,
@@ -266,6 +266,19 @@
         },
         {
           "rank": 22,
+          "name": "specialsadism (Slowed)",
+          "artists": [
+            "voidvoice717",
+            "emoslut666"
+          ],
+          "album": "specialsadism 2.0",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+          "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+          "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
+          "duration_ms": 109134
+        },
+        {
+          "rank": 23,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -277,7 +290,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Chubina - Super Slowed",
           "artists": [
             "East Duo"
@@ -289,7 +302,19 @@
           "duration_ms": 136897
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "Glamorous",
+          "artists": [
+            "Hospital"
+          ],
+          "album": "Glamorous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
+          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
+          "duration_ms": 128509
+        },
+        {
+          "rank": 26,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -301,7 +326,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -314,7 +339,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -326,19 +351,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 27,
-          "name": "Glamorous",
-          "artists": [
-            "Hospital"
-          ],
-          "album": "Glamorous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
-          "duration_ms": 128509
-        },
-        {
-          "rank": 28,
+          "rank": 29,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -351,7 +364,7 @@
           "duration_ms": 214477
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -364,7 +377,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -377,7 +390,7 @@
           "duration_ms": 208561
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -390,7 +403,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -402,7 +415,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -414,7 +427,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -426,7 +439,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Transgender",
           "artists": [
             "Crystal Castles"
@@ -438,7 +451,7 @@
           "duration_ms": 184760
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -450,7 +463,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -462,7 +475,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -475,7 +488,7 @@
           "duration_ms": 391403
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -488,7 +501,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Till Oblivion - Radio Edit",
           "artists": [
             "Somna",
@@ -502,7 +515,7 @@
           "duration_ms": 265454
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -514,7 +527,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -527,7 +540,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Can't Hold Us (feat. Ray Dalton)",
           "artists": [
             "Macklemore",
@@ -542,7 +555,7 @@
           "duration_ms": 258431
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -554,7 +567,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -566,7 +579,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -580,7 +593,7 @@
           "duration_ms": 259071
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Wait For Life",
           "artists": [
             "Emile Haynie",
@@ -593,7 +606,7 @@
           "duration_ms": 292280
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Sky High",
           "artists": [
             "Elektronomia"
@@ -605,7 +618,7 @@
           "duration_ms": 236254
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Turn It Up",
           "artists": [
             "Anikdote"
@@ -615,19 +628,6 @@
           "uri": "spotify:track:0gC25fBDME4eketFhsMxWb",
           "url": "https://open.spotify.com/track/0gC25fBDME4eketFhsMxWb",
           "duration_ms": 247547
-        },
-        {
-          "rank": 50,
-          "name": "Titanium (feat. Sia)",
-          "artists": [
-            "David Guetta",
-            "Sia"
-          ],
-          "album": "Nothing but the Beat 2.0",
-          "image": "https://i.scdn.co/image/ab67616d0000b27387e2f8346625bb6fd20d52be",
-          "uri": "spotify:track:0lHAMNU8RGiIObScrsRgmP",
-          "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP",
-          "duration_ms": 245040
         }
       ],
       "artists": [
