@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-11T03:01:57.402Z",
+  "updated_at": "2026-09-11T10:36:49.915Z",
   "is_playing": false,
   "track": {
-    "name": "Void in Blue",
+    "name": "Heroes (we could be)",
     "artists": [
-      "Glare"
+      "Alesso",
+      "Tove Lo"
     ],
-    "album": "Void in Blue",
-    "image": "https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22",
-    "uri": "spotify:track:0eZjwNa0wGZSzsOnt4T2hG"
+    "album": "Forever",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b804bbd11f864902d452b3a7",
+    "uri": "spotify:track:3zU9rdflI65tK4dkkNSp77"
   },
-  "played_at": "2026-09-11T02:48:27.726Z"
+  "played_at": "2026-09-11T04:09:01.348Z"
 }

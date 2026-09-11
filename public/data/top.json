@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:01:56.883Z",
+  "generated_at": "2026-09-11T10:36:49.735Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -515,6 +515,46 @@
         },
         {
           "rank": 42,
+          "name": "Just Dance",
+          "artists": [
+            "Lady Gaga",
+            "Colby O'Donis"
+          ],
+          "album": "The Fame",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+          "uri": "spotify:track:1dzQoRqT5ucxXVaAhTcT0J",
+          "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
+          "duration_ms": 241933
+        },
+        {
+          "rank": 43,
+          "name": "Can't Hold Us (feat. Ray Dalton)",
+          "artists": [
+            "Macklemore",
+            "Ryan Lewis",
+            "Macklemore & Ryan Lewis",
+            "Ray Dalton"
+          ],
+          "album": "The Heist",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
+          "uri": "spotify:track:22skzmqfdWrjJylampe0kt",
+          "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt",
+          "duration_ms": 258431
+        },
+        {
+          "rank": 44,
+          "name": "Wake Me Up",
+          "artists": [
+            "Avicii"
+          ],
+          "album": "True",
+          "image": "https://i.scdn.co/image/ab67616d0000b273162c5d6dbf1dc3965d1a391a",
+          "uri": "spotify:track:3B0irDyS69y5eAz15xV2Ee",
+          "url": "https://open.spotify.com/track/3B0irDyS69y5eAz15xV2Ee",
+          "duration_ms": 247426
+        },
+        {
+          "rank": 45,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -526,7 +566,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 43,
+          "rank": 46,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -540,7 +580,7 @@
           "duration_ms": 259071
         },
         {
-          "rank": 44,
+          "rank": 47,
           "name": "Wait For Life",
           "artists": [
             "Emile Haynie",
@@ -553,7 +593,7 @@
           "duration_ms": 292280
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Sky High",
           "artists": [
             "Elektronomia"
@@ -565,7 +605,7 @@
           "duration_ms": 236254
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "Turn It Up",
           "artists": [
             "Anikdote"
@@ -577,7 +617,7 @@
           "duration_ms": 247547
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "Titanium (feat. Sia)",
           "artists": [
             "David Guetta",
@@ -588,42 +628,6 @@
           "uri": "spotify:track:0lHAMNU8RGiIObScrsRgmP",
           "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP",
           "duration_ms": 245040
-        },
-        {
-          "rank": 48,
-          "name": "Судно (Борис Рыжий)",
-          "artists": [
-            "Molchat Doma"
-          ],
-          "album": "Этажи",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
-          "uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
-          "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO",
-          "duration_ms": 141394
-        },
-        {
-          "rank": 49,
-          "name": "i love u. - slowed + reverb",
-          "artists": [
-            "wiv"
-          ],
-          "album": "i love u. (extras)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e57698883e7259c2218dd1f3",
-          "uri": "spotify:track:1gCpf5jhAqegPJeXG0BCn5",
-          "url": "https://open.spotify.com/track/1gCpf5jhAqegPJeXG0BCn5",
-          "duration_ms": 132639
-        },
-        {
-          "rank": 50,
-          "name": "Ultraviolence",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
-          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-          "duration_ms": 251480
         }
       ],
       "artists": [
@@ -653,6 +657,14 @@
         },
         {
           "rank": 4,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 5,
           "name": "LONOWN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
           "genres": [],
@@ -660,20 +672,12 @@
           "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        },
-        {
-          "rank": 6,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "rank": 7,
@@ -693,22 +697,6 @@
         },
         {
           "rank": 9,
-          "name": "Lost Sky",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
-          "genres": [],
-          "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh",
-          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
-        },
-        {
-          "rank": 10,
-          "name": "Jim Yosef",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
-          "genres": [],
-          "uri": "spotify:artist:40HDiLfKm0tXk2FxlJx6aO",
-          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
-        },
-        {
-          "rank": 11,
           "name": "Calvin Harris",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "genres": [],
@@ -716,7 +704,39 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
+          "rank": 10,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 11,
+          "name": "Lost Sky",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
+          "genres": [],
+          "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
           "rank": 12,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 13,
+          "name": "Jim Yosef",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
+          "genres": [],
+          "uri": "spotify:artist:40HDiLfKm0tXk2FxlJx6aO",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "rank": 14,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
@@ -724,7 +744,7 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": ".diedlonely",
           "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
           "genres": [],
@@ -732,7 +752,7 @@
           "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4768fe855a864c154a2a2d39",
           "genres": [],
@@ -740,7 +760,7 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
           "genres": [],
@@ -748,7 +768,7 @@
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Led Zeppelin",
           "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
           "genres": [],
@@ -756,7 +776,7 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -764,7 +784,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -772,7 +792,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
