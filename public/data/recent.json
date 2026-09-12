@@ -1,225 +1,6 @@
 {
-  "updated_at": "2026-09-12T17:44:04.931Z",
+  "updated_at": "2026-09-12T20:11:21.510Z",
   "plays": [
-    {
-      "played_at": "2026-06-11T18:14:44.134Z",
-      "name": "Surviving The Abyss",
-      "artists": [
-        "Crowbar"
-      ],
-      "album": "The Serpent Only Lies",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dbf5387bb7bc90dad83cc6d1",
-      "uri": "spotify:track:55aNXrn2mihP5GZLIMi6Pu",
-      "duration_ms": 292493
-    },
-    {
-      "played_at": "2026-06-11T18:18:24.252Z",
-      "name": "FMJ (feat. Che)",
-      "artists": [
-        "OsamaSon",
-        "Che"
-      ],
-      "album": "psykotic",
-      "image": "https://i.scdn.co/image/ab67616d0000b27341d8c624c257ffccbca8c3ad",
-      "uri": "spotify:track:4iLsg1kZif1DGcdywxEP3M",
-      "duration_ms": 189295
-    },
-    {
-      "played_at": "2026-06-11T18:21:24.683Z",
-      "name": "tell me",
-      "artists": [
-        "phreshboyswag"
-      ],
-      "album": "my autumn diary",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f326c1cae78e61948f2e82",
-      "uri": "spotify:track:39gLThbNYFbGRU7kCulIgm",
-      "duration_ms": 72539
-    },
-    {
-      "played_at": "2026-06-11T18:23:17.800Z",
-      "name": "jaded",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
-      "duration_ms": 112733
-    },
-    {
-      "played_at": "2026-06-11T18:23:17.866Z",
-      "name": "Feeliinuu",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "Feeliinuu",
-      "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
-      "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
-      "duration_ms": 71726
-    },
-    {
-      "played_at": "2026-06-11T18:25:39.602Z",
-      "name": "GIRLS",
-      "artists": [
-        "Henry Mosto",
-        "phreshboyswag",
-        "Marlon DuBois",
-        "Laker",
-        "Dream Caster",
-        "Milkreset",
-        "Ricky Chix",
-        "Dugan"
-      ],
-      "album": "S3X¥",
-      "image": "https://i.scdn.co/image/ab67616d0000b27313dbd196a81b567c737da23f",
-      "uri": "spotify:track:1c3dyQXoVQnh96KVoSAJ4B",
-      "duration_ms": 141244
-    },
-    {
-      "played_at": "2026-06-11T18:29:29.969Z",
-      "name": "ur not - diff ver",
-      "artists": [
-        "idully"
-      ],
-      "album": "ur not (diff ver)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734970f37285c78186b7ae7f48",
-      "uri": "spotify:track:3tEdHHiqOwfJknBWAHyIU2",
-      "duration_ms": 88842
-    },
-    {
-      "played_at": "2026-06-11T18:34:21.103Z",
-      "name": "Fighting My Demons",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
-      "duration_ms": 150401
-    },
-    {
-      "played_at": "2026-06-11T18:36:39.954Z",
-      "name": "Freestyle 2",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "X",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
-      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
-      "duration_ms": 138319
-    },
-    {
-      "played_at": "2026-06-11T20:13:40.572Z",
-      "name": "LiveLeak",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "More Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b27353b16cd45ce027fc7b65f9e8",
-      "uri": "spotify:track:7aURTqVzpZxkJfboCvGc69",
-      "duration_ms": 190541
-    },
-    {
-      "played_at": "2026-06-11T20:20:19.894Z",
-      "name": "A Desert Rose - Radio Edit",
-      "artists": [
-        "Radion6",
-        "Sarah Lynn"
-      ],
-      "album": "Vocal Trance Selections",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
-      "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB",
-      "duration_ms": 201176
-    },
-    {
-      "played_at": "2026-06-11T20:29:53.053Z",
-      "name": "How to disappear",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Norman Fucking Rockwell!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-      "uri": "spotify:track:4qUtC2BwFC154Ha8YQRrkk",
-      "duration_ms": 228071
-    },
-    {
-      "played_at": "2026-06-11T20:33:01.414Z",
-      "name": "Lost at Sea",
-      "artists": [
-        "Rob Grant",
-        "Lana Del Rey"
-      ],
-      "album": "Lost At Sea",
-      "image": "https://i.scdn.co/image/ab67616d0000b273281f863d259823fb192a0ddf",
-      "uri": "spotify:track:6N7NO9Z1Hi6la8dqG3Aoew",
-      "duration_ms": 187906
-    },
-    {
-      "played_at": "2026-06-11T20:45:26.342Z",
-      "name": "Cola",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:7lw75abPmYJYU6OOVcERmW",
-      "duration_ms": 260893
-    },
-    {
-      "played_at": "2026-06-11T21:45:23.558Z",
-      "name": "Text Book",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Blue Banisters",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
-      "uri": "spotify:track:4brdb8L2Cy3e9AN8IfV9l8",
-      "duration_ms": 303227
-    },
-    {
-      "played_at": "2026-06-11T21:49:10.423Z",
-      "name": "Text Book",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Blue Banisters",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
-      "uri": "spotify:track:4brdb8L2Cy3e9AN8IfV9l8",
-      "duration_ms": 303227
-    },
-    {
-      "played_at": "2026-06-11T21:51:49.528Z",
-      "name": "Blue Velvet",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:0B4AIlB1jjT9l6QjKCdSLG",
-      "duration_ms": 158653
-    },
-    {
-      "played_at": "2026-06-11T21:55:32.910Z",
-      "name": "Diet Mountain Dew",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:4O9dZs2B0ilk4PEfX2bPEv",
-      "duration_ms": 222920
-    },
-    {
-      "played_at": "2026-06-11T22:00:15.409Z",
-      "name": "Video Games",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:24jvD83UgLmrdGjhWTFslY",
-      "duration_ms": 281960
-    },
     {
       "played_at": "2026-06-11T22:04:14.613Z",
       "name": "In My Feelings",
@@ -22595,6 +22376,218 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733f8987b9906190371aabf45a",
       "uri": "spotify:track:0nlAuSXPTsT3ws2zeNzI7K",
       "duration_ms": 225750
+    },
+    {
+      "played_at": "2026-09-12T17:45:12.661Z",
+      "name": "Отпусти меня",
+      "artists": [
+        "SEREBRO"
+      ],
+      "album": "СИЛА ТРЁХ",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f8987b9906190371aabf45a",
+      "uri": "spotify:track:5JNvpulDanKIfPG5AB5Uen",
+      "duration_ms": 232855
+    },
+    {
+      "played_at": "2026-09-12T17:49:16.117Z",
+      "name": "Сломана",
+      "artists": [
+        "SEREBRO"
+      ],
+      "album": "11",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca38ca9b73648e98c32a5c4a",
+      "uri": "spotify:track:1EaaP14bQipw7QlquktnqA",
+      "duration_ms": 242908
+    },
+    {
+      "played_at": "2026-09-12T17:52:18.328Z",
+      "name": "In And Out Of Love",
+      "artists": [
+        "Armin van Buuren",
+        "Sharon Den Adel"
+      ],
+      "album": "In And Out of Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27361dadc433336e3c332288c00",
+      "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR",
+      "duration_ms": 181680
+    },
+    {
+      "played_at": "2026-09-12T17:56:05.789Z",
+      "name": "Возвращайся",
+      "artists": [
+        "angel vox"
+      ],
+      "album": "Возвращайся",
+      "image": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+      "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L",
+      "duration_ms": 226909
+    },
+    {
+      "played_at": "2026-09-12T18:00:28.496Z",
+      "name": "Yugoslavskiy Groove",
+      "artists": [
+        "Soft Blade"
+      ],
+      "album": "Softic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730964e199a69d8152017d0a88",
+      "uri": "spotify:track:0CRZ3cFFZEUglP5RlU2f9o",
+      "duration_ms": 244000
+    },
+    {
+      "played_at": "2026-09-12T18:04:51.204Z",
+      "name": "СЛАДКО (Slowed + Reverb)",
+      "artists": [
+        "SEREBRO"
+      ],
+      "album": "СЛАДКО",
+      "image": "https://i.scdn.co/image/ab67616d0000b27367010011e6325742bfef5341",
+      "uri": "spotify:track:6pz7GBpVfQC2454DDFEvF0",
+      "duration_ms": 262172
+    },
+    {
+      "played_at": "2026-09-12T18:11:14.543Z",
+      "name": "Спокойная ночь",
+      "artists": [
+        "Kino"
+      ],
+      "album": "Последний герой",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fc64e59813286b87ec9276b8",
+      "uri": "spotify:track:0u6SJZRhC1KSguPxLACkt9",
+      "duration_ms": 382803
+    },
+    {
+      "played_at": "2026-09-12T18:15:41.252Z",
+      "name": "Пули",
+      "artists": [
+        "Luna"
+      ],
+      "album": "Остров свободы",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eaf2d77e45009e3d0eda7039",
+      "uri": "spotify:track:3KesTgQ2mO70AqQleOB7Q0",
+      "duration_ms": 266167
+    },
+    {
+      "played_at": "2026-09-12T18:18:49.988Z",
+      "name": "Afterglow",
+      "artists": [
+        "NBSPLV"
+      ],
+      "album": "Afterglow",
+      "image": "https://i.scdn.co/image/ab67616d0000b273881defe93a9cc13c1cc8c999",
+      "uri": "spotify:track:7tkVLbkwLBgZRSwF4UEibk",
+      "duration_ms": 188212
+    },
+    {
+      "played_at": "2026-09-12T18:22:57.386Z",
+      "name": "Розовое вино",
+      "artists": [
+        "Eldzhey",
+        "FEDUK"
+      ],
+      "album": "Розовое вино",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732edee723caf914084593d5bf",
+      "uri": "spotify:track:2gcFOhxQOqAx1OABnxvUZ4",
+      "duration_ms": 246818
+    },
+    {
+      "played_at": "2026-09-12T18:26:33.111Z",
+      "name": "Перепутала",
+      "artists": [
+        "SEREBRO"
+      ],
+      "album": "СИЛА ТРЁХ",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f8987b9906190371aabf45a",
+      "uri": "spotify:track:7hZLv9vCEoRBxOjyGEoih0",
+      "duration_ms": 215197
+    },
+    {
+      "played_at": "2026-09-12T18:30:42.512Z",
+      "name": "Pesenka (All Around the World Russian Version) - Slowed + Reverb",
+      "artists": [
+        "Velocite"
+      ],
+      "album": "Pesenka (All Around the World Russian Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735099e84fccac99bdb0711be7",
+      "uri": "spotify:track:3mIcsiqLsuGfmKjjNoL39U",
+      "duration_ms": 248846
+    },
+    {
+      "played_at": "2026-09-12T18:33:15.602Z",
+      "name": "EUROMOLLY - Slowed Reverb",
+      "artists": [
+        "erikkaspi",
+        "elmora"
+      ],
+      "album": "EUROMOLLY (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea68fcd1be42520b16520c74",
+      "uri": "spotify:track:7kK2jeGat83zSH6v5Dvgwn",
+      "duration_ms": 152610
+    },
+    {
+      "played_at": "2026-09-12T18:36:44.625Z",
+      "name": "Нежная",
+      "artists": [
+        "Diana Gurtskaya"
+      ],
+      "album": "Нежная",
+      "image": "https://i.scdn.co/image/ab67616d0000b273422cb644d2b692d4faf415d0",
+      "uri": "spotify:track:6m5c79CcIpHvcUt6fGHIXD",
+      "duration_ms": 208493
+    },
+    {
+      "played_at": "2026-09-12T18:41:11.266Z",
+      "name": "Пачка сигарет",
+      "artists": [
+        "Kino"
+      ],
+      "album": "Звезда по имени Солнце",
+      "image": "https://i.scdn.co/image/ab67616d0000b27365026d55b1bfeb75984926e7",
+      "uri": "spotify:track:7tjVRlo5QYUpPOocaJb387",
+      "duration_ms": 266017
+    },
+    {
+      "played_at": "2026-09-12T18:45:08.832Z",
+      "name": "Like Mary Warner",
+      "artists": [
+        "SEREBRO"
+      ],
+      "album": "Mama Lover",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a85ca11795636b9b14c5e0a7",
+      "uri": "spotify:track:2BXpWO0PqH4ukVclT3h0n5",
+      "duration_ms": 237035
+    },
+    {
+      "played_at": "2026-09-12T18:47:53.311Z",
+      "name": "Медуза",
+      "artists": [
+        "MATRANG"
+      ],
+      "album": "ЭЙА",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732232e1163a3e5e2807e1c1f0",
+      "uri": "spotify:track:1sZsTb461mhIAQ8o0gzxsI",
+      "duration_ms": 163947
+    },
+    {
+      "played_at": "2026-09-12T18:52:02.753Z",
+      "name": "Цунами",
+      "artists": [
+        "NYUSHA"
+      ],
+      "album": "Объединение",
+      "image": "https://i.scdn.co/image/ab67616d0000b273914bc3e05ad99566b81ee47d",
+      "uri": "spotify:track:6xuwKadSIO2pKBmsmrHEpT",
+      "duration_ms": 248922
+    },
+    {
+      "played_at": "2026-09-12T18:55:36.197Z",
+      "name": "Desire - Play & Win Radio Edit",
+      "artists": [
+        "Morris"
+      ],
+      "album": "Declaratie De Dragoste (Vol. 5)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1972bc2266a9320a3c57d64",
+      "uri": "spotify:track:3p9xEviY99OWxa7Z5yGcue",
+      "duration_ms": 212915
     }
   ]
 }
