@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-12T03:09:00.528Z",
+  "updated_at": "2026-09-12T10:06:32.573Z",
   "is_playing": false,
   "track": {
-    "name": "popstar",
+    "name": "Glamorous",
     "artists": [
-      "Garcon Maigre",
-      "Перемотка"
+      "Hospital"
     ],
-    "album": "popstar",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f79098308ad27f6e27c5b1be",
-    "uri": "spotify:track:1UKPG0zAU3PKG5fJkomXr0"
+    "album": "Glamorous",
+    "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
+    "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn"
   },
-  "played_at": "2026-09-11T21:23:20.141Z"
+  "played_at": "2026-09-11T22:05:42.961Z"
 }
