@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-12T14:59:27.433Z",
-  "is_playing": false,
+  "updated_at": "2026-09-12T17:44:05.098Z",
+  "is_playing": true,
   "track": {
-    "name": "my dear melancholy - super slowed",
+    "name": "Отпусти меня",
     "artists": [
-      "msht"
+      "SEREBRO"
     ],
-    "album": "my dear melancholy",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ba67f5f36e533a2e835f414e",
-    "uri": "spotify:track:6X3sEVRlaQPda8dLhogoGp"
+    "album": "СИЛА ТРЁХ",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733f8987b9906190371aabf45a",
+    "uri": "spotify:track:5JNvpulDanKIfPG5AB5Uen"
   },
-  "played_at": "2026-09-12T14:56:35.195Z"
+  "played_at": "2026-09-12T17:44:05.098Z"
 }
