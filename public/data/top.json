@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:11:31.123Z",
+  "generated_at": "2026-09-13T11:06:10.563Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -530,18 +530,6 @@
         },
         {
           "rank": 43,
-          "name": "Young And Beautiful",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Young And Beautiful",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
-          "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-          "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
-          "duration_ms": 236053
-        },
-        {
-          "rank": 44,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -553,7 +541,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -566,7 +554,7 @@
           "duration_ms": 391403
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -579,7 +567,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -591,7 +579,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -604,7 +592,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Can't Hold Us (feat. Ray Dalton)",
           "artists": [
             "Macklemore",
@@ -619,7 +607,7 @@
           "duration_ms": 258431
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -629,6 +617,18 @@
           "uri": "spotify:track:3B0irDyS69y5eAz15xV2Ee",
           "url": "https://open.spotify.com/track/3B0irDyS69y5eAz15xV2Ee",
           "duration_ms": 247426
+        },
+        {
+          "rank": 50,
+          "name": "Warmth",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
+          "duration_ms": 239379
         }
       ],
       "artists": [
@@ -1890,18 +1890,6 @@
         },
         {
           "rank": 2,
-          "name": "DARKO-ARM",
-          "artists": [
-            "443RAVES"
-          ],
-          "album": "AURA",
-          "image": "https://i.scdn.co/image/ab67616d0000b27338119fa4713a8d5ffd24c386",
-          "uri": "spotify:track:2WU0doEJoaZTmIIOxmVcuJ",
-          "url": "https://open.spotify.com/track/2WU0doEJoaZTmIIOxmVcuJ",
-          "duration_ms": 63760
-        },
-        {
-          "rank": 3,
           "name": "glamur) (super slowed)",
           "artists": [
             "DJ ZUP RAlii"
@@ -1911,6 +1899,18 @@
           "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
           "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
           "duration_ms": 129285
+        },
+        {
+          "rank": 3,
+          "name": "DARKO-ARM",
+          "artists": [
+            "443RAVES"
+          ],
+          "album": "AURA",
+          "image": "https://i.scdn.co/image/ab67616d0000b27338119fa4713a8d5ffd24c386",
+          "uri": "spotify:track:2WU0doEJoaZTmIIOxmVcuJ",
+          "url": "https://open.spotify.com/track/2WU0doEJoaZTmIIOxmVcuJ",
+          "duration_ms": 63760
         },
         {
           "rank": 4,
@@ -2874,19 +2874,19 @@
         },
         {
           "rank": 49,
+          "name": "DudePlaya",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb87f1a32357adddd1320d4ed8",
+          "genres": [],
+          "uri": "spotify:artist:0ypzv0AG6k3yZjNxdhpnJF",
+          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
+        },
+        {
+          "rank": 50,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
           "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "rank": 50,
-          "name": "La Capella",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
-          "genres": [],
-          "uri": "spotify:artist:4mP87yxki6BtYCjIMwOJsg",
-          "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
         }
       ]
     }
