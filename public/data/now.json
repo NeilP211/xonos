@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-13T20:19:42.526Z",
-  "is_playing": true,
+  "updated_at": "2026-09-13T22:52:15.390Z",
+  "is_playing": false,
   "track": {
-    "name": "тело - Slowed",
+    "name": "Freak Show",
     "artists": [
-      "DJ ZUP RAlii"
+      "Punkinloveee",
+      "h3artcrush"
     ],
-    "album": "тело",
-    "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-    "uri": "spotify:track:1MTrxy0bdWujFkAHTQN1FV"
+    "album": "Freak Show",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731260df83530414843056418e",
+    "uri": "spotify:track:03KRZpV8xqp0tjxB7EsuBe"
   },
-  "played_at": "2026-09-13T20:19:42.527Z"
+  "played_at": "2026-09-13T21:45:35.183Z"
 }
