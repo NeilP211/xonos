@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:48:58.820Z",
+  "generated_at": "2026-09-14T17:42:22.623Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -764,7 +764,7 @@
         {
           "rank": 17,
           "name": "SEREBRO",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebff4ed09225af9ebeadd9abe7",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2fe0037e76ec985bf9f4203b",
           "genres": [],
           "uri": "spotify:artist:1Ulwacsns9Me7dz4OVwkiQ",
           "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
@@ -2563,6 +2563,14 @@
         },
         {
           "rank": 6,
+          "name": "DJ ZUP RAlii",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "genres": [],
+          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
+          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
+        },
+        {
+          "rank": 7,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2570,20 +2578,12 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Che",
           "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
           "genres": [],
           "uri": "spotify:artist:5A7T1LAGJg5NXySBoIKUmF",
           "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-        },
-        {
-          "rank": 8,
-          "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
-          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
-          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
           "rank": 9,
@@ -2755,19 +2755,19 @@
         },
         {
           "rank": 30,
-          "name": "Maul",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
-          "genres": [],
-          "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
-          "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
-        },
-        {
-          "rank": 31,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
           "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "rank": 31,
+          "name": "Maul",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
+          "genres": [],
+          "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
+          "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
         },
         {
           "rank": 32,
