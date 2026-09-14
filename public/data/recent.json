@@ -1,106 +1,6 @@
 {
-  "updated_at": "2026-09-14T17:42:22.734Z",
+  "updated_at": "2026-09-14T21:28:59.568Z",
   "plays": [
-    {
-      "played_at": "2026-06-12T22:58:09.343Z",
-      "name": "That’s So True",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
-      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-      "duration_ms": 166300
-    },
-    {
-      "played_at": "2026-06-12T23:00:06.509Z",
-      "name": "Tough Love",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "The Secret of Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
-      "uri": "spotify:track:6WEXy56jM0Nl3bZHY9l7aH",
-      "duration_ms": 169146
-    },
-    {
-      "played_at": "2026-06-13T00:35:40.391Z",
-      "name": "Goliath",
-      "artists": [
-        "Dialryckx"
-      ],
-      "album": "Incurable",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
-      "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8",
-      "duration_ms": 39000
-    },
-    {
-      "played_at": "2026-06-13T00:40:11.437Z",
-      "name": "It's Everyday Bro",
-      "artists": [
-        "Jake Paul",
-        "Team 10"
-      ],
-      "album": "It's Everyday Bro",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb08a6b3ee4701755624a6ae",
-      "uri": "spotify:track:4l62h4tiuUwn7eD6hxMlVQ",
-      "duration_ms": 217678
-    },
-    {
-      "played_at": "2026-06-13T00:49:00.026Z",
-      "name": "Frick Da Police",
-      "artists": [
-        "Ricegum"
-      ],
-      "album": "Frick Da Police",
-      "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
-      "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
-      "duration_ms": 127058
-    },
-    {
-      "played_at": "2026-06-13T12:31:33.666Z",
-      "name": "Hot N*gga",
-      "artists": [
-        "Bobby Shmurda"
-      ],
-      "album": "Hot N*gga",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d52e14e0595216ca453572ab",
-      "uri": "spotify:track:19gEmPjfqSZT0ulDRfjl0m",
-      "duration_ms": 194561
-    },
-    {
-      "played_at": "2026-06-13T12:32:38.766Z",
-      "name": "Kirkify",
-      "artists": [
-        "Edo Hunnidz"
-      ],
-      "album": "Kirkify",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319ad42818095de624949ba43",
-      "uri": "spotify:track:047CqSS6h5gFgruozkbgy1",
-      "duration_ms": 80000
-    },
-    {
-      "played_at": "2026-06-13T13:14:23.445Z",
-      "name": "Land of Lil Glokk",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Land of Lil Glokk",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a9fdc6407dd24fb6f3614b22",
-      "uri": "spotify:track:1ALshLfUlp3tk3q39hAkNv",
-      "duration_ms": 206563
-    },
-    {
-      "played_at": "2026-06-13T14:52:34.019Z",
-      "name": "Brutal Honesty",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Brutal Honesty",
-      "image": "https://i.scdn.co/image/ab67616d0000b273440fd84d801d6c5d709041d1",
-      "uri": "spotify:track:0HiBGSqqrkTbsrJ8qnAxzV",
-      "duration_ms": 175634
-    },
     {
       "played_at": "2026-06-13T14:54:07.032Z",
       "name": "Universel",
@@ -22594,6 +22494,112 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731260df83530414843056418e",
       "uri": "spotify:track:03KRZpV8xqp0tjxB7EsuBe",
       "duration_ms": 125387
+    },
+    {
+      "played_at": "2026-09-14T18:51:07.227Z",
+      "name": "Embrace",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:1wszdDUhlil6EH3SRkmTZL",
+      "duration_ms": 204124
+    },
+    {
+      "played_at": "2026-09-14T18:52:05.380Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-09-14T20:21:07.359Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-09-14T20:27:16.220Z",
+      "name": "specialsadism",
+      "artists": [
+        "voidvoice717",
+        "emosl4t696"
+      ],
+      "album": "specialsadism",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735105c2120eb43e24d21ebe6c",
+      "uri": "spotify:track:644i0cbharv2w1mo2QoiIJ",
+      "duration_ms": 102840
+    },
+    {
+      "played_at": "2026-09-14T20:34:30.854Z",
+      "name": "temptation - Mega Slowed",
+      "artists": [
+        "gorgon"
+      ],
+      "album": "temptation",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b000b8505f791345c2f3a109",
+      "uri": "spotify:track:0CHaozMwQMjPtGv4wuIRc5",
+      "duration_ms": 147042
+    },
+    {
+      "played_at": "2026-09-14T20:36:33.259Z",
+      "name": "glamur)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273675b8dd278fe49259047a21a",
+      "uri": "spotify:track:5s7jljp5h524f4DOCkRoRl",
+      "duration_ms": 90500
+    },
+    {
+      "played_at": "2026-09-14T20:44:40.180Z",
+      "name": "yohji - Sped Up",
+      "artists": [
+        "ilyhiryu",
+        "DJ ZUP RAlii"
+      ],
+      "album": "yohji",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f51ed88bc27253f8fb73401",
+      "uri": "spotify:track:5KSqjYGk2GClXmQ8GGSVWD",
+      "duration_ms": 97729
+    },
+    {
+      "played_at": "2026-09-14T21:13:09.839Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-09-14T21:13:36.720Z",
+      "name": "Into The Void (feat. Jordan Lindley)",
+      "artists": [
+        "POLTERGST",
+        "RØØTZ",
+        "Jordo"
+      ],
+      "album": "Into The Void (feat. Jordan Lindley)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27360ed11d2335885d2af1b1ee7",
+      "uri": "spotify:track:61kGJVuQJOqnpgnS2rzcCR",
+      "duration_ms": 201923
     }
   ]
 }

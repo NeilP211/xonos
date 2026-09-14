@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:42:22.623Z",
+  "generated_at": "2026-09-14T21:28:59.434Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -18,18 +18,6 @@
         },
         {
           "rank": 2,
-          "name": "cachalot",
-          "artists": [
-            "ONDA ANDAR"
-          ],
-          "album": "cachalot",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
-          "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
-          "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs",
-          "duration_ms": 120685
-        },
-        {
-          "rank": 3,
           "name": "сакадзуки - Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -39,6 +27,18 @@
           "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
           "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
           "duration_ms": 114995
+        },
+        {
+          "rank": 3,
+          "name": "cachalot",
+          "artists": [
+            "ONDA ANDAR"
+          ],
+          "album": "cachalot",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
+          "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
+          "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs",
+          "duration_ms": 120685
         },
         {
           "rank": 4,
@@ -69,6 +69,19 @@
         },
         {
           "rank": 6,
+          "name": "tell me that u love me (slowed)",
+          "artists": [
+            "SUICIDAL-IDOL",
+            "Pröz"
+          ],
+          "album": "tell me that u love me",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
+          "duration_ms": 149860
+        },
+        {
+          "rank": 7,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -80,7 +93,7 @@
           "duration_ms": 210906
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Misirlou",
           "artists": [
             "Dick Dale & His Del-Tones"
@@ -92,7 +105,7 @@
           "duration_ms": 134933
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Idea 22 - Slowed + Reverb",
           "artists": [
             "Gibran Alcocer"
@@ -104,7 +117,7 @@
           "duration_ms": 178800
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -117,7 +130,7 @@
           "duration_ms": 215196
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -130,7 +143,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "няшка - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -142,7 +155,7 @@
           "duration_ms": 120000
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "От Этого Больно",
           "artists": [
             "Танккк"
@@ -154,7 +167,7 @@
           "duration_ms": 140287
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Jacking the Trend",
           "artists": [
             "Please Don't Lack"
@@ -166,7 +179,7 @@
           "duration_ms": 169646
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -179,7 +192,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cachalot - Super Slowed",
           "artists": [
             "LUKE"
@@ -191,7 +204,7 @@
           "duration_ms": 172445
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
           "artists": [
             "Charli xcx",
@@ -205,7 +218,7 @@
           "duration_ms": 232933
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Chubina - Slowed",
           "artists": [
             "East Duo"
@@ -217,7 +230,7 @@
           "duration_ms": 116356
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -231,7 +244,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Same Old Love",
           "artists": [
             "Selena Gomez"
@@ -243,7 +256,7 @@
           "duration_ms": 229080
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -256,7 +269,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "truth yandere^^ - mega slowed",
           "artists": [
             "akkiemi"
@@ -266,19 +279,6 @@
           "uri": "spotify:track:1enPtxiWcViPXfYeUlRq0k",
           "url": "https://open.spotify.com/track/1enPtxiWcViPXfYeUlRq0k",
           "duration_ms": 118182
-        },
-        {
-          "rank": 22,
-          "name": "tell me that u love me (slowed)",
-          "artists": [
-            "SUICIDAL-IDOL",
-            "Pröz"
-          ],
-          "album": "tell me that u love me",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
-          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
-          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
-          "duration_ms": 149860
         },
         {
           "rank": 23,
@@ -699,6 +699,14 @@
         },
         {
           "rank": 9,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 10,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -706,7 +714,7 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
@@ -714,20 +722,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
           "uri": "spotify:artist:1I87BJvTcv6gia06HaBl9e",
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
-        },
-        {
-          "rank": 12,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
           "rank": 13,
@@ -764,21 +764,13 @@
         {
           "rank": 17,
           "name": "SEREBRO",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2fe0037e76ec985bf9f4203b",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb44319d12f3c85a4845544072",
           "genres": [],
           "uri": "spotify:artist:1Ulwacsns9Me7dz4OVwkiQ",
           "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
         },
         {
           "rank": 18,
-          "name": "Øneheart",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
-          "genres": [],
-          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "rank": 19,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4768fe855a864c154a2a2d39",
           "genres": [],
@@ -786,7 +778,23 @@
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
         },
         {
+          "rank": 19,
+          "name": "Øneheart",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
+          "genres": [],
+          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
           "rank": 20,
+          "name": "SUICIDAL-IDOL",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb4840df9de4684b5afe76e2b",
+          "genres": [],
+          "uri": "spotify:artist:6KOszWgIriJLaPOySuBOTI",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        },
+        {
+          "rank": 21,
           "name": "voidvoice717",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98a31d80b8f9f4d895144a46",
           "genres": [],
@@ -794,7 +802,7 @@
           "url": "https://open.spotify.com/artist/1PYHblB6Pt3VUcUsiLnFHA"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "angel vox",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfb0989c2c1a6985c3d52c245",
           "genres": [],
@@ -802,7 +810,7 @@
           "url": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "eiby",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1acd608cf1f32c04af9e2b46",
           "genres": [],
@@ -810,7 +818,7 @@
           "url": "https://open.spotify.com/artist/251gdY9sgNDKtcTkLcptYs"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": ".diedlonely",
           "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
           "genres": [],
@@ -818,7 +826,7 @@
           "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "luu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb38c5d92953f91a410126d12e",
           "genres": [],
@@ -826,20 +834,12 @@
           "url": "https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Punkinloveee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb61d746ebd85c2c4881665886",
           "genres": [],
           "uri": "spotify:artist:6CrThJMQVJfWaHeliiLHuw",
           "url": "https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw"
-        },
-        {
-          "rank": 26,
-          "name": "SUICIDAL-IDOL",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb4840df9de4684b5afe76e2b",
-          "genres": [],
-          "uri": "spotify:artist:6KOszWgIriJLaPOySuBOTI",
-          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
         },
         {
           "rank": 27,
