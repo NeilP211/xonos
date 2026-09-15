@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-15T20:52:09.202Z",
+  "updated_at": "2026-09-15T23:23:34.274Z",
   "is_playing": false,
   "track": {
-    "name": "Возвращайся",
+    "name": "Highlands",
     "artists": [
-      "angel vox"
+      "Sandbox Interactive",
+      "Jonne Valtonen"
     ],
-    "album": "Возвращайся",
-    "image": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
-    "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+    "album": "Albion Online (Original Game Soundtrack)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+    "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc"
   },
-  "played_at": "2026-09-15T16:34:40.005Z"
+  "played_at": "2026-09-15T22:21:01.794Z"
 }
