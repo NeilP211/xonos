@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:28:59.434Z",
+  "generated_at": "2026-09-15T03:25:47.924Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -18,18 +18,6 @@
         },
         {
           "rank": 2,
-          "name": "сакадзуки - Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "сакадзуки",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
-          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
-          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
-          "duration_ms": 114995
-        },
-        {
-          "rank": 3,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -39,6 +27,18 @@
           "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
           "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs",
           "duration_ms": 120685
+        },
+        {
+          "rank": 3,
+          "name": "сакадзуки - Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
         },
         {
           "rank": 4,
@@ -131,19 +131,6 @@
         },
         {
           "rank": 11,
-          "name": "specialsadism (Slowed)",
-          "artists": [
-            "voidvoice717",
-            "emoslut666"
-          ],
-          "album": "specialsadism 2.0",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
-          "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
-          "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
-          "duration_ms": 109134
-        },
-        {
-          "rank": 12,
           "name": "няшка - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -155,7 +142,7 @@
           "duration_ms": 120000
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "От Этого Больно",
           "artists": [
             "Танккк"
@@ -167,19 +154,7 @@
           "duration_ms": 140287
         },
         {
-          "rank": 14,
-          "name": "Jacking the Trend",
-          "artists": [
-            "Please Don't Lack"
-          ],
-          "album": "Jacking the Trend",
-          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
-          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
-          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
-          "duration_ms": 169646
-        },
-        {
-          "rank": 15,
+          "rank": 13,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -192,7 +167,20 @@
           "duration_ms": 255591
         },
         {
-          "rank": 16,
+          "rank": 14,
+          "name": "specialsadism (Slowed)",
+          "artists": [
+            "voidvoice717",
+            "emoslut666"
+          ],
+          "album": "specialsadism 2.0",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+          "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+          "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
+          "duration_ms": 109134
+        },
+        {
+          "rank": 15,
           "name": "Cachalot - Super Slowed",
           "artists": [
             "LUKE"
@@ -204,21 +192,7 @@
           "duration_ms": 172445
         },
         {
-          "rank": 17,
-          "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
-          "artists": [
-            "Charli xcx",
-            "Kim Petras",
-            "Jay Park"
-          ],
-          "album": "Pop 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
-          "uri": "spotify:track:3qGHAKgjQruzj6doKkyEb5",
-          "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5",
-          "duration_ms": 232933
-        },
-        {
-          "rank": 18,
+          "rank": 16,
           "name": "Chubina - Slowed",
           "artists": [
             "East Duo"
@@ -230,7 +204,7 @@
           "duration_ms": 116356
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -244,7 +218,19 @@
           "duration_ms": 236375
         },
         {
-          "rank": 20,
+          "rank": 18,
+          "name": "Jacking the Trend",
+          "artists": [
+            "Please Don't Lack"
+          ],
+          "album": "Jacking the Trend",
+          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
+          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
+          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
+          "duration_ms": 169646
+        },
+        {
+          "rank": 19,
           "name": "Same Old Love",
           "artists": [
             "Selena Gomez"
@@ -256,7 +242,7 @@
           "duration_ms": 229080
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -269,7 +255,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "truth yandere^^ - mega slowed",
           "artists": [
             "akkiemi"
@@ -279,6 +265,20 @@
           "uri": "spotify:track:1enPtxiWcViPXfYeUlRq0k",
           "url": "https://open.spotify.com/track/1enPtxiWcViPXfYeUlRq0k",
           "duration_ms": 118182
+        },
+        {
+          "rank": 22,
+          "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+          "artists": [
+            "Charli xcx",
+            "Kim Petras",
+            "Jay Park"
+          ],
+          "album": "Pop 2",
+          "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
+          "uri": "spotify:track:3qGHAKgjQruzj6doKkyEb5",
+          "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5",
+          "duration_ms": 232933
         },
         {
           "rank": 23,
@@ -380,18 +380,6 @@
         },
         {
           "rank": 31,
-          "name": "Glamorous",
-          "artists": [
-            "Hospital"
-          ],
-          "album": "Glamorous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-          "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-          "url": "https://open.spotify.com/track/4kPRheORGB5KWqCtKNpNhn",
-          "duration_ms": 128509
-        },
-        {
-          "rank": 32,
           "name": "my dear melancholy - super slowed",
           "artists": [
             "msht"
@@ -403,7 +391,7 @@
           "duration_ms": 170973
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -415,7 +403,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -428,7 +416,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Can't Hold Us (feat. Ray Dalton)",
           "artists": [
             "Macklemore",
@@ -443,7 +431,7 @@
           "duration_ms": 258431
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -455,7 +443,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -468,7 +456,7 @@
           "duration_ms": 214477
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "On & On",
           "artists": [
             "Cartoon",
@@ -482,7 +470,7 @@
           "duration_ms": 207068
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Till Oblivion - Radio Edit",
           "artists": [
             "Somna",
@@ -496,7 +484,7 @@
           "duration_ms": 265454
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -509,7 +497,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -522,7 +510,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -534,7 +522,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -546,7 +534,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -558,7 +546,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Transgender",
           "artists": [
             "Crystal Castles"
@@ -570,7 +558,7 @@
           "duration_ms": 184760
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -582,7 +570,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -595,7 +583,7 @@
           "duration_ms": 391403
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -608,7 +596,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -620,7 +608,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "LoveGame",
           "artists": [
             "Lady Gaga"
@@ -630,6 +618,18 @@
           "uri": "spotify:track:0eH2eHURaXUP15D8gQlfjx",
           "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx",
           "duration_ms": 216333
+        },
+        {
+          "rank": 50,
+          "name": "Wake Me Up",
+          "artists": [
+            "Avicii"
+          ],
+          "album": "True",
+          "image": "https://i.scdn.co/image/ab67616d0000b273162c5d6dbf1dc3965d1a391a",
+          "uri": "spotify:track:3B0irDyS69y5eAz15xV2Ee",
+          "url": "https://open.spotify.com/track/3B0irDyS69y5eAz15xV2Ee",
+          "duration_ms": 247426
         }
       ],
       "artists": [
@@ -764,7 +764,7 @@
         {
           "rank": 17,
           "name": "SEREBRO",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb44319d12f3c85a4845544072",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb42a3f73b48158b68f1728970",
           "genres": [],
           "uri": "spotify:artist:1Ulwacsns9Me7dz4OVwkiQ",
           "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
