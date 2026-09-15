@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-09-15T16:15:43.167Z",
+  "updated_at": "2026-09-15T20:52:09.161Z",
   "plays": [
-    {
-      "played_at": "2026-06-13T14:57:43.485Z",
-      "name": "Arthropode",
-      "artists": [
-        "Dialryckx"
-      ],
-      "album": "Aléas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a531667c4556f26c7e2e3493",
-      "uri": "spotify:track:7JeBr1xz99ixWtPjeQHoSC",
-      "duration_ms": 110554
-    },
-    {
-      "played_at": "2026-06-13T14:59:33.499Z",
-      "name": "CPS",
-      "artists": [
-        "Darkky Cave"
-      ],
-      "album": "A Teen",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732b02ad41e1df53609fdd187e",
-      "uri": "spotify:track:4RarGbUfVLJDthu3QVaKWQ",
-      "duration_ms": 82442
-    },
-    {
-      "played_at": "2026-06-13T15:11:34.714Z",
-      "name": "Fashion Habits",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "XTENDED",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350bcd582d5890d747f860830",
-      "uri": "spotify:track:2ivRKtdr0RD9nLjeXgRBPV",
-      "duration_ms": 201681
-    },
-    {
-      "played_at": "2026-06-13T15:15:00.725Z",
-      "name": "Fashion Habits",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "XTENDED",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350bcd582d5890d747f860830",
-      "uri": "spotify:track:2ivRKtdr0RD9nLjeXgRBPV",
-      "duration_ms": 201681
-    },
     {
       "played_at": "2026-06-13T15:16:56.954Z",
       "name": "Impact (with xaviersobased)",
@@ -22601,6 +22557,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730010e138a4ef1fc6943974c1",
       "uri": "spotify:track:6E2h4qMO2CSXlWxE43bd9Q",
       "duration_ms": 101333
+    },
+    {
+      "played_at": "2026-09-15T16:28:05.274Z",
+      "name": "addiction - Ultra Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction (Ultra Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+      "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+      "duration_ms": 277662
+    },
+    {
+      "played_at": "2026-09-15T16:28:16.483Z",
+      "name": "God Church",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "God Church",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
+      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
+      "duration_ms": 150622
+    },
+    {
+      "played_at": "2026-09-15T16:30:45.275Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-09-15T16:34:40.005Z",
+      "name": "Возвращайся",
+      "artists": [
+        "angel vox"
+      ],
+      "album": "Возвращайся",
+      "image": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+      "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L",
+      "duration_ms": 226909
     }
   ]
 }

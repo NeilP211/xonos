@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:15:43.099Z",
+  "generated_at": "2026-09-15T20:52:08.909Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -54,6 +54,19 @@
         },
         {
           "rank": 5,
+          "name": "tell me that u love me (slowed)",
+          "artists": [
+            "SUICIDAL-IDOL",
+            "Pröz"
+          ],
+          "album": "tell me that u love me",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
+          "duration_ms": 149860
+        },
+        {
+          "rank": 6,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -66,19 +79,6 @@
           "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
           "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
           "duration_ms": 250285
-        },
-        {
-          "rank": 6,
-          "name": "tell me that u love me (slowed)",
-          "artists": [
-            "SUICIDAL-IDOL",
-            "Pröz"
-          ],
-          "album": "tell me that u love me",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
-          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
-          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
-          "duration_ms": 149860
         },
         {
           "rank": 7,
@@ -2409,6 +2409,18 @@
         },
         {
           "rank": 42,
+          "name": "сакадзуки - Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
+        },
+        {
+          "rank": 43,
           "name": "truth yandere^^ - super slowed",
           "artists": [
             "akkiemi"
@@ -2420,7 +2432,7 @@
           "duration_ms": 106778
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Impact (with xaviersobased)",
           "artists": [
             "Nettspend",
@@ -2433,7 +2445,7 @@
           "duration_ms": 115764
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "bag it",
           "artists": [
             "sleepyherd"
@@ -2445,7 +2457,7 @@
           "duration_ms": 67223
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "2 Phones",
           "artists": [
             "Zukovstheworld",
@@ -2458,7 +2470,7 @@
           "duration_ms": 147623
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "army of two",
           "artists": [
             "ksuuvi",
@@ -2471,7 +2483,7 @@
           "duration_ms": 129567
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -2484,7 +2496,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "U gon fall",
           "artists": [
             "Nettspend"
@@ -2496,7 +2508,7 @@
           "duration_ms": 112078
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "MXRDER IN SHADOWMOOR - Diabolically Slowed",
           "artists": [
             "XTFO"
@@ -2506,18 +2518,6 @@
           "uri": "spotify:track:6FU5FYYrA7JzKwXY8dFltq",
           "url": "https://open.spotify.com/track/6FU5FYYrA7JzKwXY8dFltq",
           "duration_ms": 132000
-        },
-        {
-          "rank": 50,
-          "name": "Untrust Us",
-          "artists": [
-            "Crystal Castles"
-          ],
-          "album": "Crystal Castles",
-          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
-          "url": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2",
-          "duration_ms": 186373
         }
       ],
       "artists": [
