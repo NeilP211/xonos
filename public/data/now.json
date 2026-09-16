@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-16T10:51:09.684Z",
+  "updated_at": "2026-09-16T15:59:11.574Z",
   "is_playing": false,
   "track": {
-    "name": "Highlands",
+    "name": "Johnny B. Goode",
     "artists": [
-      "Sandbox Interactive",
-      "Jonne Valtonen"
+      "Chuck Berry"
     ],
-    "album": "Albion Online (Original Game Soundtrack)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-    "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc"
+    "album": "Berry Is On Top",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+    "uri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2"
   },
-  "played_at": "2026-09-15T22:21:01.794Z"
+  "played_at": "2026-09-16T14:10:10.707Z"
 }

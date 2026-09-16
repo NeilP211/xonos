@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:51:09.562Z",
+  "generated_at": "2026-09-16T15:59:11.231Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -67,6 +67,18 @@
         },
         {
           "rank": 6,
+          "name": "Misirlou",
+          "artists": [
+            "Dick Dale & His Del-Tones"
+          ],
+          "album": "Reverb at High Tide",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
+          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
+          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
+          "duration_ms": 134933
+        },
+        {
+          "rank": 7,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -81,7 +93,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -91,18 +103,6 @@
           "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
           "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
           "duration_ms": 210906
-        },
-        {
-          "rank": 8,
-          "name": "Misirlou",
-          "artists": [
-            "Dick Dale & His Del-Tones"
-          ],
-          "album": "Reverb at High Tide",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
-          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
-          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
-          "duration_ms": 134933
         },
         {
           "rank": 9,
@@ -571,19 +571,6 @@
         },
         {
           "rank": 46,
-          "name": "Dark Horse",
-          "artists": [
-            "Katy Perry",
-            "Juicy J"
-          ],
-          "album": "PRISM",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22",
-          "uri": "spotify:track:4jbmgIyjGoXjY01XxatOx6",
-          "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6",
-          "duration_ms": 215672
-        },
-        {
-          "rank": 47,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -596,7 +583,7 @@
           "duration_ms": 214477
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -608,7 +595,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Wake Me Up",
           "artists": [
             "Avicii"
@@ -620,7 +607,7 @@
           "duration_ms": 247426
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -630,6 +617,18 @@
           "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
           "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
           "duration_ms": 239379
+        },
+        {
+          "rank": 50,
+          "name": "Idea 22",
+          "artists": [
+            "Gibran Alcocer"
+          ],
+          "album": "Idea 22",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
+          "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
+          "url": "https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT",
+          "duration_ms": 152000
         }
       ],
       "artists": [
