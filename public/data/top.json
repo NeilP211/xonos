@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:08:43.808Z",
+  "generated_at": "2026-09-16T20:52:23.452Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -131,6 +131,19 @@
         },
         {
           "rank": 11,
+          "name": "specialsadism (Slowed)",
+          "artists": [
+            "voidvoice717",
+            "emoslut666"
+          ],
+          "album": "specialsadism 2.0",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
+          "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
+          "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
+          "duration_ms": 109134
+        },
+        {
+          "rank": 12,
           "name": "няшка - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -142,7 +155,7 @@
           "duration_ms": 120000
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "От Этого Больно",
           "artists": [
             "Танккк"
@@ -154,7 +167,7 @@
           "duration_ms": 140287
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -165,19 +178,6 @@
           "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
           "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
           "duration_ms": 255591
-        },
-        {
-          "rank": 14,
-          "name": "specialsadism (Slowed)",
-          "artists": [
-            "voidvoice717",
-            "emoslut666"
-          ],
-          "album": "specialsadism 2.0",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
-          "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
-          "url": "https://open.spotify.com/track/6DuFTbwV6Zb6jXsN1UIyc4",
-          "duration_ms": 109134
         },
         {
           "rank": 15,
@@ -2357,6 +2357,18 @@
         },
         {
           "rank": 37,
+          "name": "сакадзуки - Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
+        },
+        {
+          "rank": 38,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -2368,7 +2380,7 @@
           "duration_ms": 211043
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -2380,7 +2392,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "West Coast",
           "artists": [
             "Lana Del Rey"
@@ -2392,7 +2404,7 @@
           "duration_ms": 256760
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Mascara",
           "artists": [
             "Deftones"
@@ -2404,7 +2416,7 @@
           "duration_ms": 225293
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "flash",
           "artists": [
             "2hollis"
@@ -2414,18 +2426,6 @@
           "uri": "spotify:track:46bUjfJt7SVePcWtBVKa7W",
           "url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W",
           "duration_ms": 164117
-        },
-        {
-          "rank": 42,
-          "name": "сакадзуки - Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "сакадзуки",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
-          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
-          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
-          "duration_ms": 114995
         },
         {
           "rank": 43,
@@ -2555,6 +2555,14 @@
         },
         {
           "rank": 4,
+          "name": "DJ ZUP RAlii",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+          "genres": [],
+          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
+          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
+        },
+        {
+          "rank": 5,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -2562,20 +2570,12 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "2hollis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfa8e5370cae3d2cfba098c87",
           "genres": [],
           "uri": "spotify:artist:72NhFAGG5Pt91VbheJeEPG",
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        },
-        {
-          "rank": 6,
-          "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-          "genres": [],
-          "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
-          "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
         },
         {
           "rank": 7,
