@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:14:52.214Z",
+  "generated_at": "2026-09-17T20:57:01.386Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -219,6 +219,19 @@
         },
         {
           "rank": 18,
+          "name": "Player Island",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:4wKDsH6Gua88rqPuC4CnDw",
+          "url": "https://open.spotify.com/track/4wKDsH6Gua88rqPuC4CnDw",
+          "duration_ms": 151561
+        },
+        {
+          "rank": 19,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -231,7 +244,20 @@
           "duration_ms": 208561
         },
         {
-          "rank": 19,
+          "rank": 20,
+          "name": "Steppes",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:0QEyA9FlVkIAd2DLcenkvS",
+          "url": "https://open.spotify.com/track/0QEyA9FlVkIAd2DLcenkvS",
+          "duration_ms": 184380
+        },
+        {
+          "rank": 21,
           "name": "Chubina - Re-recorded",
           "artists": [
             "East Duo"
@@ -243,7 +269,20 @@
           "duration_ms": 103269
         },
         {
-          "rank": 20,
+          "rank": 22,
+          "name": "Highlands",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc",
+          "url": "https://open.spotify.com/track/1dqeL7BPGl0wGtLu5pBTvc",
+          "duration_ms": 150558
+        },
+        {
+          "rank": 23,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -256,7 +295,20 @@
           "duration_ms": 241933
         },
         {
-          "rank": 21,
+          "rank": 24,
+          "name": "Mountain",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1zON2UbswxtmsY9WdMTNmC",
+          "url": "https://open.spotify.com/track/1zON2UbswxtmsY9WdMTNmC",
+          "duration_ms": 163508
+        },
+        {
+          "rank": 25,
           "name": "Chubina - Speed Up",
           "artists": [
             "East Duo"
@@ -268,7 +320,7 @@
           "duration_ms": 89509
         },
         {
-          "rank": 22,
+          "rank": 26,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -280,19 +332,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 23,
-          "name": "Resonance - Slowed & Reverb",
-          "artists": [
-            "noturgf"
-          ],
-          "album": "Resonance (Slowed & Reverb)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
-          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
-          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
-          "duration_ms": 318169
-        },
-        {
-          "rank": 24,
+          "rank": 27,
           "name": "Chubina - Super Slowed",
           "artists": [
             "East Duo"
@@ -304,7 +344,7 @@
           "duration_ms": 136897
         },
         {
-          "rank": 25,
+          "rank": 28,
           "name": "acs angel - slowed",
           "artists": [
             "DudePlaya"
@@ -316,7 +356,7 @@
           "duration_ms": 176432
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "my dear melancholy - super slowed",
           "artists": [
             "msht"
@@ -328,19 +368,7 @@
           "duration_ms": 170973
         },
         {
-          "rank": 27,
-          "name": "Nutshell",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
-          "duration_ms": 259200
-        },
-        {
-          "rank": 28,
+          "rank": 30,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -353,7 +381,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Can't Hold Us (feat. Ray Dalton)",
           "artists": [
             "Macklemore",
@@ -368,7 +396,7 @@
           "duration_ms": 258431
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -380,7 +408,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "On & On",
           "artists": [
             "Cartoon",
@@ -394,7 +422,7 @@
           "duration_ms": 207068
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Till Oblivion - Radio Edit",
           "artists": [
             "Somna",
@@ -408,7 +436,7 @@
           "duration_ms": 265454
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -421,19 +449,19 @@
           "duration_ms": 201176
         },
         {
-          "rank": 34,
-          "name": "Same Old Love",
+          "rank": 36,
+          "name": "Resonance - Slowed & Reverb",
           "artists": [
-            "Selena Gomez"
+            "noturgf"
           ],
-          "album": "Revival (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
-          "uri": "spotify:track:6ZANrVuAMp2rpjhfbOuJly",
-          "url": "https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly",
-          "duration_ms": 229080
+          "album": "Resonance (Slowed & Reverb)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+          "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+          "url": "https://open.spotify.com/track/72qSU1mTkBpwokctNf6KNv",
+          "duration_ms": 318169
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -446,20 +474,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 36,
-          "name": "addiction - Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "captivation",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
-          "uri": "spotify:track:07SnvbvFJ1jUzpoBp9N4Cc",
-          "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc",
-          "duration_ms": 233480
-        },
-        {
-          "rank": 37,
+          "rank": 38,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -471,20 +486,20 @@
           "duration_ms": 170000
         },
         {
-          "rank": 38,
-          "name": "Steppes",
+          "rank": 39,
+          "name": "Dead Steppes",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:0QEyA9FlVkIAd2DLcenkvS",
-          "url": "https://open.spotify.com/track/0QEyA9FlVkIAd2DLcenkvS",
-          "duration_ms": 184380
+          "uri": "spotify:track:0W567pofryIJ8YPCynb4Po",
+          "url": "https://open.spotify.com/track/0W567pofryIJ8YPCynb4Po",
+          "duration_ms": 149089
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -496,7 +511,20 @@
           "duration_ms": 264773
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "name": "Dead Swamp",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1QJZKLQNFlmXu4mSOFeQqB",
+          "url": "https://open.spotify.com/track/1QJZKLQNFlmXu4mSOFeQqB",
+          "duration_ms": 116569
+        },
+        {
+          "rank": 42,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -508,20 +536,20 @@
           "duration_ms": 248907
         },
         {
-          "rank": 41,
-          "name": "Highlands",
+          "rank": 43,
+          "name": "The Undead",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc",
-          "url": "https://open.spotify.com/track/1dqeL7BPGl0wGtLu5pBTvc",
-          "duration_ms": 150558
+          "uri": "spotify:track:1aaooErpcadpKQxoLCKwRA",
+          "url": "https://open.spotify.com/track/1aaooErpcadpKQxoLCKwRA",
+          "duration_ms": 177316
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "truth yandere^^ - mega slowed",
           "artists": [
             "akkiemi"
@@ -533,20 +561,33 @@
           "duration_ms": 118182
         },
         {
-          "rank": 43,
-          "name": "Mountain",
+          "rank": 45,
+          "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1zON2UbswxtmsY9WdMTNmC",
-          "url": "https://open.spotify.com/track/1zON2UbswxtmsY9WdMTNmC",
-          "duration_ms": 163508
+          "uri": "spotify:track:1lu0605PYLisHAc4nUmrU7",
+          "url": "https://open.spotify.com/track/1lu0605PYLisHAc4nUmrU7",
+          "duration_ms": 157442
         },
         {
-          "rank": 44,
+          "rank": 46,
+          "name": "The Heretics",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:21JL3BKsR2vgv0ecPWD3sP",
+          "url": "https://open.spotify.com/track/21JL3BKsR2vgv0ecPWD3sP",
+          "duration_ms": 151285
+        },
+        {
+          "rank": 47,
           "name": "Transgender",
           "artists": [
             "Crystal Castles"
@@ -558,7 +599,7 @@
           "duration_ms": 184760
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -570,34 +611,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 46,
-          "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
-          "artists": [
-            "HRDSND",
-            "Syntekkz"
-          ],
-          "album": "ICH SCHNEIDE EUCH DIE ZUNGE AB (Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735799d0d5359f56c109fd93f4",
-          "uri": "spotify:track:3fnY60tVLs3S7YGqMJSMwV",
-          "url": "https://open.spotify.com/track/3fnY60tVLs3S7YGqMJSMwV",
-          "duration_ms": 391403
-        },
-        {
-          "rank": 47,
-          "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
-          "artists": [
-            "Charli xcx",
-            "Kim Petras",
-            "Jay Park"
-          ],
-          "album": "Pop 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
-          "uri": "spotify:track:3qGHAKgjQruzj6doKkyEb5",
-          "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5",
-          "duration_ms": 232933
-        },
-        {
-          "rank": 48,
+          "rank": 49,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -610,28 +624,17 @@
           "duration_ms": 214477
         },
         {
-          "rank": 49,
-          "name": "я не счастлив - Super Slowed",
-          "artists": [
-            "STAKILLAZ"
-          ],
-          "album": "я не счастлив",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8d35c0f7e4f82953ecbb834",
-          "uri": "spotify:track:0WFm91xboijAqLzd6KHrxt",
-          "url": "https://open.spotify.com/track/0WFm91xboijAqLzd6KHrxt",
-          "duration_ms": 130909
-        },
-        {
           "rank": 50,
-          "name": "Wake Me Up",
+          "name": "Dead Highlands",
           "artists": [
-            "Avicii"
+            "Sandbox Interactive",
+            "Jonne Valtonen"
           ],
-          "album": "True",
-          "image": "https://i.scdn.co/image/ab67616d0000b273162c5d6dbf1dc3965d1a391a",
-          "uri": "spotify:track:3B0irDyS69y5eAz15xV2Ee",
-          "url": "https://open.spotify.com/track/3B0irDyS69y5eAz15xV2Ee",
-          "duration_ms": 247426
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:53jBNdxbRyBDGyZNLWKFC9",
+          "url": "https://open.spotify.com/track/53jBNdxbRyBDGyZNLWKFC9",
+          "duration_ms": 129962
         }
       ],
       "artists": [
@@ -733,6 +736,14 @@
         },
         {
           "rank": 13,
+          "name": "Øneheart",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
+          "genres": [],
+          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "rank": 14,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
@@ -740,7 +751,7 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lost Sky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc5a27c631d60a8b0c99eff59",
           "genres": [],
@@ -748,7 +759,7 @@
           "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -756,7 +767,7 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jim Yosef",
           "image": "https://i.scdn.co/image/ab6761610000e5eb09e762803cd6db59cc952bb5",
           "genres": [],
@@ -764,7 +775,7 @@
           "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
@@ -772,7 +783,7 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "SEREBRO",
           "image": "https://i.scdn.co/image/ab6761610000e5eb42a3f73b48158b68f1728970",
           "genres": [],
@@ -780,7 +791,7 @@
           "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "SUICIDAL-IDOL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4840df9de4684b5afe76e2b",
           "genres": [],
@@ -788,20 +799,12 @@
           "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4768fe855a864c154a2a2d39",
           "genres": [],
           "uri": "spotify:artist:6v0qM3UbgdKlzIMRow87s2",
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
-        },
-        {
-          "rank": 21,
-          "name": "Øneheart",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
-          "genres": [],
-          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
           "rank": 22,
@@ -853,6 +856,22 @@
         },
         {
           "rank": 28,
+          "name": "nleave",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+          "genres": [],
+          "uri": "spotify:artist:2qmEE4y9DWpAXbFdZOQAeC",
+          "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
+        },
+        {
+          "rank": 29,
+          "name": "Antent",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
+          "genres": [],
+          "uri": "spotify:artist:6ovctVkv7d2fBdilDRYfDW",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        },
+        {
+          "rank": 30,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
           "genres": [],
@@ -860,7 +879,7 @@
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Led Zeppelin",
           "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
           "genres": [],
@@ -868,15 +887,15 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         },
         {
-          "rank": 30,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "rank": 32,
+          "name": "inertia.",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          "uri": "spotify:artist:3g0TdQT1NW2ZQUiertTxxH",
+          "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
