@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:32:13.029Z",
+  "generated_at": "2026-09-17T03:27:26.026Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -67,18 +67,6 @@
         },
         {
           "rank": 6,
-          "name": "Misirlou",
-          "artists": [
-            "Dick Dale & His Del-Tones"
-          ],
-          "album": "Reverb at High Tide",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
-          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
-          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
-          "duration_ms": 134933
-        },
-        {
-          "rank": 7,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -93,7 +81,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -103,6 +91,18 @@
           "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
           "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
           "duration_ms": 210906
+        },
+        {
+          "rank": 8,
+          "name": "Misirlou",
+          "artists": [
+            "Dick Dale & His Del-Tones"
+          ],
+          "album": "Reverb at High Tide",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
+          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
+          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
+          "duration_ms": 134933
         },
         {
           "rank": 9,
@@ -219,30 +219,6 @@
         },
         {
           "rank": 18,
-          "name": "Jacking the Trend",
-          "artists": [
-            "Please Don't Lack"
-          ],
-          "album": "Jacking the Trend",
-          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
-          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
-          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
-          "duration_ms": 169646
-        },
-        {
-          "rank": 19,
-          "name": "Same Old Love",
-          "artists": [
-            "Selena Gomez"
-          ],
-          "album": "Revival (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
-          "uri": "spotify:track:6ZANrVuAMp2rpjhfbOuJly",
-          "url": "https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly",
-          "duration_ms": 229080
-        },
-        {
-          "rank": 20,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -255,7 +231,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "truth yandere^^ - mega slowed",
           "artists": [
             "akkiemi"
@@ -267,21 +243,7 @@
           "duration_ms": 118182
         },
         {
-          "rank": 22,
-          "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
-          "artists": [
-            "Charli xcx",
-            "Kim Petras",
-            "Jay Park"
-          ],
-          "album": "Pop 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
-          "uri": "spotify:track:3qGHAKgjQruzj6doKkyEb5",
-          "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5",
-          "duration_ms": 232933
-        },
-        {
-          "rank": 23,
+          "rank": 20,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -294,7 +256,7 @@
           "duration_ms": 208561
         },
         {
-          "rank": 24,
+          "rank": 21,
           "name": "Chubina - Re-recorded",
           "artists": [
             "East Duo"
@@ -306,7 +268,7 @@
           "duration_ms": 103269
         },
         {
-          "rank": 25,
+          "rank": 22,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -319,7 +281,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 26,
+          "rank": 23,
           "name": "Chubina - Speed Up",
           "artists": [
             "East Duo"
@@ -331,7 +293,7 @@
           "duration_ms": 89509
         },
         {
-          "rank": 27,
+          "rank": 24,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -343,7 +305,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 28,
+          "rank": 25,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -355,7 +317,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 29,
+          "rank": 26,
           "name": "Chubina - Super Slowed",
           "artists": [
             "East Duo"
@@ -367,7 +329,7 @@
           "duration_ms": 136897
         },
         {
-          "rank": 30,
+          "rank": 27,
           "name": "acs angel - slowed",
           "artists": [
             "DudePlaya"
@@ -379,7 +341,7 @@
           "duration_ms": 176432
         },
         {
-          "rank": 31,
+          "rank": 28,
           "name": "my dear melancholy - super slowed",
           "artists": [
             "msht"
@@ -391,7 +353,7 @@
           "duration_ms": 170973
         },
         {
-          "rank": 32,
+          "rank": 29,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -403,7 +365,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 33,
+          "rank": 30,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -416,7 +378,19 @@
           "duration_ms": 187906
         },
         {
-          "rank": 34,
+          "rank": 31,
+          "name": "Jacking the Trend",
+          "artists": [
+            "Please Don't Lack"
+          ],
+          "album": "Jacking the Trend",
+          "image": "https://i.scdn.co/image/ab67616d0000b273998f278587df118c2a1582a0",
+          "uri": "spotify:track:0lI143foTYNr2Hg0xNNSOF",
+          "url": "https://open.spotify.com/track/0lI143foTYNr2Hg0xNNSOF",
+          "duration_ms": 169646
+        },
+        {
+          "rank": 32,
           "name": "Can't Hold Us (feat. Ray Dalton)",
           "artists": [
             "Macklemore",
@@ -431,7 +405,7 @@
           "duration_ms": 258431
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -443,7 +417,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "On & On",
           "artists": [
             "Cartoon",
@@ -457,7 +431,7 @@
           "duration_ms": 207068
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Till Oblivion - Radio Edit",
           "artists": [
             "Somna",
@@ -471,7 +445,7 @@
           "duration_ms": 265454
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -484,7 +458,19 @@
           "duration_ms": 201176
         },
         {
-          "rank": 39,
+          "rank": 37,
+          "name": "Same Old Love",
+          "artists": [
+            "Selena Gomez"
+          ],
+          "album": "Revival (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
+          "uri": "spotify:track:6ZANrVuAMp2rpjhfbOuJly",
+          "url": "https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly",
+          "duration_ms": 229080
+        },
+        {
+          "rank": 38,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -497,7 +483,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -507,6 +493,19 @@
           "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
           "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
           "duration_ms": 170000
+        },
+        {
+          "rank": 40,
+          "name": "Steppes",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:0QEyA9FlVkIAd2DLcenkvS",
+          "url": "https://open.spotify.com/track/0QEyA9FlVkIAd2DLcenkvS",
+          "duration_ms": 184380
         },
         {
           "rank": 41,
@@ -534,6 +533,32 @@
         },
         {
           "rank": 43,
+          "name": "Highlands",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc",
+          "url": "https://open.spotify.com/track/1dqeL7BPGl0wGtLu5pBTvc",
+          "duration_ms": 150558
+        },
+        {
+          "rank": 44,
+          "name": "Mountain",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1zON2UbswxtmsY9WdMTNmC",
+          "url": "https://open.spotify.com/track/1zON2UbswxtmsY9WdMTNmC",
+          "duration_ms": 163508
+        },
+        {
+          "rank": 45,
           "name": "Transgender",
           "artists": [
             "Crystal Castles"
@@ -545,7 +570,7 @@
           "duration_ms": 184760
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -557,7 +582,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -570,7 +595,21 @@
           "duration_ms": 391403
         },
         {
-          "rank": 46,
+          "rank": 48,
+          "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+          "artists": [
+            "Charli xcx",
+            "Kim Petras",
+            "Jay Park"
+          ],
+          "album": "Pop 2",
+          "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
+          "uri": "spotify:track:3qGHAKgjQruzj6doKkyEb5",
+          "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5",
+          "duration_ms": 232933
+        },
+        {
+          "rank": 49,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -583,7 +622,7 @@
           "duration_ms": 214477
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -593,42 +632,6 @@
           "uri": "spotify:track:0WFm91xboijAqLzd6KHrxt",
           "url": "https://open.spotify.com/track/0WFm91xboijAqLzd6KHrxt",
           "duration_ms": 130909
-        },
-        {
-          "rank": 48,
-          "name": "Wake Me Up",
-          "artists": [
-            "Avicii"
-          ],
-          "album": "True",
-          "image": "https://i.scdn.co/image/ab67616d0000b273162c5d6dbf1dc3965d1a391a",
-          "uri": "spotify:track:3B0irDyS69y5eAz15xV2Ee",
-          "url": "https://open.spotify.com/track/3B0irDyS69y5eAz15xV2Ee",
-          "duration_ms": 247426
-        },
-        {
-          "rank": 49,
-          "name": "Warmth",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
-          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
-          "duration_ms": 239379
-        },
-        {
-          "rank": 50,
-          "name": "Idea 22",
-          "artists": [
-            "Gibran Alcocer"
-          ],
-          "album": "Idea 22",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
-          "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
-          "url": "https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT",
-          "duration_ms": 152000
         }
       ],
       "artists": [
@@ -650,6 +653,14 @@
         },
         {
           "rank": 3,
+          "name": "Sandbox Interactive",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730ab97657dd6309bfb3daabe3",
+          "genres": [],
+          "uri": "spotify:artist:123b7Nnp2X56qhx2NLEtPh",
+          "url": "https://open.spotify.com/artist/123b7Nnp2X56qhx2NLEtPh"
+        },
+        {
+          "rank": 4,
           "name": "East Duo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf90a5b8db7f3245888e61591",
           "genres": [],
@@ -657,7 +668,7 @@
           "url": "https://open.spotify.com/artist/42v0kfdXXwjA3cLRr4DTyY"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -665,7 +676,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -673,20 +684,12 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "LONOWN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
           "genres": [],
           "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
           "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "rank": 7,
-          "name": "Sandbox Interactive",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ab97657dd6309bfb3daabe3",
-          "genres": [],
-          "uri": "spotify:artist:123b7Nnp2X56qhx2NLEtPh",
-          "url": "https://open.spotify.com/artist/123b7Nnp2X56qhx2NLEtPh"
         },
         {
           "rank": 8,
@@ -827,7 +830,7 @@
         {
           "rank": 25,
           "name": ".diedlonely",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba6ad3d7026f8744e52d9d5a1",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb082bf78a2f0c1628a713804f",
           "genres": [],
           "uri": "spotify:artist:2LbjW13j6rNtFgYcPjR2ur",
           "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
@@ -1689,19 +1692,19 @@
         },
         {
           "rank": 23,
-          "name": "Drake",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [],
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "rank": 24,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 24,
+          "name": "Drake",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+          "genres": [],
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "rank": 25,
