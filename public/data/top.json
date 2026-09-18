@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:50:16.672Z",
+  "generated_at": "2026-09-18T20:24:20.069Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -119,18 +119,6 @@
         },
         {
           "rank": 10,
-          "name": "cachalot",
-          "artists": [
-            "ONDA ANDAR"
-          ],
-          "album": "cachalot",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738db23a31627c7db9e4dce20d",
-          "uri": "spotify:track:7vlu745oX8YZIvQTZQBYQs",
-          "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs",
-          "duration_ms": 120685
-        },
-        {
-          "rank": 11,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -143,7 +131,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "няшка - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -155,7 +143,7 @@
           "duration_ms": 120000
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "От Этого Больно",
           "artists": [
             "Танккк"
@@ -167,7 +155,7 @@
           "duration_ms": 140287
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -180,19 +168,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 15,
-          "name": "Cachalot - Super Slowed",
-          "artists": [
-            "LUKE"
-          ],
-          "album": "Cachalot",
-          "image": "https://i.scdn.co/image/ab67616d0000b273df2f79fa04678e3b7e777ef4",
-          "uri": "spotify:track:7xJAlQqT1EkH7Nt3kd4qz5",
-          "url": "https://open.spotify.com/track/7xJAlQqT1EkH7Nt3kd4qz5",
-          "duration_ms": 172445
-        },
-        {
-          "rank": 16,
+          "rank": 14,
           "name": "Chubina - Slowed",
           "artists": [
             "East Duo"
@@ -204,7 +180,7 @@
           "duration_ms": 116356
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -218,7 +194,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Player Island",
           "artists": [
             "Sandbox Interactive",
@@ -231,7 +207,19 @@
           "duration_ms": 151561
         },
         {
-          "rank": 19,
+          "rank": 17,
+          "name": "Cachalot - Super Slowed",
+          "artists": [
+            "LUKE"
+          ],
+          "album": "Cachalot",
+          "image": "https://i.scdn.co/image/ab67616d0000b273df2f79fa04678e3b7e777ef4",
+          "uri": "spotify:track:7xJAlQqT1EkH7Nt3kd4qz5",
+          "url": "https://open.spotify.com/track/7xJAlQqT1EkH7Nt3kd4qz5",
+          "duration_ms": 172445
+        },
+        {
+          "rank": 18,
           "name": "Nevada",
           "artists": [
             "Vicetone",
@@ -244,7 +232,7 @@
           "duration_ms": 208561
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Steppes",
           "artists": [
             "Sandbox Interactive",
@@ -257,7 +245,7 @@
           "duration_ms": 184380
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Chubina - Re-recorded",
           "artists": [
             "East Duo"
@@ -269,7 +257,7 @@
           "duration_ms": 103269
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -282,7 +270,7 @@
           "duration_ms": 150558
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -295,7 +283,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -308,7 +296,7 @@
           "duration_ms": 163508
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Chubina - Speed Up",
           "artists": [
             "East Duo"
@@ -320,7 +308,7 @@
           "duration_ms": 89509
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -332,7 +320,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Chubina - Super Slowed",
           "artists": [
             "East Duo"
@@ -344,7 +332,7 @@
           "duration_ms": 136897
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "acs angel - slowed",
           "artists": [
             "DudePlaya"
@@ -356,7 +344,7 @@
           "duration_ms": 176432
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "my dear melancholy - super slowed",
           "artists": [
             "msht"
@@ -368,7 +356,7 @@
           "duration_ms": 170973
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -381,7 +369,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Can't Hold Us (feat. Ray Dalton)",
           "artists": [
             "Macklemore",
@@ -396,19 +384,7 @@
           "duration_ms": 258431
         },
         {
-          "rank": 32,
-          "name": "Wildest Dreams",
-          "artists": [
-            "Taylor Swift"
-          ],
-          "album": "1989",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b7e976d2b35c767f9012cb72",
-          "uri": "spotify:track:3fVnlF4pGqWI9flVENcT28",
-          "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
-          "duration_ms": 220440
-        },
-        {
-          "rank": 33,
+          "rank": 31,
           "name": "On & On",
           "artists": [
             "Cartoon",
@@ -422,7 +398,7 @@
           "duration_ms": 207068
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Till Oblivion - Radio Edit",
           "artists": [
             "Somna",
@@ -436,7 +412,7 @@
           "duration_ms": 265454
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -449,7 +425,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -461,7 +437,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -474,7 +450,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -486,7 +462,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "Dead Steppes",
           "artists": [
             "Sandbox Interactive",
@@ -499,7 +475,7 @@
           "duration_ms": 149089
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -511,7 +487,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Dead Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -524,7 +500,7 @@
           "duration_ms": 116569
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -536,7 +512,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "The Undead",
           "artists": [
             "Sandbox Interactive",
@@ -549,7 +525,7 @@
           "duration_ms": 177316
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "truth yandere^^ - mega slowed",
           "artists": [
             "akkiemi"
@@ -561,7 +537,7 @@
           "duration_ms": 118182
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -574,7 +550,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "The Heretics",
           "artists": [
             "Sandbox Interactive",
@@ -587,7 +563,7 @@
           "duration_ms": 151285
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Transgender",
           "artists": [
             "Crystal Castles"
@@ -599,7 +575,7 @@
           "duration_ms": 184760
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Cola",
           "artists": [
             "Lana Del Rey"
@@ -611,7 +587,7 @@
           "duration_ms": 260893
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Work from Home (feat. Ty Dolla $ign)",
           "artists": [
             "Fifth Harmony",
@@ -624,7 +600,7 @@
           "duration_ms": 214477
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -635,6 +611,32 @@
           "uri": "spotify:track:53jBNdxbRyBDGyZNLWKFC9",
           "url": "https://open.spotify.com/track/53jBNdxbRyBDGyZNLWKFC9",
           "duration_ms": 129962
+        },
+        {
+          "rank": 49,
+          "name": "Danger",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:55LceYfx2w9seKoidBQGiS",
+          "url": "https://open.spotify.com/track/55LceYfx2w9seKoidBQGiS",
+          "duration_ms": 59463
+        },
+        {
+          "rank": 50,
+          "name": "Forest",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:7F6Om6OdlHZet6pBdDNPNi",
+          "url": "https://open.spotify.com/track/7F6Om6OdlHZet6pBdDNPNi",
+          "duration_ms": 141482
         }
       ],
       "artists": [

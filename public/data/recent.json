@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-18T15:50:16.738Z",
+  "updated_at": "2026-09-18T20:24:20.172Z",
   "plays": [
-    {
-      "played_at": "2026-06-15T23:13:30.867Z",
-      "name": "Egyptian Codes",
-      "artists": [
-        "DotComNirvan",
-        "Glokk40Spaz"
-      ],
-      "album": "Egyptian Codes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
-      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
-      "duration_ms": 150000
-    },
     {
       "played_at": "2026-06-15T23:17:37.013Z",
       "name": "Thoughts While Incarcerated",
@@ -22632,6 +22620,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ab59795e668ab335909ec3ff",
       "uri": "spotify:track:2TI6jYgdVqwB9LSndm0onN",
       "duration_ms": 317130
+    },
+    {
+      "played_at": "2026-09-18T17:42:46.350Z",
+      "name": "Cliff Jump",
+      "artists": [
+        "METAHESH"
+      ],
+      "album": "Cliff Jump",
+      "image": "https://i.scdn.co/image/ab67616d0000b273067d647120788a165d97a56e",
+      "uri": "spotify:track:08CjKKcPzwu6tUEU3tZQqR",
+      "duration_ms": 178138
     }
   ]
 }
