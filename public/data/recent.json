@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-20T20:19:48.743Z",
+  "updated_at": "2026-09-20T22:58:38.822Z",
   "plays": [
-    {
-      "played_at": "2026-06-15T23:17:37.013Z",
-      "name": "Thoughts While Incarcerated",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "BABY WHOA",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
-      "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
-      "duration_ms": 221387
-    },
     {
       "played_at": "2026-06-15T23:20:02.130Z",
       "name": "Fuck Sum",
@@ -22631,6 +22620,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273067d647120788a165d97a56e",
       "uri": "spotify:track:08CjKKcPzwu6tUEU3tZQqR",
       "duration_ms": 178138
+    },
+    {
+      "played_at": "2026-09-20T20:57:16.289Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
     }
   ]
 }
