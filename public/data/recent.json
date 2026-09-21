@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-09-21T19:51:20.532Z",
+  "updated_at": "2026-09-21T23:49:12.898Z",
   "plays": [
-    {
-      "played_at": "2026-06-16T12:35:32.856Z",
-      "name": "Yung Nigga Shit",
-      "artists": [
-        "Glokk40Spaz",
-        "2wo2imes"
-      ],
-      "album": "2wo Glokks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-      "duration_ms": 135510
-    },
-    {
-      "played_at": "2026-06-16T12:38:22.393Z",
-      "name": "Fuck Sum",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Took The Biggest Risk",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
-      "uri": "spotify:track:23vFAarJZb0hoCfF2uURzp",
-      "duration_ms": 144657
-    },
     {
       "played_at": "2026-06-16T12:41:42.480Z",
       "name": "BE RIGHT BACK",
@@ -22634,6 +22611,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818",
       "uri": "spotify:track:4t9PBD27dndlf6YMBK2ROc",
       "duration_ms": 326906
+    },
+    {
+      "played_at": "2026-09-21T22:07:03.172Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-09-21T22:07:22Z",
+      "name": "Jennifer’s Body",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:04hgBWsBDEyVP8pH0BCZbG",
+      "duration_ms": 158515
     }
   ]
 }
