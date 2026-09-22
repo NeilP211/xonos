@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T20:53:26.424Z",
-  "is_playing": false,
+  "updated_at": "2026-09-22T23:29:47.353Z",
+  "is_playing": true,
   "track": {
-    "name": "Jennifer’s Body",
+    "name": "Wait",
     "artists": [
-      "Ken Carson"
+      "C418"
     ],
-    "album": "A Great Chaos",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-    "uri": "spotify:track:04hgBWsBDEyVP8pH0BCZbG"
+    "album": "Minecraft - Volume Beta",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734cf0b29eb06a92aa96acae64",
+    "uri": "spotify:track:5jETlbplk10X3x5n7mCPBL"
   },
-  "played_at": "2026-09-21T22:07:22Z"
+  "played_at": "2026-09-22T23:29:47.353Z"
 }
