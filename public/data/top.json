@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:46:39.188Z",
+  "generated_at": "2026-09-23T16:06:54.888Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -762,7 +762,7 @@
         {
           "rank": 15,
           "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9266c9b6cba006eaf71f0f0",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbecdf71ce387eccac2a8c66e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
@@ -1604,7 +1604,7 @@
         {
           "rank": 10,
           "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9266c9b6cba006eaf71f0f0",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbecdf71ce387eccac2a8c66e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
@@ -1819,6 +1819,14 @@
         },
         {
           "rank": 37,
+          "name": "C418",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
+          "genres": [],
+          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 38,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
@@ -1826,7 +1834,7 @@
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "HELLBLADE",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe4e3decb69d545a638a33de2",
           "genres": [],
@@ -1834,7 +1842,7 @@
           "url": "https://open.spotify.com/artist/7bEPCmDmXU7GbO8iid7YvP"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb678a3a4bc2d8a84074f22c71",
           "genres": [],
@@ -1842,20 +1850,12 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
           "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "rank": 41,
-          "name": "C418",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
-          "genres": [],
-          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
           "rank": 42,
@@ -2693,7 +2693,7 @@
         {
           "rank": 19,
           "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9266c9b6cba006eaf71f0f0",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbecdf71ce387eccac2a8c66e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
