@@ -1,308 +1,6 @@
 {
-  "updated_at": "2026-09-24T11:07:15.355Z",
+  "updated_at": "2026-09-24T16:30:31.323Z",
   "plays": [
-    {
-      "played_at": "2026-06-23T15:03:38.991Z",
-      "name": "Virgil 2",
-      "artists": [
-        "OT7 Quanny"
-      ],
-      "album": "Virgil 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739c2aea8d3aa802b18ba22520",
-      "uri": "spotify:track:5dhB7gkH0VM8vEfzZfTzcP",
-      "duration_ms": 125111
-    },
-    {
-      "played_at": "2026-06-23T15:13:59.817Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
-    {
-      "played_at": "2026-06-23T16:29:04.805Z",
-      "name": "fatman",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "fatman",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737fa997a8cc13a39b4b2e1b21",
-      "uri": "spotify:track:0Vrp38pF5LU2blusmFQxLP",
-      "duration_ms": 90426
-    },
-    {
-      "played_at": "2026-06-23T18:58:45.283Z",
-      "name": "no reez",
-      "artists": [
-        "Chris Finesse Exclusives",
-        "boolymon"
-      ],
-      "album": "no reez",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342c8e398d411ac1000c97b4b",
-      "uri": "spotify:track:325fUFj7vLIMtRfADUduMb",
-      "duration_ms": 132177
-    },
-    {
-      "played_at": "2026-06-24T00:59:57.197Z",
-      "name": "math goat",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "math goat",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f199e66714a4424f89094a40",
-      "uri": "spotify:track:64rkGDcxsrmCJjVhRxoc3H",
-      "duration_ms": 81843
-    },
-    {
-      "played_at": "2026-06-24T01:06:19.257Z",
-      "name": "kickin da ball",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "kickin da ball",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
-      "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
-      "duration_ms": 66846
-    },
-    {
-      "played_at": "2026-06-24T13:09:58.592Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
-    {
-      "played_at": "2026-06-24T13:13:55.488Z",
-      "name": "Tulsa Jesus Freak",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Chemtrails Over The Country Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
-      "uri": "spotify:track:0hyImI8JaWONOrzKH7kJsC",
-      "duration_ms": 215673
-    },
-    {
-      "played_at": "2026-06-24T13:17:53.072Z",
-      "name": "National Anthem",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
-      "duration_ms": 230520
-    },
-    {
-      "played_at": "2026-06-24T13:21:23.087Z",
-      "name": "Blue Jeans",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:2lFTzUnuGaWlWHJQokjRyb",
-      "duration_ms": 209440
-    },
-    {
-      "played_at": "2026-06-24T13:26:46.983Z",
-      "name": "Swan Song",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-      "duration_ms": 323475
-    },
-    {
-      "played_at": "2026-06-24T15:17:43.992Z",
-      "name": "rich girl",
-      "artists": [
-        "phreshboyswag"
-      ],
-      "album": "VIP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b04c4505cb1d00e12582b762",
-      "uri": "spotify:track:4ln1S6aDaHScPXvZslDJ1R",
-      "duration_ms": 72306
-    },
-    {
-      "played_at": "2026-06-24T15:24:00.956Z",
-      "name": "munni & drugs",
-      "artists": [
-        "bleood"
-      ],
-      "album": "how bleood stole Xmas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
-      "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
-      "duration_ms": 130677
-    },
-    {
-      "played_at": "2026-06-24T15:32:49.279Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T15:37:10.532Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T15:41:31.794Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T15:46:16.052Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T15:50:37.331Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T15:54:58.609Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T17:25:45.503Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-24T17:36:45.709Z",
-      "name": "Neaky",
-      "artists": [
-        "WhoRunIt Records",
-        "Jay Hound"
-      ],
-      "album": "Neaky",
-      "image": "https://i.scdn.co/image/ab67616d0000b273073054935933c9838f53f81c",
-      "uri": "spotify:track:7EEcq4XnchWPolWIADAikv",
-      "duration_ms": 93855
-    },
-    {
-      "played_at": "2026-06-24T17:40:09.644Z",
-      "name": "Jenny of Oldstones",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "album": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
-      "uri": "spotify:track:2YmIcPF20FEaQd8qwTK8zm",
-      "duration_ms": 150623
-    },
-    {
-      "played_at": "2026-06-24T17:41:45.892Z",
-      "name": "You'll Be Queen One Day",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "album": "Game Of Thrones (Music From The HBO Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924",
-      "uri": "spotify:track:3fjWYZdo6uZJzsuSoCZmx2",
-      "duration_ms": 95720
-    },
-    {
-      "played_at": "2026-06-24T17:43:59.689Z",
-      "name": "Pyat Pree - From The \"Game Of Thrones: Season 2\" Soundtrack",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "album": "Game Of Thrones: Season 2 (Music From The HBO Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273822e909bd0687dadc961e2e5",
-      "uri": "spotify:track:1GQAc1rnIjtLBKLv55yoOy",
-      "duration_ms": 133266
-    },
-    {
-      "played_at": "2026-06-24T17:48:24.185Z",
-      "name": "For Cersei",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "album": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
-      "uri": "spotify:track:5Tbs8ANBjOB9d9RyTXyReH",
-      "duration_ms": 263974
-    },
-    {
-      "played_at": "2026-06-24T17:52:08.428Z",
-      "name": "Arrival at Winterfell",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "album": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
-      "uri": "spotify:track:0VeOw2I0PIDZScE9HCUKgN",
-      "duration_ms": 223720
-    },
     {
       "played_at": "2026-06-24T17:56:22.074Z",
       "name": "Battle for the Skies",
@@ -22654,6 +22352,306 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c6130e9ccfbd434dd7003cea",
       "uri": "spotify:track:0MIIjqVNqCpe0gG7jlSzAR",
       "duration_ms": 265454
+    },
+    {
+      "played_at": "2026-09-24T12:56:24.186Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-09-24T12:58:25.380Z",
+      "name": "ILLUMINATI",
+      "artists": [
+        "LyteSpeed",
+        "Punkinloveee"
+      ],
+      "album": "ILLUMINATI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ada21281261a4a3ef6c4ab",
+      "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
+      "duration_ms": 120702
+    },
+    {
+      "played_at": "2026-09-24T13:31:32.610Z",
+      "name": "gray cat - speed up",
+      "artists": [
+        "nleave",
+        "wintercat"
+      ],
+      "album": "gray cat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+      "uri": "spotify:track:3PtBaDJjndG2lzWJJk7XUh",
+      "duration_ms": 90975
+    },
+    {
+      "played_at": "2026-09-24T13:33:42.039Z",
+      "name": "Pulse",
+      "artists": [
+        "Antent"
+      ],
+      "album": "Pulse",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8737016206aa60f7814085",
+      "uri": "spotify:track:20C59ZiRbuRZIY2Xbup9Wl",
+      "duration_ms": 128918
+    },
+    {
+      "played_at": "2026-09-24T13:35:44.622Z",
+      "name": "fading lights",
+      "artists": [
+        "Øneheart",
+        "inertia."
+      ],
+      "album": "fading lights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd2f85265cdd5c024492c464",
+      "uri": "spotify:track:1KF13YsUy3Di7pXaF7Hlvl",
+      "duration_ms": 120778
+    },
+    {
+      "played_at": "2026-09-24T13:37:14.214Z",
+      "name": "i know how i’ll die;",
+      "artists": [
+        "my head is empty"
+      ],
+      "album": "i know how i’ll die;",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8022ecc462c726464d27db2",
+      "uri": "spotify:track:664lwfbWsvCiUA3TSKyqcS",
+      "duration_ms": 89072
+    },
+    {
+      "played_at": "2026-09-24T13:40:24.246Z",
+      "name": "green to blue",
+      "artists": [
+        "daniel.mp3"
+      ],
+      "album": "Backroom",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383ae32caa4aa4ae1e4dac7ed",
+      "uri": "spotify:track:4zzxSXdXK4gLEOyGpPpb9v",
+      "duration_ms": 189515
+    },
+    {
+      "played_at": "2026-09-24T13:42:09.951Z",
+      "name": "labyrinth",
+      "artists": [
+        "nleave",
+        "wintercat"
+      ],
+      "album": "labyrinth",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735619d69f4eace0f4dff6e63d",
+      "uri": "spotify:track:1I6YLNgBBQnehUWWPlT4yV",
+      "duration_ms": 105185
+    },
+    {
+      "played_at": "2026-09-24T13:44:09.447Z",
+      "name": "mirage",
+      "artists": [
+        "théos",
+        "Antent"
+      ],
+      "album": "mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4f4fd727905bd1748e53365",
+      "uri": "spotify:track:7gy6sob5awFll0Pc5zPP1w",
+      "duration_ms": 118976
+    },
+    {
+      "played_at": "2026-09-24T13:46:00.538Z",
+      "name": "distorted memories",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "distorted memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beab7971a535a77c1a1d2d44",
+      "uri": "spotify:track:2QJEVdIX5xuBGrDSpPjocC",
+      "duration_ms": 110571
+    },
+    {
+      "played_at": "2026-09-24T13:47:41.659Z",
+      "name": "watching the stars",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "watching the stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0d746e5aa2b299cbc5ecdff",
+      "uri": "spotify:track:321PCApeQiLLrf03k83cCb",
+      "duration_ms": 99146
+    },
+    {
+      "played_at": "2026-09-24T13:50:20.574Z",
+      "name": "appeasement",
+      "artists": [
+        "lostlight"
+      ],
+      "album": "appeasement",
+      "image": "https://i.scdn.co/image/ab67616d0000b27323f8a2b1ee685eb1ed6d2420",
+      "uri": "spotify:track:0VO7FFhUkXeaJreV93KCru",
+      "duration_ms": 158400
+    },
+    {
+      "played_at": "2026-09-24T13:52:53.035Z",
+      "name": "I don't know, it's just been here all the time - intro",
+      "artists": [
+        "TileKid"
+      ],
+      "album": "I don't know, it's just been here all the time",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c0c62c909679004a39b15dc",
+      "uri": "spotify:track:4J5FoKPsv9etVmd0WqQaOg",
+      "duration_ms": 151942
+    },
+    {
+      "played_at": "2026-09-24T13:55:22.786Z",
+      "name": "fable",
+      "artists": [
+        "Øneheart",
+        "reidenshi",
+        "Antent"
+      ],
+      "album": "fable",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de230cccb5274fa6cca71f93",
+      "uri": "spotify:track:2x4JUfTNw6Ht4lUxtAS0OP",
+      "duration_ms": 149142
+    },
+    {
+      "played_at": "2026-09-24T13:57:14.132Z",
+      "name": "rain inside",
+      "artists": [
+        "Øneheart",
+        "Antent"
+      ],
+      "album": "rain inside",
+      "image": "https://i.scdn.co/image/ab67616d0000b273237af06eecc9c683d7f52a65",
+      "uri": "spotify:track:1yA3IFxUIEIRvzAQgVClZI",
+      "duration_ms": 106777
+    },
+    {
+      "played_at": "2026-09-24T13:58:51.236Z",
+      "name": "forgotten thoughts",
+      "artists": [
+        "MADEBYGODES",
+        "Sedogy Bedam"
+      ],
+      "album": "forgotten thoughts",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325d8b79b06a9c9a4e7d35db6",
+      "uri": "spotify:track:5hpfwMq7cISdPNjbgwb3Fk",
+      "duration_ms": 96576
+    },
+    {
+      "played_at": "2026-09-24T14:01:36.507Z",
+      "name": "addiction",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "captivation",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
+      "uri": "spotify:track:2T3vYzsy7BuHDR8bhwxyIp",
+      "duration_ms": 208971
+    },
+    {
+      "played_at": "2026-09-24T14:07:22.287Z",
+      "name": "Reverie",
+      "artists": [
+        "CNQR+",
+        "for home use only."
+      ],
+      "album": "Digital Cassette",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3bc064f6a2b736aff5b41f5",
+      "uri": "spotify:track:4Imlui0ToiyNIcLi74ZY3d",
+      "duration_ms": 298666
+    },
+    {
+      "played_at": "2026-09-24T14:09:52.139Z",
+      "name": "sleepless",
+      "artists": [
+        "Ødyzon"
+      ],
+      "album": "sleepless",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355738fa650805599285ae440",
+      "uri": "spotify:track:2l3IMrkVUCUYLhSRGapTqu",
+      "duration_ms": 149325
+    },
+    {
+      "played_at": "2026-09-24T14:11:29.222Z",
+      "name": "gray cat",
+      "artists": [
+        "nleave",
+        "wintercat"
+      ],
+      "album": "gray cat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+      "uri": "spotify:track:5WIaKimmml8rsXap5iSoUp",
+      "duration_ms": 96551
+    },
+    {
+      "played_at": "2026-09-24T14:12:59.910Z",
+      "name": "In Your Arms",
+      "artists": [
+        "Antent"
+      ],
+      "album": "In Your Arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f6476275b81eb2d108e76af",
+      "uri": "spotify:track:3aD54SqCgTXcO03MXvOccj",
+      "duration_ms": 90169
+    },
+    {
+      "played_at": "2026-09-24T14:15:05.050Z",
+      "name": "nostalgia",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "nostalgia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273378e1973ca1a9e4c104b0296",
+      "uri": "spotify:track:768xi4B8fL5dG028KbCjLl",
+      "duration_ms": 124615
+    },
+    {
+      "played_at": "2026-09-24T14:17:18.164Z",
+      "name": "silence",
+      "artists": [
+        "les"
+      ],
+      "album": "agony",
+      "image": "https://i.scdn.co/image/ab67616d0000b273199230c6e83b891f1f2ea088",
+      "uri": "spotify:track:7J8GhW4sJbQdKZ10TS2GVD",
+      "duration_ms": 132591
+    },
+    {
+      "played_at": "2026-09-24T14:19:51.582Z",
+      "name": "a dream about you",
+      "artists": [
+        "airshade"
+      ],
+      "album": "a dream about you",
+      "image": "https://i.scdn.co/image/ab67616d0000b273429f9a271944c0a3c4fb8681",
+      "uri": "spotify:track:3RDTBiCfcIr4DbmZ5ofMh0",
+      "duration_ms": 152888
+    },
+    {
+      "played_at": "2026-09-24T14:23:08.396Z",
+      "name": "Our Places",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "Dreamscape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739951ad4d57d35371195d42b2",
+      "uri": "spotify:track:5uZqb0v91LroaaCX8j2OcN",
+      "duration_ms": 196285
+    },
+    {
+      "played_at": "2026-09-24T14:24:36.085Z",
+      "name": "evanesce",
+      "artists": [
+        "my head is empty"
+      ],
+      "album": "ambient vol 3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f450c7edb1a26ad035135708",
+      "uri": "spotify:track:24g9WWUq1o1oUPjuHc1GK5",
+      "duration_ms": 87171
     }
   ]
 }
