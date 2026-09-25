@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T03:27:56.044Z",
+  "generated_at": "2026-09-25T11:09:39.940Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -743,7 +743,7 @@
         {
           "rank": 13,
           "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbecdf71ce387eccac2a8c66e",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
@@ -997,6 +997,18 @@
         },
         {
           "rank": 8,
+          "name": "glamur) (super slowed)",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "glamur)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
+          "duration_ms": 129285
+        },
+        {
+          "rank": 9,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -1009,7 +1021,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -1020,18 +1032,6 @@
           "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
           "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
           "duration_ms": 149860
-        },
-        {
-          "rank": 10,
-          "name": "glamur) (super slowed)",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "glamur)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
-          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
-          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
-          "duration_ms": 129285
         },
         {
           "rank": 11,
@@ -1601,7 +1601,7 @@
         {
           "rank": 10,
           "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbecdf71ce387eccac2a8c66e",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
@@ -1736,54 +1736,6 @@
         },
         {
           "rank": 27,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
-          "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
-        },
-        {
-          "rank": 28,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 29,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 30,
-          "name": "Ricegum",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
-          "genres": [],
-          "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
-          "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
-        },
-        {
-          "rank": 31,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "rank": 32,
-          "name": "Radion6",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
-          "genres": [],
-          "uri": "spotify:artist:2AyyZ8mU5Kmsz2ibu2FP8h",
-          "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
-        },
-        {
-          "rank": 33,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -1791,12 +1743,60 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 34,
+          "rank": 28,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "rank": 29,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 30,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4768fe855a864c154a2a2d39",
           "genres": [],
           "uri": "spotify:artist:6v0qM3UbgdKlzIMRow87s2",
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        },
+        {
+          "rank": 31,
+          "name": "OsamaSon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+          "genres": [],
+          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        },
+        {
+          "rank": 32,
+          "name": "Ricegum",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb08aff4aa86fd1c47cf877176",
+          "genres": [],
+          "uri": "spotify:artist:5RQqbE8uh2NwotXk6wvYa6",
+          "url": "https://open.spotify.com/artist/5RQqbE8uh2NwotXk6wvYa6"
+        },
+        {
+          "rank": 33,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 34,
+          "name": "Radion6",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
+          "genres": [],
+          "uri": "spotify:artist:2AyyZ8mU5Kmsz2ibu2FP8h",
+          "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
           "rank": 35,
@@ -2690,7 +2690,7 @@
         {
           "rank": 19,
           "name": "Taylor Swift",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbecdf71ce387eccac2a8c66e",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
