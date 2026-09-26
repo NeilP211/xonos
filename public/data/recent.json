@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-09-25T21:05:43.199Z",
+  "updated_at": "2026-09-26T03:33:27.002Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T00:29:12.266Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-06-25T00:33:33.528Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
     {
       "played_at": "2026-06-25T00:38:58.864Z",
       "name": "A New Kind Of Love - Demo",
@@ -22653,6 +22627,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc",
       "uri": "spotify:track:0lYBSQXN6rCTvUZvg9S0lU",
       "duration_ms": 205946
+    },
+    {
+      "played_at": "2026-09-25T22:43:27.163Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-09-26T00:05:38.955Z",
+      "name": "в коже - Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "в коже",
+      "image": "https://i.scdn.co/image/ab67616d0000b273637f6aabb8eed0c948064f32",
+      "uri": "spotify:track:30NWMePQsyT3YfVQfnCiaV",
+      "duration_ms": 119241
     }
   ]
 }
