@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-26T15:46:53.309Z",
-  "is_playing": true,
+  "updated_at": "2026-09-26T20:39:06.764Z",
+  "is_playing": false,
   "track": {
-    "name": "Alors on danse - Radio Edit",
+    "name": "Don't Let Me Down",
     "artists": [
-      "Stromae"
+      "The Chainsmokers",
+      "Daya"
     ],
-    "album": "Cheese",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ae373174b14e3eac81554402",
-    "uri": "spotify:track:2GYHyAoLWpkxLVa4oYTVko"
+    "album": "Don't Let Me Down",
+    "image": "https://i.scdn.co/image/ab67616d0000b27302df2d642b572cf4f284a5c3",
+    "uri": "spotify:track:1i1fxkWeaMmKEB4T7zqbzK"
   },
-  "played_at": "2026-09-26T15:46:53.309Z"
+  "played_at": "2026-09-26T17:09:26.969Z"
 }
