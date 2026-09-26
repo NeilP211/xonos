@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:33:26.839Z",
+  "generated_at": "2026-09-26T10:49:20.169Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2793,30 +2793,6 @@
         },
         {
           "rank": 32,
-          "name": "Maul",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
-          "genres": [],
-          "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
-          "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
-        },
-        {
-          "rank": 33,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "rank": 34,
-          "name": "nate sib",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb670af682ed7ee6d7596ad12d",
-          "genres": [],
-          "uri": "spotify:artist:4TNu2ZIE566yKwEhOT8eTv",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        },
-        {
-          "rank": 35,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -2824,12 +2800,36 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 36,
+          "rank": 33,
+          "name": "Maul",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
+          "genres": [],
+          "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
+          "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
+        },
+        {
+          "rank": 34,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "rank": 35,
           "name": "LONOWN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
           "genres": [],
           "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
           "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 36,
+          "name": "nate sib",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb670af682ed7ee6d7596ad12d",
+          "genres": [],
+          "uri": "spotify:artist:4TNu2ZIE566yKwEhOT8eTv",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
         },
         {
           "rank": 37,
@@ -2937,11 +2937,11 @@
         },
         {
           "rank": 50,
-          "name": "DudePlaya",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb87f1a32357adddd1320d4ed8",
+          "name": "Ellie Goulding",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
           "genres": [],
-          "uri": "spotify:artist:0ypzv0AG6k3yZjNxdhpnJF",
-          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
+          "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ]
     }
