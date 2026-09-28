@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-28T12:55:23.364Z",
+  "updated_at": "2026-09-28T21:03:40.053Z",
   "is_playing": false,
   "track": {
-    "name": "Alors on danse - Radio Edit",
+    "name": "Fearless Pt. II",
     "artists": [
-      "Stromae"
+      "Lost Sky",
+      "Chris Linton"
     ],
-    "album": "Cheese",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ae373174b14e3eac81554402",
-    "uri": "spotify:track:2GYHyAoLWpkxLVa4oYTVko"
+    "album": "Fearless Pt. II (Sped Up/Slowed)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fd3526c1285518f78f344cc5",
+    "uri": "spotify:track:0bdx0Cr5WFxPCgg59CzNb5"
   },
-  "played_at": "2026-09-27T02:00:43.810Z"
+  "played_at": "2026-09-28T20:24:56.241Z"
 }
