@@ -1,105 +1,6 @@
 {
-  "updated_at": "2026-09-28T21:03:39.961Z",
+  "updated_at": "2026-09-29T04:16:19.444Z",
   "plays": [
-    {
-      "played_at": "2026-06-26T22:16:50.965Z",
-      "name": "Sweet Home Alabama",
-      "artists": [
-        "Lynyrd Skynyrd"
-      ],
-      "album": "Second Helping (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
-      "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
-      "duration_ms": 283800
-    },
-    {
-      "played_at": "2026-06-26T23:24:21.583Z",
-      "name": "Paradise City",
-      "artists": [
-        "Guns N' Roses"
-      ],
-      "album": "Appetite For Destruction",
-      "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-      "uri": "spotify:track:6eN1f9KNmiWEhpE2RhQqB5",
-      "duration_ms": 405600
-    },
-    {
-      "played_at": "2026-06-26T23:27:29.665Z",
-      "name": "Paradise City",
-      "artists": [
-        "Guns N' Roses"
-      ],
-      "album": "Appetite For Destruction",
-      "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-      "uri": "spotify:track:6eN1f9KNmiWEhpE2RhQqB5",
-      "duration_ms": 405600
-    },
-    {
-      "played_at": "2026-06-26T23:32:05.740Z",
-      "name": "Aneurysm",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Incesticide",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
-      "uri": "spotify:track:0Pie5DFAHHxpkONFUsAI6s",
-      "duration_ms": 275600
-    },
-    {
-      "played_at": "2026-06-26T23:44:57.620Z",
-      "name": "In Bloom",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
-      "duration_ms": 255080
-    },
-    {
-      "played_at": "2026-06-26T23:46:28.070Z",
-      "name": "In Bloom",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
-      "duration_ms": 255080
-    },
-    {
-      "played_at": "2026-06-27T03:19:42.524Z",
-      "name": "Mighty Wings - From \"Top Gun\" Original Soundtrack",
-      "artists": [
-        "Cheap Trick"
-      ],
-      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
-      "uri": "spotify:track:32SckiFOYb8bwYewY51WA7",
-      "duration_ms": 231039
-    },
-    {
-      "played_at": "2026-06-27T03:20:17.299Z",
-      "name": "misery.",
-      "artists": [
-        "pupsies"
-      ],
-      "album": "misery.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273316b7fde50dfbf4be72735c2",
-      "uri": "spotify:track:6De8sirPzVyAoBDlQpcutY",
-      "duration_ms": 166401
-    },
-    {
-      "played_at": "2026-06-27T13:23:51.239Z",
-      "name": "Sad Girl",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
-      "duration_ms": 317760
-    },
     {
       "played_at": "2026-06-27T15:25:46.797Z",
       "name": "NOGWAPNOLIFE",
@@ -22648,6 +22549,108 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fd3526c1285518f78f344cc5",
       "uri": "spotify:track:0bdx0Cr5WFxPCgg59CzNb5",
       "duration_ms": 194181
+    },
+    {
+      "played_at": "2026-09-28T21:12:10.769Z",
+      "name": "Born Slippy (Nuxx)",
+      "artists": [
+        "Underworld"
+      ],
+      "album": "1992 - 2012",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
+      "uri": "spotify:track:7xQYVjs4wZNdCwO0EeAWMC",
+      "duration_ms": 456480
+    },
+    {
+      "played_at": "2026-09-28T21:44:40.381Z",
+      "name": "Stole The Sun - Allen & Envy Edit",
+      "artists": [
+        "Dart Rayne",
+        "Yura Moonlight",
+        "Katty Heath",
+        "Allen & Envy"
+      ],
+      "album": "Stole The Sun",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357d6a78da2beffee26b88c42",
+      "uri": "spotify:track:46jA0N7MgMLnT5Y4etmrnL",
+      "duration_ms": 255434
+    },
+    {
+      "played_at": "2026-09-28T21:48:22.626Z",
+      "name": "d pain",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:5p9SYauNFm5mqvJdT0sKJX",
+      "duration_ms": 73490
+    },
+    {
+      "played_at": "2026-09-28T21:49:17.677Z",
+      "name": "realest music",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:251ufYBxRu7TUzH9YCz1YI",
+      "duration_ms": 55081
+    },
+    {
+      "played_at": "2026-09-28T21:50:16.197Z",
+      "name": "c++ shi",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:33CzsD9mvOFwzTrwhLUYaO",
+      "duration_ms": 58480
+    },
+    {
+      "played_at": "2026-09-28T21:51:04.240Z",
+      "name": "came from nothing",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:37D6k2VJZCydNNWesKkMtC",
+      "duration_ms": 48120
+    },
+    {
+      "played_at": "2026-09-28T21:52:19.383Z",
+      "name": "countin math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:7GJsAk37INXvBEesZfhrkM",
+      "duration_ms": 75132
+    },
+    {
+      "played_at": "2026-09-28T21:57:38.873Z",
+      "name": "u cant run from ts math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:2q1neExENXHuZ5pJs5eMzc",
+      "duration_ms": 64360
+    },
+    {
+      "played_at": "2026-09-28T21:58:27.297Z",
+      "name": "i hear em math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:5tFWQki2LrEFasAzpBER5v",
+      "duration_ms": 48442
     }
   ]
 }

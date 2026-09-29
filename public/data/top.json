@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:03:39.795Z",
+  "generated_at": "2026-09-29T04:16:19.336Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -399,20 +399,6 @@
         },
         {
           "rank": 32,
-          "name": "Till Oblivion - Radio Edit",
-          "artists": [
-            "Somna",
-            "Yang",
-            "Noire Lee"
-          ],
-          "album": "Till Oblivion",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731849dbe3e9ff2a7d5ede5429",
-          "uri": "spotify:track:5c39hvC81XSdkSDL0eBzDw",
-          "url": "https://open.spotify.com/track/5c39hvC81XSdkSDL0eBzDw",
-          "duration_ms": 265454
-        },
-        {
-          "rank": 33,
           "name": "NE CMOTPN - Slowed",
           "artists": [
             "STAKILLAZ",
@@ -423,6 +409,20 @@
           "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
           "url": "https://open.spotify.com/track/4lSoQgxzAEUPgun7t6jaqn",
           "duration_ms": 98930
+        },
+        {
+          "rank": 33,
+          "name": "Shelter Me",
+          "artists": [
+            "Dart Rayne",
+            "Yura Moonlight",
+            "Cate Kanell"
+          ],
+          "album": "Shelter Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
+          "duration_ms": 236375
         },
         {
           "rank": 34,
@@ -525,17 +525,17 @@
         },
         {
           "rank": 42,
-          "name": "Shelter Me",
+          "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
-            "Dart Rayne",
-            "Yura Moonlight",
-            "Cate Kanell"
+            "M-3ox",
+            "Heidrun",
+            "Matisse & Sadko"
           ],
-          "album": "Shelter Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
-          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
-          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
-          "duration_ms": 236375
+          "album": "Beating of My Heart (Matisse & Sadko Remix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730e9c55ce0bfdc4f333c1ec9d",
+          "uri": "spotify:track:1DujKNQOgOgcTSoQXFSWtR",
+          "url": "https://open.spotify.com/track/1DujKNQOgOgcTSoQXFSWtR",
+          "duration_ms": 390000
         },
         {
           "rank": 43,
@@ -580,6 +580,20 @@
         },
         {
           "rank": 46,
+          "name": "On & On",
+          "artists": [
+            "Cartoon",
+            "Jéja",
+            "Daniel Levi"
+          ],
+          "album": "On & On",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cddf36938e728faddac61d96",
+          "uri": "spotify:track:4uukXoeAUxow3aV9kVkcjY",
+          "url": "https://open.spotify.com/track/4uukXoeAUxow3aV9kVkcjY",
+          "duration_ms": 207068
+        },
+        {
+          "rank": 47,
           "name": "Resonance - Slowed & Reverb",
           "artists": [
             "noturgf"
@@ -591,7 +605,7 @@
           "duration_ms": 318169
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "жених и невеста - Slowed",
           "artists": [
             "DJ ZUP RAlii",
@@ -604,7 +618,7 @@
           "duration_ms": 140629
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -616,7 +630,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -627,20 +641,6 @@
           "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
           "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
           "duration_ms": 255591
-        },
-        {
-          "rank": 50,
-          "name": "Beating of My Heart - Matisse & Sadko Remix",
-          "artists": [
-            "M-3ox",
-            "Heidrun",
-            "Matisse & Sadko"
-          ],
-          "album": "Beating of My Heart (Matisse & Sadko Remix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730e9c55ce0bfdc4f333c1ec9d",
-          "uri": "spotify:track:1DujKNQOgOgcTSoQXFSWtR",
-          "url": "https://open.spotify.com/track/1DujKNQOgOgcTSoQXFSWtR",
-          "duration_ms": 390000
         }
       ],
       "artists": [
@@ -686,6 +686,14 @@
         },
         {
           "rank": 6,
+          "name": "Robin Gan",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
+          "genres": [],
+          "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
+          "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
+        },
+        {
+          "rank": 7,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -693,7 +701,7 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
@@ -701,7 +709,7 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
@@ -709,7 +717,7 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Gibran Alcocer",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
           "genres": [],
@@ -717,7 +725,7 @@
           "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
           "genres": [],
@@ -725,7 +733,7 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Calvin Harris",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "genres": [],
@@ -733,7 +741,7 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -741,7 +749,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Radion6",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66db1552de55bb7aba41569b",
           "genres": [],
@@ -749,7 +757,7 @@
           "url": "https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
@@ -757,7 +765,7 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Ellie Goulding",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
           "genres": [],
@@ -765,7 +773,7 @@
           "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -773,20 +781,12 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "SEREBRO",
           "image": "https://i.scdn.co/image/ab6761610000e5eb42a3f73b48158b68f1728970",
           "genres": [],
           "uri": "spotify:artist:1Ulwacsns9Me7dz4OVwkiQ",
           "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
-        },
-        {
-          "rank": 18,
-          "name": "my head is empty",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebed499bd5b537b0856c39b267",
-          "genres": [],
-          "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
           "rank": 19,
@@ -830,19 +830,19 @@
         },
         {
           "rank": 24,
-          "name": "Antent",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
-          "genres": [],
-          "uri": "spotify:artist:6ovctVkv7d2fBdilDRYfDW",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        },
-        {
-          "rank": 25,
           "name": "LONOWN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
           "genres": [],
           "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
           "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 25,
+          "name": "my head is empty",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebed499bd5b537b0856c39b267",
+          "genres": [],
+          "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
           "rank": 26,
@@ -878,6 +878,14 @@
         },
         {
           "rank": 30,
+          "name": "Antent",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
+          "genres": [],
+          "uri": "spotify:artist:6ovctVkv7d2fBdilDRYfDW",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        },
+        {
+          "rank": 31,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -885,7 +893,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -1456,30 +1464,6 @@
         },
         {
           "rank": 46,
-          "name": "Paranoid",
-          "artists": [
-            "DJ Iraq"
-          ],
-          "album": "Paranoid",
-          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
-          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
-          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
-          "duration_ms": 158966
-        },
-        {
-          "rank": 47,
-          "name": "Too Much For Me",
-          "artists": [
-            "SELKER"
-          ],
-          "album": "Too Much For Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
-          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
-          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
-          "duration_ms": 153869
-        },
-        {
-          "rank": 48,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -1493,7 +1477,43 @@
           "duration_ms": 236375
         },
         {
+          "rank": 47,
+          "name": "...and Suffer As One",
+          "artists": [
+            "Crowbar"
+          ],
+          "album": "Odd Fellows Rest",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+          "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
+          "url": "https://open.spotify.com/track/6dY5hqP7RPPjjA8rLukrtD",
+          "duration_ms": 249813
+        },
+        {
+          "rank": 48,
+          "name": "Paranoid",
+          "artists": [
+            "DJ Iraq"
+          ],
+          "album": "Paranoid",
+          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
+          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
+          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
+          "duration_ms": 158966
+        },
+        {
           "rank": 49,
+          "name": "Too Much For Me",
+          "artists": [
+            "SELKER"
+          ],
+          "album": "Too Much For Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
+          "duration_ms": 153869
+        },
+        {
+          "rank": 50,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1503,18 +1523,6 @@
           "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
           "url": "https://open.spotify.com/track/0WR4Bo24zWRujhjrof1tJS",
           "duration_ms": 71726
-        },
-        {
-          "rank": 50,
-          "name": "in china",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "huzz in the bay",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe8e272dcee676be860f38f1",
-          "uri": "spotify:track:27LbXHWPshMVsgRebEmop2",
-          "url": "https://open.spotify.com/track/27LbXHWPshMVsgRebEmop2",
-          "duration_ms": 65061
         }
       ],
       "artists": [
