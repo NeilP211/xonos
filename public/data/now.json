@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-29T12:08:21.074Z",
-  "is_playing": false,
+  "updated_at": "2026-09-29T19:46:47.703Z",
+  "is_playing": true,
   "track": {
-    "name": "i hear em math",
+    "name": "fading lights",
     "artists": [
-      "Robin Gan"
+      "Øneheart",
+      "inertia."
     ],
-    "album": "ceo of music",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
-    "uri": "spotify:track:5tFWQki2LrEFasAzpBER5v"
+    "album": "fading lights",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cd2f85265cdd5c024492c464",
+    "uri": "spotify:track:1KF13YsUy3Di7pXaF7Hlvl"
   },
-  "played_at": "2026-09-28T21:58:27.297Z"
+  "played_at": "2026-09-29T19:46:47.703Z"
 }
