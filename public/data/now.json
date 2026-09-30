@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-29T19:46:47.703Z",
-  "is_playing": true,
+  "updated_at": "2026-09-30T00:03:31.782Z",
+  "is_playing": false,
   "track": {
-    "name": "fading lights",
+    "name": "Jenny (I Wanna Ruin Our Friendship)",
     "artists": [
-      "Øneheart",
-      "inertia."
+      "Studio Killers"
     ],
-    "album": "fading lights",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cd2f85265cdd5c024492c464",
-    "uri": "spotify:track:1KF13YsUy3Di7pXaF7Hlvl"
+    "album": "Jenny (I Wanna Ruin Our Friendship)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286",
+    "uri": "spotify:track:4JLBDUYSaOMPYND0iWeSWQ"
   },
-  "played_at": "2026-09-29T19:46:47.703Z"
+  "played_at": "2026-09-29T22:08:56.970Z"
 }
