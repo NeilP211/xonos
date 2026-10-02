@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:21:35.549Z",
+  "generated_at": "2026-10-02T17:28:06.673Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -56,18 +56,6 @@
         },
         {
           "rank": 5,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
-        },
-        {
-          "rank": 6,
           "name": "От Этого Больно",
           "artists": [
             "Танккк"
@@ -79,7 +67,7 @@
           "duration_ms": 140287
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Misirlou",
           "artists": [
             "Dick Dale & His Del-Tones"
@@ -91,7 +79,7 @@
           "duration_ms": 134933
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -104,7 +92,7 @@
           "duration_ms": 163508
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Player Island",
           "artists": [
             "Sandbox Interactive",
@@ -117,7 +105,7 @@
           "duration_ms": 151561
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "няшка - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -127,6 +115,18 @@
           "uri": "spotify:track:3OW4xZmhF0cl5x1fChLGeP",
           "url": "https://open.spotify.com/track/3OW4xZmhF0cl5x1fChLGeP",
           "duration_ms": 120000
+        },
+        {
+          "rank": 10,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
         },
         {
           "rank": 11,

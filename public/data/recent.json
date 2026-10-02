@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-02T09:21:35.632Z",
+  "updated_at": "2026-10-02T17:28:06.751Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T15:19:14.709Z",
-      "name": "evanesce",
-      "artists": [
-        "my head is empty"
-      ],
-      "album": "ambient vol 3",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f450c7edb1a26ad035135708",
-      "uri": "spotify:track:24g9WWUq1o1oUPjuHc1GK5",
-      "duration_ms": 87171
-    },
     {
       "played_at": "2026-06-29T15:26:28.402Z",
       "name": "snowfall",
@@ -22658,6 +22647,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19",
       "uri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W",
       "duration_ms": 252306
+    },
+    {
+      "played_at": "2026-10-02T15:54:58.095Z",
+      "name": "Arcadia",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Arcadia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bdba8bbafc263b551996d56f",
+      "uri": "spotify:track:5mqVdt50q0fYvyz3gd6eKe",
+      "duration_ms": 263280
     }
   ]
 }

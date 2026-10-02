@@ -1,17 +1,14 @@
 {
-  "updated_at": "2026-10-02T09:21:35.740Z",
+  "updated_at": "2026-10-02T17:28:06.821Z",
   "is_playing": false,
   "track": {
-    "name": "Give Me Everything (feat. Nayer)",
+    "name": "Arcadia",
     "artists": [
-      "Pitbull",
-      "AFROJACK",
-      "Ne-Yo",
-      "Nayer"
+      "Lana Del Rey"
     ],
-    "album": "Planet Pit (Deluxe Version)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19",
-    "uri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W"
+    "album": "Arcadia",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bdba8bbafc263b551996d56f",
+    "uri": "spotify:track:5mqVdt50q0fYvyz3gd6eKe"
   },
-  "played_at": "2026-10-01T19:59:52.250Z"
+  "played_at": "2026-10-02T15:54:58.095Z"
 }
