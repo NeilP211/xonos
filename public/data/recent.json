@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-02T21:49:26.054Z",
+  "updated_at": "2026-10-03T03:49:19.463Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T15:26:28.402Z",
-      "name": "snowfall",
-      "artists": [
-        "Øneheart",
-        "reidenshi"
-      ],
-      "album": "snowfall",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ed50c8fe9503fd8d73d82f9f",
-      "uri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4",
-      "duration_ms": 124065
-    },
     {
       "played_at": "2026-06-29T15:29:49.763Z",
       "name": "milk cassette x.mp3",
@@ -22658,6 +22646,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bdba8bbafc263b551996d56f",
       "uri": "spotify:track:5mqVdt50q0fYvyz3gd6eKe",
       "duration_ms": 263280
+    },
+    {
+      "played_at": "2026-10-03T03:39:41.893Z",
+      "name": "aidotearz_2009",
+      "artists": [
+        "DISGRACEMODE",
+        "GHXSTBLVDE"
+      ],
+      "album": "aidotearz_2009",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7265f7849e4f3cf0865d575",
+      "uri": "spotify:track:0LL4YhCHQ0H7YjxmaJ1Q7i",
+      "duration_ms": 108400
     }
   ]
 }
