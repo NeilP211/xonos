@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-10-04T16:26:12.711Z",
-  "is_playing": true,
+  "updated_at": "2026-10-04T20:52:09.298Z",
+  "is_playing": false,
   "track": {
-    "name": "Just Dance",
+    "name": "Like A G6",
     "artists": [
-      "Lady Gaga",
-      "Colby O'Donis"
+      "Far East Movement",
+      "The Cataracs",
+      "DEV"
     ],
-    "album": "The Fame",
-    "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
-    "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE"
+    "album": "Free Wired",
+    "image": "https://i.scdn.co/image/ab67616d0000b27358b08d62231dfca8d358b876",
+    "uri": "spotify:track:4DvhkX2ic4zWkQeWMwQ2qf"
   },
-  "played_at": "2026-10-04T16:26:12.711Z"
+  "played_at": "2026-10-04T20:12:38.181Z"
 }
