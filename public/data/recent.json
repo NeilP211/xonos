@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-04T04:21:29.862Z",
+  "updated_at": "2026-10-04T11:47:28.745Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T16:00:01.898Z",
-      "name": "nostalgia",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "nostalgia",
-      "image": "https://i.scdn.co/image/ab67616d0000b273378e1973ca1a9e4c104b0296",
-      "uri": "spotify:track:768xi4B8fL5dG028KbCjLl",
-      "duration_ms": 124615
-    },
     {
       "played_at": "2026-06-29T16:01:50.196Z",
       "name": "hold on",
@@ -22663,6 +22652,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27382d81b9e2ce274bd987bdb31",
       "uri": "spotify:track:4VoVlU94ymADzbkhssSdiV",
       "duration_ms": 217076
+    },
+    {
+      "played_at": "2026-10-04T05:24:06.106Z",
+      "name": "METAMORPHOSIS",
+      "artists": [
+        "INTERWORLD"
+      ],
+      "album": "METAMORPHOSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
+      "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz",
+      "duration_ms": 142839
     }
   ]
 }
