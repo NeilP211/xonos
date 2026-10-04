@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-04T11:47:28.782Z",
-  "is_playing": false,
+  "updated_at": "2026-10-04T16:26:12.711Z",
+  "is_playing": true,
   "track": {
-    "name": "METAMORPHOSIS",
+    "name": "Just Dance",
     "artists": [
-      "INTERWORLD"
+      "Lady Gaga",
+      "Colby O'Donis"
     ],
-    "album": "METAMORPHOSIS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
-    "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz"
+    "album": "The Fame",
+    "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE"
   },
-  "played_at": "2026-10-04T05:24:06.106Z"
+  "played_at": "2026-10-04T16:26:12.711Z"
 }
