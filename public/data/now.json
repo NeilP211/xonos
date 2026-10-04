@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-10-03T23:30:35.894Z",
+  "updated_at": "2026-10-04T04:21:29.948Z",
   "is_playing": false,
   "track": {
-    "name": "first snow",
+    "name": "Distant Echoes - Slowed + Reverb",
     "artists": [
-      "Antent"
+      "VXLLAIN",
+      "VØJ",
+      "Narvent"
     ],
-    "album": "first snow",
-    "image": "https://i.scdn.co/image/ab67616d0000b27350f3fdd2e1a05e29a5e23f98",
-    "uri": "spotify:track:7MfK8US1oJ8XTER3jvfoK2"
+    "album": "Distant Echoes (Versions)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27382d81b9e2ce274bd987bdb31",
+    "uri": "spotify:track:4VoVlU94ymADzbkhssSdiV"
   },
-  "played_at": "2026-10-03T19:40:01.609Z"
+  "played_at": "2026-10-04T02:03:05.019Z"
 }

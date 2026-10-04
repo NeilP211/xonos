@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:30:35.710Z",
+  "generated_at": "2026-10-04T04:21:29.764Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -157,18 +157,6 @@
         },
         {
           "rank": 13,
-          "name": "Misirlou",
-          "artists": [
-            "Dick Dale & His Del-Tones"
-          ],
-          "album": "Reverb at High Tide",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
-          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
-          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
-          "duration_ms": 134933
-        },
-        {
-          "rank": 14,
           "name": "Dead Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -181,7 +169,7 @@
           "duration_ms": 116569
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "The Undead",
           "artists": [
             "Sandbox Interactive",
@@ -194,7 +182,7 @@
           "duration_ms": 177316
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -207,7 +195,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "The Heretics",
           "artists": [
             "Sandbox Interactive",
@@ -220,7 +208,7 @@
           "duration_ms": 151285
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -233,7 +221,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Albion Online Main Theme",
           "artists": [
             "Sandbox Interactive",
@@ -246,7 +234,7 @@
           "duration_ms": 224520
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -259,7 +247,7 @@
           "duration_ms": 129962
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Danger",
           "artists": [
             "Sandbox Interactive",
@@ -272,7 +260,7 @@
           "duration_ms": 59463
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Forest",
           "artists": [
             "Sandbox Interactive",
@@ -285,7 +273,7 @@
           "duration_ms": 141482
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Battle Theme",
           "artists": [
             "Sandbox Interactive",
@@ -298,7 +286,7 @@
           "duration_ms": 138877
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -311,7 +299,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Riptide",
           "artists": [
             "Vance Joy"
@@ -323,7 +311,7 @@
           "duration_ms": 204280
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -336,7 +324,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -348,7 +336,7 @@
           "duration_ms": 210906
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "NE CMOTPN - Slowed",
           "artists": [
             "STAKILLAZ",
@@ -359,6 +347,19 @@
           "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
           "url": "https://open.spotify.com/track/4lSoQgxzAEUPgun7t6jaqn",
           "duration_ms": 98930
+        },
+        {
+          "rank": 28,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
         },
         {
           "rank": 29,
@@ -516,6 +517,18 @@
         },
         {
           "rank": 41,
+          "name": "Misirlou",
+          "artists": [
+            "Dick Dale & His Del-Tones"
+          ],
+          "album": "Reverb at High Tide",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
+          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
+          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
+          "duration_ms": 134933
+        },
+        {
+          "rank": 42,
           "name": "жених и невеста - Slowed",
           "artists": [
             "DJ ZUP RAlii",
@@ -526,19 +539,6 @@
           "uri": "spotify:track:5C7MlyFtijmdC5DmOYdOwt",
           "url": "https://open.spotify.com/track/5C7MlyFtijmdC5DmOYdOwt",
           "duration_ms": 140629
-        },
-        {
-          "rank": 42,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
         },
         {
           "rank": 43,
@@ -680,14 +680,6 @@
         },
         {
           "rank": 5,
-          "name": "Lana Del Rey",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "genres": [],
-          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "rank": 6,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
@@ -695,7 +687,7 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
@@ -703,7 +695,7 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
@@ -711,12 +703,20 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
           "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 9,
+          "name": "Lana Del Rey",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "genres": [],
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
           "rank": 10,
@@ -896,6 +896,14 @@
         },
         {
           "rank": 32,
+          "name": "NBSPLV",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8556811e8509d9acbf42140",
+          "genres": [],
+          "uri": "spotify:artist:61TQfpvTjHYQjPrvtJPwVa",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        },
+        {
+          "rank": 33,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -2007,18 +2015,6 @@
         },
         {
           "rank": 7,
-          "name": "That’s So True",
-          "artists": [
-            "Gracie Abrams"
-          ],
-          "album": "The Secret of Us (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
-          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-          "duration_ms": 166300
-        },
-        {
-          "rank": 8,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -2029,6 +2025,18 @@
           "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
           "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
           "duration_ms": 277662
+        },
+        {
+          "rank": 8,
+          "name": "That’s So True",
+          "artists": [
+            "Gracie Abrams"
+          ],
+          "album": "The Secret of Us (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+          "duration_ms": 166300
         },
         {
           "rank": 9,
@@ -2095,6 +2103,19 @@
         },
         {
           "rank": 14,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
+          "rank": 15,
           "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
           "artists": [
             "Crowbar"
@@ -2106,7 +2127,7 @@
           "duration_ms": 238266
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -2118,7 +2139,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -2128,19 +2149,6 @@
           "uri": "spotify:track:7nC11rmbnep471LADThi9L",
           "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
           "duration_ms": 232000
-        },
-        {
-          "rank": 17,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
         },
         {
           "rank": 18,
