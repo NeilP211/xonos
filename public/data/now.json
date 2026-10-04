@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-10-04T20:52:09.298Z",
-  "is_playing": false,
+  "updated_at": "2026-10-04T23:49:04.588Z",
+  "is_playing": true,
   "track": {
-    "name": "Like A G6",
+    "name": "Mice on Venus",
     "artists": [
-      "Far East Movement",
-      "The Cataracs",
-      "DEV"
+      "C418"
     ],
-    "album": "Free Wired",
-    "image": "https://i.scdn.co/image/ab67616d0000b27358b08d62231dfca8d358b876",
-    "uri": "spotify:track:4DvhkX2ic4zWkQeWMwQ2qf"
+    "album": "Minecraft - Volume Alpha",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+    "uri": "spotify:track:5fqjfiMOFapIb8uFcxBStH"
   },
-  "played_at": "2026-10-04T20:12:38.181Z"
+  "played_at": "2026-10-04T23:49:04.588Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:52:09.146Z",
+  "generated_at": "2026-10-04T23:49:04.298Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -144,6 +144,18 @@
         },
         {
           "rank": 12,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
+        },
+        {
+          "rank": 13,
           "name": "Dead Steppes",
           "artists": [
             "Sandbox Interactive",
@@ -156,7 +168,7 @@
           "duration_ms": 149089
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Dead Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -169,7 +181,7 @@
           "duration_ms": 116569
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "The Undead",
           "artists": [
             "Sandbox Interactive",
@@ -182,7 +194,7 @@
           "duration_ms": 177316
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -195,7 +207,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -208,7 +220,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "The Heretics",
           "artists": [
             "Sandbox Interactive",
@@ -221,7 +233,7 @@
           "duration_ms": 151285
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -234,7 +246,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Riptide",
           "artists": [
             "Vance Joy"
@@ -246,7 +258,7 @@
           "duration_ms": 204280
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Albion Online Main Theme",
           "artists": [
             "Sandbox Interactive",
@@ -259,7 +271,7 @@
           "duration_ms": 224520
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -272,7 +284,7 @@
           "duration_ms": 129962
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Danger",
           "artists": [
             "Sandbox Interactive",
@@ -285,7 +297,7 @@
           "duration_ms": 59463
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Forest",
           "artists": [
             "Sandbox Interactive",
@@ -298,7 +310,7 @@
           "duration_ms": 141482
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Battle Theme",
           "artists": [
             "Sandbox Interactive",
@@ -311,7 +323,7 @@
           "duration_ms": 138877
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -322,18 +334,6 @@
           "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
           "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
           "duration_ms": 174547
-        },
-        {
-          "rank": 26,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
         },
         {
           "rank": 27,
