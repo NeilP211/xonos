@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-05T13:37:05.590Z",
+  "updated_at": "2026-10-05T21:48:59.148Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T23:31:39.144Z",
-      "name": "memories",
-      "artists": [
-        "leadwave"
-      ],
-      "album": "memories",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e914d44fbf643a8cda65b8ac",
-      "uri": "spotify:track:4VkRQSpG16JxrXaVlNyWdX",
-      "duration_ms": 86319
-    },
-    {
-      "played_at": "2026-06-29T23:32:59.844Z",
-      "name": "Traitors",
-      "artists": [
-        "Grailz Beni"
-      ],
-      "album": "Traitors",
-      "image": "https://i.scdn.co/image/ab67616d0000b273864f73f431a963e817743a96",
-      "uri": "spotify:track:4v7AITt5mCSEz7iyHvW8aU",
-      "duration_ms": 151666
-    },
     {
       "played_at": "2026-06-29T23:36:01.929Z",
       "name": "Entrails",
@@ -22659,6 +22637,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
       "uri": "spotify:track:1gXIOLjnh36fww7bdZ1NhK",
       "duration_ms": 281500
+    },
+    {
+      "played_at": "2026-10-05T16:09:13.522Z",
+      "name": "Safe and Sound",
+      "artists": [
+        "Capital Cities"
+      ],
+      "album": "In A Tidal Wave of Mystery",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b03e92f4e7dcd9db3a06c869",
+      "uri": "spotify:track:5JVbvCHX10U2pLa5DEqGav",
+      "duration_ms": 192789
+    },
+    {
+      "played_at": "2026-10-05T16:09:22.831Z",
+      "name": "Excuse",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:2ByqwRQCMBN8sTOpowzguG",
+      "duration_ms": 124000
     }
   ]
 }
