@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-04T23:49:04.418Z",
+  "updated_at": "2026-10-05T04:05:17.036Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T23:30:27.595Z",
-      "name": "GUTS RAGE x HARDSTYLE",
-      "artists": [
-        "MyMotivation"
-      ],
-      "album": "GUTS RAGE x HARDSTYLE",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
-      "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
-      "duration_ms": 153200
-    },
     {
       "played_at": "2026-06-29T23:31:39.144Z",
       "name": "memories",
@@ -22659,6 +22648,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
       "uri": "spotify:track:2TQU6iZxD9UwUkA0fGgfsX",
       "duration_ms": 65000
+    },
+    {
+      "played_at": "2026-10-04T23:52:11.174Z",
+      "name": "Mice on Venus",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:1gXIOLjnh36fww7bdZ1NhK",
+      "duration_ms": 281500
     }
   ]
 }
