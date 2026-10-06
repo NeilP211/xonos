@@ -1,94 +1,6 @@
 {
-  "updated_at": "2026-10-06T12:45:31.239Z",
+  "updated_at": "2026-10-06T19:58:13.989Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T18:16:29.745Z",
-      "name": "Swan Song",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-      "duration_ms": 323475
-    },
-    {
-      "played_at": "2026-06-30T19:30:15.382Z",
-      "name": "Pretty When You Cry",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
-      "duration_ms": 234146
-    },
-    {
-      "played_at": "2026-06-30T19:32:06.227Z",
-      "name": "Here",
-      "artists": [
-        "Alessia Cara"
-      ],
-      "album": "Know-It-All (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730a48794d471447a030998815",
-      "uri": "spotify:track:664gdARxaClFsoF5SXKOws",
-      "duration_ms": 199453
-    },
-    {
-      "played_at": "2026-06-30T23:22:34.452Z",
-      "name": "Resonance",
-      "artists": [
-        "Home"
-      ],
-      "album": "Odyssey",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d3434e8f47ec47a90b4b4784",
-      "uri": "spotify:track:2NHkwSwm6C6eAX3z6xm7Uy",
-      "duration_ms": 212938
-    },
-    {
-      "played_at": "2026-07-01T01:26:19.767Z",
-      "name": "Blue Bands",
-      "artists": [
-        "Weiland"
-      ],
-      "album": "Blue Bands",
-      "image": "https://i.scdn.co/image/ab67616d0000b273580552781c99ab0345a00180",
-      "uri": "spotify:track:2wl8U2jlhgrr6VgONXOKyA",
-      "duration_ms": 159709
-    },
-    {
-      "played_at": "2026-07-01T02:31:11.162Z",
-      "name": "Resonance - Slowed & Reverb",
-      "artists": [
-        "noturgf"
-      ],
-      "album": "Resonance (Slowed & Reverb)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
-      "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
-      "duration_ms": 318169
-    },
-    {
-      "played_at": "2026-07-01T02:39:01.395Z",
-      "name": "3 am walk - Slowed & Reverb Version",
-      "artists": [
-        "daniel.mp3"
-      ],
-      "album": "3 am walk",
-      "image": "https://i.scdn.co/image/ab67616d0000b273771f3f401ce67a6ff22615f3",
-      "uri": "spotify:track:1miBMMwRKSCL6RItKHbXuR",
-      "duration_ms": 199043
-    },
-    {
-      "played_at": "2026-07-01T13:39:57.618Z",
-      "name": "National Anthem",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
-      "duration_ms": 230520
-    },
     {
       "played_at": "2026-07-01T13:43:16.981Z",
       "name": "Tennis Court",
@@ -22653,6 +22565,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
       "uri": "spotify:track:5NkhjCiXwRdadCqbkZqdsj",
       "duration_ms": 177500
+    },
+    {
+      "played_at": "2026-10-06T16:41:57.824Z",
+      "name": "Mall",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:1quoFqHBiVLrVmE9AOz0Vz",
+      "duration_ms": 198000
+    },
+    {
+      "played_at": "2026-10-06T16:44:38.349Z",
+      "name": "Moog City",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:3wmvHdag2I7BpHCtWoiV9w",
+      "duration_ms": 160000
+    },
+    {
+      "played_at": "2026-10-06T16:48:53.376Z",
+      "name": "Danny",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:1i2bwN2e2TpsH3gLoNX8dC",
+      "duration_ms": 254500
+    },
+    {
+      "played_at": "2026-10-06T16:53:49.905Z",
+      "name": "Dead Voxel",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6k3wFN8K4oooRBqfHaA9k0",
+      "duration_ms": 296000
+    },
+    {
+      "played_at": "2026-10-06T16:56:56.676Z",
+      "name": "Cat",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:6jKBCAD6bistV2SrVUmKfW",
+      "duration_ms": 186250
+    },
+    {
+      "played_at": "2026-10-06T17:03:09.450Z",
+      "name": "Dragon Fish",
+      "artists": [
+        "C418"
+      ],
+      "album": "Dragon Fish",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7f286e4024280745539c115",
+      "uri": "spotify:track:5E1uIsXFq0ojB0pka8QtVP",
+      "duration_ms": 372248
+    },
+    {
+      "played_at": "2026-10-06T17:06:21.731Z",
+      "name": "Clark",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:2aZHJXIsBCk5fEXeVrpNiM",
+      "duration_ms": 191750
+    },
+    {
+      "played_at": "2026-10-06T17:18:49.447Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
     }
   ]
 }
