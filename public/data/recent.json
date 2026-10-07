@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-07T00:21:23.853Z",
+  "updated_at": "2026-10-07T09:48:34.271Z",
   "plays": [
-    {
-      "played_at": "2026-07-01T13:43:16.981Z",
-      "name": "Tennis Court",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
-      "duration_ms": 198907
-    },
-    {
-      "played_at": "2026-07-01T13:46:30.681Z",
-      "name": "Team",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
-      "duration_ms": 193058
-    },
-    {
-      "played_at": "2026-07-01T14:01:53.696Z",
-      "name": "American",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
-      "duration_ms": 248907
-    },
     {
       "played_at": "2026-07-01T18:52:51.514Z",
       "name": "Ride",
@@ -22653,6 +22620,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
       "duration_ms": 332500
+    },
+    {
+      "played_at": "2026-10-07T00:44:50.632Z",
+      "name": "Just Dance",
+      "artists": [
+        "Lady Gaga",
+        "Colby O'Donis"
+      ],
+      "album": "The Fame",
+      "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+      "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE",
+      "duration_ms": 241933
+    },
+    {
+      "played_at": "2026-10-07T00:47:18.047Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-10-07T01:18:37.410Z",
+      "name": "zombie",
+      "artists": [
+        "bleood"
+      ],
+      "album": "zombie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+      "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+      "duration_ms": 121573
     }
   ]
 }
