@@ -1,75 +1,6 @@
 {
-  "updated_at": "2026-10-07T18:25:59.115Z",
+  "updated_at": "2026-10-08T00:42:15.171Z",
   "plays": [
-    {
-      "played_at": "2026-07-01T18:52:51.514Z",
-      "name": "Ride",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:3l2S2RkGG4lbh7WqmCV3NB",
-      "duration_ms": 289080
-    },
-    {
-      "played_at": "2026-07-01T19:50:38.215Z",
-      "name": "Scoreboard 3",
-      "artists": [
-        "EthoSuave"
-      ],
-      "album": "Q1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dcff5d768eda47264b79909d",
-      "uri": "spotify:track:622xsCFTXQXklt2iOh21lU",
-      "duration_ms": 106415
-    },
-    {
-      "played_at": "2026-07-01T21:21:21.686Z",
-      "name": "Top 1",
-      "artists": [
-        "EthoSuave",
-        "Mdot 59"
-      ],
-      "album": "Nobody Talkin Bout It",
-      "image": "https://i.scdn.co/image/ab67616d0000b27370aad7b40a46b6df6a57d2ad",
-      "uri": "spotify:track:62aCIESAKM1ZFx20QRexNH",
-      "duration_ms": 162097
-    },
-    {
-      "played_at": "2026-07-01T21:25:51.568Z",
-      "name": "A New Kind Of Love - Demo",
-      "artists": [
-        "Frou Frou",
-        "Imogen Heap",
-        "Guy Sigsworth"
-      ],
-      "album": "Off Cuts",
-      "image": "https://i.scdn.co/image/ab67616d0000b273022132ca7d89b7795d909290",
-      "uri": "spotify:track:2p1qmpFg41n0XMBNGuMzoE",
-      "duration_ms": 260733
-    },
-    {
-      "played_at": "2026-07-01T21:31:59.609Z",
-      "name": "Waiting",
-      "artists": [
-        "leverfall"
-      ],
-      "album": "Waiting",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731d11f6a209d5db90b4f68e6f",
-      "uri": "spotify:track:0n20laNpcg84CViNdXbwsE",
-      "duration_ms": 61522
-    },
-    {
-      "played_at": "2026-07-01T21:35:45.060Z",
-      "name": "Cinnamon Girl",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Norman Fucking Rockwell!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-      "uri": "spotify:track:2mdEsXPu8ZmkHRRtAdC09e",
-      "duration_ms": 300683
-    },
     {
       "played_at": "2026-07-01T21:39:47.282Z",
       "name": "Super Fenix Ritmada - Ultra Slowed",
@@ -22654,6 +22585,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
       "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
       "duration_ms": 121573
+    },
+    {
+      "played_at": "2026-10-07T18:32:05.583Z",
+      "name": "Void",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Obsidian",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
+      "uri": "spotify:track:6Zo3F8D0mYLNvx9wJD9AiR",
+      "duration_ms": 209040
+    },
+    {
+      "played_at": "2026-10-07T18:35:11.477Z",
+      "name": "Strad",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6ZPP7JxKbhh7iUOHyL0Bog",
+      "duration_ms": 188750
+    },
+    {
+      "played_at": "2026-10-07T18:35:35.946Z",
+      "name": "Sigma",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Sigma",
+      "image": "https://i.scdn.co/image/ab67616d0000b273588fddc95cc8deb7028853bd",
+      "uri": "spotify:track:36ayW7PJseXGIOZrGTVBuD",
+      "duration_ms": 209634
+    },
+    {
+      "played_at": "2026-10-07T18:39:18.221Z",
+      "name": "Glimmer of hope",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Obsidian",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
+      "uri": "spotify:track:02p8XmQFdXsIlJ5x7kUjx6",
+      "duration_ms": 176280
+    },
+    {
+      "played_at": "2026-10-07T18:43:46.697Z",
+      "name": "Alpha",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357e5c71b87b4f0a1eebe8052",
+      "uri": "spotify:track:3Gtha3Fwdu0yqpphxjXiTo",
+      "duration_ms": 247456
+    },
+    {
+      "played_at": "2026-10-07T19:51:17.035Z",
+      "name": "Yooo",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Yooo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
+      "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
+      "duration_ms": 77135
     }
   ]
 }

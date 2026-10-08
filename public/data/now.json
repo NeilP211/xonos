@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-07T18:25:59.201Z",
-  "is_playing": true,
+  "updated_at": "2026-10-08T00:42:15.265Z",
+  "is_playing": false,
   "track": {
-    "name": "zombie",
+    "name": "Yooo",
     "artists": [
-      "bleood"
+      "Nettspend"
     ],
-    "album": "zombie",
-    "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
-    "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2"
+    "album": "Yooo",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
+    "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i"
   },
-  "played_at": "2026-10-07T18:25:59.201Z"
+  "played_at": "2026-10-07T19:51:17.035Z"
 }
