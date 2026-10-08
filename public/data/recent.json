@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-10-08T00:42:15.171Z",
+  "updated_at": "2026-10-08T09:59:26.819Z",
   "plays": [
-    {
-      "played_at": "2026-07-01T21:39:47.282Z",
-      "name": "Super Fenix Ritmada - Ultra Slowed",
-      "artists": [
-        "Notmuchxhead"
-      ],
-      "album": "Super Fenix Ritmada",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ce9cce4f961b88455c3b8377",
-      "uri": "spotify:track:0I0nQX1aa0OG1iMM3FzQTh",
-      "duration_ms": 331951
-    },
-    {
-      "played_at": "2026-07-01T21:42:06.675Z",
-      "name": "MONTAGEM RENICHT DIMENSIONAL - Ultra Slowed",
-      "artists": [
-        "DJ VQ7",
-        "DJ AGARIO"
-      ],
-      "album": "MONTAGEM RENICHT DIMENSIONAL",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734d8607aecdff54ca2b2b8b34",
-      "uri": "spotify:track:3l9OyUzpp4xFTsUlnxwA0d",
-      "duration_ms": 114285
-    },
-    {
-      "played_at": "2026-07-01T21:44:02.420Z",
-      "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
-      "artists": [
-        "DJ XFOCOS",
-        "DJ ZXN DA 077",
-        "DJ LKS DA ZS"
-      ],
-      "album": "FUNK DO MALAME AMARELO",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732c887d470360bda258ee19c0",
-      "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
-      "duration_ms": 115296
-    },
-    {
-      "played_at": "2026-07-01T21:48:57.232Z",
-      "name": "GUTS RAGE x HARDSTYLE",
-      "artists": [
-        "MyMotivation"
-      ],
-      "album": "GUTS RAGE x HARDSTYLE",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
-      "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
-      "duration_ms": 153200
-    },
     {
       "played_at": "2026-07-01T21:51:32.587Z",
       "name": "Jiren X Entrails",
@@ -22651,6 +22604,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
       "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
       "duration_ms": 77135
+    },
+    {
+      "played_at": "2026-10-08T03:42:57.252Z",
+      "name": "Wet Hands",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:1MLZMrjfwiT5ll5vjIwwU7",
+      "duration_ms": 90000
+    },
+    {
+      "played_at": "2026-10-08T03:46:57.127Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-08T03:54:50.486Z",
+      "name": "Lost at Sea",
+      "artists": [
+        "Rob Grant",
+        "Lana Del Rey"
+      ],
+      "album": "Lost At Sea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273281f863d259823fb192a0ddf",
+      "uri": "spotify:track:6N7NO9Z1Hi6la8dqG3Aoew",
+      "duration_ms": 187906
+    },
+    {
+      "played_at": "2026-10-08T03:57:44.751Z",
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "White Feather Hawk Tail Deer Hunter",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735137f42d1cbb2a831d56ff3f",
+      "uri": "spotify:track:7IM4xK4W4n06UAV48ZXMup",
+      "duration_ms": 234049
     }
   ]
 }
