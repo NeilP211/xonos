@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-08T18:25:43.396Z",
+  "updated_at": "2026-10-09T00:58:04.893Z",
   "plays": [
-    {
-      "played_at": "2026-07-01T21:51:32.587Z",
-      "name": "Jiren X Entrails",
-      "artists": [
-        "La Capella"
-      ],
-      "album": "Jiren X Entrails",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e25c42f6dedf89af742b64b3",
-      "uri": "spotify:track:01f3cERQFKnenk610MRrVo",
-      "duration_ms": 154923
-    },
-    {
-      "played_at": "2026-07-01T21:53:28.058Z",
-      "name": "Aot x If I Loose It All",
-      "artists": [
-        "AniLifts"
-      ],
-      "album": "Aot x If I Loose It All",
-      "image": "https://i.scdn.co/image/ab67616d0000b273274c678e9924975ea4f0db1a",
-      "uri": "spotify:track:08ZzB9oO3GwCFPiF9cOHCa",
-      "duration_ms": 115031
-    },
-    {
-      "played_at": "2026-07-01T21:58:42.783Z",
-      "name": "Tanjiro x Let Go hardstyle",
-      "artists": [
-        "Animestyle"
-      ],
-      "album": "Tanjiro x Let Go hardstyle",
-      "image": "https://i.scdn.co/image/ab67616d0000b273722cb552d779e325c647768d",
-      "uri": "spotify:track:0x7py23Ew4Rc0MHlgxDRss",
-      "duration_ms": 136703
-    },
     {
       "played_at": "2026-07-02T02:23:52.273Z",
       "name": "Sadness Ragestyle - Thorfinn Version",
@@ -22649,6 +22616,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735137f42d1cbb2a831d56ff3f",
       "uri": "spotify:track:7IM4xK4W4n06UAV48ZXMup",
       "duration_ms": 234049
+    },
+    {
+      "played_at": "2026-10-08T21:53:23.729Z",
+      "name": "Remember The Rain",
+      "artists": [
+        "21st Century"
+      ],
+      "album": "Ahead of Our Time",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735088c3c1c49d166ca7210e46",
+      "uri": "spotify:track:4yhQV8Ys8ntDG3lqTtp2hl",
+      "duration_ms": 239250
+    },
+    {
+      "played_at": "2026-10-08T21:57:29.938Z",
+      "name": "Remember The Rain",
+      "artists": [
+        "21st Century"
+      ],
+      "album": "Ahead of Our Time",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735088c3c1c49d166ca7210e46",
+      "uri": "spotify:track:4yhQV8Ys8ntDG3lqTtp2hl",
+      "duration_ms": 239250
+    },
+    {
+      "played_at": "2026-10-08T22:17:48.683Z",
+      "name": "Blue Velvet",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
+      "uri": "spotify:track:0B4AIlB1jjT9l6QjKCdSLG",
+      "duration_ms": 158653
     }
   ]
 }
