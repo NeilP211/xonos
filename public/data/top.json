@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-09T10:03:01.952Z",
+  "generated_at": "2026-10-09T17:58:12.039Z",
   "ranges": {
     "short_term": {
       "tracks": [
         {
           "rank": 1,
+          "name": "сакадзуки - Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "сакадзуки",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
+          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
+          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
+          "duration_ms": 114995
+        },
+        {
+          "rank": 2,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -15,18 +27,6 @@
           "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
           "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
           "duration_ms": 149860
-        },
-        {
-          "rank": 2,
-          "name": "сакадзуки - Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "сакадзуки",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a62539f06e80e1c10fa3900f",
-          "uri": "spotify:track:2UHZmJ1BJzTB3VoYXoNtyT",
-          "url": "https://open.spotify.com/track/2UHZmJ1BJzTB3VoYXoNtyT",
-          "duration_ms": 114995
         },
         {
           "rank": 3,
@@ -300,275 +300,6 @@
         },
         {
           "rank": 24,
-          "name": "NE CMOTPN - Slowed",
-          "artists": [
-            "STAKILLAZ",
-            "ZAYDERA"
-          ],
-          "album": "NE CMOTPN",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bd58b0acc797040664ff6838",
-          "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
-          "url": "https://open.spotify.com/track/4lSoQgxzAEUPgun7t6jaqn",
-          "duration_ms": 98930
-        },
-        {
-          "rank": 25,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
-        },
-        {
-          "rank": 26,
-          "name": "Shelter Me",
-          "artists": [
-            "Dart Rayne",
-            "Yura Moonlight",
-            "Cate Kanell"
-          ],
-          "album": "Shelter Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
-          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
-          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
-          "duration_ms": 236375
-        },
-        {
-          "rank": 27,
-          "name": "Dead Forest",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:3ekNzsnUhzuvQCJXzWErlN",
-          "url": "https://open.spotify.com/track/3ekNzsnUhzuvQCJXzWErlN",
-          "duration_ms": 132480
-        },
-        {
-          "rank": 28,
-          "name": "Waiting for Battle",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:5G4E9JxKDSteaPZ9RcAcwk",
-          "url": "https://open.spotify.com/track/5G4E9JxKDSteaPZ9RcAcwk",
-          "duration_ms": 137664
-        },
-        {
-          "rank": 29,
-          "name": "Disciples of Morgana",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:6ZKvwaXPugGAgAptflSJAs",
-          "url": "https://open.spotify.com/track/6ZKvwaXPugGAgAptflSJAs",
-          "duration_ms": 157148
-        },
-        {
-          "rank": 30,
-          "name": "zombie",
-          "artists": [
-            "bleood"
-          ],
-          "album": "zombie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
-          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
-          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
-          "duration_ms": 121573
-        },
-        {
-          "rank": 31,
-          "name": "Возвращайся",
-          "artists": [
-            "angel vox"
-          ],
-          "album": "Возвращайся",
-          "image": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
-          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L",
-          "url": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L",
-          "duration_ms": 226909
-        },
-        {
-          "rank": 32,
-          "name": "my dear melancholy - super slowed",
-          "artists": [
-            "msht"
-          ],
-          "album": "my dear melancholy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ba67f5f36e533a2e835f414e",
-          "uri": "spotify:track:6X3sEVRlaQPda8dLhogoGp",
-          "url": "https://open.spotify.com/track/6X3sEVRlaQPda8dLhogoGp",
-          "duration_ms": 170973
-        },
-        {
-          "rank": 33,
-          "name": "Just Dance",
-          "artists": [
-            "Lady Gaga",
-            "Colby O'Donis"
-          ],
-          "album": "The Fame",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
-          "uri": "spotify:track:1dzQoRqT5ucxXVaAhTcT0J",
-          "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
-          "duration_ms": 241933
-        },
-        {
-          "rank": 34,
-          "name": "FREAK (Hardstyle) - Ultra Slowed",
-          "artists": [
-            "Fyex",
-            "Punkinloveee",
-            "acronym."
-          ],
-          "album": "FREAK (Hardstyle)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
-          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
-          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
-          "duration_ms": 187581
-        },
-        {
-          "rank": 35,
-          "name": "acs angel - slowed",
-          "artists": [
-            "DudePlaya"
-          ],
-          "album": "acs angel",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e6734ea93b92fd7d5a41c3c",
-          "uri": "spotify:track:41VYxu3kUhZoSk7aG6c7O1",
-          "url": "https://open.spotify.com/track/41VYxu3kUhZoSk7aG6c7O1",
-          "duration_ms": 176432
-        },
-        {
-          "rank": 36,
-          "name": "Dark Horse",
-          "artists": [
-            "Katy Perry",
-            "Juicy J"
-          ],
-          "album": "PRISM",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22",
-          "uri": "spotify:track:4jbmgIyjGoXjY01XxatOx6",
-          "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6",
-          "duration_ms": 215672
-        },
-        {
-          "rank": 37,
-          "name": "Hell",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:4tWxv80eSKOYhuQzTBpDEB",
-          "url": "https://open.spotify.com/track/4tWxv80eSKOYhuQzTBpDEB",
-          "duration_ms": 164453
-        },
-        {
-          "rank": 38,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
-        },
-        {
-          "rank": 39,
-          "name": "Misirlou",
-          "artists": [
-            "Dick Dale & His Del-Tones"
-          ],
-          "album": "Reverb at High Tide",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
-          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
-          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
-          "duration_ms": 134933
-        },
-        {
-          "rank": 40,
-          "name": "жених и невеста - Slowed",
-          "artists": [
-            "DJ ZUP RAlii",
-            "akkiemi"
-          ],
-          "album": "жених и невеста",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
-          "uri": "spotify:track:5C7MlyFtijmdC5DmOYdOwt",
-          "url": "https://open.spotify.com/track/5C7MlyFtijmdC5DmOYdOwt",
-          "duration_ms": 140629
-        },
-        {
-          "rank": 41,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
-        },
-        {
-          "rank": 42,
-          "name": "няшка - Super Slowed",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "няшка",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302265d430e12b1563c81f1e5",
-          "uri": "spotify:track:3OW4xZmhF0cl5x1fChLGeP",
-          "url": "https://open.spotify.com/track/3OW4xZmhF0cl5x1fChLGeP",
-          "duration_ms": 120000
-        },
-        {
-          "rank": 43,
-          "name": "Swamp",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:3k8qZg3rkXCvNFZg9c0JcK",
-          "url": "https://open.spotify.com/track/3k8qZg3rkXCvNFZg9c0JcK",
-          "duration_ms": 153547
-        },
-        {
-          "rank": 44,
-          "name": "Why We Lose",
-          "artists": [
-            "Cartoon",
-            "Jéja",
-            "Coleman Trapp"
-          ],
-          "album": "Why We Lose",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734c1c945fdbd7c6878f81b0e6",
-          "uri": "spotify:track:3uS7A81hjNbb17bbRlqhYi",
-          "url": "https://open.spotify.com/track/3uS7A81hjNbb17bbRlqhYi",
-          "duration_ms": 197485
-        },
-        {
-          "rank": 45,
           "name": "Privet Privet - Slowed",
           "artists": [
             "Tanin Jazz",
@@ -582,7 +313,300 @@
           "duration_ms": 127075
         },
         {
+          "rank": 25,
+          "name": "NE CMOTPN - Slowed",
+          "artists": [
+            "STAKILLAZ",
+            "ZAYDERA"
+          ],
+          "album": "NE CMOTPN",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bd58b0acc797040664ff6838",
+          "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
+          "url": "https://open.spotify.com/track/4lSoQgxzAEUPgun7t6jaqn",
+          "duration_ms": 98930
+        },
+        {
+          "rank": 26,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
+          "rank": 27,
+          "name": "Shelter Me",
+          "artists": [
+            "Dart Rayne",
+            "Yura Moonlight",
+            "Cate Kanell"
+          ],
+          "album": "Shelter Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
+          "duration_ms": 236375
+        },
+        {
+          "rank": 28,
+          "name": "Dead Forest",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:3ekNzsnUhzuvQCJXzWErlN",
+          "url": "https://open.spotify.com/track/3ekNzsnUhzuvQCJXzWErlN",
+          "duration_ms": 132480
+        },
+        {
+          "rank": 29,
+          "name": "Waiting for Battle",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:5G4E9JxKDSteaPZ9RcAcwk",
+          "url": "https://open.spotify.com/track/5G4E9JxKDSteaPZ9RcAcwk",
+          "duration_ms": 137664
+        },
+        {
+          "rank": 30,
+          "name": "Disciples of Morgana",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:6ZKvwaXPugGAgAptflSJAs",
+          "url": "https://open.spotify.com/track/6ZKvwaXPugGAgAptflSJAs",
+          "duration_ms": 157148
+        },
+        {
+          "rank": 31,
+          "name": "zombie",
+          "artists": [
+            "bleood"
+          ],
+          "album": "zombie",
+          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
+          "duration_ms": 121573
+        },
+        {
+          "rank": 32,
+          "name": "Возвращайся",
+          "artists": [
+            "angel vox"
+          ],
+          "album": "Возвращайся",
+          "image": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L",
+          "url": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L",
+          "duration_ms": 226909
+        },
+        {
+          "rank": 33,
+          "name": "my dear melancholy - super slowed",
+          "artists": [
+            "msht"
+          ],
+          "album": "my dear melancholy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ba67f5f36e533a2e835f414e",
+          "uri": "spotify:track:6X3sEVRlaQPda8dLhogoGp",
+          "url": "https://open.spotify.com/track/6X3sEVRlaQPda8dLhogoGp",
+          "duration_ms": 170973
+        },
+        {
+          "rank": 34,
+          "name": "Feeliinuu",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "Feeliinuu",
+          "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
+          "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
+          "url": "https://open.spotify.com/track/0WR4Bo24zWRujhjrof1tJS",
+          "duration_ms": 71726
+        },
+        {
+          "rank": 35,
+          "name": "Just Dance",
+          "artists": [
+            "Lady Gaga",
+            "Colby O'Donis"
+          ],
+          "album": "The Fame",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+          "uri": "spotify:track:1dzQoRqT5ucxXVaAhTcT0J",
+          "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
+          "duration_ms": 241933
+        },
+        {
+          "rank": 36,
+          "name": "FREAK (Hardstyle) - Ultra Slowed",
+          "artists": [
+            "Fyex",
+            "Punkinloveee",
+            "acronym."
+          ],
+          "album": "FREAK (Hardstyle)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
+          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
+          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
+          "duration_ms": 187581
+        },
+        {
+          "rank": 37,
+          "name": "acs angel - slowed",
+          "artists": [
+            "DudePlaya"
+          ],
+          "album": "acs angel",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e6734ea93b92fd7d5a41c3c",
+          "uri": "spotify:track:41VYxu3kUhZoSk7aG6c7O1",
+          "url": "https://open.spotify.com/track/41VYxu3kUhZoSk7aG6c7O1",
+          "duration_ms": 176432
+        },
+        {
+          "rank": 38,
+          "name": "Dark Horse",
+          "artists": [
+            "Katy Perry",
+            "Juicy J"
+          ],
+          "album": "PRISM",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22",
+          "uri": "spotify:track:4jbmgIyjGoXjY01XxatOx6",
+          "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6",
+          "duration_ms": 215672
+        },
+        {
+          "rank": 39,
+          "name": "Hell",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:4tWxv80eSKOYhuQzTBpDEB",
+          "url": "https://open.spotify.com/track/4tWxv80eSKOYhuQzTBpDEB",
+          "duration_ms": 164453
+        },
+        {
+          "rank": 40,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
+        },
+        {
+          "rank": 41,
+          "name": "Misirlou",
+          "artists": [
+            "Dick Dale & His Del-Tones"
+          ],
+          "album": "Reverb at High Tide",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c781833fb9bc6d97b8233c7f",
+          "uri": "spotify:track:6wmb6Mi0XcPEALiyCGWi2N",
+          "url": "https://open.spotify.com/track/6wmb6Mi0XcPEALiyCGWi2N",
+          "duration_ms": 134933
+        },
+        {
+          "rank": 42,
+          "name": "жених и невеста - Slowed",
+          "artists": [
+            "DJ ZUP RAlii",
+            "akkiemi"
+          ],
+          "album": "жених и невеста",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
+          "uri": "spotify:track:5C7MlyFtijmdC5DmOYdOwt",
+          "url": "https://open.spotify.com/track/5C7MlyFtijmdC5DmOYdOwt",
+          "duration_ms": 140629
+        },
+        {
+          "rank": 43,
+          "name": "type london",
+          "artists": [
+            "ONDA ANDAR"
+          ],
+          "album": "type london",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738f3c50379840f6bfa28ef0d9",
+          "uri": "spotify:track:6Ksueaf6RSn6cTo9LVHQPJ",
+          "url": "https://open.spotify.com/track/6Ksueaf6RSn6cTo9LVHQPJ",
+          "duration_ms": 103529
+        },
+        {
+          "rank": 44,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 45,
+          "name": "няшка - Super Slowed",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "няшка",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302265d430e12b1563c81f1e5",
+          "uri": "spotify:track:3OW4xZmhF0cl5x1fChLGeP",
+          "url": "https://open.spotify.com/track/3OW4xZmhF0cl5x1fChLGeP",
+          "duration_ms": 120000
+        },
+        {
           "rank": 46,
+          "name": "Swamp",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:3k8qZg3rkXCvNFZg9c0JcK",
+          "url": "https://open.spotify.com/track/3k8qZg3rkXCvNFZg9c0JcK",
+          "duration_ms": 153547
+        },
+        {
+          "rank": 47,
+          "name": "Why We Lose",
+          "artists": [
+            "Cartoon",
+            "Jéja",
+            "Coleman Trapp"
+          ],
+          "album": "Why We Lose",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734c1c945fdbd7c6878f81b0e6",
+          "uri": "spotify:track:3uS7A81hjNbb17bbRlqhYi",
+          "url": "https://open.spotify.com/track/3uS7A81hjNbb17bbRlqhYi",
+          "duration_ms": 197485
+        },
+        {
+          "rank": 48,
           "name": "Blue Velvet",
           "artists": [
             "Lana Del Rey"
@@ -594,7 +618,7 @@
           "duration_ms": 158653
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -607,7 +631,7 @@
           "duration_ms": 120702
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "glamur) (super slowed)",
           "artists": [
             "DJ ZUP RAlii"
@@ -617,33 +641,6 @@
           "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
           "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
           "duration_ms": 129285
-        },
-        {
-          "rank": 49,
-          "name": "Let Me Love You",
-          "artists": [
-            "DJ Snake",
-            "Justin Bieber"
-          ],
-          "album": "Encore",
-          "image": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc",
-          "uri": "spotify:track:0lYBSQXN6rCTvUZvg9S0lU",
-          "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU",
-          "duration_ms": 205946
-        },
-        {
-          "rank": 50,
-          "name": "Beating of My Heart - Matisse & Sadko Remix",
-          "artists": [
-            "M-3ox",
-            "Heidrun",
-            "Matisse & Sadko"
-          ],
-          "album": "Beating of My Heart (Matisse & Sadko Remix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730e9c55ce0bfdc4f333c1ec9d",
-          "uri": "spotify:track:1DujKNQOgOgcTSoQXFSWtR",
-          "url": "https://open.spotify.com/track/1DujKNQOgOgcTSoQXFSWtR",
-          "duration_ms": 390000
         }
       ],
       "artists": [
@@ -681,6 +678,14 @@
         },
         {
           "rank": 5,
+          "name": "bleood",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
+          "genres": [],
+          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
+          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+        },
+        {
+          "rank": 6,
           "name": "Katy Perry",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "genres": [],
@@ -688,7 +693,7 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf09cf91f17f33c04bb384a41",
           "genres": [],
@@ -696,7 +701,7 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
@@ -704,20 +709,12 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
           "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 9,
-          "name": "Tevvez",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
-          "genres": [],
-          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
-          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
           "rank": 10,
@@ -729,11 +726,11 @@
         },
         {
           "rank": 11,
-          "name": "bleood",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
+          "name": "Tevvez",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
-          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
-          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
           "rank": 12,

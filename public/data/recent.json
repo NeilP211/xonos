@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-09T10:03:02.048Z",
+  "updated_at": "2026-10-09T17:58:12.161Z",
   "plays": [
-    {
-      "played_at": "2026-07-02T21:31:39.578Z",
-      "name": "Comfortable Liar",
-      "artists": [
-        "Chevelle"
-      ],
-      "album": "Wonder What's Next (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
-      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
-      "duration_ms": 223266
-    },
-    {
-      "played_at": "2026-07-02T21:35:39.304Z",
-      "name": "California Dreamin' - Single Version",
-      "artists": [
-        "The Mamas & The Papas"
-      ],
-      "album": "If You Can Believe Your Eyes & Ears",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
-      "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
-      "duration_ms": 162373
-    },
     {
       "played_at": "2026-07-02T22:13:08.971Z",
       "name": "In Bloom",
@@ -22639,6 +22617,29 @@
     },
     {
       "played_at": "2026-10-09T02:57:21.998Z",
+      "name": "addiction - Ultra Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction (Ultra Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+      "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+      "duration_ms": 277662
+    },
+    {
+      "played_at": "2026-10-09T13:54:31.184Z",
+      "name": "Feeliinuu",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Feeliinuu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
+      "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
+      "duration_ms": 71726
+    },
+    {
+      "played_at": "2026-10-09T17:15:25.905Z",
       "name": "addiction - Ultra Slowed",
       "artists": [
         "LONOWN",
