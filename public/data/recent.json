@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-09T17:58:12.161Z",
+  "updated_at": "2026-10-09T22:29:11.266Z",
   "plays": [
-    {
-      "played_at": "2026-07-02T22:13:08.971Z",
-      "name": "In Bloom",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
-      "duration_ms": 255080
-    },
-    {
-      "played_at": "2026-07-02T22:18:06.368Z",
-      "name": "In Bloom",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
-      "duration_ms": 255080
-    },
-    {
-      "played_at": "2026-07-02T22:26:59.554Z",
-      "name": "Comfortable Liar",
-      "artists": [
-        "Chevelle"
-      ],
-      "album": "Wonder What's Next (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
-      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
-      "duration_ms": 223266
-    },
-    {
-      "played_at": "2026-07-03T00:29:17.966Z",
-      "name": "Check My Brain",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Black Gives Way To Blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732aac6b7dae4a8813f5e28454",
-      "uri": "spotify:track:2liwbAaiYRiJB2H286u1zS",
-      "duration_ms": 237906
-    },
     {
       "played_at": "2026-07-03T02:07:50.917Z",
       "name": "Check My Brain",
@@ -22649,6 +22605,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
       "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
       "duration_ms": 277662
+    },
+    {
+      "played_at": "2026-10-09T17:16:00.501Z",
+      "name": "Never Forget You",
+      "artists": [
+        "Zara Larsson",
+        "MNEK"
+      ],
+      "album": "So Good",
+      "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+      "duration_ms": 212574
+    },
+    {
+      "played_at": "2026-10-09T21:23:04.254Z",
+      "name": "GUTS RAGE x HARDSTYLE",
+      "artists": [
+        "MyMotivation"
+      ],
+      "album": "GUTS RAGE x HARDSTYLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+      "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
+      "duration_ms": 153200
+    },
+    {
+      "played_at": "2026-10-09T21:41:44.527Z",
+      "name": "От Этого Больно",
+      "artists": [
+        "Танккк"
+      ],
+      "album": "От Этого Больно",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f1843a7e01a41fdf5fa414b",
+      "uri": "spotify:track:6NWYNr6P7uqkeo8GC5VZ09",
+      "duration_ms": 140287
+    },
+    {
+      "played_at": "2026-10-09T21:59:24.363Z",
+      "name": "Never Forget You",
+      "artists": [
+        "Zara Larsson",
+        "MNEK"
+      ],
+      "album": "So Good",
+      "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+      "duration_ms": 212574
     }
   ]
 }
