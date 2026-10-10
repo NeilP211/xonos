@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-09T22:29:11.266Z",
+  "updated_at": "2026-10-10T04:21:54.450Z",
   "plays": [
-    {
-      "played_at": "2026-07-03T02:07:50.917Z",
-      "name": "Check My Brain",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Black Gives Way To Blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732aac6b7dae4a8813f5e28454",
-      "uri": "spotify:track:2liwbAaiYRiJB2H286u1zS",
-      "duration_ms": 237906
-    },
     {
       "played_at": "2026-07-03T02:12:01.183Z",
       "name": "...and Suffer As One",
@@ -22642,6 +22631,18 @@
     },
     {
       "played_at": "2026-10-09T21:59:24.363Z",
+      "name": "Never Forget You",
+      "artists": [
+        "Zara Larsson",
+        "MNEK"
+      ],
+      "album": "So Good",
+      "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+      "duration_ms": 212574
+    },
+    {
+      "played_at": "2026-10-09T22:06:20.368Z",
       "name": "Never Forget You",
       "artists": [
         "Zara Larsson",
