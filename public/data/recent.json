@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-10T16:59:08.968Z",
+  "updated_at": "2026-10-10T21:09:59.150Z",
   "plays": [
-    {
-      "played_at": "2026-07-03T02:12:01.183Z",
-      "name": "...and Suffer As One",
-      "artists": [
-        "Crowbar"
-      ],
-      "album": "Odd Fellows Rest",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
-      "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
-      "duration_ms": 249813
-    },
     {
       "played_at": "2026-07-03T02:16:12.186Z",
       "name": "Everlong",
@@ -22652,6 +22641,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
       "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
       "duration_ms": 212574
+    },
+    {
+      "played_at": "2026-10-10T17:08:09.554Z",
+      "name": "Yooo",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Yooo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
+      "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
+      "duration_ms": 77135
     }
   ]
 }
