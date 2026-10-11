@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-10-11T12:06:54.565Z",
+  "updated_at": "2026-10-11T19:19:52.405Z",
   "plays": [
-    {
-      "played_at": "2026-07-03T11:59:19.852Z",
-      "name": "Work",
-      "artists": [
-        "Rihanna",
-        "Drake"
-      ],
-      "album": "ANTI (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
-      "duration_ms": 219320
-    },
-    {
-      "played_at": "2026-07-03T12:05:41.514Z",
-      "name": "Wildest Dreams",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "album": "1989",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
-      "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
-      "duration_ms": 220440
-    },
-    {
-      "played_at": "2026-07-03T12:09:27.684Z",
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "artists": [
-        "Shakira",
-        "Wyclef Jean"
-      ],
-      "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
-      "uri": "spotify:track:3d0WouFnFmr0K3kjeza3fF",
-      "duration_ms": 220360
-    },
     {
       "played_at": "2026-07-03T15:30:30.482Z",
       "name": "Harvester of Sorrow (Remastered)",
@@ -22653,6 +22618,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
       "uri": "spotify:track:22skzmqfdWrjJylampe0kt",
       "duration_ms": 258431
+    },
+    {
+      "played_at": "2026-10-11T15:24:29.940Z",
+      "name": "Taswell",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
+      "duration_ms": 515500
+    },
+    {
+      "played_at": "2026-10-11T15:28:50.182Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-11T15:44:26.974Z",
+      "name": "FE!N (feat. Playboi Carti)",
+      "artists": [
+        "Travis Scott",
+        "Playboi Carti"
+      ],
+      "album": "UTOPIA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
+      "uri": "spotify:track:42VsgItocQwOQC3XWZ8JNA",
+      "duration_ms": 191700
     }
   ]
 }
