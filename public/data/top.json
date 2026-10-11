@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:09:58.953Z",
+  "generated_at": "2026-10-11T04:02:19.714Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -107,6 +107,19 @@
         },
         {
           "rank": 9,
+          "name": "Never Forget You",
+          "artists": [
+            "Zara Larsson",
+            "MNEK"
+          ],
+          "album": "So Good",
+          "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+          "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+          "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
+          "duration_ms": 212574
+        },
+        {
+          "rank": 10,
           "name": "Dead Steppes",
           "artists": [
             "Sandbox Interactive",
@@ -119,7 +132,19 @@
           "duration_ms": 149089
         },
         {
-          "rank": 10,
+          "rank": 11,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
+        },
+        {
+          "rank": 12,
           "name": "zombie",
           "artists": [
             "bleood"
@@ -131,7 +156,7 @@
           "duration_ms": 121573
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -144,7 +169,7 @@
           "duration_ms": 277662
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -156,7 +181,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Dead Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -169,7 +194,7 @@
           "duration_ms": 116569
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "The Undead",
           "artists": [
             "Sandbox Interactive",
@@ -182,7 +207,7 @@
           "duration_ms": 177316
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -195,7 +220,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "The Heretics",
           "artists": [
             "Sandbox Interactive",
@@ -208,7 +233,7 @@
           "duration_ms": 151285
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -221,7 +246,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Riptide",
           "artists": [
             "Vance Joy"
@@ -233,7 +258,7 @@
           "duration_ms": 204280
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Albion Online Main Theme",
           "artists": [
             "Sandbox Interactive",
@@ -246,7 +271,7 @@
           "duration_ms": 224520
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -259,7 +284,7 @@
           "duration_ms": 129962
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Danger",
           "artists": [
             "Sandbox Interactive",
@@ -272,7 +297,7 @@
           "duration_ms": 59463
         },
         {
-          "rank": 22,
+          "rank": 24,
           "name": "Forest",
           "artists": [
             "Sandbox Interactive",
@@ -285,7 +310,7 @@
           "duration_ms": 141482
         },
         {
-          "rank": 23,
+          "rank": 25,
           "name": "жених и невеста - Slowed",
           "artists": [
             "DJ ZUP RAlii",
@@ -298,7 +323,7 @@
           "duration_ms": 140629
         },
         {
-          "rank": 24,
+          "rank": 26,
           "name": "Battle Theme",
           "artists": [
             "Sandbox Interactive",
@@ -311,7 +336,7 @@
           "duration_ms": 138877
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -324,7 +349,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Privet Privet - Slowed",
           "artists": [
             "Tanin Jazz",
@@ -338,7 +363,7 @@
           "duration_ms": 127075
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "NE CMOTPN - Slowed",
           "artists": [
             "STAKILLAZ",
@@ -351,7 +376,7 @@
           "duration_ms": 98930
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "specialsadism (Slowed)",
           "artists": [
             "voidvoice717",
@@ -364,7 +389,7 @@
           "duration_ms": 109134
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -377,7 +402,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Dead Forest",
           "artists": [
             "Sandbox Interactive",
@@ -390,7 +415,7 @@
           "duration_ms": 132480
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Waiting for Battle",
           "artists": [
             "Sandbox Interactive",
@@ -403,7 +428,7 @@
           "duration_ms": 137664
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "От Этого Больно",
           "artists": [
             "Танккк"
@@ -415,7 +440,7 @@
           "duration_ms": 140287
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Disciples of Morgana",
           "artists": [
             "Sandbox Interactive",
@@ -428,20 +453,7 @@
           "duration_ms": 157148
         },
         {
-          "rank": 34,
-          "name": "Never Forget You",
-          "artists": [
-            "Zara Larsson",
-            "MNEK"
-          ],
-          "album": "So Good",
-          "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-          "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
-          "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
-          "duration_ms": 212574
-        },
-        {
-          "rank": 35,
+          "rank": 36,
           "name": "Возвращайся",
           "artists": [
             "angel vox"
@@ -453,7 +465,7 @@
           "duration_ms": 226909
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -466,7 +478,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "FREAK (Hardstyle) - Ultra Slowed",
           "artists": [
             "Fyex",
@@ -480,7 +492,7 @@
           "duration_ms": 187581
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -493,7 +505,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Hell",
           "artists": [
             "Sandbox Interactive",
@@ -504,18 +516,6 @@
           "uri": "spotify:track:4tWxv80eSKOYhuQzTBpDEB",
           "url": "https://open.spotify.com/track/4tWxv80eSKOYhuQzTBpDEB",
           "duration_ms": 164453
-        },
-        {
-          "rank": 40,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
         },
         {
           "rank": 41,
@@ -772,6 +772,14 @@
         },
         {
           "rank": 17,
+          "name": "The Chainsmokers",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4567279fac84a0375c3d819b",
+          "genres": [],
+          "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "rank": 18,
           "name": "Boy Fantasy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffe6ca1d41f75558a9678c89",
           "genres": [],
@@ -779,7 +787,7 @@
           "url": "https://open.spotify.com/artist/6TNu2GG0r5FZXtSvdGcLsY"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Antent",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
           "genres": [],
@@ -787,7 +795,7 @@
           "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb04515ce9eb763f8890602247",
           "genres": [],
@@ -795,7 +803,7 @@
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "SUICIDAL-IDOL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4840df9de4684b5afe76e2b",
           "genres": [],
@@ -803,7 +811,7 @@
           "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "LONOWN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
           "genres": [],
@@ -811,7 +819,7 @@
           "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -819,7 +827,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -827,7 +835,7 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Punkinloveee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb61d746ebd85c2c4881665886",
           "genres": [],
@@ -835,20 +843,12 @@
           "url": "https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "ilyhiryu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4768fe855a864c154a2a2d39",
           "genres": [],
           "uri": "spotify:artist:6v0qM3UbgdKlzIMRow87s2",
           "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
-        },
-        {
-          "rank": 26,
-          "name": "NBSPLV",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8556811e8509d9acbf42140",
-          "genres": [],
-          "uri": "spotify:artist:61TQfpvTjHYQjPrvtJPwVa",
-          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
         }
       ]
     },
@@ -1317,6 +1317,18 @@
         },
         {
           "rank": 38,
+          "name": "The Greatest",
+          "artists": [
+            "Sia"
+          ],
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
+        },
+        {
+          "rank": 39,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -1328,7 +1340,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1340,7 +1352,7 @@
           "duration_ms": 230533
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1353,7 +1365,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1365,7 +1377,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -1377,7 +1389,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1389,7 +1401,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -1401,7 +1413,7 @@
           "duration_ms": 232000
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1413,7 +1425,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -1425,18 +1437,6 @@
           "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
           "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
           "duration_ms": 236375
-        },
-        {
-          "rank": 47,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
         },
         {
           "rank": 48,

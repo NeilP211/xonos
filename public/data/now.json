@@ -1,14 +1,17 @@
 {
-  "updated_at": "2026-10-10T21:09:59.247Z",
+  "updated_at": "2026-10-11T04:02:19.936Z",
   "is_playing": false,
   "track": {
-    "name": "Yooo",
+    "name": "Can't Hold Us (feat. Ray Dalton)",
     "artists": [
-      "Nettspend"
+      "Macklemore",
+      "Ryan Lewis",
+      "Macklemore & Ryan Lewis",
+      "Ray Dalton"
     ],
-    "album": "Yooo",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
-    "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i"
+    "album": "The Heist",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
+    "uri": "spotify:track:22skzmqfdWrjJylampe0kt"
   },
-  "played_at": "2026-10-10T17:08:09.554Z"
+  "played_at": "2026-10-11T02:00:32.857Z"
 }

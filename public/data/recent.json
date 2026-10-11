@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-10-10T21:09:59.150Z",
+  "updated_at": "2026-10-11T04:02:19.835Z",
   "plays": [
-    {
-      "played_at": "2026-07-03T02:16:12.186Z",
-      "name": "Everlong",
-      "artists": [
-        "Foo Fighters"
-      ],
-      "album": "The Colour And The Shape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
-      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
-      "duration_ms": 250546
-    },
-    {
-      "played_at": "2026-07-03T02:48:57.913Z",
-      "name": "Work from Home (feat. Ty Dolla $ign)",
-      "artists": [
-        "Fifth Harmony",
-        "Ty Dolla $ign"
-      ],
-      "album": "7/27 (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27382db43e5091301205076d6ab",
-      "uri": "spotify:track:4tCtwWceOPWzenK2HAIJSb",
-      "duration_ms": 214477
-    },
-    {
-      "played_at": "2026-07-03T02:50:05.582Z",
-      "name": "#WBMB",
-      "artists": [
-        "fangmadesoso",
-        "so so"
-      ],
-      "album": "Net Work",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e954c6b08055e10cecc24a27",
-      "uri": "spotify:track:5xOM7qgVY6wVvcCsW4cu6B",
-      "duration_ms": 67201
-    },
-    {
-      "played_at": "2026-07-03T11:59:11.775Z",
-      "name": "Work",
-      "artists": [
-        "Rihanna",
-        "Drake"
-      ],
-      "album": "ANTI (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
-      "duration_ms": 219320
-    },
     {
       "played_at": "2026-07-03T11:59:19.852Z",
       "name": "Work",
@@ -22652,6 +22605,54 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
       "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
       "duration_ms": 77135
+    },
+    {
+      "played_at": "2026-10-11T01:49:11.341Z",
+      "name": "Never Forget You",
+      "artists": [
+        "Zara Larsson",
+        "MNEK"
+      ],
+      "album": "So Good",
+      "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+      "duration_ms": 212574
+    },
+    {
+      "played_at": "2026-10-11T01:52:18.361Z",
+      "name": "Demons",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "album": "Night Visions",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a",
+      "uri": "spotify:track:3LlAyCYU26dvFZBDUIMb7a",
+      "duration_ms": 175200
+    },
+    {
+      "played_at": "2026-10-11T01:56:02.812Z",
+      "name": "The Greatest",
+      "artists": [
+        "Sia"
+      ],
+      "album": "This Is Acting (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+      "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+      "duration_ms": 210906
+    },
+    {
+      "played_at": "2026-10-11T02:00:32.857Z",
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "artists": [
+        "Macklemore",
+        "Ryan Lewis",
+        "Macklemore & Ryan Lewis",
+        "Ray Dalton"
+      ],
+      "album": "The Heist",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
+      "uri": "spotify:track:22skzmqfdWrjJylampe0kt",
+      "duration_ms": 258431
     }
   ]
 }
