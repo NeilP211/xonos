@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-10-12T10:13:34.328Z",
+  "updated_at": "2026-10-12T20:54:18.014Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T16:48:25.074Z",
-      "name": "kkutup",
-      "artists": [
-        "Lil O"
-      ],
-      "album": "Leaks Tape (Vol. 2)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5e2d9754d2dc45f78615a6d",
-      "uri": "spotify:track:1drzJzXqhs50msliZvY6xY",
-      "duration_ms": 104605
-    },
-    {
-      "played_at": "2026-07-04T16:50:37.025Z",
-      "name": "Slim3",
-      "artists": [
-        "Deproved"
-      ],
-      "album": "Tata",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f15d4b898083bf6ab9603b5",
-      "uri": "spotify:track:0CqCSLPRaidOsZnb6zYge7",
-      "duration_ms": 131494
-    },
-    {
-      "played_at": "2026-07-04T16:52:49.946Z",
-      "name": "Lebron James",
-      "artists": [
-        "hxldr",
-        "wonder"
-      ],
-      "album": "Slime Fantasies",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f0ef87219f4a1304018e7a4",
-      "uri": "spotify:track:7erQBaHiGwTSHDshn5ZnGT",
-      "duration_ms": 132466
-    },
-    {
-      "played_at": "2026-07-04T16:54:27.680Z",
-      "name": "Ball Up Top",
-      "artists": [
-        "bleed"
-      ],
-      "album": "Ball Up Top",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ba1ba54c2fac8a6a5dee8e1c",
-      "uri": "spotify:track:4vCufMixQePqe27sRPEMAm",
-      "duration_ms": 97280
-    },
     {
       "played_at": "2026-07-04T16:55:53.967Z",
       "name": "Perfect Timin",
@@ -22647,6 +22602,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bfad686f153fc6f1a4b56e6a",
       "uri": "spotify:track:4zVObaSKVFFcQSCvz38IJF",
       "duration_ms": 69892
+    },
+    {
+      "played_at": "2026-10-12T13:17:19.422Z",
+      "name": "Ki",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:4IX21gApFLNpDxYHaXOuex",
+      "duration_ms": 92000
+    },
+    {
+      "played_at": "2026-10-12T13:22:16.369Z",
+      "name": "Dead Voxel",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6k3wFN8K4oooRBqfHaA9k0",
+      "duration_ms": 296000
+    },
+    {
+      "played_at": "2026-10-12T13:25:28.896Z",
+      "name": "Far",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:0xpq6tciSb9xZJaQ4eyjEY",
+      "duration_ms": 192000
+    },
+    {
+      "played_at": "2026-10-12T13:27:20.853Z",
+      "name": "Door",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:39DeAocnNpltMcz4aykhNM",
+      "duration_ms": 111437
     }
   ]
 }

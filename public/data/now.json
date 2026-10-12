@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-12T10:13:34.417Z",
+  "updated_at": "2026-10-12T20:54:18.148Z",
   "is_playing": false,
   "track": {
-    "name": "open the door",
+    "name": "Door",
     "artists": [
-      "phreshboyswag"
+      "C418"
     ],
-    "album": "open the door",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bfad686f153fc6f1a4b56e6a",
-    "uri": "spotify:track:4zVObaSKVFFcQSCvz38IJF"
+    "album": "Minecraft - Volume Alpha",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+    "uri": "spotify:track:39DeAocnNpltMcz4aykhNM"
   },
-  "played_at": "2026-10-11T23:08:29.419Z"
+  "played_at": "2026-10-12T13:27:20.853Z"
 }
