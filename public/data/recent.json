@@ -1,143 +1,6 @@
 {
-  "updated_at": "2026-10-12T20:54:18.014Z",
+  "updated_at": "2026-10-13T02:24:45.340Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T16:55:53.967Z",
-      "name": "Perfect Timin",
-      "artists": [
-        "snowyclwn",
-        "sixteen"
-      ],
-      "album": "Perfect Timin",
-      "image": "https://i.scdn.co/image/ab67616d0000b27375bd8e6d9df61622c511af87",
-      "uri": "spotify:track:6Vx2r1QXuJbIxSvzLsZBjE",
-      "duration_ms": 85846
-    },
-    {
-      "played_at": "2026-07-04T16:58:11.967Z",
-      "name": "Guap In My Pants",
-      "artists": [
-        "wonder"
-      ],
-      "album": "Guap In My Pants",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f40315320d1a68b108ba9aa",
-      "uri": "spotify:track:0wgPpZlPzMLd8zLLVaJb99",
-      "duration_ms": 137456
-    },
-    {
-      "played_at": "2026-07-04T16:59:49.064Z",
-      "name": "Roster",
-      "artists": [
-        "Lil O"
-      ],
-      "album": "Leaks Tape (Vol. 2)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5e2d9754d2dc45f78615a6d",
-      "uri": "spotify:track:0LB1J84HxtnOIStQXolOu3",
-      "duration_ms": 96660
-    },
-    {
-      "played_at": "2026-07-04T17:01:44.523Z",
-      "name": "straight nett",
-      "artists": [
-        "Deproved"
-      ],
-      "album": "Nettspend 3",
-      "image": "https://i.scdn.co/image/ab67616d0000b273228402a614d8aeb0c8bfd429",
-      "uri": "spotify:track:0RAaV4qyZW3NrNSnZ8ruFg",
-      "duration_ms": 115008
-    },
-    {
-      "played_at": "2026-07-04T17:03:35.805Z",
-      "name": "Text Back",
-      "artists": [
-        "hxldr",
-        "wonder"
-      ],
-      "album": "Slime Fantasies",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f0ef87219f4a1304018e7a4",
-      "uri": "spotify:track:4DMP4SWtjS1xGqs3Yqs7ao",
-      "duration_ms": 110850
-    },
-    {
-      "played_at": "2026-07-04T17:05:11.305Z",
-      "name": "mackle more",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "mackle more",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738015254dde69b2ad72ee358f",
-      "uri": "spotify:track:15BHU9fuSTsXGvIpRIqQFU",
-      "duration_ms": 95062
-    },
-    {
-      "played_at": "2026-07-04T17:06:34.211Z",
-      "name": "Cps",
-      "artists": [
-        "Darkky Cave"
-      ],
-      "album": "A Teen",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa34617a46169b9c9856dd2b",
-      "uri": "spotify:track:5z9h8n5IGRDcJs8dynMmEP",
-      "duration_ms": 82442
-    },
-    {
-      "played_at": "2026-07-04T17:09:00.357Z",
-      "name": "10",
-      "artists": [
-        "Junko!",
-        "TOR4TRIX"
-      ],
-      "album": "10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27353691b068502a36425a675df",
-      "uri": "spotify:track:4wVYbs26Y9LOPJaGT4zUhE",
-      "duration_ms": 145711
-    },
-    {
-      "played_at": "2026-07-04T17:10:34.243Z",
-      "name": "1300",
-      "artists": [
-        "Lil O"
-      ],
-      "album": "Leaks Tape (Vol. 2)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5e2d9754d2dc45f78615a6d",
-      "uri": "spotify:track:6XrJFh3YwLYQGlvA4mF5Mp",
-      "duration_ms": 93433
-    },
-    {
-      "played_at": "2026-07-04T17:12:17.859Z",
-      "name": "Yoda",
-      "artists": [
-        "Deproved"
-      ],
-      "album": "Tata",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f15d4b898083bf6ab9603b5",
-      "uri": "spotify:track:5SiF72ywLsehUDMyJyBhat",
-      "duration_ms": 103166
-    },
-    {
-      "played_at": "2026-07-04T17:14:13.597Z",
-      "name": "Just Trust Me - Different Race",
-      "artists": [
-        "sixteen",
-        "TOR4TRIX",
-        "subbtrahiert"
-      ],
-      "album": "b4whoslime8",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d85e76272eff2ce4cd306a56",
-      "uri": "spotify:track:1iKAbRkTVGlcM0tVe0BKzI",
-      "duration_ms": 115278
-    },
-    {
-      "played_at": "2026-07-04T17:16:26.653Z",
-      "name": "Smoke",
-      "artists": [
-        "maxon"
-      ],
-      "album": "Smoke",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730e184ad7841e4f0b9b4acd9f",
-      "uri": "spotify:track:3GTf5F8tFsj32PPAreq8ER",
-      "duration_ms": 132609
-    },
     {
       "played_at": "2026-07-04T17:18:28.165Z",
       "name": "touch grass",
@@ -22646,6 +22509,145 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
       "uri": "spotify:track:39DeAocnNpltMcz4aykhNM",
       "duration_ms": 111437
+    },
+    {
+      "played_at": "2026-10-12T23:33:05.615Z",
+      "name": "Dreams pt. II",
+      "artists": [
+        "Lost Sky",
+        "Sara Skinner"
+      ],
+      "album": "Dreams pt. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
+      "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
+      "duration_ms": 215196
+    },
+    {
+      "played_at": "2026-10-12T23:33:16.051Z",
+      "name": "Intro",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:1BBp2r27CZQj9lNg8mAaAd",
+      "duration_ms": 276187
+    },
+    {
+      "played_at": "2026-10-12T23:40:35.885Z",
+      "name": "Till Oblivion - Radio Edit",
+      "artists": [
+        "Somna",
+        "Yang",
+        "Noire Lee"
+      ],
+      "album": "Adrian & Raz - Best Of Vocal Trance 2013, Vol. 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c6130e9ccfbd434dd7003cea",
+      "uri": "spotify:track:0MIIjqVNqCpe0gG7jlSzAR",
+      "duration_ms": 265454
+    },
+    {
+      "played_at": "2026-10-13T00:43:39.278Z",
+      "name": "BABYDOLL",
+      "artists": [
+        "Ari Abdul"
+      ],
+      "album": "BABYDOLL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ef2703ce223d63435928571",
+      "uri": "spotify:track:5rPNVwYjVEgkq6YNPki4Zc",
+      "duration_ms": 196235
+    },
+    {
+      "played_at": "2026-10-13T00:46:18.846Z",
+      "name": "Me Papa Que É Pop (Slowed)",
+      "artists": [
+        "Dj Brunin XM",
+        "Mc Lullu"
+      ],
+      "album": "Me Papa Que É Pop (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27366664645b5713eb1198001b5",
+      "uri": "spotify:track:33PD9UXe0pfkXQtg3Ily5y",
+      "duration_ms": 141014
+    },
+    {
+      "played_at": "2026-10-13T00:49:42.841Z",
+      "name": "CHALICE OF MIND",
+      "artists": [
+        "Yabujin"
+      ],
+      "album": "CHALICE OF MIND",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732da0f339189674d5bf270a3c",
+      "uri": "spotify:track:4GTaNTujKpfoFDcCTZEfc4",
+      "duration_ms": 123452
+    },
+    {
+      "played_at": "2026-10-13T01:01:53.333Z",
+      "name": "Yugoslavskiy Groove - Slowed + Reverb",
+      "artists": [
+        "Xodyl"
+      ],
+      "album": "Yugoslavskiy Groove (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393399152c93440efa3468c60",
+      "uri": "spotify:track:43m1AxHLrKA6ALZQM6PJyM",
+      "duration_ms": 67200
+    },
+    {
+      "played_at": "2026-10-13T01:05:31.539Z",
+      "name": "Summertime",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "Predestiny",
+      "image": "https://i.scdn.co/image/ab67616d0000b273794624c277052d068bf311d8",
+      "uri": "spotify:track:109rpPw9mmFN1KhQ38zyt0",
+      "duration_ms": 217651
+    },
+    {
+      "played_at": "2026-10-13T01:06:42.879Z",
+      "name": "lilacs - slowed",
+      "artists": [
+        "azrxel",
+        "abxddon"
+      ],
+      "album": "lilacs - slowed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+      "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+      "duration_ms": 70866
+    },
+    {
+      "played_at": "2026-10-13T01:16:04.919Z",
+      "name": "SPIT IN MY FACE!",
+      "artists": [
+        "ThxSoMch"
+      ],
+      "album": "SPIT IN MY FACE!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
+      "uri": "spotify:track:1N8TTK1Uoy7UvQNUazfUt5",
+      "duration_ms": 147874
+    },
+    {
+      "played_at": "2026-10-13T01:18:06.143Z",
+      "name": "i was only temporary (Slowed + Reverb)",
+      "artists": [
+        "my head is empty"
+      ],
+      "album": "i was only temporary (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e44b187b8aa10a35d107cd5",
+      "uri": "spotify:track:4XAilWzhZM0uyR4vtERfHi",
+      "duration_ms": 102160
+    },
+    {
+      "played_at": "2026-10-13T01:46:21.491Z",
+      "name": "Love Potions Slowed and Reverbed",
+      "artists": [
+        "BJ Lips",
+        "princess paparazzi",
+        "BJ Lips HDD"
+      ],
+      "album": "Love Potions Slowed and Reverbed",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732aa489a08de8784ad572cacc",
+      "uri": "spotify:track:3RAtQezT066Fhi2NC0VDNZ",
+      "duration_ms": 207567
     }
   ]
 }
