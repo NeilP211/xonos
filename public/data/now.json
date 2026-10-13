@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-13T10:05:51.842Z",
+  "updated_at": "2026-10-13T18:52:35.436Z",
   "is_playing": false,
   "track": {
-    "name": "Blocks",
+    "name": "Just Dance",
     "artists": [
-      "C418"
+      "Lady Gaga",
+      "Colby O'Donis"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:0987DbecQ3zp81dhOQWOs5"
+    "album": "The Fame",
+    "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE"
   },
-  "played_at": "2026-10-13T03:00:54.549Z"
+  "played_at": "2026-10-13T16:27:29.074Z"
 }

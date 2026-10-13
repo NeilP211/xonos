@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-13T10:05:51.743Z",
+  "updated_at": "2026-10-13T18:52:35.396Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T17:26:31.788Z",
-      "name": "100 blues",
-      "artists": [
-        "Lil O"
-      ],
-      "album": "Leaks Tape (Vol. 1)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27390d7fe6290700c906c2a77d5",
-      "uri": "spotify:track:548m1bEMau1JlgFYU9PZme",
-      "duration_ms": 120540
-    },
-    {
-      "played_at": "2026-07-04T17:28:13.934Z",
-      "name": "Looseleaf",
-      "artists": [
-        "maxon"
-      ],
-      "album": "SS24",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d08c61265634ba0801b36bec",
-      "uri": "spotify:track:4TpL5EA8nxKOvb2hT6WYCB",
-      "duration_ms": 101721
-    },
     {
       "played_at": "2026-07-04T17:30:05.917Z",
       "name": "Where U Get Dem Racks?",
@@ -22648,6 +22626,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:0987DbecQ3zp81dhOQWOs5",
       "duration_ms": 343000
+    },
+    {
+      "played_at": "2026-10-13T16:23:26.665Z",
+      "name": "I Knew You Were Trouble.",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+      "uri": "spotify:track:72jCZdH0Lhg93z6Z4hBjgj",
+      "duration_ms": 217973
+    },
+    {
+      "played_at": "2026-10-13T16:27:29.074Z",
+      "name": "Just Dance",
+      "artists": [
+        "Lady Gaga",
+        "Colby O'Donis"
+      ],
+      "album": "The Fame",
+      "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+      "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE",
+      "duration_ms": 241933
     }
   ]
 }
