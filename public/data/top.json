@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:24:45.089Z",
+  "generated_at": "2026-10-13T10:05:51.569Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -617,6 +617,18 @@
         },
         {
           "rank": 49,
+          "name": "Taswell",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
+          "url": "https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk",
+          "duration_ms": 515500
+        },
+        {
+          "rank": 50,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -627,18 +639,6 @@
           "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
           "url": "https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E",
           "duration_ms": 120702
-        },
-        {
-          "rank": 50,
-          "name": "Taswell",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
-          "url": "https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk",
-          "duration_ms": 515500
         }
       ],
       "artists": [
@@ -1067,6 +1067,19 @@
         },
         {
           "rank": 19,
+          "name": "Dreams pt. II",
+          "artists": [
+            "Lost Sky",
+            "Sara Skinner"
+          ],
+          "album": "Dreams pt. II",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
+          "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
+          "url": "https://open.spotify.com/track/4cPjdCjNaGEgK0uXvjd7ql",
+          "duration_ms": 215196
+        },
+        {
+          "rank": 20,
           "name": "fatman",
           "artists": [
             "boolymon"
@@ -1078,7 +1091,7 @@
           "duration_ms": 90426
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Im Inna Band",
           "artists": [
             "Glokk40Spaz"
@@ -1090,7 +1103,7 @@
           "duration_ms": 194951
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Pink Champagne Lana",
           "artists": [
             "LNA43"
@@ -1102,7 +1115,7 @@
           "duration_ms": 359336
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -1114,7 +1127,7 @@
           "duration_ms": 132456
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Misirlou",
           "artists": [
             "Dick Dale & His Del-Tones"
@@ -1126,7 +1139,7 @@
           "duration_ms": 134933
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -1139,7 +1152,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -1151,7 +1164,7 @@
           "duration_ms": 188095
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -1164,7 +1177,7 @@
           "duration_ms": 391403
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1176,7 +1189,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -1189,7 +1202,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1201,7 +1214,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -1214,7 +1227,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Kirkify",
           "artists": [
             "Edo Hunnidz"
@@ -1226,7 +1239,7 @@
           "duration_ms": 80000
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1238,7 +1251,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -1248,19 +1261,6 @@
           "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
           "url": "https://open.spotify.com/track/6vSCM2SU46QPusXLiy0kjz",
           "duration_ms": 150622
-        },
-        {
-          "rank": 34,
-          "name": "Dreams pt. II",
-          "artists": [
-            "Lost Sky",
-            "Sara Skinner"
-          ],
-          "album": "Dreams pt. II",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
-          "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql",
-          "url": "https://open.spotify.com/track/4cPjdCjNaGEgK0uXvjd7ql",
-          "duration_ms": 215196
         },
         {
           "rank": 35,
@@ -1289,54 +1289,6 @@
         },
         {
           "rank": 37,
-          "name": "Playing Dangerous",
-          "artists": [
-            "ceZk"
-          ],
-          "album": "Playing Dangerous",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e442e888fbb2fb3e65d6b9d2",
-          "uri": "spotify:track:3BiihVpL0biRDyuSC4lOtl",
-          "url": "https://open.spotify.com/track/3BiihVpL0biRDyuSC4lOtl",
-          "duration_ms": 207124
-        },
-        {
-          "rank": 38,
-          "name": "The Greatest",
-          "artists": [
-            "Sia"
-          ],
-          "album": "This Is Acting (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
-          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
-          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
-          "duration_ms": 210906
-        },
-        {
-          "rank": 39,
-          "name": "GUTS RAGE x HARDSTYLE",
-          "artists": [
-            "MyMotivation"
-          ],
-          "album": "GUTS RAGE x HARDSTYLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
-          "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
-          "url": "https://open.spotify.com/track/3YPfO65kiw8oCq5vSSKFyP",
-          "duration_ms": 153200
-        },
-        {
-          "rank": 40,
-          "name": "National Anthem",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
-          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
-          "duration_ms": 230533
-        },
-        {
-          "rank": 41,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1349,67 +1301,31 @@
           "duration_ms": 70866
         },
         {
-          "rank": 42,
-          "name": "Paranoid",
+          "rank": 38,
+          "name": "Playing Dangerous",
           "artists": [
-            "DJ Iraq"
+            "ceZk"
           ],
-          "album": "Paranoid",
-          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
-          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
-          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
-          "duration_ms": 158966
+          "album": "Playing Dangerous",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e442e888fbb2fb3e65d6b9d2",
+          "uri": "spotify:track:3BiihVpL0biRDyuSC4lOtl",
+          "url": "https://open.spotify.com/track/3BiihVpL0biRDyuSC4lOtl",
+          "duration_ms": 207124
         },
         {
-          "rank": 43,
-          "name": "Team",
+          "rank": 39,
+          "name": "The Greatest",
           "artists": [
-            "Lorde"
+            "Sia"
           ],
-          "album": "Pure Heroine",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
-          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
-          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
-          "duration_ms": 193058
+          "album": "This Is Acting (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
+          "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
+          "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
+          "duration_ms": 210906
         },
         {
-          "rank": 44,
-          "name": "Too Much For Me",
-          "artists": [
-            "SELKER"
-          ],
-          "album": "Too Much For Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
-          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
-          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
-          "duration_ms": 153869
-        },
-        {
-          "rank": 45,
-          "name": "Necrotic Bimbatitis",
-          "artists": [
-            "Bimb0nicplague"
-          ],
-          "album": "Split W/ Septic Abrasions",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e0027c2f4941b54c2dd999a1",
-          "uri": "spotify:track:7nC11rmbnep471LADThi9L",
-          "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
-          "duration_ms": 232000
-        },
-        {
-          "rank": 46,
-          "name": "Ya Layaly",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "Ana Kteer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
-          "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
-          "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
-          "duration_ms": 299258
-        },
-        {
-          "rank": 47,
+          "rank": 40,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -1421,6 +1337,90 @@
           "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
           "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
           "duration_ms": 236375
+        },
+        {
+          "rank": 41,
+          "name": "GUTS RAGE x HARDSTYLE",
+          "artists": [
+            "MyMotivation"
+          ],
+          "album": "GUTS RAGE x HARDSTYLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730c0dbc1273cbb5cb423b71db",
+          "uri": "spotify:track:3YPfO65kiw8oCq5vSSKFyP",
+          "url": "https://open.spotify.com/track/3YPfO65kiw8oCq5vSSKFyP",
+          "duration_ms": 153200
+        },
+        {
+          "rank": 42,
+          "name": "National Anthem",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
+          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
+          "duration_ms": 230533
+        },
+        {
+          "rank": 43,
+          "name": "Paranoid",
+          "artists": [
+            "DJ Iraq"
+          ],
+          "album": "Paranoid",
+          "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
+          "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
+          "url": "https://open.spotify.com/track/2EOCpsjJ6dpYuSllwa81hb",
+          "duration_ms": 158966
+        },
+        {
+          "rank": 44,
+          "name": "Team",
+          "artists": [
+            "Lorde"
+          ],
+          "album": "Pure Heroine",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e19c63f62581ab73a6589382",
+          "uri": "spotify:track:2EA3zDCZYf3pKCCaOSP95r",
+          "url": "https://open.spotify.com/track/2EA3zDCZYf3pKCCaOSP95r",
+          "duration_ms": 193058
+        },
+        {
+          "rank": 45,
+          "name": "Too Much For Me",
+          "artists": [
+            "SELKER"
+          ],
+          "album": "Too Much For Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+          "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+          "url": "https://open.spotify.com/track/2MymczAULhpJYbgyXwwiyw",
+          "duration_ms": 153869
+        },
+        {
+          "rank": 46,
+          "name": "Necrotic Bimbatitis",
+          "artists": [
+            "Bimb0nicplague"
+          ],
+          "album": "Split W/ Septic Abrasions",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e0027c2f4941b54c2dd999a1",
+          "uri": "spotify:track:7nC11rmbnep471LADThi9L",
+          "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
+          "duration_ms": 232000
+        },
+        {
+          "rank": 47,
+          "name": "Ya Layaly",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "Ana Kteer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
+          "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
+          "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
+          "duration_ms": 299258
         },
         {
           "rank": 48,
@@ -1606,6 +1606,14 @@
         },
         {
           "rank": 19,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 20,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -1613,7 +1621,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb743cd86cefbd410e57a804c5",
           "genres": [],
@@ -1621,20 +1629,12 @@
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 22,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "rank": 23,

@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-13T02:24:45.340Z",
+  "updated_at": "2026-10-13T10:05:51.743Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T17:18:28.165Z",
-      "name": "touch grass",
-      "artists": [
-        "Perubaby"
-      ],
-      "album": "cusco to sicily",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bf91f839d1db0c274ece58a9",
-      "uri": "spotify:track:7ovunMNHbkvAwr3RcdFXrQ",
-      "duration_ms": 121058
-    },
-    {
-      "played_at": "2026-07-04T17:19:58.780Z",
-      "name": "Surf",
-      "artists": [
-        "2slimey"
-      ],
-      "album": "Surf",
-      "image": "https://i.scdn.co/image/ab67616d0000b27366ba45227a43cd666cb1fc3c",
-      "uri": "spotify:track:30PCQBLK4QjZjMTPOVHPPW",
-      "duration_ms": 90150
-    },
-    {
-      "played_at": "2026-07-04T17:22:29.594Z",
-      "name": "runnin",
-      "artists": [
-        "ksuuvi"
-      ],
-      "album": "Not What it Seems Extended",
-      "image": "https://i.scdn.co/image/ab67616d0000b273657f03be69e97a0de11630d2",
-      "uri": "spotify:track:2PqUY3kV1QSRTqebIGVNqg",
-      "duration_ms": 150374
-    },
-    {
-      "played_at": "2026-07-04T17:24:30.792Z",
-      "name": "Jump",
-      "artists": [
-        "Deproved"
-      ],
-      "album": "Nettsaga",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738c13cbf6d7cf930aaa731ba2",
-      "uri": "spotify:track:2099NUgGFI66d0UFLyq0S9",
-      "duration_ms": 120737
-    },
     {
       "played_at": "2026-07-04T17:26:31.788Z",
       "name": "100 blues",
@@ -22648,6 +22604,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732aa489a08de8784ad572cacc",
       "uri": "spotify:track:3RAtQezT066Fhi2NC0VDNZ",
       "duration_ms": 207567
+    },
+    {
+      "played_at": "2026-10-13T02:26:02.997Z",
+      "name": "Key",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:2TQU6iZxD9UwUkA0fGgfsX",
+      "duration_ms": 65000
+    },
+    {
+      "played_at": "2026-10-13T02:34:38.961Z",
+      "name": "Taswell",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
+      "duration_ms": 515500
+    },
+    {
+      "played_at": "2026-10-13T02:38:38.805Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-13T03:00:54.549Z",
+      "name": "Blocks",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:0987DbecQ3zp81dhOQWOs5",
+      "duration_ms": 343000
     }
   ]
 }
