@@ -1,52 +1,6 @@
 {
-  "updated_at": "2026-10-14T14:19:42.821Z",
+  "updated_at": "2026-10-14T19:10:08.963Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T18:01:50.172Z",
-      "name": "who tf",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "who tf",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fa03e65554a744c2206c6b6e",
-      "uri": "spotify:track:34OoEl6SFLTsRVEms9EEdq",
-      "duration_ms": 186177
-    },
-    {
-      "played_at": "2026-07-04T18:09:29.993Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-07-04T18:11:57.971Z",
-      "name": "Closure",
-      "artists": [
-        "D.O.D",
-        "Hayley May"
-      ],
-      "album": "Closure",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a68bab7c63a33977c829ebb9",
-      "uri": "spotify:track:6aynKW70w06W8LyZaKpdAX",
-      "duration_ms": 147522
-    },
-    {
-      "played_at": "2026-07-04T18:18:39.950Z",
-      "name": "Ain't With That (Late Night Callin')",
-      "artists": [
-        "Julian Fijma"
-      ],
-      "album": "Ain't With That (Late Night Callin')",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-      "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-      "duration_ms": 207272
-    },
     {
       "played_at": "2026-07-04T18:21:48.480Z",
       "name": "We Do What We Want - Edit",
@@ -22650,6 +22604,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
       "duration_ms": 515500
+    },
+    {
+      "played_at": "2026-10-14T15:25:45.233Z",
+      "name": "Señorita",
+      "artists": [
+        "Shawn Mendes",
+        "Camila Cabello"
+      ],
+      "album": "Shawn Mendes (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563",
+      "uri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2",
+      "duration_ms": 190799
+    },
+    {
+      "played_at": "2026-10-14T15:33:34.244Z",
+      "name": "METAMORPHOSIS",
+      "artists": [
+        "INTERWORLD"
+      ],
+      "album": "METAMORPHOSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
+      "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz",
+      "duration_ms": 142839
+    },
+    {
+      "played_at": "2026-10-14T15:39:59.187Z",
+      "name": "Haunt Muskie",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6IciXD3wtLksXAR4CHULJC",
+      "duration_ms": 361677
+    },
+    {
+      "played_at": "2026-10-14T15:41:40.250Z",
+      "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Sonic Excess In Its Purest Form",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+      "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
+      "duration_ms": 238266
     }
   ]
 }
