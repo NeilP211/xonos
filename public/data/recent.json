@@ -1,52 +1,6 @@
 {
-  "updated_at": "2026-10-14T19:10:08.963Z",
+  "updated_at": "2026-10-14T23:40:49.752Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T18:21:48.480Z",
-      "name": "We Do What We Want - Edit",
-      "artists": [
-        "Alan Fitzpatrick"
-      ],
-      "album": "We Do What We Want (Edit)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
-      "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
-      "duration_ms": 188095
-    },
-    {
-      "played_at": "2026-07-04T18:30:15.827Z",
-      "name": "Wildest Dreams",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "album": "1989",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
-      "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
-      "duration_ms": 220440
-    },
-    {
-      "played_at": "2026-07-04T18:33:43.560Z",
-      "name": "Ain't With That (Late Night Callin')",
-      "artists": [
-        "Julian Fijma"
-      ],
-      "album": "Ain't With That (Late Night Callin')",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734303377cd849af873d4b1f0d",
-      "uri": "spotify:track:6P7sJUzkFeLq9VOqJQSBFH",
-      "duration_ms": 207272
-    },
-    {
-      "played_at": "2026-07-04T20:03:57.517Z",
-      "name": "What A Life",
-      "artists": [
-        "John Summit",
-        "Guz",
-        "Stevie Appleton"
-      ],
-      "album": "What A Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738312b4de3123fa5275d8ac57",
-      "uri": "spotify:track:1KbLVz3ZcdUOt2wBXqU2cG",
-      "duration_ms": 171547
-    },
     {
       "played_at": "2026-07-04T21:49:25.809Z",
       "name": "CODE A - Mega Slowed",
@@ -22649,6 +22603,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
       "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
       "duration_ms": 238266
+    },
+    {
+      "played_at": "2026-10-14T15:56:22.301Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
+    },
+    {
+      "played_at": "2026-10-14T20:36:06.351Z",
+      "name": "Be Quiet and Drive (Far Away)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Be Quiet and Drive (Far Away)",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7305a226328ea0456cf84b0e9",
+      "uri": "spotify:track:4s3Lo1iuAN3ZoPNbJESPhA",
+      "duration_ms": 210922
+    },
+    {
+      "played_at": "2026-10-14T20:49:59.347Z",
+      "name": "type london",
+      "artists": [
+        "ONDA ANDAR"
+      ],
+      "album": "type london",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f3c50379840f6bfa28ef0d9",
+      "uri": "spotify:track:6Ksueaf6RSn6cTo9LVHQPJ",
+      "duration_ms": 103529
+    },
+    {
+      "played_at": "2026-10-14T21:24:53.681Z",
+      "name": "Taswell",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
+      "duration_ms": 515500
     }
   ]
 }

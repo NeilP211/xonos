@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:10:08.735Z",
+  "generated_at": "2026-10-14T23:40:49.636Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -118,6 +118,18 @@
         },
         {
           "rank": 10,
+          "name": "type london",
+          "artists": [
+            "ONDA ANDAR"
+          ],
+          "album": "type london",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738f3c50379840f6bfa28ef0d9",
+          "uri": "spotify:track:6Ksueaf6RSn6cTo9LVHQPJ",
+          "url": "https://open.spotify.com/track/6Ksueaf6RSn6cTo9LVHQPJ",
+          "duration_ms": 103529
+        },
+        {
+          "rank": 11,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -130,7 +142,7 @@
           "duration_ms": 277662
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -142,7 +154,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Dead Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -153,19 +165,6 @@
           "uri": "spotify:track:1QJZKLQNFlmXu4mSOFeQqB",
           "url": "https://open.spotify.com/track/1QJZKLQNFlmXu4mSOFeQqB",
           "duration_ms": 116569
-        },
-        {
-          "rank": 13,
-          "name": "The Undead",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1aaooErpcadpKQxoLCKwRA",
-          "url": "https://open.spotify.com/track/1aaooErpcadpKQxoLCKwRA",
-          "duration_ms": 177316
         },
         {
           "rank": 14,
@@ -208,6 +207,20 @@
         },
         {
           "rank": 17,
+          "name": "FREAK (Hardstyle) - Ultra Slowed",
+          "artists": [
+            "Fyex",
+            "Punkinloveee",
+            "acronym."
+          ],
+          "album": "FREAK (Hardstyle)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
+          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
+          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
+          "duration_ms": 187581
+        },
+        {
+          "rank": 18,
           "name": "Albion Online Main Theme",
           "artists": [
             "Sandbox Interactive",
@@ -220,7 +233,7 @@
           "duration_ms": 224520
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -233,7 +246,7 @@
           "duration_ms": 129962
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Danger",
           "artists": [
             "Sandbox Interactive",
@@ -246,7 +259,7 @@
           "duration_ms": 59463
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Forest",
           "artists": [
             "Sandbox Interactive",
@@ -259,7 +272,7 @@
           "duration_ms": 141482
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Battle Theme",
           "artists": [
             "Sandbox Interactive",
@@ -272,7 +285,7 @@
           "duration_ms": 138877
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Dead Steppes",
           "artists": [
             "Sandbox Interactive",
@@ -285,7 +298,7 @@
           "duration_ms": 149089
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -298,7 +311,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Privet Privet - Slowed",
           "artists": [
             "Tanin Jazz",
@@ -310,19 +323,6 @@
           "uri": "spotify:track:4UbckHUyjvSVLoMiLxtL6T",
           "url": "https://open.spotify.com/track/4UbckHUyjvSVLoMiLxtL6T",
           "duration_ms": 127075
-        },
-        {
-          "rank": 25,
-          "name": "жених и невеста - Slowed",
-          "artists": [
-            "DJ ZUP RAlii",
-            "akkiemi"
-          ],
-          "album": "жених и невеста",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
-          "uri": "spotify:track:5C7MlyFtijmdC5DmOYdOwt",
-          "url": "https://open.spotify.com/track/5C7MlyFtijmdC5DmOYdOwt",
-          "duration_ms": 140629
         },
         {
           "rank": 26,
@@ -352,6 +352,19 @@
         },
         {
           "rank": 28,
+          "name": "The Undead",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1aaooErpcadpKQxoLCKwRA",
+          "url": "https://open.spotify.com/track/1aaooErpcadpKQxoLCKwRA",
+          "duration_ms": 177316
+        },
+        {
+          "rank": 29,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -364,7 +377,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -377,7 +390,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Dead Forest",
           "artists": [
             "Sandbox Interactive",
@@ -390,7 +403,7 @@
           "duration_ms": 132480
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -403,7 +416,7 @@
           "duration_ms": 215196
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Waiting for Battle",
           "artists": [
             "Sandbox Interactive",
@@ -416,7 +429,7 @@
           "duration_ms": 137664
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Disciples of Morgana",
           "artists": [
             "Sandbox Interactive",
@@ -427,20 +440,6 @@
           "uri": "spotify:track:6ZKvwaXPugGAgAptflSJAs",
           "url": "https://open.spotify.com/track/6ZKvwaXPugGAgAptflSJAs",
           "duration_ms": 157148
-        },
-        {
-          "rank": 34,
-          "name": "FREAK (Hardstyle) - Ultra Slowed",
-          "artists": [
-            "Fyex",
-            "Punkinloveee",
-            "acronym."
-          ],
-          "album": "FREAK (Hardstyle)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
-          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
-          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
-          "duration_ms": 187581
         },
         {
           "rank": 35,
@@ -482,18 +481,6 @@
         },
         {
           "rank": 38,
-          "name": "type london",
-          "artists": [
-            "ONDA ANDAR"
-          ],
-          "album": "type london",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f3c50379840f6bfa28ef0d9",
-          "uri": "spotify:track:6Ksueaf6RSn6cTo9LVHQPJ",
-          "url": "https://open.spotify.com/track/6Ksueaf6RSn6cTo9LVHQPJ",
-          "duration_ms": 103529
-        },
-        {
-          "rank": 39,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -504,6 +491,18 @@
           "uri": "spotify:track:1dzQoRqT5ucxXVaAhTcT0J",
           "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
           "duration_ms": 241933
+        },
+        {
+          "rank": 39,
+          "name": "Nutshell",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "duration_ms": 259200
         },
         {
           "rank": 40,
@@ -568,6 +567,19 @@
         },
         {
           "rank": 45,
+          "name": "жених и невеста - Slowed",
+          "artists": [
+            "DJ ZUP RAlii",
+            "akkiemi"
+          ],
+          "album": "жених и невеста",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735b7e8f26206a744c823b0f0a",
+          "uri": "spotify:track:5C7MlyFtijmdC5DmOYdOwt",
+          "url": "https://open.spotify.com/track/5C7MlyFtijmdC5DmOYdOwt",
+          "duration_ms": 140629
+        },
+        {
+          "rank": 46,
           "name": "Blue Velvet",
           "artists": [
             "Lana Del Rey"
@@ -579,7 +591,19 @@
           "duration_ms": 158653
         },
         {
-          "rank": 46,
+          "rank": 47,
+          "name": "Taswell",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
+          "url": "https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk",
+          "duration_ms": 515500
+        },
+        {
+          "rank": 48,
           "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
             "M-3ox",
@@ -593,7 +617,7 @@
           "duration_ms": 390000
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Advance Hardstyle",
           "artists": [
             "Anime Hardstyle Club"
@@ -605,7 +629,7 @@
           "duration_ms": 191936
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Why We Lose",
           "artists": [
             "Cartoon",
@@ -617,30 +641,6 @@
           "uri": "spotify:track:3uS7A81hjNbb17bbRlqhYi",
           "url": "https://open.spotify.com/track/3uS7A81hjNbb17bbRlqhYi",
           "duration_ms": 197485
-        },
-        {
-          "rank": 49,
-          "name": "Remember The Rain",
-          "artists": [
-            "21st Century"
-          ],
-          "album": "Ahead of Our Time",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735088c3c1c49d166ca7210e46",
-          "uri": "spotify:track:4yhQV8Ys8ntDG3lqTtp2hl",
-          "url": "https://open.spotify.com/track/4yhQV8Ys8ntDG3lqTtp2hl",
-          "duration_ms": 239250
-        },
-        {
-          "rank": 50,
-          "name": "Void",
-          "artists": [
-            "Tevvez"
-          ],
-          "album": "Obsidian",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
-          "uri": "spotify:track:6Zo3F8D0mYLNvx9wJD9AiR",
-          "url": "https://open.spotify.com/track/6Zo3F8D0mYLNvx9wJD9AiR",
-          "duration_ms": 209040
         }
       ],
       "artists": [
@@ -830,6 +830,14 @@
         },
         {
           "rank": 24,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 25,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -837,7 +845,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
