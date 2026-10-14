@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-10-13T18:52:35.396Z",
+  "updated_at": "2026-10-14T00:08:34.698Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T17:30:05.917Z",
-      "name": "Where U Get Dem Racks?",
-      "artists": [
-        "luracks"
-      ],
-      "album": "Lurico",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343dbf2a73c2f691a8bdb48b0",
-      "uri": "spotify:track:60IwzzUNw5A1sg0MyHesCv",
-      "duration_ms": 111525
-    },
-    {
-      "played_at": "2026-07-04T17:32:21.879Z",
-      "name": "spin a ton",
-      "artists": [
-        "Backend"
-      ],
-      "album": "Backend V2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273922813ed28cd4efc8098cd27",
-      "uri": "spotify:track:1lGWjY2POJDlq9VUsNtZfJ",
-      "duration_ms": 135508
-    },
-    {
-      "played_at": "2026-07-04T17:34:37.990Z",
-      "name": "speak",
-      "artists": [
-        "ksuuvi"
-      ],
-      "album": "ksuuvi buckets",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b2f0083a0f7a7e67bcf4820",
-      "uri": "spotify:track:7qF9A4UDlIswNcEaiFLHsV",
-      "duration_ms": 135653
-    },
-    {
-      "played_at": "2026-07-04T17:35:43.762Z",
-      "name": "SlutTruck",
-      "artists": [
-        "Deproved"
-      ],
-      "album": "SlutTruck",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f2f761143aa1e74f8667dd5",
-      "uri": "spotify:track:4q6FgfQOgc5Tudj9Iw73QB",
-      "duration_ms": 65317
-    },
-    {
-      "played_at": "2026-07-04T17:37:44.351Z",
-      "name": "Broke Da Rules",
-      "artists": [
-        "i love you"
-      ],
-      "album": "death note",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fa8b08e4aa2f7890cdc213a3",
-      "uri": "spotify:track:6mfuOlDou53A4IvyPaWS7V",
-      "duration_ms": 120137
-    },
     {
       "played_at": "2026-07-04T18:01:50.172Z",
       "name": "who tf",
@@ -22649,6 +22594,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
       "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE",
       "duration_ms": 241933
+    },
+    {
+      "played_at": "2026-10-13T16:46:34.532Z",
+      "name": "Say It Right",
+      "artists": [
+        "Nelly Furtado"
+      ],
+      "album": "Loose",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
+      "uri": "spotify:track:2aI21FnmY7TJVKeMaoQZ0t",
+      "duration_ms": 223080
+    },
+    {
+      "played_at": "2026-10-13T20:32:17.242Z",
+      "name": "Wildest Dreams",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "1989",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+      "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
+      "duration_ms": 220440
+    },
+    {
+      "played_at": "2026-10-13T22:56:21.781Z",
+      "name": "Payphone",
+      "artists": [
+        "Maroon 5",
+        "Wiz Khalifa"
+      ],
+      "album": "Overexposed (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084",
+      "uri": "spotify:track:4P0osvTXoSYZZC2n8IFH3c",
+      "duration_ms": 231386
+    },
+    {
+      "played_at": "2026-10-13T23:00:44.703Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-13T23:16:31.584Z",
+      "name": "Taswell",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
+      "duration_ms": 515500
     }
   ]
 }

@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-13T18:52:35.436Z",
+  "updated_at": "2026-10-14T00:08:34.958Z",
   "is_playing": false,
   "track": {
-    "name": "Just Dance",
+    "name": "Taswell",
     "artists": [
-      "Lady Gaga",
-      "Colby O'Donis"
+      "C418"
     ],
-    "album": "The Fame",
-    "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
-    "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE"
+    "album": "Minecraft - Volume Beta",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+    "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk"
   },
-  "played_at": "2026-10-13T16:27:29.074Z"
+  "played_at": "2026-10-13T23:16:31.584Z"
 }
