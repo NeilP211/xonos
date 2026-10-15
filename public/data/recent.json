@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-15T16:18:59.948Z",
+  "updated_at": "2026-10-15T20:56:10.373Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T22:57:32.131Z",
-      "name": "Picture To Burn",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "album": "Taylor Swift",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
-      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
-      "duration_ms": 173066
-    },
-    {
-      "played_at": "2026-07-04T23:27:19.601Z",
-      "name": "National Anthem",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:1M0g1beKC4H9gbrOiSayHW",
-      "duration_ms": 230520
-    },
-    {
-      "played_at": "2026-07-04T23:30:12.503Z",
-      "name": "Ac130",
-      "artists": [
-        "Protect"
-      ],
-      "album": "Slimedude2003",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b35935fd4e0bb7080528e7c",
-      "uri": "spotify:track:6m9JbF0wGxodo7Nkczmkgi",
-      "duration_ms": 95863
-    },
-    {
-      "played_at": "2026-07-04T23:31:59.030Z",
-      "name": "Million Dollar Man",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die – Paradise Edition (Special Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
-      "uri": "spotify:track:4fdalZcclcvcx5N1lytlNL",
-      "duration_ms": 230120
-    },
     {
       "played_at": "2026-07-05T00:03:04.657Z",
       "name": "American",
@@ -22647,6 +22603,53 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
       "uri": "spotify:track:5uAb1fWoUHtc7O47vlkE6Q",
       "duration_ms": 106004
+    },
+    {
+      "played_at": "2026-10-15T16:20:14.198Z",
+      "name": "Faded",
+      "artists": [
+        "Alan Walker"
+      ],
+      "album": "Faded",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4d00cac55ae1b4598c9bc90",
+      "uri": "spotify:track:7gHs73wELdeycvS48JfIos",
+      "duration_ms": 212626
+    },
+    {
+      "played_at": "2026-10-15T16:27:52.073Z",
+      "name": "On The Floor - Radio Edit",
+      "artists": [
+        "Jennifer Lopez",
+        "Pitbull"
+      ],
+      "album": "On The Floor",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c7fdd07d99c156401073aaa",
+      "uri": "spotify:track:0Oe49j06Bjrxs8PltuVeaW",
+      "duration_ms": 230906
+    },
+    {
+      "played_at": "2026-10-15T16:39:17.135Z",
+      "name": "Stars Collide - XiJaro & Pitch Remix",
+      "artists": [
+        "Somna",
+        "Jennifer Rene",
+        "XiJaro & Pitch"
+      ],
+      "album": "Beside You [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcaa5cb1498887c0f71a52a4",
+      "uri": "spotify:track:0K2C5JHVbS9UkqbAPoxTRj",
+      "duration_ms": 239795
+    },
+    {
+      "played_at": "2026-10-15T18:39:06.298Z",
+      "name": "Fade",
+      "artists": [
+        "Alan Walker"
+      ],
+      "album": "Origins",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e34414665b8055f9115ee38e",
+      "uri": "spotify:track:5ELU5WP9GpuMQ78RAivBjx",
+      "duration_ms": 264048
     }
   ]
 }

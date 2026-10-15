@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T16:19:00.120Z",
-  "is_playing": true,
+  "updated_at": "2026-10-15T20:56:10.506Z",
+  "is_playing": false,
   "track": {
-    "name": "Faded",
+    "name": "Fade",
     "artists": [
       "Alan Walker"
     ],
-    "album": "Faded",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c4d00cac55ae1b4598c9bc90",
-    "uri": "spotify:track:7gHs73wELdeycvS48JfIos"
+    "album": "Origins",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e34414665b8055f9115ee38e",
+    "uri": "spotify:track:5ELU5WP9GpuMQ78RAivBjx"
   },
-  "played_at": "2026-10-15T16:19:00.120Z"
+  "played_at": "2026-10-15T18:39:06.298Z"
 }
