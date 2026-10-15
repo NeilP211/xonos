@@ -1,85 +1,6 @@
 {
-  "updated_at": "2026-10-15T20:56:10.373Z",
+  "updated_at": "2026-10-15T23:33:24.233Z",
   "plays": [
-    {
-      "played_at": "2026-07-05T00:03:04.657Z",
-      "name": "American",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
-      "duration_ms": 248907
-    },
-    {
-      "played_at": "2026-07-05T00:06:24.011Z",
-      "name": "Tennis Court",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
-      "duration_ms": 198907
-    },
-    {
-      "played_at": "2026-07-05T00:09:34.978Z",
-      "name": "Look at My Life",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "Look at My Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
-      "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
-      "duration_ms": 190533
-    },
-    {
-      "played_at": "2026-07-05T00:12:52.576Z",
-      "name": "Team",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
-      "duration_ms": 193058
-    },
-    {
-      "played_at": "2026-07-05T00:20:46.135Z",
-      "name": "What A Life",
-      "artists": [
-        "John Summit",
-        "Guz",
-        "Stevie Appleton"
-      ],
-      "album": "What A Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738312b4de3123fa5275d8ac57",
-      "uri": "spotify:track:1KbLVz3ZcdUOt2wBXqU2cG",
-      "duration_ms": 171547
-    },
-    {
-      "played_at": "2026-07-05T00:40:35.581Z",
-      "name": "Pain is beautiful",
-      "artists": [
-        "Lil O"
-      ],
-      "album": "Leaks Tape (Vol. 2)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5e2d9754d2dc45f78615a6d",
-      "uri": "spotify:track:0gxpNYbEMQjRPXEMVGqHxX",
-      "duration_ms": 93228
-    },
-    {
-      "played_at": "2026-07-05T00:59:53.532Z",
-      "name": "Hate The Morning",
-      "artists": [
-        "maxon"
-      ],
-      "album": "Hate The Morning",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc0284160afc4b742b2925e2",
-      "uri": "spotify:track:33Il72FMTustzxC9WSVRu6",
-      "duration_ms": 129854
-    },
     {
       "played_at": "2026-07-05T01:47:28.407Z",
       "name": "Ac130",
@@ -22650,6 +22571,85 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e34414665b8055f9115ee38e",
       "uri": "spotify:track:5ELU5WP9GpuMQ78RAivBjx",
       "duration_ms": 264048
+    },
+    {
+      "played_at": "2026-10-15T21:46:09.770Z",
+      "name": "Spartacus: Adagio of Spartacus and Phrygia",
+      "artists": [
+        "Aram Khachaturian",
+        "Wiener Philharmoniker"
+      ],
+      "album": "Khachaturian Orchestral Music",
+      "image": "https://i.scdn.co/image/ab67616d0000b27360daf42489cccf3949bdaf0d",
+      "uri": "spotify:track:0Z973O9nqc2I6G0mGB4bM7",
+      "duration_ms": 549015
+    },
+    {
+      "played_at": "2026-10-15T21:49:08.982Z",
+      "name": "в коже - Super Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "в коже",
+      "image": "https://i.scdn.co/image/ab67616d0000b273637f6aabb8eed0c948064f32",
+      "uri": "spotify:track:457P4mwmHn5JqJkHiMNOpm",
+      "duration_ms": 130377
+    },
+    {
+      "played_at": "2026-10-15T21:50:21.863Z",
+      "name": "револьвер",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "револьвер",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2f28c0966257f05c1dc00d8",
+      "uri": "spotify:track:08KUdDLKFbjepWXeGMg0aE",
+      "duration_ms": 72543
+    },
+    {
+      "played_at": "2026-10-15T21:56:09.113Z",
+      "name": "тело - Super Slowed",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "тело",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
+      "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
+      "duration_ms": 136062
+    },
+    {
+      "played_at": "2026-10-15T21:58:18.720Z",
+      "name": "glamur) (super slowed)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+      "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+      "duration_ms": 129285
+    },
+    {
+      "played_at": "2026-10-15T22:30:08.544Z",
+      "name": "mafios_4 - super slowed",
+      "artists": [
+        "77yolan",
+        "ousdei"
+      ],
+      "album": "mafios_4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3cc94bbff1c99ddcdfe8e3a",
+      "uri": "spotify:track:5X1buYzQ9t8YDcZbYeFcb9",
+      "duration_ms": 305110
+    },
+    {
+      "played_at": "2026-10-15T22:35:55.693Z",
+      "name": "i love u. (ultra slowed)",
+      "artists": [
+        "wiv"
+      ],
+      "album": "quiet disappearance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
+      "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
+      "duration_ms": 170008
     }
   ]
 }
