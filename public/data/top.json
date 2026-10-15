@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:51:57.110Z",
+  "generated_at": "2026-10-15T16:18:59.814Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -274,19 +274,6 @@
         },
         {
           "rank": 22,
-          "name": "Towns",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
-          "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
-          "duration_ms": 174547
-        },
-        {
-          "rank": 23,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -299,7 +286,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Demons",
           "artists": [
             "Imagine Dragons"
@@ -311,7 +298,7 @@
           "duration_ms": 177506
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Steppes",
           "artists": [
             "Sandbox Interactive",
@@ -324,7 +311,7 @@
           "duration_ms": 184380
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Dead Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -337,7 +324,7 @@
           "duration_ms": 116569
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "The Undead",
           "artists": [
             "Sandbox Interactive",
@@ -350,7 +337,7 @@
           "duration_ms": 177316
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -363,7 +350,7 @@
           "duration_ms": 150558
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -376,7 +363,7 @@
           "duration_ms": 241933
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -389,7 +376,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "The Heretics",
           "artists": [
             "Sandbox Interactive",
@@ -402,7 +389,7 @@
           "duration_ms": 151285
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -414,7 +401,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Say It Right",
           "artists": [
             "Nelly Furtado"
@@ -426,7 +413,7 @@
           "duration_ms": 223080
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "METAMORPHOSIS",
           "artists": [
             "INTERWORLD"
@@ -438,7 +425,7 @@
           "duration_ms": 142839
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Riptide",
           "artists": [
             "Vance Joy"
@@ -450,7 +437,7 @@
           "duration_ms": 204280
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Dead Forest",
           "artists": [
             "Sandbox Interactive",
@@ -463,7 +450,7 @@
           "duration_ms": 132480
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -476,7 +463,7 @@
           "duration_ms": 153547
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "CHALICE OF MIND",
           "artists": [
             "Yabujin"
@@ -486,6 +473,19 @@
           "uri": "spotify:track:4GTaNTujKpfoFDcCTZEfc4",
           "url": "https://open.spotify.com/track/4GTaNTujKpfoFDcCTZEfc4",
           "duration_ms": 123452
+        },
+        {
+          "rank": 38,
+          "name": "Towns",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
+          "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
+          "duration_ms": 174547
         },
         {
           "rank": 39,
@@ -2070,6 +2070,18 @@
         },
         {
           "rank": 12,
+          "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
+          "artists": [
+            "Crowbar"
+          ],
+          "album": "Sonic Excess In Its Purest Form",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+          "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
+          "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo",
+          "duration_ms": 238266
+        },
+        {
+          "rank": 13,
           "name": "Ultraviolence",
           "artists": [
             "Lana Del Rey"
@@ -2081,7 +2093,7 @@
           "duration_ms": 251480
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -2095,7 +2107,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -2106,18 +2118,6 @@
           "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
           "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
           "duration_ms": 255591
-        },
-        {
-          "rank": 15,
-          "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
-          "artists": [
-            "Crowbar"
-          ],
-          "album": "Sonic Excess In Its Purest Form",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
-          "uri": "spotify:track:5VGAlq9o0u09jZavGLUfdo",
-          "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo",
-          "duration_ms": 238266
         },
         {
           "rank": 16,
@@ -2423,6 +2423,20 @@
         },
         {
           "rank": 41,
+          "name": "FREAK (Hardstyle) - Ultra Slowed",
+          "artists": [
+            "Fyex",
+            "Punkinloveee",
+            "acronym."
+          ],
+          "album": "FREAK (Hardstyle)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
+          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
+          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
+          "duration_ms": 187581
+        },
+        {
+          "rank": 42,
           "name": "West Coast",
           "artists": [
             "Lana Del Rey"
@@ -2434,7 +2448,7 @@
           "duration_ms": 256760
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Mascara",
           "artists": [
             "Deftones"
@@ -2446,7 +2460,7 @@
           "duration_ms": 225293
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "flash",
           "artists": [
             "2hollis"
@@ -2458,7 +2472,7 @@
           "duration_ms": 164117
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "truth yandere^^ - super slowed",
           "artists": [
             "akkiemi"
@@ -2470,7 +2484,7 @@
           "duration_ms": 106778
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Impact (with xaviersobased)",
           "artists": [
             "Nettspend",
@@ -2483,7 +2497,7 @@
           "duration_ms": 115764
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "bag it",
           "artists": [
             "sleepyherd"
@@ -2495,7 +2509,7 @@
           "duration_ms": 67223
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
           "artists": [
             "Lana Del Rey"
@@ -2507,7 +2521,7 @@
           "duration_ms": 203080
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "2 Phones",
           "artists": [
             "Zukovstheworld",
@@ -2518,20 +2532,6 @@
           "uri": "spotify:track:5QRIK65IhCObl9FvVJZTF3",
           "url": "https://open.spotify.com/track/5QRIK65IhCObl9FvVJZTF3",
           "duration_ms": 147623
-        },
-        {
-          "rank": 49,
-          "name": "FREAK (Hardstyle) - Ultra Slowed",
-          "artists": [
-            "Fyex",
-            "Punkinloveee",
-            "acronym."
-          ],
-          "album": "FREAK (Hardstyle)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
-          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
-          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
-          "duration_ms": 187581
         },
         {
           "rank": 50,

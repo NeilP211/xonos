@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T10:51:57.200Z",
-  "is_playing": false,
+  "updated_at": "2026-10-15T16:19:00.120Z",
+  "is_playing": true,
   "track": {
-    "name": "Warmth",
+    "name": "Faded",
     "artists": [
-      "C418"
+      "Alan Walker"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ"
+    "album": "Faded",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4d00cac55ae1b4598c9bc90",
+    "uri": "spotify:track:7gHs73wELdeycvS48JfIos"
   },
-  "played_at": "2026-10-14T22:50:53.620Z"
+  "played_at": "2026-10-15T16:19:00.120Z"
 }

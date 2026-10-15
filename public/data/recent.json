@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-15T10:51:57.165Z",
+  "updated_at": "2026-10-15T16:18:59.948Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T22:54:38.608Z",
-      "name": "Look at My Life",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "Look at My Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
-      "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
-      "duration_ms": 190533
-    },
     {
       "played_at": "2026-07-04T22:57:32.131Z",
       "name": "Picture To Burn",
@@ -22647,6 +22636,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
       "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-15T14:32:36.692Z",
+      "name": "classist",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:5uAb1fWoUHtc7O47vlkE6Q",
+      "duration_ms": 106004
     }
   ]
 }
