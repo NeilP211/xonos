@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:40:49.636Z",
+  "generated_at": "2026-10-15T03:13:32.706Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -56,19 +56,6 @@
         },
         {
           "rank": 5,
-          "name": "Player Island",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:4wKDsH6Gua88rqPuC4CnDw",
-          "url": "https://open.spotify.com/track/4wKDsH6Gua88rqPuC4CnDw",
-          "duration_ms": 151561
-        },
-        {
-          "rank": 6,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -80,20 +67,7 @@
           "duration_ms": 210906
         },
         {
-          "rank": 7,
-          "name": "Steppes",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:0QEyA9FlVkIAd2DLcenkvS",
-          "url": "https://open.spotify.com/track/0QEyA9FlVkIAd2DLcenkvS",
-          "duration_ms": 184380
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "name": "Alors on danse - Radio Edit",
           "artists": [
             "Stromae"
@@ -105,7 +79,7 @@
           "duration_ms": 206066
         },
         {
-          "rank": 9,
+          "rank": 7,
           "name": "zombie",
           "artists": [
             "bleood"
@@ -117,7 +91,7 @@
           "duration_ms": 121573
         },
         {
-          "rank": 10,
+          "rank": 8,
           "name": "type london",
           "artists": [
             "ONDA ANDAR"
@@ -129,7 +103,7 @@
           "duration_ms": 103529
         },
         {
-          "rank": 11,
+          "rank": 9,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -142,7 +116,7 @@
           "duration_ms": 277662
         },
         {
-          "rank": 12,
+          "rank": 10,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -154,33 +128,74 @@
           "duration_ms": 71726
         },
         {
-          "rank": 13,
-          "name": "Dead Swamp",
+          "rank": 11,
+          "name": "FREAK (Hardstyle) - Ultra Slowed",
+          "artists": [
+            "Fyex",
+            "Punkinloveee",
+            "acronym."
+          ],
+          "album": "FREAK (Hardstyle)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
+          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
+          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
+          "duration_ms": 187581
+        },
+        {
+          "rank": 12,
+          "name": "Player Island",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1QJZKLQNFlmXu4mSOFeQqB",
-          "url": "https://open.spotify.com/track/1QJZKLQNFlmXu4mSOFeQqB",
-          "duration_ms": 116569
+          "uri": "spotify:track:4wKDsH6Gua88rqPuC4CnDw",
+          "url": "https://open.spotify.com/track/4wKDsH6Gua88rqPuC4CnDw",
+          "duration_ms": 151561
+        },
+        {
+          "rank": 13,
+          "name": "Privet Privet - Slowed",
+          "artists": [
+            "Tanin Jazz",
+            "dmitry.rx",
+            "HARDX"
+          ],
+          "album": "Privet Privet",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1bf6d0127bf6bbda0ab9b88",
+          "uri": "spotify:track:4UbckHUyjvSVLoMiLxtL6T",
+          "url": "https://open.spotify.com/track/4UbckHUyjvSVLoMiLxtL6T",
+          "duration_ms": 127075
         },
         {
           "rank": 14,
-          "name": "Highlands",
+          "name": "NE CMOTPN - Slowed",
           "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
+            "STAKILLAZ",
+            "ZAYDERA"
           ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc",
-          "url": "https://open.spotify.com/track/1dqeL7BPGl0wGtLu5pBTvc",
-          "duration_ms": 150558
+          "album": "NE CMOTPN",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bd58b0acc797040664ff6838",
+          "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
+          "url": "https://open.spotify.com/track/4lSoQgxzAEUPgun7t6jaqn",
+          "duration_ms": 98930
         },
         {
           "rank": 15,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
+          "rank": 16,
           "name": "Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -193,31 +208,17 @@
           "duration_ms": 163508
         },
         {
-          "rank": 16,
-          "name": "The Heretics",
+          "rank": 17,
+          "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:21JL3BKsR2vgv0ecPWD3sP",
-          "url": "https://open.spotify.com/track/21JL3BKsR2vgv0ecPWD3sP",
-          "duration_ms": 151285
-        },
-        {
-          "rank": 17,
-          "name": "FREAK (Hardstyle) - Ultra Slowed",
-          "artists": [
-            "Fyex",
-            "Punkinloveee",
-            "acronym."
-          ],
-          "album": "FREAK (Hardstyle)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dde2d90affd46e3bed198de6",
-          "uri": "spotify:track:2vxsuV2p5OGd6jQ4nxZDqc",
-          "url": "https://open.spotify.com/track/2vxsuV2p5OGd6jQ4nxZDqc",
-          "duration_ms": 187581
+          "uri": "spotify:track:2UR8HHbLtQn9XL9A4RDpDr",
+          "url": "https://open.spotify.com/track/2UR8HHbLtQn9XL9A4RDpDr",
+          "duration_ms": 166224
         },
         {
           "rank": 18,
@@ -234,176 +235,6 @@
         },
         {
           "rank": 19,
-          "name": "Dead Highlands",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:53jBNdxbRyBDGyZNLWKFC9",
-          "url": "https://open.spotify.com/track/53jBNdxbRyBDGyZNLWKFC9",
-          "duration_ms": 129962
-        },
-        {
-          "rank": 20,
-          "name": "Danger",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:55LceYfx2w9seKoidBQGiS",
-          "url": "https://open.spotify.com/track/55LceYfx2w9seKoidBQGiS",
-          "duration_ms": 59463
-        },
-        {
-          "rank": 21,
-          "name": "Forest",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:7F6Om6OdlHZet6pBdDNPNi",
-          "url": "https://open.spotify.com/track/7F6Om6OdlHZet6pBdDNPNi",
-          "duration_ms": 141482
-        },
-        {
-          "rank": 22,
-          "name": "Battle Theme",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:0FX5zPdyQuQyBGKCzPJK8H",
-          "url": "https://open.spotify.com/track/0FX5zPdyQuQyBGKCzPJK8H",
-          "duration_ms": 138877
-        },
-        {
-          "rank": 23,
-          "name": "Dead Steppes",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:0W567pofryIJ8YPCynb4Po",
-          "url": "https://open.spotify.com/track/0W567pofryIJ8YPCynb4Po",
-          "duration_ms": 149089
-        },
-        {
-          "rank": 24,
-          "name": "Towns",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
-          "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
-          "duration_ms": 174547
-        },
-        {
-          "rank": 25,
-          "name": "Privet Privet - Slowed",
-          "artists": [
-            "Tanin Jazz",
-            "dmitry.rx",
-            "HARDX"
-          ],
-          "album": "Privet Privet",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1bf6d0127bf6bbda0ab9b88",
-          "uri": "spotify:track:4UbckHUyjvSVLoMiLxtL6T",
-          "url": "https://open.spotify.com/track/4UbckHUyjvSVLoMiLxtL6T",
-          "duration_ms": 127075
-        },
-        {
-          "rank": 26,
-          "name": "NE CMOTPN - Slowed",
-          "artists": [
-            "STAKILLAZ",
-            "ZAYDERA"
-          ],
-          "album": "NE CMOTPN",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bd58b0acc797040664ff6838",
-          "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
-          "url": "https://open.spotify.com/track/4lSoQgxzAEUPgun7t6jaqn",
-          "duration_ms": 98930
-        },
-        {
-          "rank": 27,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
-        },
-        {
-          "rank": 28,
-          "name": "The Undead",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1aaooErpcadpKQxoLCKwRA",
-          "url": "https://open.spotify.com/track/1aaooErpcadpKQxoLCKwRA",
-          "duration_ms": 177316
-        },
-        {
-          "rank": 29,
-          "name": "Dead Mountain",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:1lu0605PYLisHAc4nUmrU7",
-          "url": "https://open.spotify.com/track/1lu0605PYLisHAc4nUmrU7",
-          "duration_ms": 157442
-        },
-        {
-          "rank": 30,
-          "name": "The Keepers",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:2UR8HHbLtQn9XL9A4RDpDr",
-          "url": "https://open.spotify.com/track/2UR8HHbLtQn9XL9A4RDpDr",
-          "duration_ms": 166224
-        },
-        {
-          "rank": 31,
-          "name": "Dead Forest",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:3ekNzsnUhzuvQCJXzWErlN",
-          "url": "https://open.spotify.com/track/3ekNzsnUhzuvQCJXzWErlN",
-          "duration_ms": 132480
-        },
-        {
-          "rank": 32,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -416,33 +247,46 @@
           "duration_ms": 215196
         },
         {
-          "rank": 33,
-          "name": "Waiting for Battle",
+          "rank": 20,
+          "name": "Battle Theme",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:5G4E9JxKDSteaPZ9RcAcwk",
-          "url": "https://open.spotify.com/track/5G4E9JxKDSteaPZ9RcAcwk",
-          "duration_ms": 137664
+          "uri": "spotify:track:0FX5zPdyQuQyBGKCzPJK8H",
+          "url": "https://open.spotify.com/track/0FX5zPdyQuQyBGKCzPJK8H",
+          "duration_ms": 138877
         },
         {
-          "rank": 34,
-          "name": "Disciples of Morgana",
+          "rank": 21,
+          "name": "Dead Steppes",
           "artists": [
             "Sandbox Interactive",
             "Jonne Valtonen"
           ],
           "album": "Albion Online (Original Game Soundtrack)",
           "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:6ZKvwaXPugGAgAptflSJAs",
-          "url": "https://open.spotify.com/track/6ZKvwaXPugGAgAptflSJAs",
-          "duration_ms": 157148
+          "uri": "spotify:track:0W567pofryIJ8YPCynb4Po",
+          "url": "https://open.spotify.com/track/0W567pofryIJ8YPCynb4Po",
+          "duration_ms": 149089
         },
         {
-          "rank": 35,
+          "rank": 22,
+          "name": "Towns",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
+          "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
+          "duration_ms": 174547
+        },
+        {
+          "rank": 23,
           "name": "Dark Horse",
           "artists": [
             "Katy Perry",
@@ -455,20 +299,7 @@
           "duration_ms": 215672
         },
         {
-          "rank": 36,
-          "name": "Hell",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:4tWxv80eSKOYhuQzTBpDEB",
-          "url": "https://open.spotify.com/track/4tWxv80eSKOYhuQzTBpDEB",
-          "duration_ms": 164453
-        },
-        {
-          "rank": 37,
+          "rank": 24,
           "name": "Demons",
           "artists": [
             "Imagine Dragons"
@@ -480,7 +311,59 @@
           "duration_ms": 177506
         },
         {
-          "rank": 38,
+          "rank": 25,
+          "name": "Steppes",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:0QEyA9FlVkIAd2DLcenkvS",
+          "url": "https://open.spotify.com/track/0QEyA9FlVkIAd2DLcenkvS",
+          "duration_ms": 184380
+        },
+        {
+          "rank": 26,
+          "name": "Dead Swamp",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1QJZKLQNFlmXu4mSOFeQqB",
+          "url": "https://open.spotify.com/track/1QJZKLQNFlmXu4mSOFeQqB",
+          "duration_ms": 116569
+        },
+        {
+          "rank": 27,
+          "name": "The Undead",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1aaooErpcadpKQxoLCKwRA",
+          "url": "https://open.spotify.com/track/1aaooErpcadpKQxoLCKwRA",
+          "duration_ms": 177316
+        },
+        {
+          "rank": 28,
+          "name": "Highlands",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1dqeL7BPGl0wGtLu5pBTvc",
+          "url": "https://open.spotify.com/track/1dqeL7BPGl0wGtLu5pBTvc",
+          "duration_ms": 150558
+        },
+        {
+          "rank": 29,
           "name": "Just Dance",
           "artists": [
             "Lady Gaga",
@@ -493,7 +376,33 @@
           "duration_ms": 241933
         },
         {
-          "rank": 39,
+          "rank": 30,
+          "name": "Dead Mountain",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:1lu0605PYLisHAc4nUmrU7",
+          "url": "https://open.spotify.com/track/1lu0605PYLisHAc4nUmrU7",
+          "duration_ms": 157442
+        },
+        {
+          "rank": 31,
+          "name": "The Heretics",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:21JL3BKsR2vgv0ecPWD3sP",
+          "url": "https://open.spotify.com/track/21JL3BKsR2vgv0ecPWD3sP",
+          "duration_ms": 151285
+        },
+        {
+          "rank": 32,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -505,7 +414,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 40,
+          "rank": 33,
           "name": "Say It Right",
           "artists": [
             "Nelly Furtado"
@@ -517,7 +426,7 @@
           "duration_ms": 223080
         },
         {
-          "rank": 41,
+          "rank": 34,
           "name": "METAMORPHOSIS",
           "artists": [
             "INTERWORLD"
@@ -529,7 +438,7 @@
           "duration_ms": 142839
         },
         {
-          "rank": 42,
+          "rank": 35,
           "name": "Riptide",
           "artists": [
             "Vance Joy"
@@ -541,7 +450,20 @@
           "duration_ms": 204280
         },
         {
-          "rank": 43,
+          "rank": 36,
+          "name": "Dead Forest",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:3ekNzsnUhzuvQCJXzWErlN",
+          "url": "https://open.spotify.com/track/3ekNzsnUhzuvQCJXzWErlN",
+          "duration_ms": 132480
+        },
+        {
+          "rank": 37,
           "name": "Swamp",
           "artists": [
             "Sandbox Interactive",
@@ -554,7 +476,7 @@
           "duration_ms": 153547
         },
         {
-          "rank": 44,
+          "rank": 38,
           "name": "CHALICE OF MIND",
           "artists": [
             "Yabujin"
@@ -566,7 +488,33 @@
           "duration_ms": 123452
         },
         {
-          "rank": 45,
+          "rank": 39,
+          "name": "Dead Highlands",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:53jBNdxbRyBDGyZNLWKFC9",
+          "url": "https://open.spotify.com/track/53jBNdxbRyBDGyZNLWKFC9",
+          "duration_ms": 129962
+        },
+        {
+          "rank": 40,
+          "name": "Danger",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:55LceYfx2w9seKoidBQGiS",
+          "url": "https://open.spotify.com/track/55LceYfx2w9seKoidBQGiS",
+          "duration_ms": 59463
+        },
+        {
+          "rank": 41,
           "name": "жених и невеста - Slowed",
           "artists": [
             "DJ ZUP RAlii",
@@ -579,7 +527,20 @@
           "duration_ms": 140629
         },
         {
-          "rank": 46,
+          "rank": 42,
+          "name": "Waiting for Battle",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:5G4E9JxKDSteaPZ9RcAcwk",
+          "url": "https://open.spotify.com/track/5G4E9JxKDSteaPZ9RcAcwk",
+          "duration_ms": 137664
+        },
+        {
+          "rank": 43,
           "name": "Blue Velvet",
           "artists": [
             "Lana Del Rey"
@@ -591,7 +552,33 @@
           "duration_ms": 158653
         },
         {
-          "rank": 47,
+          "rank": 44,
+          "name": "Disciples of Morgana",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:6ZKvwaXPugGAgAptflSJAs",
+          "url": "https://open.spotify.com/track/6ZKvwaXPugGAgAptflSJAs",
+          "duration_ms": 157148
+        },
+        {
+          "rank": 45,
+          "name": "Forest",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:7F6Om6OdlHZet6pBdDNPNi",
+          "url": "https://open.spotify.com/track/7F6Om6OdlHZet6pBdDNPNi",
+          "duration_ms": 141482
+        },
+        {
+          "rank": 46,
           "name": "Taswell",
           "artists": [
             "C418"
@@ -603,7 +590,7 @@
           "duration_ms": 515500
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
             "M-3ox",
@@ -617,7 +604,7 @@
           "duration_ms": 390000
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Advance Hardstyle",
           "artists": [
             "Anime Hardstyle Club"
@@ -629,7 +616,7 @@
           "duration_ms": 191936
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Why We Lose",
           "artists": [
             "Cartoon",
@@ -641,6 +628,19 @@
           "uri": "spotify:track:3uS7A81hjNbb17bbRlqhYi",
           "url": "https://open.spotify.com/track/3uS7A81hjNbb17bbRlqhYi",
           "duration_ms": 197485
+        },
+        {
+          "rank": 50,
+          "name": "Hell",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:4tWxv80eSKOYhuQzTBpDEB",
+          "url": "https://open.spotify.com/track/4tWxv80eSKOYhuQzTBpDEB",
+          "duration_ms": 164453
         }
       ],
       "artists": [
@@ -975,6 +975,18 @@
         },
         {
           "rank": 10,
+          "name": "Wherever I May Roam - Remastered 2021",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "Metallica (Remastered 2021)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27376c60d2128c8e4649b85f2b2",
+          "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
+          "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
+          "duration_ms": 404333
+        },
+        {
+          "rank": 11,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -986,7 +998,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -997,18 +1009,6 @@
           "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
           "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
           "duration_ms": 255591
-        },
-        {
-          "rank": 12,
-          "name": "Wherever I May Roam - Remastered 2021",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Metallica (Remastered 2021)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27376c60d2128c8e4649b85f2b2",
-          "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
-          "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
-          "duration_ms": 404333
         },
         {
           "rank": 13,
@@ -1528,6 +1528,14 @@
         },
         {
           "rank": 7,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 8,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -1535,20 +1543,12 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Sandbox Interactive",
           "image": "https://i.scdn.co/image/ab67616d0000b2730ab97657dd6309bfb3daabe3",
           "genres": [],
           "uri": "spotify:artist:123b7Nnp2X56qhx2NLEtPh",
           "url": "https://open.spotify.com/artist/123b7Nnp2X56qhx2NLEtPh"
-        },
-        {
-          "rank": 9,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 10,
@@ -1576,6 +1576,14 @@
         },
         {
           "rank": 13,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 14,
           "name": "Dialryckx",
           "image": "https://i.scdn.co/image/ab6761610000e5eb057ee4b73d1af9b93b056f42",
           "genres": [],
@@ -1583,20 +1591,12 @@
           "url": "https://open.spotify.com/artist/4W3bnVqrz7RloZV8BRf34o"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
           "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "rank": 15,
-          "name": "LONOWN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
-          "genres": [],
-          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
           "rank": 16,

@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-14T23:40:49.752Z",
+  "updated_at": "2026-10-15T03:13:32.794Z",
   "plays": [
-    {
-      "played_at": "2026-07-04T21:49:25.809Z",
-      "name": "CODE A - Mega Slowed",
-      "artists": [
-        "YOUTHISENDING"
-      ],
-      "album": "CODE A",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b5fbb05c851dca44fbe5e38",
-      "uri": "spotify:track:4oMMSVBL7D7nIqlbRr5zwR",
-      "duration_ms": 114307
-    },
     {
       "played_at": "2026-07-04T22:54:38.608Z",
       "name": "Look at My Life",
@@ -22647,6 +22636,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:5nvrEMlT3kq34aTj8Bk4pk",
       "duration_ms": 515500
+    },
+    {
+      "played_at": "2026-10-14T22:50:53.620Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
     }
   ]
 }
