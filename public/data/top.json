@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:30:21.545Z",
+  "generated_at": "2026-10-16T23:14:29.375Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -68,6 +68,19 @@
         },
         {
           "rank": 6,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 7,
           "name": "Alors on danse - Radio Edit",
           "artists": [
             "Stromae"
@@ -79,7 +92,7 @@
           "duration_ms": 206066
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "zombie",
           "artists": [
             "bleood"
@@ -91,7 +104,7 @@
           "duration_ms": 121573
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "type london",
           "artists": [
             "ONDA ANDAR"
@@ -101,19 +114,6 @@
           "uri": "spotify:track:6Ksueaf6RSn6cTo9LVHQPJ",
           "url": "https://open.spotify.com/track/6Ksueaf6RSn6cTo9LVHQPJ",
           "duration_ms": 103529
-        },
-        {
-          "rank": 9,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
         },
         {
           "rank": 10,

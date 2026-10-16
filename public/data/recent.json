@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-16T20:30:21.640Z",
+  "updated_at": "2026-10-16T23:14:29.502Z",
   "plays": [
-    {
-      "played_at": "2026-07-05T21:05:27.030Z",
-      "name": "Say Yes To Heaven",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Say Yes To Heaven",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae",
-      "uri": "spotify:track:6GGtHZgBycCgGBUhZo81xe",
-      "duration_ms": 209156
-    },
     {
       "played_at": "2026-07-05T21:45:50.671Z",
       "name": "Idea 10",
@@ -22655,6 +22644,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736cc01140c67642da6a151091",
       "uri": "spotify:track:4EDtrsJvRNT4IDpDxzcHUg",
       "duration_ms": 141035
+    },
+    {
+      "played_at": "2026-10-16T15:30:41.483Z",
+      "name": "World War III",
+      "artists": [
+        "MaxThaDemon",
+        "Kev Hundo",
+        "Ciggy Blacc"
+      ],
+      "album": "Double Baccin",
+      "image": "https://i.scdn.co/image/ab67616d0000b273232288f31298c15f661ad058",
+      "uri": "spotify:track:3vhSCsDfZM4T1ks7uRSuPC",
+      "duration_ms": 207944
     }
   ]
 }
