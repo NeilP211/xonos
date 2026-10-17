@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-17T10:08:45.417Z",
+  "updated_at": "2026-10-17T14:57:50.101Z",
   "plays": [
-    {
-      "played_at": "2026-07-06T11:41:19.484Z",
-      "name": "Dream On",
-      "artists": [
-        "Aerosmith"
-      ],
-      "album": "Aerosmith",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
-      "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
-      "duration_ms": 267600
-    },
-    {
-      "played_at": "2026-07-06T11:45:24.517Z",
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "The Queen Is Dead",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
-      "uri": "spotify:track:0WQiDwKJclirSYG9v5tayI",
-      "duration_ms": 244586
-    },
-    {
-      "played_at": "2026-07-06T11:50:08.760Z",
-      "name": "Sweet Home Alabama",
-      "artists": [
-        "Lynyrd Skynyrd"
-      ],
-      "album": "Second Helping (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
-      "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg",
-      "duration_ms": 283800
-    },
-    {
-      "played_at": "2026-07-06T11:53:21.203Z",
-      "name": "Light up the Sky - 2015 Remaster",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "Van Halen II (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f09b618bc81755c0d817bd20",
-      "uri": "spotify:track:7e24BW1y8KtSUm4tkbXBR6",
-      "duration_ms": 191986
-    },
     {
       "played_at": "2026-07-06T12:00:16.122Z",
       "name": "This Love",
@@ -22658,6 +22614,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
       "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-10-17T14:24:34.083Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-10-17T14:38:08.944Z",
+      "name": "Rooster (2022 Remaster)",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Dirt (2022 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
+      "duration_ms": 374333
+    },
+    {
+      "played_at": "2026-10-17T14:49:56.394Z",
+      "name": "About A Girl",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Bleach (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342b32e43479b6aa2cdf93c92",
+      "uri": "spotify:track:0nH4OFO4PasjNGvQv1Z36s",
+      "duration_ms": 168428
+    },
+    {
+      "played_at": "2026-10-17T14:54:54.199Z",
+      "name": "Salvatore",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+      "duration_ms": 281093
     }
   ]
 }
