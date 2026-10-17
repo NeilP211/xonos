@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:07:19.540Z",
+  "generated_at": "2026-10-17T22:52:54.437Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1949,18 +1949,6 @@
         },
         {
           "rank": 5,
-          "name": "Swan Song",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-          "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
-          "duration_ms": 323475
-        },
-        {
-          "rank": 6,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -1971,6 +1959,18 @@
           "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
           "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
           "duration_ms": 277662
+        },
+        {
+          "rank": 6,
+          "name": "Swan Song",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
+          "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
+          "duration_ms": 323475
         },
         {
           "rank": 7,
@@ -2035,6 +2035,19 @@
         },
         {
           "rank": 12,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
+          "rank": 13,
           "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
           "artists": [
             "Crowbar"
@@ -2046,7 +2059,7 @@
           "duration_ms": 238266
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Ultraviolence",
           "artists": [
             "Lana Del Rey"
@@ -2058,7 +2071,7 @@
           "duration_ms": 251480
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -2070,19 +2083,6 @@
           "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
           "url": "https://open.spotify.com/track/3lJ3mblBvLWDhrzi1qxh05",
           "duration_ms": 115296
-        },
-        {
-          "rank": 15,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
         },
         {
           "rank": 16,
@@ -2414,6 +2414,18 @@
         },
         {
           "rank": 43,
+          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
+          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
+          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
+          "duration_ms": 203080
+        },
+        {
+          "rank": 44,
           "name": "Mascara",
           "artists": [
             "Deftones"
@@ -2425,7 +2437,7 @@
           "duration_ms": 225293
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "flash",
           "artists": [
             "2hollis"
@@ -2437,7 +2449,7 @@
           "duration_ms": 164117
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "truth yandere^^ - super slowed",
           "artists": [
             "akkiemi"
@@ -2449,7 +2461,7 @@
           "duration_ms": 106778
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Impact (with xaviersobased)",
           "artists": [
             "Nettspend",
@@ -2462,7 +2474,7 @@
           "duration_ms": 115764
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "bag it",
           "artists": [
             "sleepyherd"
@@ -2472,18 +2484,6 @@
           "uri": "spotify:track:4qYL02Lgrc0LM1rVb0mAwy",
           "url": "https://open.spotify.com/track/4qYL02Lgrc0LM1rVb0mAwy",
           "duration_ms": 67223
-        },
-        {
-          "rank": 48,
-          "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
-          "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
-          "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu",
-          "duration_ms": 203080
         },
         {
           "rank": 49,
