@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T20:06:09.318Z",
-  "is_playing": false,
+  "updated_at": "2026-10-18T22:45:59.532Z",
+  "is_playing": true,
   "track": {
-    "name": "Everything",
+    "name": "Aleph - Gesaffelstein - slowed",
     "artists": [
-      "Mrkryl"
+      "speed up france"
     ],
-    "album": "Everything",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b479b7506a39852cb952a88c",
-    "uri": "spotify:track:4fCyUU6eehgdODD3qSgdSp"
+    "album": "Aleph (Gesaffelstein - slowed)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273193492a06a9035c621d53e71",
+    "uri": "spotify:track:3uoiMYnFl3aVMUp1AYBNBM"
   },
-  "played_at": "2026-10-18T19:50:52.709Z"
+  "played_at": "2026-10-18T22:45:59.532Z"
 }
