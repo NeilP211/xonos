@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:52:54.437Z",
+  "generated_at": "2026-10-18T03:03:00.851Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1188,6 +1188,18 @@
         },
         {
           "rank": 26,
+          "name": "Nutshell",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "duration_ms": 259200
+        },
+        {
+          "rank": 27,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1199,7 +1211,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -1212,7 +1224,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1224,7 +1236,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -1236,7 +1248,7 @@
           "duration_ms": 210906
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -1249,7 +1261,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Kirkify",
           "artists": [
             "Edo Hunnidz"
@@ -1261,7 +1273,7 @@
           "duration_ms": 80000
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -1273,7 +1285,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -1286,7 +1298,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -1298,7 +1310,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1311,7 +1323,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -1323,7 +1335,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -1337,7 +1349,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -1349,7 +1361,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Paranoid",
           "artists": [
             "DJ Iraq"
@@ -1361,7 +1373,7 @@
           "duration_ms": 158966
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Team",
           "artists": [
             "Lorde"
@@ -1373,7 +1385,7 @@
           "duration_ms": 193058
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -1385,7 +1397,7 @@
           "duration_ms": 153869
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Ya Layaly",
           "artists": [
             "Sherine"
@@ -1397,7 +1409,7 @@
           "duration_ms": 299258
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "i aint start making money till i started doing drugs",
           "artists": [
             "bleood"
@@ -1409,7 +1421,7 @@
           "duration_ms": 107117
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "real music",
           "artists": [
             "Robin Gan"
@@ -1421,7 +1433,7 @@
           "duration_ms": 50061
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "in china",
           "artists": [
             "Robin Gan"
@@ -1431,18 +1443,6 @@
           "uri": "spotify:track:27LbXHWPshMVsgRebEmop2",
           "url": "https://open.spotify.com/track/27LbXHWPshMVsgRebEmop2",
           "duration_ms": 65061
-        },
-        {
-          "rank": 46,
-          "name": "Nutshell",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
-          "duration_ms": 259200
         },
         {
           "rank": 47,
