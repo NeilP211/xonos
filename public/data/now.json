@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T22:45:59.532Z",
-  "is_playing": true,
+  "updated_at": "2026-10-19T03:17:15.650Z",
+  "is_playing": false,
   "track": {
-    "name": "Aleph - Gesaffelstein - slowed",
+    "name": "Moosy - viral",
     "artists": [
-      "speed up france"
+      "ilyhiryu"
     ],
-    "album": "Aleph (Gesaffelstein - slowed)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273193492a06a9035c621d53e71",
-    "uri": "spotify:track:3uoiMYnFl3aVMUp1AYBNBM"
+    "album": "Moosy (viral)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
+    "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB"
   },
-  "played_at": "2026-10-18T22:45:59.532Z"
+  "played_at": "2026-10-18T23:07:33.378Z"
 }

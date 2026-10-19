@@ -1,73 +1,6 @@
 {
-  "updated_at": "2026-10-18T22:45:59.385Z",
+  "updated_at": "2026-10-19T03:17:15.538Z",
   "plays": [
-    {
-      "played_at": "2026-07-09T12:07:43.243Z",
-      "name": "Just",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "The Bends",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "uri": "spotify:track:1dyTcli07c77mtQK3ahUZR",
-      "duration_ms": 234800
-    },
-    {
-      "played_at": "2026-07-09T13:02:20.602Z",
-      "name": "lost",
-      "artists": [
-        "my head is empty"
-      ],
-      "album": "ambient vol 3",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f450c7edb1a26ad035135708",
-      "uri": "spotify:track:1ASSUzAqjWHabI14ajuIzs",
-      "duration_ms": 109793
-    },
-    {
-      "played_at": "2026-07-09T13:05:07.453Z",
-      "name": "Be Mine",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "Dreamscape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739951ad4d57d35371195d42b2",
-      "uri": "spotify:track:6GYtWFHebJJNXELY1MK0VX",
-      "duration_ms": 166325
-    },
-    {
-      "played_at": "2026-07-09T13:06:45.914Z",
-      "name": "forgotten thoughts",
-      "artists": [
-        "MADEBYGODES",
-        "Sedogy Bedam"
-      ],
-      "album": "forgotten thoughts",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325d8b79b06a9c9a4e7d35db6",
-      "uri": "spotify:track:5hpfwMq7cISdPNjbgwb3Fk",
-      "duration_ms": 96576
-    },
-    {
-      "played_at": "2026-07-09T13:08:19.434Z",
-      "name": "unfortunately",
-      "artists": [
-        "leadwave"
-      ],
-      "album": "unfortunately",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b10510405e9eaa268a93212",
-      "uri": "spotify:track:1X23sVR7Rm1eK4mjBxKJPP",
-      "duration_ms": 93000
-    },
-    {
-      "played_at": "2026-07-09T13:09:27.447Z",
-      "name": "this feeling (Remix)",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "this feeling (Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d1e4238fc5a71632565b94a0",
-      "uri": "spotify:track:44gB6QU9laXHQJcyDrz0lf",
-      "duration_ms": 67500
-    },
     {
       "played_at": "2026-07-09T13:11:40.716Z",
       "name": "just a memory ago",
@@ -22655,6 +22588,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273794624c277052d068bf311d8",
       "uri": "spotify:track:109rpPw9mmFN1KhQ38zyt0",
       "duration_ms": 217651
+    },
+    {
+      "played_at": "2026-10-18T22:48:49.920Z",
+      "name": "Aleph - Gesaffelstein - slowed",
+      "artists": [
+        "speed up france"
+      ],
+      "album": "Aleph (Gesaffelstein - slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273193492a06a9035c621d53e71",
+      "uri": "spotify:track:3uoiMYnFl3aVMUp1AYBNBM",
+      "duration_ms": 392913
+    },
+    {
+      "played_at": "2026-10-18T22:50:23.015Z",
+      "name": "Roi - Instrumental Slowed",
+      "artists": [
+        "Mckyyy"
+      ],
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f178ef6a0e6c23f6330bd982",
+      "uri": "spotify:track:5vCREmODQpdzOmcNOVsN6B",
+      "duration_ms": 92589
+    },
+    {
+      "played_at": "2026-10-18T22:57:05.003Z",
+      "name": "Psycho Dreams",
+      "artists": [
+        "Kill Eva",
+        "ENCASSATOR"
+      ],
+      "album": "Psycho Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b273732a203f4860e5e24cf6077c",
+      "uri": "spotify:track:0Jk1o19bxKAFzt3BtD2fx3",
+      "duration_ms": 135000
+    },
+    {
+      "played_at": "2026-10-18T23:00:47.471Z",
+      "name": "Dark Beach",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr",
+      "duration_ms": 222000
+    },
+    {
+      "played_at": "2026-10-18T23:05:09.155Z",
+      "name": "BABYDOLL",
+      "artists": [
+        "Ari Abdul"
+      ],
+      "album": "BABYDOLL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ef2703ce223d63435928571",
+      "uri": "spotify:track:5rPNVwYjVEgkq6YNPki4Zc",
+      "duration_ms": 196235
+    },
+    {
+      "played_at": "2026-10-18T23:07:33.378Z",
+      "name": "Moosy - viral",
+      "artists": [
+        "ilyhiryu"
+      ],
+      "album": "Moosy (viral)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
+      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
+      "duration_ms": 140197
     }
   ]
 }
