@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-19T12:08:36.759Z",
+  "updated_at": "2026-10-19T20:21:08.344Z",
   "plays": [
-    {
-      "played_at": "2026-07-09T13:11:40.716Z",
-      "name": "just a memory ago",
-      "artists": [
-        "inertia."
-      ],
-      "album": "just a memory ago",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739812bf5ec352d7f82c6f28ee",
-      "uri": "spotify:track:24WPxVwSiBgT4t7S4wGEEn",
-      "duration_ms": 132715
-    },
     {
       "played_at": "2026-07-09T13:13:16.646Z",
       "name": "dreamless",
@@ -22655,6 +22644,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
       "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
       "duration_ms": 140197
+    },
+    {
+      "played_at": "2026-10-18T23:21:01.801Z",
+      "name": "Embrace",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:1wszdDUhlil6EH3SRkmTZL",
+      "duration_ms": 204124
     }
   ]
 }
