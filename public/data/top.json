@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:06:13.044Z",
+  "generated_at": "2026-10-20T08:10:46.659Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1281,6 +1281,20 @@
         },
         {
           "rank": 33,
+          "name": "Shelter Me",
+          "artists": [
+            "Dart Rayne",
+            "Yura Moonlight",
+            "Cate Kanell"
+          ],
+          "album": "Shelter Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
+          "duration_ms": 236375
+        },
+        {
+          "rank": 34,
           "name": "God Church",
           "artists": [
             "Ricegum"
@@ -1292,7 +1306,7 @@
           "duration_ms": 150622
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Sun Down, I'm Up - Slowed & Reverb",
           "artists": [
             "Lil Yawh",
@@ -1305,7 +1319,7 @@
           "duration_ms": 131783
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Glamorous",
           "artists": [
             "Hospital"
@@ -1317,7 +1331,7 @@
           "duration_ms": 128509
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -1330,7 +1344,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -1340,20 +1354,6 @@
           "uri": "spotify:track:3BiihVpL0biRDyuSC4lOtl",
           "url": "https://open.spotify.com/track/3BiihVpL0biRDyuSC4lOtl",
           "duration_ms": 207124
-        },
-        {
-          "rank": 38,
-          "name": "Shelter Me",
-          "artists": [
-            "Dart Rayne",
-            "Yura Moonlight",
-            "Cate Kanell"
-          ],
-          "album": "Shelter Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
-          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
-          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
-          "duration_ms": 236375
         },
         {
           "rank": 39,
