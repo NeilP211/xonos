@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-20T18:53:41.040Z",
+  "updated_at": "2026-10-20T23:36:53.843Z",
   "is_playing": false,
   "track": {
-    "name": "love illusion - slowed",
+    "name": "mirage",
     "artists": [
-      "ilyhiryu"
+      "théos",
+      "Antent"
     ],
-    "album": "love illusion",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734002943b784d1c9dc55cef32",
-    "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR"
+    "album": "mirage",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b4f4fd727905bd1748e53365",
+    "uri": "spotify:track:7gy6sob5awFll0Pc5zPP1w"
   },
-  "played_at": "2026-10-20T17:42:10.284Z"
+  "played_at": "2026-10-20T21:03:35.238Z"
 }
