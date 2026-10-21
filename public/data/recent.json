@@ -1,31 +1,6 @@
 {
-  "updated_at": "2026-10-20T23:36:53.742Z",
+  "updated_at": "2026-10-21T03:20:39.210Z",
   "plays": [
-    {
-      "played_at": "2026-07-10T21:17:16.513Z",
-      "name": "Turu R9 - Ultra Slowed Remake",
-      "artists": [
-        "DJ Ikeraus",
-        "DJ JUN01",
-        "0to8"
-      ],
-      "album": "Turu R9 (Ultra Slowed Remake)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3f46026ebf13977987f536d",
-      "uri": "spotify:track:1D3bxUyyXvJtQFzGVgVpgt",
-      "duration_ms": 133690
-    },
-    {
-      "played_at": "2026-07-10T21:18:52.007Z",
-      "name": "Toma Pipocada",
-      "artists": [
-        "DJ TLS DA ZL",
-        "BZ DO FLUXO"
-      ],
-      "album": "Toma Pipocada",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b8c8f1c710eb972862a0e6d",
-      "uri": "spotify:track:54yc58NWfaDN1nDU21XK5x",
-      "duration_ms": 95018
-    },
     {
       "played_at": "2026-07-10T21:25:57.337Z",
       "name": "Idea 22",
@@ -22659,6 +22634,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b4f4fd727905bd1748e53365",
       "uri": "spotify:track:7gy6sob5awFll0Pc5zPP1w",
       "duration_ms": 118976
+    },
+    {
+      "played_at": "2026-10-21T01:00:57.199Z",
+      "name": "Khalouni N3ich",
+      "artists": [
+        "Najwa Farouk"
+      ],
+      "album": "Khalouni N3ich",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730202cbaea1f62aafdd39628c",
+      "uri": "spotify:track:2Q4sdMndAwVC2smdMSkETa",
+      "duration_ms": 181655
+    },
+    {
+      "played_at": "2026-10-21T02:24:07.678Z",
+      "name": "did i tell u that i miss u - slowed",
+      "artists": [
+        "adore"
+      ],
+      "album": "did i tell u that i miss u",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337b9c1d008fe46d755cbcd3c",
+      "uri": "spotify:track:5A619AfuoWdjHA2QFijXjv",
+      "duration_ms": 137854
     }
   ]
 }
