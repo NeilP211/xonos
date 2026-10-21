@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-10-21T16:37:06.597Z",
+  "updated_at": "2026-10-21T21:15:17.079Z",
   "plays": [
-    {
-      "played_at": "2026-07-10T21:25:57.337Z",
-      "name": "Idea 22",
-      "artists": [
-        "Gibran Alcocer"
-      ],
-      "album": "Idea 22",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
-      "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-07-10T21:29:40.087Z",
-      "name": "Tennis Court",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
-      "duration_ms": 198907
-    },
-    {
-      "played_at": "2026-07-10T21:32:53.608Z",
-      "name": "Team",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
-      "duration_ms": 193058
-    },
-    {
-      "played_at": "2026-07-10T21:37:13.046Z",
-      "name": "Ribs",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
-      "duration_ms": 258969
-    },
-    {
-      "played_at": "2026-07-10T21:40:23.691Z",
-      "name": "Royals",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:2dLLR6qlu5UJ5gk0dKz0h3",
-      "duration_ms": 190185
-    },
     {
       "played_at": "2026-07-10T21:45:00.334Z",
       "name": "In My Feelings",
@@ -22656,6 +22601,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27337b9c1d008fe46d755cbcd3c",
       "uri": "spotify:track:5A619AfuoWdjHA2QFijXjv",
       "duration_ms": 137854
+    },
+    {
+      "played_at": "2026-10-21T17:40:38.401Z",
+      "name": "Hide Away",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "Hide Away",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0d667052560c588d2f464ff",
+      "uri": "spotify:track:1FOPG2BRDbXsML9jJdYIXI",
+      "duration_ms": 96156
+    },
+    {
+      "played_at": "2026-10-21T18:49:52.047Z",
+      "name": "Just The Way You Are",
+      "artists": [
+        "Milky",
+        "Mall Grab"
+      ],
+      "album": "Just The Way You Are",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+      "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+      "duration_ms": 159500
+    },
+    {
+      "played_at": "2026-10-21T19:06:28.450Z",
+      "name": "Tulsa Jesus Freak",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Chemtrails Over The Country Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+      "uri": "spotify:track:0hyImI8JaWONOrzKH7kJsC",
+      "duration_ms": 215673
+    },
+    {
+      "played_at": "2026-10-21T19:09:15.866Z",
+      "name": "Take Me Home, Country Roads",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Take Me Home, Country Roads",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c6c1ca8d317e97873de0cbeb",
+      "uri": "spotify:track:7qF0FfuzBFwMe1lNHkEDxW",
+      "duration_ms": 166676
+    },
+    {
+      "played_at": "2026-10-21T19:17:07.764Z",
+      "name": "Suburban House",
+      "artists": [
+        "Holly Macve",
+        "Lana Del Rey"
+      ],
+      "album": "Suburban House",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe52d887ac28755a40dbb927",
+      "uri": "spotify:track:676TvM26wVq88afbYDPRO3",
+      "duration_ms": 229878
     }
   ]
 }
