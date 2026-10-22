@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-22T11:09:49.800Z",
-  "is_playing": false,
+  "updated_at": "2026-10-22T16:38:23.905Z",
+  "is_playing": true,
   "track": {
-    "name": "Suburban House",
+    "name": "Harvester of Sorrow (Remastered)",
     "artists": [
-      "Holly Macve",
-      "Lana Del Rey"
+      "Metallica"
     ],
-    "album": "Suburban House",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fe52d887ac28755a40dbb927",
-    "uri": "spotify:track:676TvM26wVq88afbYDPRO3"
+    "album": "...And Justice for All (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
+    "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu"
   },
-  "played_at": "2026-10-21T19:17:07.764Z"
+  "played_at": "2026-10-22T16:38:23.905Z"
 }
