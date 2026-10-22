@@ -1,122 +1,6 @@
 {
-  "updated_at": "2026-10-22T16:38:23.750Z",
+  "updated_at": "2026-10-22T21:11:43.392Z",
   "plays": [
-    {
-      "played_at": "2026-07-10T23:59:54.717Z",
-      "name": "Frick Da Police",
-      "artists": [
-        "Ricegum"
-      ],
-      "album": "Frick Da Police",
-      "image": "https://i.scdn.co/image/ab67616d0000b273af9207456fcece94e8e705f6",
-      "uri": "spotify:track:314bi2IzSFaBWmAfn1c0eu",
-      "duration_ms": 127058
-    },
-    {
-      "played_at": "2026-07-11T01:05:09.092Z",
-      "name": "drollXD",
-      "artists": [
-        "DJ UNIVXRSEL"
-      ],
-      "album": "drollXD",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737ae0ad51ecb0397404996a6e",
-      "uri": "spotify:track:17BWbjrkhjck8yxLio2oVN",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-07-11T02:36:36.917Z",
-      "name": "God Church",
-      "artists": [
-        "Ricegum"
-      ],
-      "album": "God Church",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
-      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
-      "duration_ms": 150622
-    },
-    {
-      "played_at": "2026-07-11T02:38:02.350Z",
-      "name": "Yooo",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "Yooo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8f28fc3b794a37cc8af6208",
-      "uri": "spotify:track:56wX6aQnbsW96GUMTAQX6i",
-      "duration_ms": 77135
-    },
-    {
-      "played_at": "2026-07-11T16:58:52.269Z",
-      "name": "mona lisa",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "uri": "spotify:track:6NkEbJ5fwQbSCsbs8RlYSS",
-      "duration_ms": 111483
-    },
-    {
-      "played_at": "2026-07-12T03:15:26.364Z",
-      "name": "Look N The Mirror!",
-      "artists": [
-        "KA$HDAMI"
-      ],
-      "album": "epiphany",
-      "image": "https://i.scdn.co/image/ab67616d0000b273df5564695e4659f579447c5e",
-      "uri": "spotify:track:5d11FoptGmxaKbdssnrPZ9",
-      "duration_ms": 85577
-    },
-    {
-      "played_at": "2026-07-12T11:45:41.642Z",
-      "name": "Where Are Ü Now (with Justin Bieber)",
-      "artists": [
-        "Jack Ü",
-        "Skrillex",
-        "Diplo",
-        "Justin Bieber"
-      ],
-      "album": "Skrillex and Diplo present Jack Ü",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
-      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
-      "duration_ms": 250285
-    },
-    {
-      "played_at": "2026-07-12T11:48:09.048Z",
-      "name": "ttwlg",
-      "artists": [
-        "Yung Fazo"
-      ],
-      "album": "me vs me",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
-      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
-      "duration_ms": 141165
-    },
-    {
-      "played_at": "2026-07-12T11:52:26.687Z",
-      "name": "Where Are Ü Now (with Justin Bieber)",
-      "artists": [
-        "Jack Ü",
-        "Skrillex",
-        "Diplo",
-        "Justin Bieber"
-      ],
-      "album": "Skrillex and Diplo present Jack Ü",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
-      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
-      "duration_ms": 250285
-    },
-    {
-      "played_at": "2026-07-12T11:56:48.406Z",
-      "name": "ttwlg",
-      "artists": [
-        "Yung Fazo"
-      ],
-      "album": "me vs me",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
-      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
-      "duration_ms": 141165
-    },
     {
       "played_at": "2026-07-12T12:01:35.389Z",
       "name": "ttwlg",
@@ -22658,6 +22542,121 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
       "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
       "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-10-22T16:38:31.363Z",
+      "name": "Harvester of Sorrow (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "...And Justice for All (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
+      "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu",
+      "duration_ms": 345283
+    },
+    {
+      "played_at": "2026-10-22T16:42:45.723Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-10-22T16:48:48.653Z",
+      "name": "Somewhere I Belong",
+      "artists": [
+        "Linkin Park"
+      ],
+      "album": "Meteora",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
+      "uri": "spotify:track:3agtg0x11wPvLIWkYR39nZ",
+      "duration_ms": 213933
+    },
+    {
+      "played_at": "2026-10-22T17:02:56.880Z",
+      "name": "Sleepwalker - Slowed",
+      "artists": [
+        "akiaura",
+        "LONOWN",
+        "STM"
+      ],
+      "album": "Sleepwalker (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731d93ddc540c76c8ff34a6498",
+      "uri": "spotify:track:5cjRF0yXxYvqzmJfUbq9AW",
+      "duration_ms": 258008
+    },
+    {
+      "played_at": "2026-10-22T17:06:53.672Z",
+      "name": "Memory Reboot - Slowed",
+      "artists": [
+        "VØJ",
+        "Narvent"
+      ],
+      "album": "Memory Reboot (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730111ad831b18789e535c2052",
+      "uri": "spotify:track:4WG3mAQIGHQJalK922wAiG",
+      "duration_ms": 236307
+    },
+    {
+      "played_at": "2026-10-22T17:09:45.168Z",
+      "name": "4 Morant (Better Luck Next Time)",
+      "artists": [
+        "Com Truise"
+      ],
+      "album": "Brokendate",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5519bef1b11be46f6d8fa5a",
+      "uri": "spotify:track:3XOmSRuEEq7rK4XNzWQdyT",
+      "duration_ms": 171000
+    },
+    {
+      "played_at": "2026-10-22T17:12:28.871Z",
+      "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
+      "artists": [
+        "Marc Acardipane",
+        "Dayerteq"
+      ],
+      "album": "Return to Zero Beztebya (Mixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5fb5e2c271ea627c962a8b4",
+      "uri": "spotify:track:1XmrkcwlWxEHR0g7rHNtEG",
+      "duration_ms": 163200
+    },
+    {
+      "played_at": "2026-10-22T17:15:58.004Z",
+      "name": "Shadows",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:3vtFowc9zcQfvqsLAZ9Cx2",
+      "duration_ms": 208624
+    },
+    {
+      "played_at": "2026-10-22T17:17:09.357Z",
+      "name": "lilacs - slowed",
+      "artists": [
+        "azrxel",
+        "abxddon"
+      ],
+      "album": "lilacs - slowed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+      "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+      "duration_ms": 70866
+    },
+    {
+      "played_at": "2026-10-22T17:19:32.704Z",
+      "name": "METAMORPHOSIS",
+      "artists": [
+        "INTERWORLD"
+      ],
+      "album": "METAMORPHOSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
+      "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz",
+      "duration_ms": 142839
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-22T16:38:23.905Z",
-  "is_playing": true,
+  "updated_at": "2026-10-22T21:11:43.553Z",
+  "is_playing": false,
   "track": {
-    "name": "Harvester of Sorrow (Remastered)",
+    "name": "METAMORPHOSIS",
     "artists": [
-      "Metallica"
+      "INTERWORLD"
     ],
-    "album": "...And Justice for All (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
-    "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu"
+    "album": "METAMORPHOSIS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
+    "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz"
   },
-  "played_at": "2026-10-22T16:38:23.905Z"
+  "played_at": "2026-10-22T17:19:32.704Z"
 }
