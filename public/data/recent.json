@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-22T21:11:43.392Z",
+  "updated_at": "2026-10-23T03:24:27.027Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T12:01:35.389Z",
-      "name": "ttwlg",
-      "artists": [
-        "Yung Fazo"
-      ],
-      "album": "me vs me",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
-      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
-      "duration_ms": 141165
-    },
-    {
-      "played_at": "2026-07-12T12:04:08.310Z",
-      "name": "ttwlg",
-      "artists": [
-        "Yung Fazo"
-      ],
-      "album": "me vs me",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339a980fb12928f7e6dccbc4e",
-      "uri": "spotify:track:7z0jR7Aptz8X5jOw980b6W",
-      "duration_ms": 141165
-    },
     {
       "played_at": "2026-07-12T14:57:31.167Z",
       "name": "Dark Paradise",
@@ -22657,6 +22635,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
       "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz",
       "duration_ms": 142839
+    },
+    {
+      "played_at": "2026-10-22T17:28:00.574Z",
+      "name": "The Lost Soul Down",
+      "artists": [
+        "NBSPLV"
+      ],
+      "album": "The Lost Soul Down",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cc53b9e31007099f8a672db",
+      "uri": "spotify:track:5dPy1CCYQ04xaQHpajf5CY",
+      "duration_ms": 192940
+    },
+    {
+      "played_at": "2026-10-23T00:02:13.040Z",
+      "name": "Khalouni N3ich",
+      "artists": [
+        "Najwa Farouk"
+      ],
+      "album": "Khalouni N3ich",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730202cbaea1f62aafdd39628c",
+      "uri": "spotify:track:2Q4sdMndAwVC2smdMSkETa",
+      "duration_ms": 181655
     }
   ]
 }
