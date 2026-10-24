@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-10-23T23:49:06.889Z",
+  "updated_at": "2026-10-24T03:18:31.124Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T14:57:31.167Z",
-      "name": "Dark Paradise",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die – Paradise Edition (Special Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
-      "uri": "spotify:track:349XIp8EgHWJiIg5K0CUft",
-      "duration_ms": 243173
-    },
-    {
-      "played_at": "2026-07-12T15:06:37.684Z",
-      "name": "Where Are Ü Now (with Justin Bieber)",
-      "artists": [
-        "Jack Ü",
-        "Skrillex",
-        "Diplo",
-        "Justin Bieber"
-      ],
-      "album": "Skrillex and Diplo present Jack Ü",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
-      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
-      "duration_ms": 250285
-    },
-    {
-      "played_at": "2026-07-12T15:10:50.668Z",
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "artists": [
-        "Ellie Goulding"
-      ],
-      "album": "Delirium (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736bdee14242f244d9d6ddf2fd",
-      "uri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu",
-      "duration_ms": 252534
-    },
     {
       "played_at": "2026-07-12T15:15:33.327Z",
       "name": "Define",
@@ -22657,6 +22621,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730202cbaea1f62aafdd39628c",
       "uri": "spotify:track:2Q4sdMndAwVC2smdMSkETa",
       "duration_ms": 181655
+    },
+    {
+      "played_at": "2026-10-24T02:00:49.678Z",
+      "name": "Don't Worry Be Happy",
+      "artists": [
+        "Bobby McFerrin"
+      ],
+      "album": "Jarhead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9fe7356c090f56dfe0710c1",
+      "uri": "spotify:track:6ndftErM6BlQpKwRWIHyjZ",
+      "duration_ms": 290986
+    },
+    {
+      "played_at": "2026-10-24T02:07:16.621Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-24T02:11:16.417Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
     }
   ]
 }
