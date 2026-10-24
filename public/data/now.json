@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-24T15:23:12.458Z",
-  "is_playing": true,
+  "updated_at": "2026-10-24T20:13:30.497Z",
+  "is_playing": false,
   "track": {
-    "name": "Never Forget You",
+    "name": "watching the stars",
     "artists": [
-      "Zara Larsson",
-      "MNEK"
+      "Øneheart"
     ],
-    "album": "So Good",
-    "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-    "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo"
+    "album": "watching the stars",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e0d746e5aa2b299cbc5ecdff",
+    "uri": "spotify:track:321PCApeQiLLrf03k83cCb"
   },
-  "played_at": "2026-10-24T15:23:12.458Z"
+  "played_at": "2026-10-24T20:13:30.497Z"
 }
