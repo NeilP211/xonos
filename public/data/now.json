@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-24T10:17:30.791Z",
-  "is_playing": false,
+  "updated_at": "2026-10-24T15:23:12.458Z",
+  "is_playing": true,
   "track": {
-    "name": "Warmth",
+    "name": "Never Forget You",
     "artists": [
-      "C418"
+      "Zara Larsson",
+      "MNEK"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ"
+    "album": "So Good",
+    "image": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+    "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo"
   },
-  "played_at": "2026-10-24T02:11:16.417Z"
+  "played_at": "2026-10-24T15:23:12.458Z"
 }

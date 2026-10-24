@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-24T10:17:30.711Z",
+  "updated_at": "2026-10-24T15:23:12.283Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T15:15:33.327Z",
-      "name": "Define",
-      "artists": [
-        "Dom Dolla",
-        "Go Freek"
-      ],
-      "album": "Define",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fda751b535b40b6f1066e480",
-      "uri": "spotify:track:3B1Je3rlEac3p4ikYW13zw",
-      "duration_ms": 232129
-    },
     {
       "played_at": "2026-07-12T15:25:43.438Z",
       "name": "What Do You Mean?",
@@ -22646,6 +22634,17 @@
     },
     {
       "played_at": "2026-10-24T02:11:16.417Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-24T02:11:57.308Z",
       "name": "Warmth",
       "artists": [
         "C418"
