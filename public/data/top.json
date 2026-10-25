@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:53:13.252Z",
+  "generated_at": "2026-10-25T03:13:57.650Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2712,19 +2712,19 @@
         },
         {
           "rank": 29,
-          "name": "C418",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
-          "genres": [],
-          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        },
-        {
-          "rank": 30,
           "name": "Sandbox Interactive",
           "image": "https://i.scdn.co/image/ab67616d0000b2730ab97657dd6309bfb3daabe3",
           "genres": [],
           "uri": "spotify:artist:123b7Nnp2X56qhx2NLEtPh",
           "url": "https://open.spotify.com/artist/123b7Nnp2X56qhx2NLEtPh"
+        },
+        {
+          "rank": 30,
+          "name": "C418",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
+          "genres": [],
+          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
           "rank": 31,
