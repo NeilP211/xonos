@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-26T20:17:40.730Z",
+  "updated_at": "2026-10-27T00:13:47.494Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T22:29:27.307Z",
-      "name": "You Make It Easy",
-      "artists": [
-        "Jason Aldean"
-      ],
-      "album": "Rearview Town",
-      "image": "https://i.scdn.co/image/ab67616d0000b27374ac8d740530487e3bd50378",
-      "uri": "spotify:track:2TXtN9MoV308Y0z1HvyTfV",
-      "duration_ms": 193226
-    },
-    {
-      "played_at": "2026-07-12T22:35:02.329Z",
-      "name": "Charleston Girl (Live)",
-      "artists": [
-        "Tyler Childers"
-      ],
-      "album": "Live on Red Barn Radio I & II",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739cbbbdd15ff65aaab9a611b0",
-      "uri": "spotify:track:3R6yNicsZrWF8ybl02imcB",
-      "duration_ms": 179720
-    },
     {
       "played_at": "2026-07-12T22:45:12.320Z",
       "name": "Missed Call",
@@ -22653,6 +22631,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27325d8b79b06a9c9a4e7d35db6",
       "uri": "spotify:track:5hpfwMq7cISdPNjbgwb3Fk",
       "duration_ms": 96576
+    },
+    {
+      "played_at": "2026-10-26T02:17:38.622Z",
+      "name": "fwjahm",
+      "artists": [
+        "Soho34"
+      ],
+      "album": "fwjahm",
+      "image": "https://i.scdn.co/image/ab67616d0000b273305e240edc1387e8e0091f30",
+      "uri": "spotify:track:1sWW2gFNiL9LYQ9BcdInIa",
+      "duration_ms": 134977
+    },
+    {
+      "played_at": "2026-10-26T22:25:33.476Z",
+      "name": "watching the stars",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "watching the stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0d746e5aa2b299cbc5ecdff",
+      "uri": "spotify:track:321PCApeQiLLrf03k83cCb",
+      "duration_ms": 99146
     }
   ]
 }
