@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-10-27T21:49:16.878Z",
+  "updated_at": "2026-10-28T04:00:25.575Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T22:45:12.320Z",
-      "name": "Missed Call",
-      "artists": [
-        "Treaty Oak Revival"
-      ],
-      "album": "No Vacancy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9821c79b260d77f2a55f7d7",
-      "uri": "spotify:track:6ybZUqlfk938oS6WeBmDab",
-      "duration_ms": 255125
-    },
-    {
-      "played_at": "2026-07-12T23:55:24.880Z",
-      "name": "Where Are Ü Now (with Justin Bieber)",
-      "artists": [
-        "Jack Ü",
-        "Skrillex",
-        "Diplo",
-        "Justin Bieber"
-      ],
-      "album": "Skrillex and Diplo present Jack Ü",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
-      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
-      "duration_ms": 250285
-    },
-    {
-      "played_at": "2026-07-13T02:52:07.495Z",
-      "name": "Where Are Ü Now (with Justin Bieber)",
-      "artists": [
-        "Jack Ü",
-        "Skrillex",
-        "Diplo",
-        "Justin Bieber"
-      ],
-      "album": "Skrillex and Diplo present Jack Ü",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b",
-      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
-      "duration_ms": 250285
-    },
     {
       "played_at": "2026-07-13T14:53:56.111Z",
       "name": "Maggie's Song",
@@ -22653,6 +22614,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e0d746e5aa2b299cbc5ecdff",
       "uri": "spotify:track:321PCApeQiLLrf03k83cCb",
       "duration_ms": 99146
+    },
+    {
+      "played_at": "2026-10-27T23:45:34.830Z",
+      "name": "Salvatore",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+      "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-10-27T23:52:50.015Z",
+      "name": "U Weren't Here I Really Miss You",
+      "artists": [
+        "Cult Member",
+        "Mia Martina"
+      ],
+      "album": "U Weren't Here I Really Miss You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e2d556b8d172a10ae34147e",
+      "uri": "spotify:track:61iJknbAXSuBflDz3vSQ0b",
+      "duration_ms": 160194
+    },
+    {
+      "played_at": "2026-10-27T23:53:02.727Z",
+      "name": "U Weren't Here I Really Miss You",
+      "artists": [
+        "Cult Member",
+        "Mia Martina"
+      ],
+      "album": "U Weren't Here I Really Miss You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e2d556b8d172a10ae34147e",
+      "uri": "spotify:track:61iJknbAXSuBflDz3vSQ0b",
+      "duration_ms": 160194
     }
   ]
 }

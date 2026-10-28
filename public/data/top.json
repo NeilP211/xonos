@@ -1,22 +1,10 @@
 {
-  "generated_at": "2026-10-27T21:49:16.804Z",
+  "generated_at": "2026-10-28T04:00:25.245Z",
   "ranges": {
     "short_term": {
       "tracks": [
         {
           "rank": 1,
-          "name": "Nutshell",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
-          "duration_ms": 259200
-        },
-        {
-          "rank": 2,
           "name": "Never Forget You",
           "artists": [
             "Zara Larsson",
@@ -29,7 +17,31 @@
           "duration_ms": 212574
         },
         {
+          "rank": 2,
+          "name": "Nutshell",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "duration_ms": 259200
+        },
+        {
           "rank": 3,
+          "name": "Salvatore",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
+          "duration_ms": 281093
+        },
+        {
+          "rank": 4,
           "name": "Khalouni N3ich",
           "artists": [
             "Najwa Farouk"
@@ -41,7 +53,7 @@
           "duration_ms": 181655
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "zombie",
           "artists": [
             "bleood"
@@ -53,7 +65,7 @@
           "duration_ms": 121573
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -66,7 +78,7 @@
           "duration_ms": 277662
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -78,7 +90,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "FREAK (Hardstyle) - Ultra Slowed",
           "artists": [
             "Fyex",
@@ -92,7 +104,7 @@
           "duration_ms": 187581
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "type london",
           "artists": [
             "ONDA ANDAR"
@@ -104,7 +116,7 @@
           "duration_ms": 103529
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -116,7 +128,20 @@
           "duration_ms": 210906
         },
         {
-          "rank": 10,
+          "rank": 11,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
+          "rank": 12,
           "name": "Privet Privet - Slowed",
           "artists": [
             "Tanin Jazz",
@@ -130,7 +155,7 @@
           "duration_ms": 127075
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "METAMORPHOSIS",
           "artists": [
             "INTERWORLD"
@@ -142,7 +167,7 @@
           "duration_ms": 142839
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -154,7 +179,7 @@
           "duration_ms": 239379
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "On The Floor - Radio Edit",
           "artists": [
             "Jennifer Lopez",
@@ -167,7 +192,7 @@
           "duration_ms": 230906
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
             "M-3ox",
@@ -181,19 +206,7 @@
           "duration_ms": 390000
         },
         {
-          "rank": 15,
-          "name": "Salvatore",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
-          "duration_ms": 281093
-        },
-        {
-          "rank": 16,
+          "rank": 17,
           "name": "The City",
           "artists": [
             "Veorra"
@@ -205,7 +218,7 @@
           "duration_ms": 224000
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "You Know You Like It",
           "artists": [
             "DJ Snake",
@@ -218,7 +231,7 @@
           "duration_ms": 247266
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Demons",
           "artists": [
             "Imagine Dragons"
@@ -228,19 +241,6 @@
           "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR",
           "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
           "duration_ms": 177506
-        },
-        {
-          "rank": 19,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
         },
         {
           "rank": 20,
@@ -580,18 +580,6 @@
         },
         {
           "rank": 47,
-          "name": "Body Dysmorphia",
-          "artists": [
-            "Eyedress"
-          ],
-          "album": "Mulholland Drive",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
-          "uri": "spotify:track:4VZIqvbRWlxhHtSD30wSZL",
-          "url": "https://open.spotify.com/track/4VZIqvbRWlxhHtSD30wSZL",
-          "duration_ms": 125085
-        },
-        {
-          "rank": 48,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -604,7 +592,7 @@
           "duration_ms": 215196
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -616,7 +604,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "open the door",
           "artists": [
             "phreshboyswag"
@@ -626,6 +614,18 @@
           "uri": "spotify:track:4zVObaSKVFFcQSCvz38IJF",
           "url": "https://open.spotify.com/track/4zVObaSKVFFcQSCvz38IJF",
           "duration_ms": 69892
+        },
+        {
+          "rank": 50,
+          "name": "Change (In the House of Flies)",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "White Pony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
+          "duration_ms": 299533
         }
       ],
       "artists": [
@@ -695,6 +695,14 @@
         },
         {
           "rank": 9,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 10,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -702,7 +710,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Alan Walker",
           "image": "https://i.scdn.co/image/ab6761610000e5eb572a8eae56feae217f618078",
           "genres": [],
@@ -710,7 +718,7 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "genres": [],
@@ -718,20 +726,12 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 13,
-          "name": "my head is empty",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb04515ce9eb763f8890602247",
-          "genres": [],
-          "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
           "rank": 14,
@@ -767,11 +767,11 @@
         },
         {
           "rank": 18,
-          "name": "nleave",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+          "name": "my head is empty",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb04515ce9eb763f8890602247",
           "genres": [],
-          "uri": "spotify:artist:2qmEE4y9DWpAXbFdZOQAeC",
-          "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
+          "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
           "rank": 19,
@@ -799,6 +799,14 @@
         },
         {
           "rank": 22,
+          "name": "nleave",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+          "genres": [],
+          "uri": "spotify:artist:2qmEE4y9DWpAXbFdZOQAeC",
+          "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
+        },
+        {
+          "rank": 23,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -806,7 +814,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -814,7 +822,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
