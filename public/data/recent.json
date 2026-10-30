@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-30T00:36:27.089Z",
+  "updated_at": "2026-10-30T09:35:55.381Z",
   "plays": [
-    {
-      "played_at": "2026-07-13T20:33:48.522Z",
-      "name": "Living Legend",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Blue Banisters",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
-      "uri": "spotify:track:6pZ9Nj3vzj1RW4ZkR9GcQ9",
-      "duration_ms": 241426
-    },
     {
       "played_at": "2026-07-13T20:37:17.919Z",
       "name": "Risk",
@@ -22642,6 +22631,18 @@
     },
     {
       "played_at": "2026-10-29T20:39:53.790Z",
+      "name": "addiction - Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
+      "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
+      "duration_ms": 233480
+    },
+    {
+      "played_at": "2026-10-29T20:42:18.564Z",
       "name": "addiction - Slowed",
       "artists": [
         "LONOWN",
