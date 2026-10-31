@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:55:58.266Z",
+  "generated_at": "2026-10-31T04:04:01.315Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -492,6 +492,18 @@
         },
         {
           "rank": 40,
+          "name": "What they say",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "What they say",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e71377c8672607ba84b9f4fa",
+          "uri": "spotify:track:2rcZ2AC7CCJRa8fvUSWoL7",
+          "url": "https://open.spotify.com/track/2rcZ2AC7CCJRa8fvUSWoL7",
+          "duration_ms": 92019
+        },
+        {
+          "rank": 41,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -503,7 +515,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -515,7 +527,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "в коже - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -527,7 +539,7 @@
           "duration_ms": 130377
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "We Back Pt. 2",
           "artists": [
             "Edot Babyy",
@@ -540,7 +552,7 @@
           "duration_ms": 141035
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -553,7 +565,7 @@
           "duration_ms": 215196
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -565,7 +577,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "open the door",
           "artists": [
             "phreshboyswag"
@@ -577,7 +589,7 @@
           "duration_ms": 69892
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -589,7 +601,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Sleepwalker - Slowed",
           "artists": [
             "akiaura",
@@ -603,7 +615,7 @@
           "duration_ms": 258008
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "тело - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -613,18 +625,6 @@
           "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
           "url": "https://open.spotify.com/track/5geork5sU3UClEhyrskqoZ",
           "duration_ms": 136062
-        },
-        {
-          "rank": 50,
-          "name": "Sad But True - Remastered 2021",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Metallica (Remastered Deluxe Box Set)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
-          "uri": "spotify:track:5ltXoDLlI0rFZAmOXbAp5T",
-          "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
-          "duration_ms": 324600
         }
       ],
       "artists": [
@@ -678,19 +678,19 @@
         },
         {
           "rank": 7,
-          "name": "Glokk40Spaz",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
-          "genres": [],
-          "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        },
-        {
-          "rank": 8,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
           "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "rank": 8,
+          "name": "Glokk40Spaz",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
+          "genres": [],
+          "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
         {
           "rank": 9,
@@ -1025,6 +1025,18 @@
         },
         {
           "rank": 16,
+          "name": "Im Inna Band",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Im Inna Band",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
+          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
+          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
+          "duration_ms": 194951
+        },
+        {
+          "rank": 17,
           "name": "Kifek 3A Fra2e",
           "artists": [
             "Fadel Chaker",
@@ -1037,7 +1049,7 @@
           "duration_ms": 228236
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "fatman",
           "artists": [
             "boolymon"
@@ -1047,18 +1059,6 @@
           "uri": "spotify:track:0Vrp38pF5LU2blusmFQxLP",
           "url": "https://open.spotify.com/track/0Vrp38pF5LU2blusmFQxLP",
           "duration_ms": 90426
-        },
-        {
-          "rank": 18,
-          "name": "Im Inna Band",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Im Inna Band",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-          "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-          "url": "https://open.spotify.com/track/2PcpuFNfGm5aM0xtDBW7u6",
-          "duration_ms": 194951
         },
         {
           "rank": 19,
@@ -1086,6 +1086,19 @@
         },
         {
           "rank": 21,
+          "name": "Yung Nigga Shit",
+          "artists": [
+            "2wo2imes",
+            "Glokk40Spaz"
+          ],
+          "album": "2wo Glokks",
+          "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+          "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
+          "url": "https://open.spotify.com/track/1UsARqNRpvwChZb4ZOrF35",
+          "duration_ms": 135510
+        },
+        {
+          "rank": 22,
           "name": "Misirlou",
           "artists": [
             "Dick Dale & His Del-Tones"
@@ -1097,7 +1110,7 @@
           "duration_ms": 134933
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "We Do What We Want - Edit",
           "artists": [
             "Alan Fitzpatrick"
@@ -1109,7 +1122,7 @@
           "duration_ms": 188095
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "ICH SCHNEIDE EUCH DIE ZUNGE AB - Slowed",
           "artists": [
             "HRDSND",
@@ -1122,7 +1135,7 @@
           "duration_ms": 391403
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -1134,7 +1147,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Dreams pt. II",
           "artists": [
             "Lost Sky",
@@ -1147,7 +1160,7 @@
           "duration_ms": 215196
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -1159,7 +1172,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "A Desert Rose - Radio Edit",
           "artists": [
             "Radion6",
@@ -1172,7 +1185,7 @@
           "duration_ms": 201176
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -1184,7 +1197,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "The Greatest",
           "artists": [
             "Sia"
@@ -1194,19 +1207,6 @@
           "uri": "spotify:track:6bLopGnirdrilrpdVB6Um1",
           "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1",
           "duration_ms": 210906
-        },
-        {
-          "rank": 30,
-          "name": "Yung Nigga Shit",
-          "artists": [
-            "2wo2imes",
-            "Glokk40Spaz"
-          ],
-          "album": "2wo Glokks",
-          "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
-          "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
-          "url": "https://open.spotify.com/track/1UsARqNRpvwChZb4ZOrF35",
-          "duration_ms": 135510
         },
         {
           "rank": 31,
@@ -1409,6 +1409,18 @@
         },
         {
           "rank": 47,
+          "name": "Thoughts While Incarcerated",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "BABY WHOA",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
+          "uri": "spotify:track:61vcuXduuAFhBmLetVISBf",
+          "url": "https://open.spotify.com/track/61vcuXduuAFhBmLetVISBf",
+          "duration_ms": 221387
+        },
+        {
+          "rank": 48,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1420,7 +1432,7 @@
           "duration_ms": 230533
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -1432,7 +1444,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -1443,18 +1455,6 @@
           "uri": "spotify:track:0XiEn429suWEQ6Ph5SWnar",
           "url": "https://open.spotify.com/track/0XiEn429suWEQ6Ph5SWnar",
           "duration_ms": 187906
-        },
-        {
-          "rank": 50,
-          "name": "Ya Layaly",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "Ana Kteer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
-          "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG",
-          "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG",
-          "duration_ms": 299258
         }
       ],
       "artists": [
@@ -1500,19 +1500,19 @@
         },
         {
           "rank": 6,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 7,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
           "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "rank": 7,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 8,
@@ -1828,6 +1828,14 @@
         },
         {
           "rank": 47,
+          "name": "2wo2imes",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb20a11b8d0623a9feb0d939d8",
+          "genres": [],
+          "uri": "spotify:artist:4o8uzbQaWtcDX3hbgulrPe",
+          "url": "https://open.spotify.com/artist/4o8uzbQaWtcDX3hbgulrPe"
+        },
+        {
+          "rank": 48,
           "name": "Lorde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69f12b4d25517a2a8e9ba6e5",
           "genres": [],
@@ -1835,7 +1843,7 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Xavier Weeks",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb7fcaf666a057fd1a23aecbd",
           "genres": [],
@@ -1843,20 +1851,12 @@
           "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
-        },
-        {
-          "rank": 50,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ]
     },
