@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-31T23:59:37.667Z",
+  "updated_at": "2026-11-01T05:47:59.426Z",
   "plays": [
-    {
-      "played_at": "2026-07-13T22:42:45.957Z",
-      "name": "CRYST4L - Slowed",
-      "artists": [
-        "DARKXHAWK"
-      ],
-      "album": "CRYST4L (Slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372dd46e7ec3d5a433b9060b2",
-      "uri": "spotify:track:22lN61RtieTv4kGT2RWKMO",
-      "duration_ms": 171937
-    },
     {
       "played_at": "2026-07-13T22:46:00.767Z",
       "name": "Sub Zero (Slowed)",
@@ -22652,6 +22641,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e71377c8672607ba84b9f4fa",
       "uri": "spotify:track:2rcZ2AC7CCJRa8fvUSWoL7",
       "duration_ms": 92019
+    },
+    {
+      "played_at": "2026-11-01T00:31:15.411Z",
+      "name": "Feeliinuu",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Feeliinuu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
+      "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
+      "duration_ms": 71726
     }
   ]
 }
