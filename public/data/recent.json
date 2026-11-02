@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-01T19:21:49.219Z",
+  "updated_at": "2026-11-02T00:13:11.271Z",
   "plays": [
-    {
-      "played_at": "2026-07-13T22:46:00.767Z",
-      "name": "Sub Zero (Slowed)",
-      "artists": [
-        "VILLAIN ARC",
-        "Ym1kh"
-      ],
-      "album": "Sub Zero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b32b1bf68b5f1466d3d4feb3",
-      "uri": "spotify:track:3WcCg88GViKBboU01M7hmu",
-      "duration_ms": 104553
-    },
     {
       "played_at": "2026-07-13T22:48:41.321Z",
       "name": "Растворение - Super Slowed",
@@ -22652,6 +22640,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
       "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
       "duration_ms": 71726
+    },
+    {
+      "played_at": "2026-11-01T12:18:07.500Z",
+      "name": "Lies (feat. Lana Del Rey)",
+      "artists": [
+        "Zach Bryan",
+        "Lana Del Rey"
+      ],
+      "album": "Lies (feat. Lana Del Rey)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c6962d2073c0378348cac37",
+      "uri": "spotify:track:4EVSMqqVEehvyyOBmjNTlA",
+      "duration_ms": 220588
     }
   ]
 }

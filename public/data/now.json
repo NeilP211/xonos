@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-01T19:21:49.336Z",
+  "updated_at": "2026-11-02T00:13:11.365Z",
   "is_playing": false,
   "track": {
-    "name": "Feeliinuu",
+    "name": "Lies (feat. Lana Del Rey)",
     "artists": [
-      "Nettspend"
+      "Zach Bryan",
+      "Lana Del Rey"
     ],
-    "album": "Feeliinuu",
-    "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
-    "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS"
+    "album": "Lies (feat. Lana Del Rey)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736c6962d2073c0378348cac37",
+    "uri": "spotify:track:4EVSMqqVEehvyyOBmjNTlA"
   },
-  "played_at": "2026-11-01T00:31:15.411Z"
+  "played_at": "2026-11-01T12:18:07.500Z"
 }
