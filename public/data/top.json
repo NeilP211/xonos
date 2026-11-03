@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:22:59.276Z",
+  "generated_at": "2026-11-03T13:38:20.892Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1368,6 +1368,18 @@
         },
         {
           "rank": 45,
+          "name": "Wild At Heart",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Chemtrails Over The Country Club",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+          "uri": "spotify:track:5RJot1fR8C90lLXzHtUqpo",
+          "url": "https://open.spotify.com/track/5RJot1fR8C90lLXzHtUqpo",
+          "duration_ms": 246609
+        },
+        {
+          "rank": 46,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -1379,7 +1391,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Baddi Doub",
           "artists": [
             "Elissa"
@@ -1391,7 +1403,7 @@
           "duration_ms": 239098
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Thoughts While Incarcerated",
           "artists": [
             "Glokk40Spaz"
@@ -1403,7 +1415,7 @@
           "duration_ms": 221387
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1415,7 +1427,7 @@
           "duration_ms": 230533
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -1425,19 +1437,6 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
-        },
-        {
-          "rank": 50,
-          "name": "Lost at Sea",
-          "artists": [
-            "Rob Grant",
-            "Lana Del Rey"
-          ],
-          "album": "Lost At Sea",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fc406017b6abd3c1d2eaf284",
-          "uri": "spotify:track:0XiEn429suWEQ6Ph5SWnar",
-          "url": "https://open.spotify.com/track/0XiEn429suWEQ6Ph5SWnar",
-          "duration_ms": 187906
         }
       ],
       "artists": [
