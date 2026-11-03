@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-02T21:23:53.118Z",
+  "updated_at": "2026-11-03T05:22:59.373Z",
   "plays": [
-    {
-      "played_at": "2026-07-13T22:50:46.136Z",
-      "name": "hatred - slowed",
-      "artists": [
-        "juno"
-      ],
-      "album": "hatred",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c3823e2c2368ce545f4ed26",
-      "uri": "spotify:track:6IgbDpskAukipo8VJZkdnx",
-      "duration_ms": 108772
-    },
     {
       "played_at": "2026-07-13T22:52:52.958Z",
       "name": "Удушье (Suffocation) - Ultra Slowed",
@@ -22653,6 +22642,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
       "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
       "duration_ms": 159500
+    },
+    {
+      "played_at": "2026-11-02T04:25:34.598Z",
+      "name": "Wild At Heart",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Chemtrails Over The Country Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+      "uri": "spotify:track:5RJot1fR8C90lLXzHtUqpo",
+      "duration_ms": 246609
     }
   ]
 }
