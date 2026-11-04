@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:45:45.197Z",
+  "generated_at": "2026-11-04T01:01:49.967Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -701,19 +701,19 @@
         },
         {
           "rank": 10,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "rank": 11,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "rank": 11,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
           "rank": 12,
@@ -773,14 +773,6 @@
         },
         {
           "rank": 19,
-          "name": "Ramin Djawadi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
-          "genres": [],
-          "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "rank": 20,
           "name": "Antent",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
           "genres": [],
@@ -788,7 +780,23 @@
           "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         },
         {
+          "rank": 20,
+          "name": "Ramin Djawadi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
+          "genres": [],
+          "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        },
+        {
           "rank": 21,
+          "name": "nleave",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+          "genres": [],
+          "uri": "spotify:artist:2qmEE4y9DWpAXbFdZOQAeC",
+          "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
+        },
+        {
+          "rank": 22,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -796,7 +804,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -804,7 +812,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],

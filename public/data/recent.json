@@ -1,95 +1,6 @@
 {
-  "updated_at": "2026-11-03T20:45:45.337Z",
+  "updated_at": "2026-11-04T01:01:50.072Z",
   "plays": [
-    {
-      "played_at": "2026-07-14T20:43:17.369Z",
-      "name": "Team",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Pure Heroine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
-      "duration_ms": 193058
-    },
-    {
-      "played_at": "2026-07-14T20:54:01.138Z",
-      "name": "Lucky Ones",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:2E8b9rCHCWNr0CrZSTVJCT",
-      "duration_ms": 225069
-    },
-    {
-      "played_at": "2026-07-14T21:22:40.840Z",
-      "name": "Lost at Sea",
-      "artists": [
-        "Rob Grant",
-        "Lana Del Rey"
-      ],
-      "album": "Lost At Sea",
-      "image": "https://i.scdn.co/image/ab67616d0000b273281f863d259823fb192a0ddf",
-      "uri": "spotify:track:6N7NO9Z1Hi6la8dqG3Aoew",
-      "duration_ms": 187906
-    },
-    {
-      "played_at": "2026-07-14T21:24:23.674Z",
-      "name": "Salvatore",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-      "duration_ms": 281093
-    },
-    {
-      "played_at": "2026-07-14T22:18:07.480Z",
-      "name": "Feathered Indians",
-      "artists": [
-        "Tyler Childers"
-      ],
-      "album": "Purgatory",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735a38bd36056b909ed607689d",
-      "uri": "spotify:track:2tgQaL85WoRfgEa4hFQgrE",
-      "duration_ms": 224946
-    },
-    {
-      "played_at": "2026-07-14T22:21:00.546Z",
-      "name": "Springsteen",
-      "artists": [
-        "Eric Church"
-      ],
-      "album": "Chief",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-      "duration_ms": 263386
-    },
-    {
-      "played_at": "2026-07-15T01:35:13.510Z",
-      "name": "Copy My Flow",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "BABY WHOA",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731db00d984dd050da4106a84b",
-      "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
-      "duration_ms": 78393
-    },
-    {
-      "played_at": "2026-07-15T01:38:28.924Z",
-      "name": "Im Inna Band",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Im Inna Band",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b6c6257128d3d725251123f8",
-      "uri": "spotify:track:2PcpuFNfGm5aM0xtDBW7u6",
-      "duration_ms": 194951
-    },
     {
       "played_at": "2026-07-15T01:42:10.789Z",
       "name": "Thoughts While Incarcerated",
@@ -22654,6 +22565,95 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27384acab42492b9b209f1615dd",
       "uri": "spotify:track:65r4jtmO7CsZbhSmtpmCTG",
       "duration_ms": 241584
+    },
+    {
+      "played_at": "2026-11-03T20:52:28.719Z",
+      "name": "heartache",
+      "artists": [
+        "hélix"
+      ],
+      "album": "heartache",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5ddb28db5e483b307ab5ca0",
+      "uri": "spotify:track:41Ktk6Mr7MbLF07LboIubS",
+      "duration_ms": 152738
+    },
+    {
+      "played_at": "2026-11-03T20:53:55.517Z",
+      "name": "memories",
+      "artists": [
+        "leadwave"
+      ],
+      "album": "memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e914d44fbf643a8cda65b8ac",
+      "uri": "spotify:track:4VkRQSpG16JxrXaVlNyWdX",
+      "duration_ms": 86319
+    },
+    {
+      "played_at": "2026-11-03T20:59:13.145Z",
+      "name": "mid-morning fog",
+      "artists": [
+        "Arbour",
+        "fantompower"
+      ],
+      "album": "mid-morning fog",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ab59795e668ab335909ec3ff",
+      "uri": "spotify:track:2TI6jYgdVqwB9LSndm0onN",
+      "duration_ms": 317130
+    },
+    {
+      "played_at": "2026-11-03T21:02:45.970Z",
+      "name": "Everything",
+      "artists": [
+        "Mrkryl"
+      ],
+      "album": "Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b479b7506a39852cb952a88c",
+      "uri": "spotify:track:4fCyUU6eehgdODD3qSgdSp",
+      "duration_ms": 212307
+    },
+    {
+      "played_at": "2026-11-03T21:04:13.627Z",
+      "name": "evanesce",
+      "artists": [
+        "my head is empty"
+      ],
+      "album": "ambient vol 3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f450c7edb1a26ad035135708",
+      "uri": "spotify:track:24g9WWUq1o1oUPjuHc1GK5",
+      "duration_ms": 87171
+    },
+    {
+      "played_at": "2026-11-03T21:06:01.876Z",
+      "name": "hold on",
+      "artists": [
+        "alixe."
+      ],
+      "album": "hold on",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b57e6ed320b915331b78ca5",
+      "uri": "spotify:track:5btzrrGBdFN7whDRBIxLJm",
+      "duration_ms": 107756
+    },
+    {
+      "played_at": "2026-11-03T21:10:41.704Z",
+      "name": "green to blue",
+      "artists": [
+        "daniel.mp3"
+      ],
+      "album": "Backroom",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383ae32caa4aa4ae1e4dac7ed",
+      "uri": "spotify:track:4zzxSXdXK4gLEOyGpPpb9v",
+      "duration_ms": 189515
+    },
+    {
+      "played_at": "2026-11-03T21:12:21.553Z",
+      "name": "watching the stars",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "watching the stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0d746e5aa2b299cbc5ecdff",
+      "uri": "spotify:track:321PCApeQiLLrf03k83cCb",
+      "duration_ms": 99146
     }
   ]
 }
