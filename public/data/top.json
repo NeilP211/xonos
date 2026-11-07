@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:37:24.478Z",
+  "generated_at": "2026-11-07T17:25:53.192Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -490,6 +490,20 @@
         },
         {
           "rank": 40,
+          "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+          "artists": [
+            "Lana Del Rey",
+            "A$AP Rocky",
+            "Playboi Carti"
+          ],
+          "album": "Lust For Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+          "uri": "spotify:track:5QqyRUZeBE04yJxsD1OC0I",
+          "url": "https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I",
+          "duration_ms": 260672
+        },
+        {
+          "rank": 41,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -501,7 +515,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Sleepwalker - Slowed",
           "artists": [
             "akiaura",
@@ -515,7 +529,7 @@
           "duration_ms": 258008
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "тело - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -527,7 +541,7 @@
           "duration_ms": 136062
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Sad But True - Remastered 2021",
           "artists": [
             "Metallica"
@@ -539,7 +553,7 @@
           "duration_ms": 324600
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "BABYDOLL",
           "artists": [
             "Ari Abdul"
@@ -551,7 +565,7 @@
           "duration_ms": 196235
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -563,7 +577,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -576,7 +590,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Faded",
           "artists": [
             "Alan Walker"
@@ -588,7 +602,7 @@
           "duration_ms": 212106
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "type london",
           "artists": [
             "ONDA ANDAR"
@@ -600,7 +614,7 @@
           "duration_ms": 103529
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -610,18 +624,6 @@
           "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
           "url": "https://open.spotify.com/track/6VPl7LlHBlxvdJHtqUWdTJ",
           "duration_ms": 78393
-        },
-        {
-          "rank": 50,
-          "name": "drunk bnb freestyle",
-          "artists": [
-            "phreshboyswag"
-          ],
-          "album": "drunk bnb freestyle",
-          "image": "https://i.scdn.co/image/ab67616d0000b27356a67fe778f34b248285f027",
-          "uri": "spotify:track:6l93vjC46TgLk8xuSoGKLT",
-          "url": "https://open.spotify.com/track/6l93vjC46TgLk8xuSoGKLT",
-          "duration_ms": 127407
         }
       ],
       "artists": [
@@ -2658,6 +2660,14 @@
         },
         {
           "rank": 29,
+          "name": "LONOWN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
+          "genres": [],
+          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "rank": 30,
           "name": "Sandbox Interactive",
           "image": "https://i.scdn.co/image/ab67616d0000b2730ab97657dd6309bfb3daabe3",
           "genres": [],
@@ -2665,7 +2675,7 @@
           "url": "https://open.spotify.com/artist/123b7Nnp2X56qhx2NLEtPh"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -2673,20 +2683,12 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
           "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
-        },
-        {
-          "rank": 32,
-          "name": "LONOWN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8430afc9d75e1b6e8caa4b22",
-          "genres": [],
-          "uri": "spotify:artist:700c9Qz2z6HZKTumeliKAw",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
         },
         {
           "rank": 33,

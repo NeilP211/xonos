@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-11-07T09:37:24.596Z",
+  "updated_at": "2026-11-07T17:25:53.506Z",
   "is_playing": false,
   "track": {
-    "name": "Mere Khwabon Mein",
+    "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
     "artists": [
-      "Lata Mangeshkar"
+      "Lana Del Rey",
+      "A$AP Rocky",
+      "Playboi Carti"
     ],
-    "album": "Dilwale Dulhania Le Jayenge",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732458b3ff529345f251a6d001",
-    "uri": "spotify:track:1AhXEDyg2AbV7CAnyiAMvM"
+    "album": "Lust For Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+    "uri": "spotify:track:5QqyRUZeBE04yJxsD1OC0I"
   },
-  "played_at": "2026-11-07T08:13:05.758Z"
+  "played_at": "2026-11-07T14:34:11.166Z"
 }
