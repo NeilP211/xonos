@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-11-06T18:53:39.828Z",
+  "updated_at": "2026-11-07T00:36:44.826Z",
   "plays": [
-    {
-      "played_at": "2026-07-16T14:34:16.051Z",
-      "name": "Easy Kill - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Easy Kill (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736694c46d692680983317eb25",
-      "uri": "spotify:track:0LzpesDlQjUQRMoxN495o5",
-      "duration_ms": 206393
-    },
-    {
-      "played_at": "2026-07-16T14:37:26.145Z",
-      "name": "Yung Ogee - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Yung Ogee (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734eedeab987e57d973a96d70f",
-      "uri": "spotify:track:0w4JLUvOiwj3oCzoKm1Cf1",
-      "duration_ms": 189675
-    },
-    {
-      "played_at": "2026-07-16T14:41:08.733Z",
-      "name": "City On My Back - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "City On My Back (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b82fe5492ad1519b3c60c563",
-      "uri": "spotify:track:2u1fM2eTRKo2QVMGNr6scQ",
-      "duration_ms": 154483
-    },
     {
       "played_at": "2026-07-16T14:45:00.122Z",
       "name": "Team",
@@ -22650,6 +22614,44 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
       "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
       "duration_ms": 233480
+    },
+    {
+      "played_at": "2026-11-06T20:52:08.711Z",
+      "name": "addiction - Slowed",
+      "artists": [
+        "LONOWN",
+        "Asenssia"
+      ],
+      "album": "addiction",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af2854eb13b61c21e474018a",
+      "uri": "spotify:track:5xyzb5BEgTq9sgxxnoNIqT",
+      "duration_ms": 233480
+    },
+    {
+      "played_at": "2026-11-06T21:03:41.365Z",
+      "name": "NE CMOTPN",
+      "artists": [
+        "STAKILLAZ",
+        "ZAYDERA"
+      ],
+      "album": "NE CMOTPN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd58b0acc797040664ff6838",
+      "uri": "spotify:track:38bj2nRKW9NnO6mGUG1Ajm",
+      "duration_ms": 89037
+    },
+    {
+      "played_at": "2026-11-06T21:08:27.896Z",
+      "name": "Ele Te Bota Soca Soca",
+      "artists": [
+        "MC Mazzie",
+        "Mc Rd",
+        "DJ NpcSize",
+        "DJ Wizard"
+      ],
+      "album": "Ele Te Bota Soca Soca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eda5028e9616b3f8f5a612ae",
+      "uri": "spotify:track:30096a5EMOSaF9c2aSa4TH",
+      "duration_ms": 180927
     }
   ]
 }
