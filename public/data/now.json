@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-11-08T19:19:24.134Z",
+  "updated_at": "2026-11-09T00:32:07.119Z",
   "is_playing": false,
   "track": {
-    "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+    "name": "run run run",
     "artists": [
-      "Lana Del Rey",
-      "A$AP Rocky",
-      "Playboi Carti"
+      "rebug"
     ],
-    "album": "Lust For Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
-    "uri": "spotify:track:5QqyRUZeBE04yJxsD1OC0I"
+    "album": "run run run",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+    "uri": "spotify:track:3jc5lztSxb84byWpQqrHME"
   },
-  "played_at": "2026-11-07T14:34:11.166Z"
+  "played_at": "2026-11-08T23:06:13.418Z"
 }
