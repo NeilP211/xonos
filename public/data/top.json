@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:32:06.831Z",
+  "generated_at": "2026-11-09T10:54:14.898Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -55,6 +55,18 @@
         },
         {
           "rank": 5,
+          "name": "run run run",
+          "artists": [
+            "rebug"
+          ],
+          "album": "run run run",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
+          "duration_ms": 79464
+        },
+        {
+          "rank": 6,
           "name": "Ruk Ja O Dil Deewane",
           "artists": [
             "Udit Narayan"
@@ -66,7 +78,7 @@
           "duration_ms": 310453
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -79,7 +91,7 @@
           "duration_ms": 277662
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -91,7 +103,7 @@
           "duration_ms": 239379
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -103,7 +115,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Backdoor",
           "artists": [
             "Glokk40Spaz"
@@ -115,7 +127,7 @@
           "duration_ms": 145454
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "The City",
           "artists": [
             "Veorra"
@@ -127,7 +139,7 @@
           "duration_ms": 224000
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "You Know You Like It",
           "artists": [
             "DJ Snake",
@@ -140,7 +152,7 @@
           "duration_ms": 247266
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "type london",
           "artists": [
             "ONDA ANDAR"
@@ -152,7 +164,7 @@
           "duration_ms": 103529
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -166,7 +178,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -178,7 +190,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Say It Right",
           "artists": [
             "Nelly Furtado"
@@ -190,7 +202,7 @@
           "duration_ms": 223080
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "METAMORPHOSIS",
           "artists": [
             "INTERWORLD"
@@ -202,7 +214,7 @@
           "duration_ms": 142839
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "My Soldiers Rage",
           "artists": [
             "Maul"
@@ -212,18 +224,6 @@
           "uri": "spotify:track:360RgTK0Z2olCRvgrPVWpz",
           "url": "https://open.spotify.com/track/360RgTK0Z2olCRvgrPVWpz",
           "duration_ms": 174694
-        },
-        {
-          "rank": 18,
-          "name": "run run run",
-          "artists": [
-            "rebug"
-          ],
-          "album": "run run run",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
-          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
-          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
-          "duration_ms": 79464
         },
         {
           "rank": 19,
@@ -907,18 +907,6 @@
         },
         {
           "rank": 9,
-          "name": "glamur) (super slowed)",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "glamur)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
-          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
-          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
-          "duration_ms": 129285
-        },
-        {
-          "rank": 10,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -931,19 +919,19 @@
           "duration_ms": 149860
         },
         {
-          "rank": 11,
-          "name": "Wherever I May Roam - Remastered 2021",
+          "rank": 10,
+          "name": "glamur) (super slowed)",
           "artists": [
-            "Metallica"
+            "DJ ZUP RAlii"
           ],
-          "album": "Metallica (Remastered 2021)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27376c60d2128c8e4649b85f2b2",
-          "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
-          "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
-          "duration_ms": 404333
+          "album": "glamur)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
+          "duration_ms": 129285
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -955,7 +943,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -966,6 +954,18 @@
           "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
           "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
           "duration_ms": 255591
+        },
+        {
+          "rank": 13,
+          "name": "Wherever I May Roam - Remastered 2021",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "Metallica (Remastered 2021)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27376c60d2128c8e4649b85f2b2",
+          "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
+          "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
+          "duration_ms": 404333
         },
         {
           "rank": 14,
@@ -1302,6 +1302,18 @@
         },
         {
           "rank": 41,
+          "name": "run run run",
+          "artists": [
+            "rebug"
+          ],
+          "album": "run run run",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
+          "duration_ms": 79464
+        },
+        {
+          "rank": 42,
           "name": "i aint start making money till i started doing drugs",
           "artists": [
             "bleood"
@@ -1313,7 +1325,7 @@
           "duration_ms": 107117
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -1327,7 +1339,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Wildest Dreams",
           "artists": [
             "Taylor Swift"
@@ -1339,7 +1351,7 @@
           "duration_ms": 220440
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "GUTS RAGE x HARDSTYLE",
           "artists": [
             "MyMotivation"
@@ -1351,7 +1363,7 @@
           "duration_ms": 153200
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Massive X Touch Me",
           "artists": [
             "NovaX",
@@ -1364,7 +1376,7 @@
           "duration_ms": 174160
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -1376,7 +1388,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Baddi Doub",
           "artists": [
             "Elissa"
@@ -1388,7 +1400,7 @@
           "duration_ms": 239098
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Thoughts While Incarcerated",
           "artists": [
             "Glokk40Spaz"
@@ -1400,7 +1412,7 @@
           "duration_ms": 221387
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "National Anthem",
           "artists": [
             "Lana Del Rey"
@@ -1410,18 +1422,6 @@
           "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
           "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
           "duration_ms": 230533
-        },
-        {
-          "rank": 50,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
         }
       ],
       "artists": [

@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-09T00:32:07.022Z",
+  "updated_at": "2026-11-09T10:54:15.018Z",
   "plays": [
-    {
-      "played_at": "2026-07-16T18:17:03.232Z",
-      "name": "glamur) (slowed)",
-      "artists": [
-        "DJ ZUP RAlii"
-      ],
-      "album": "glamur)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
-      "uri": "spotify:track:0zhOXqXgkI3o53gUWY9eUW",
-      "duration_ms": 113124
-    },
     {
       "played_at": "2026-07-16T18:19:19.854Z",
       "name": "Too Legendary - A.T. mixxx",
@@ -22659,6 +22648,17 @@
     },
     {
       "played_at": "2026-11-08T23:06:13.418Z",
+      "name": "run run run",
+      "artists": [
+        "rebug"
+      ],
+      "album": "run run run",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+      "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+      "duration_ms": 79464
+    },
+    {
+      "played_at": "2026-11-08T23:08:26.286Z",
       "name": "run run run",
       "artists": [
         "rebug"
