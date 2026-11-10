@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-09T21:55:44.918Z",
+  "updated_at": "2026-11-10T05:57:32.199Z",
   "is_playing": false,
   "track": {
-    "name": "run run run",
+    "name": "Kabhi Khushi Kabhie Gham",
     "artists": [
-      "rebug"
+      "Jatin-Lalit",
+      "Lata Mangeshkar"
     ],
-    "album": "run run run",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
-    "uri": "spotify:track:3jc5lztSxb84byWpQqrHME"
+    "album": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273941eb533e845e5c2299570b9",
+    "uri": "spotify:track:0eGtFJBfYUKF2CvNZJEu3M"
   },
-  "played_at": "2026-11-08T23:08:26.286Z"
+  "played_at": "2026-11-10T01:24:45.450Z"
 }
