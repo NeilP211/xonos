@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:35:44.337Z",
+  "generated_at": "2026-11-10T21:11:28.738Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -165,15 +165,16 @@
         },
         {
           "rank": 14,
-          "name": "Say It Right",
+          "name": "Never Forget You",
           "artists": [
-            "Nelly Furtado"
+            "Zara Larsson",
+            "MNEK"
           ],
-          "album": "Loose",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
-          "uri": "spotify:track:2aI21FnmY7TJVKeMaoQZ0t",
-          "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t",
-          "duration_ms": 223080
+          "album": "So Good",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b53c29ba99cee67851903feb",
+          "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+          "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
+          "duration_ms": 212574
         },
         {
           "rank": 15,
@@ -264,6 +265,19 @@
         },
         {
           "rank": 22,
+          "name": "Don't Let Me Down",
+          "artists": [
+            "The Chainsmokers",
+            "Daya"
+          ],
+          "album": "The Chainsmokers- Japan Special Edition",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735e8bcc7e341843c708bcf655",
+          "uri": "spotify:track:0QsvXIfqM0zZoerQfsI9lm",
+          "url": "https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm",
+          "duration_ms": 208053
+        },
+        {
+          "rank": 23,
           "name": "Mere Khwabon Mein",
           "artists": [
             "Lata Mangeshkar"
@@ -275,7 +289,7 @@
           "duration_ms": 256440
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
             "M-3ox",
@@ -289,7 +303,7 @@
           "duration_ms": 390000
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Lovely",
           "artists": [
             "Vishal-Shekhar",
@@ -308,7 +322,7 @@
           "duration_ms": 220714
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Jugni Ji",
           "artists": [
             "Dr Zeus",
@@ -321,7 +335,7 @@
           "duration_ms": 206418
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -334,7 +348,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -347,7 +361,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -360,7 +374,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Mixing Bros Cum N My Cum",
           "artists": [
             "Robin Gan"
@@ -372,7 +386,7 @@
           "duration_ms": 54033
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "в коже - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -384,7 +398,7 @@
           "duration_ms": 130377
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "We Back Pt. 2",
           "artists": [
             "Edot Babyy",
@@ -397,7 +411,7 @@
           "duration_ms": 141035
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Lies (feat. Lana Del Rey)",
           "artists": [
             "Zach Bryan",
@@ -410,7 +424,7 @@
           "duration_ms": 220588
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -422,7 +436,7 @@
           "duration_ms": 92019
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -434,7 +448,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -446,7 +460,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
           "artists": [
             "Lana Del Rey",
@@ -460,7 +474,7 @@
           "duration_ms": 260672
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -472,7 +486,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Sleepwalker - Slowed",
           "artists": [
             "akiaura",
@@ -486,7 +500,7 @@
           "duration_ms": 258008
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "тело - Super Slowed",
           "artists": [
             "DJ ZUP RAlii"
@@ -498,7 +512,7 @@
           "duration_ms": 136062
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Sad But True - Remastered 2021",
           "artists": [
             "Metallica"
@@ -510,7 +524,7 @@
           "duration_ms": 324600
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -522,7 +536,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -535,7 +549,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Faded",
           "artists": [
             "Alan Walker"
@@ -547,7 +561,7 @@
           "duration_ms": 212106
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -557,19 +571,6 @@
           "uri": "spotify:track:6VPl7LlHBlxvdJHtqUWdTJ",
           "url": "https://open.spotify.com/track/6VPl7LlHBlxvdJHtqUWdTJ",
           "duration_ms": 78393
-        },
-        {
-          "rank": 45,
-          "name": "Never Forget You",
-          "artists": [
-            "Zara Larsson",
-            "MNEK"
-          ],
-          "album": "So Good",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b53c29ba99cee67851903feb",
-          "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
-          "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
-          "duration_ms": 212574
         },
         {
           "rank": 46,
@@ -702,14 +703,6 @@
         },
         {
           "rank": 9,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 10,
           "name": "Alan Walker",
           "image": "https://i.scdn.co/image/ab6761610000e5eb572a8eae56feae217f618078",
           "genres": [],
@@ -717,7 +710,7 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb04515ce9eb763f8890602247",
           "genres": [],
@@ -725,7 +718,7 @@
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -733,7 +726,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Antent",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb87c58180d5d36326f4981b1",
           "genres": [],
@@ -741,7 +734,7 @@
           "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -749,7 +742,7 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "nleave",
           "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
           "genres": [],
@@ -757,7 +750,7 @@
           "url": "https://open.spotify.com/artist/2qmEE4y9DWpAXbFdZOQAeC"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "inertia.",
           "image": "https://i.scdn.co/image/ab6761610000e5eb49e05f426c23774f593e0272",
           "genres": [],
@@ -765,7 +758,7 @@
           "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -773,12 +766,20 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Lata Mangeshkar",
           "image": "https://i.scdn.co/image/ab6761610000e5eba0199b159c0c5a9f62333d32",
           "genres": [],
           "uri": "spotify:artist:61JrslREXq98hurYL2hYoc",
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "rank": 18,
+          "name": "bleood",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
+          "genres": [],
+          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
+          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
           "rank": 19,

@@ -1,63 +1,6 @@
 {
-  "updated_at": "2026-11-10T14:35:44.420Z",
+  "updated_at": "2026-11-10T21:11:28.863Z",
   "plays": [
-    {
-      "played_at": "2026-07-16T18:21:59.677Z",
-      "name": "Great Day - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Great Day (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273267bc7acba8f8d508f897bc5",
-      "uri": "spotify:track:6g0iqgYveHgB6a7Wwgb8Oz",
-      "duration_ms": 159373
-    },
-    {
-      "played_at": "2026-07-16T18:25:26.507Z",
-      "name": "Easy Kill - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Easy Kill (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736694c46d692680983317eb25",
-      "uri": "spotify:track:0LzpesDlQjUQRMoxN495o5",
-      "duration_ms": 206393
-    },
-    {
-      "played_at": "2026-07-16T18:26:53.101Z",
-      "name": "dutt pack",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "dutt pack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d89e7e0d4c98dba5493c5858",
-      "uri": "spotify:track:4jlYXnowIFxznxx03qlQYB",
-      "duration_ms": 85890
-    },
-    {
-      "played_at": "2026-07-16T18:29:03.075Z",
-      "name": "Vlone - Hardcore Remix",
-      "artists": [
-        "tapzen"
-      ],
-      "album": "Vlone (Hardcore Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
-      "uri": "spotify:track:6RMbFYJC16V5elowc80SGd",
-      "duration_ms": 129723
-    },
-    {
-      "played_at": "2026-07-16T18:30:36.624Z",
-      "name": "тело - Sped Up",
-      "artists": [
-        "DJ ZUP RAlii"
-      ],
-      "album": "тело",
-      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-      "uri": "spotify:track:1ksUKJt9MSlcL8IAd9s78t",
-      "duration_ms": 93081
-    },
     {
       "played_at": "2026-07-16T18:32:41.389Z",
       "name": "Moosy - Mega Slowed",
@@ -22667,6 +22610,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273941eb533e845e5c2299570b9",
       "uri": "spotify:track:0eGtFJBfYUKF2CvNZJEu3M",
       "duration_ms": 471946
+    },
+    {
+      "played_at": "2026-11-10T16:55:39.322Z",
+      "name": "Waiting For Love",
+      "artists": [
+        "Avicii"
+      ],
+      "album": "Stories",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
+      "uri": "spotify:track:2P4OICZRVAQcYAV2JReRfj",
+      "duration_ms": 230613
+    },
+    {
+      "played_at": "2026-11-10T17:02:34.897Z",
+      "name": "L'Amour Toujours",
+      "artists": [
+        "GIGI D'AGOSTINO"
+      ],
+      "album": "L'Amour Toujours",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395c70cc04573417548b47199",
+      "uri": "spotify:track:52LJ3hyknOijCrE5gCD0rE",
+      "duration_ms": 242053
+    },
+    {
+      "played_at": "2026-11-10T17:06:05.539Z",
+      "name": "Memories (feat. Kid Cudi)",
+      "artists": [
+        "David Guetta",
+        "Kid Cudi"
+      ],
+      "album": "One Love (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b2e43ed3850e072831f7b2c6",
+      "uri": "spotify:track:4dTaAiV9xFFCxnPur9c9yL",
+      "duration_ms": 210093
+    },
+    {
+      "played_at": "2026-11-10T17:09:46.444Z",
+      "name": "Hot N Cold",
+      "artists": [
+        "Katy Perry"
+      ],
+      "album": "One Of The Boys",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
+      "uri": "spotify:track:1y4eb6hmAvsqlDOl3fx9kk",
+      "duration_ms": 220226
+    },
+    {
+      "played_at": "2026-11-10T17:26:47.267Z",
+      "name": "Kids",
+      "artists": [
+        "MGMT"
+      ],
+      "album": "Oracular Spectacular",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abdf7749aeb5229dbf305f03",
+      "uri": "spotify:track:1jJci4qxiYcOHhQR247rEU",
+      "duration_ms": 302840
     }
   ]
 }
