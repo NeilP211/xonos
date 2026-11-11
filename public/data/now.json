@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T21:11:29.032Z",
+  "updated_at": "2026-11-11T04:44:04.272Z",
   "is_playing": false,
   "track": {
-    "name": "Kids",
+    "name": "Breathe (In the Air)",
     "artists": [
-      "MGMT"
+      "Pink Floyd"
     ],
-    "album": "Oracular Spectacular",
-    "image": "https://i.scdn.co/image/ab67616d0000b273abdf7749aeb5229dbf305f03",
-    "uri": "spotify:track:1jJci4qxiYcOHhQR247rEU"
+    "album": "The Dark Side of the Moon",
+    "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+    "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53"
   },
-  "played_at": "2026-11-10T17:26:47.267Z"
+  "played_at": "2026-11-11T00:01:04.702Z"
 }
