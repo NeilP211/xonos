@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:43:35.145Z",
+  "generated_at": "2026-11-12T05:46:19.099Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1283,6 +1283,18 @@
         },
         {
           "rank": 40,
+          "name": "Wildest Dreams",
+          "artists": [
+            "Taylor Swift"
+          ],
+          "album": "1989",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b7e976d2b35c767f9012cb72",
+          "uri": "spotify:track:3fVnlF4pGqWI9flVENcT28",
+          "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
+          "duration_ms": 220440
+        },
+        {
+          "rank": 41,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -1295,7 +1307,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -1307,7 +1319,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "i aint start making money till i started doing drugs",
           "artists": [
             "bleood"
@@ -1319,7 +1331,7 @@
           "duration_ms": 107117
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -1331,18 +1343,6 @@
           "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
           "url": "https://open.spotify.com/track/3lJ3mblBvLWDhrzi1qxh05",
           "duration_ms": 115296
-        },
-        {
-          "rank": 44,
-          "name": "Wildest Dreams",
-          "artists": [
-            "Taylor Swift"
-          ],
-          "album": "1989",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b7e976d2b35c767f9012cb72",
-          "uri": "spotify:track:3fVnlF4pGqWI9flVENcT28",
-          "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
-          "duration_ms": 220440
         },
         {
           "rank": 45,
@@ -1407,15 +1407,16 @@
         },
         {
           "rank": 50,
-          "name": "National Anthem",
+          "name": "Never Forget You",
           "artists": [
-            "Lana Del Rey"
+            "Zara Larsson",
+            "MNEK"
           ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:4YQEdFq6g95OrdksihaMgZ",
-          "url": "https://open.spotify.com/track/4YQEdFq6g95OrdksihaMgZ",
-          "duration_ms": 230533
+          "album": "So Good",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b53c29ba99cee67851903feb",
+          "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo",
+          "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
+          "duration_ms": 212574
         }
       ],
       "artists": [
