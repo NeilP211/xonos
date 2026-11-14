@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-13T21:10:12.517Z",
+  "updated_at": "2026-11-14T04:56:49.394Z",
   "is_playing": false,
   "track": {
-    "name": "Mere Khwabon Mein",
+    "name": "Lost at Sea",
     "artists": [
-      "Lata Mangeshkar"
+      "Rob Grant",
+      "Lana Del Rey"
     ],
-    "album": "Dilwale Dulhania Le Jayenge",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732458b3ff529345f251a6d001",
-    "uri": "spotify:track:1AhXEDyg2AbV7CAnyiAMvM"
+    "album": "Lost At Sea",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fc406017b6abd3c1d2eaf284",
+    "uri": "spotify:track:0XiEn429suWEQ6Ph5SWnar"
   },
-  "played_at": "2026-11-11T22:52:54.513Z"
+  "played_at": "2026-11-14T00:58:52.110Z"
 }
