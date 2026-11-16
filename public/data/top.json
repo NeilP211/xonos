@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T00:45:19.586Z",
+  "generated_at": "2026-11-16T10:38:09.822Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -55,79 +55,6 @@
         },
         {
           "rank": 5,
-          "name": "Ruk Ja O Dil Deewane",
-          "artists": [
-            "Udit Narayan"
-          ],
-          "album": "Dilwale Dulhania Le Jayenge",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732458b3ff529345f251a6d001",
-          "uri": "spotify:track:3LllvNPZFMxJ4vLWuUBAHG",
-          "url": "https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG",
-          "duration_ms": 310453
-        },
-        {
-          "rank": 6,
-          "name": "Warmth",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
-          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
-          "duration_ms": 239379
-        },
-        {
-          "rank": 7,
-          "name": "Backdoor",
-          "artists": [
-            "Glokk40Spaz"
-          ],
-          "album": "Took The Biggest Risk",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
-          "uri": "spotify:track:7iKZ4otNgJxqlM6Ljxg586",
-          "url": "https://open.spotify.com/track/7iKZ4otNgJxqlM6Ljxg586",
-          "duration_ms": 145454
-        },
-        {
-          "rank": 8,
-          "name": "The City",
-          "artists": [
-            "Veorra"
-          ],
-          "album": "Ruby",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733edf135c1516ea2be3297639",
-          "uri": "spotify:track:3KDsAbnxapaSgvbetf6r0b",
-          "url": "https://open.spotify.com/track/3KDsAbnxapaSgvbetf6r0b",
-          "duration_ms": 224000
-        },
-        {
-          "rank": 9,
-          "name": "worry - ultra slowed",
-          "artists": [
-            "LONOWN",
-            "riserayss"
-          ],
-          "album": "worry (ultra slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
-          "duration_ms": 255591
-        },
-        {
-          "rank": 10,
-          "name": "My Soldiers Rage",
-          "artists": [
-            "Maul"
-          ],
-          "album": "My Soldiers Rage",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb2843cc9c0979de31069d6b",
-          "uri": "spotify:track:360RgTK0Z2olCRvgrPVWpz",
-          "url": "https://open.spotify.com/track/360RgTK0Z2olCRvgrPVWpz",
-          "duration_ms": 174694
-        },
-        {
-          "rank": 11,
           "name": "addiction - Ultra Slowed",
           "artists": [
             "LONOWN",
@@ -140,7 +67,93 @@
           "duration_ms": 277662
         },
         {
+          "rank": 6,
+          "name": "Ruk Ja O Dil Deewane",
+          "artists": [
+            "Udit Narayan"
+          ],
+          "album": "Dilwale Dulhania Le Jayenge",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732458b3ff529345f251a6d001",
+          "uri": "spotify:track:3LllvNPZFMxJ4vLWuUBAHG",
+          "url": "https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG",
+          "duration_ms": 310453
+        },
+        {
+          "rank": 7,
+          "name": "Warmth",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
+          "duration_ms": 239379
+        },
+        {
+          "rank": 8,
+          "name": "Backdoor",
+          "artists": [
+            "Glokk40Spaz"
+          ],
+          "album": "Took The Biggest Risk",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+          "uri": "spotify:track:7iKZ4otNgJxqlM6Ljxg586",
+          "url": "https://open.spotify.com/track/7iKZ4otNgJxqlM6Ljxg586",
+          "duration_ms": 145454
+        },
+        {
+          "rank": 9,
+          "name": "The City",
+          "artists": [
+            "Veorra"
+          ],
+          "album": "Ruby",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733edf135c1516ea2be3297639",
+          "uri": "spotify:track:3KDsAbnxapaSgvbetf6r0b",
+          "url": "https://open.spotify.com/track/3KDsAbnxapaSgvbetf6r0b",
+          "duration_ms": 224000
+        },
+        {
+          "rank": 10,
+          "name": "tell me that u love me (slowed)",
+          "artists": [
+            "SUICIDAL-IDOL",
+            "Pröz"
+          ],
+          "album": "tell me that u love me",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
+          "duration_ms": 149860
+        },
+        {
+          "rank": 11,
+          "name": "worry - ultra slowed",
+          "artists": [
+            "LONOWN",
+            "riserayss"
+          ],
+          "album": "worry (ultra slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+          "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+          "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N",
+          "duration_ms": 255591
+        },
+        {
           "rank": 12,
+          "name": "My Soldiers Rage",
+          "artists": [
+            "Maul"
+          ],
+          "album": "My Soldiers Rage",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb2843cc9c0979de31069d6b",
+          "uri": "spotify:track:360RgTK0Z2olCRvgrPVWpz",
+          "url": "https://open.spotify.com/track/360RgTK0Z2olCRvgrPVWpz",
+          "duration_ms": 174694
+        },
+        {
+          "rank": 13,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -153,7 +166,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Untitled #13 (Super Slowed)",
           "artists": [
             "glwzbll"
@@ -165,7 +178,7 @@
           "duration_ms": 192000
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Made It Home",
           "artists": [
             "nettspend 2"
@@ -177,7 +190,7 @@
           "duration_ms": 69009
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Mere Khwabon Mein",
           "artists": [
             "Lata Mangeshkar"
@@ -189,7 +202,7 @@
           "duration_ms": 256440
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
             "M-3ox",
@@ -203,7 +216,7 @@
           "duration_ms": 390000
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Lovely",
           "artists": [
             "Vishal-Shekhar",
@@ -222,7 +235,7 @@
           "duration_ms": 220714
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Jugni Ji",
           "artists": [
             "Dr Zeus",
@@ -235,7 +248,7 @@
           "duration_ms": 206418
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -248,7 +261,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -260,7 +273,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -273,7 +286,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Breathe (In the Air)",
           "artists": [
             "Pink Floyd"
@@ -285,7 +298,7 @@
           "duration_ms": 169560
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -298,7 +311,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Mixing Bros Cum N My Cum",
           "artists": [
             "Robin Gan"
@@ -310,7 +323,7 @@
           "duration_ms": 54033
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Lies (feat. Lana Del Rey)",
           "artists": [
             "Zach Bryan",
@@ -323,7 +336,7 @@
           "duration_ms": 220588
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -335,7 +348,7 @@
           "duration_ms": 92019
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -347,7 +360,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
           "artists": [
             "Lana Del Rey",
@@ -361,7 +374,7 @@
           "duration_ms": 260672
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -373,7 +386,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Sleepwalker - Slowed",
           "artists": [
             "akiaura",
@@ -387,7 +400,7 @@
           "duration_ms": 258008
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -399,7 +412,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -412,7 +425,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -424,7 +437,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "MBM",
           "artists": [
             "2wo2imes",
@@ -437,7 +450,7 @@
           "duration_ms": 160000
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -449,7 +462,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "On The Floor - Radio Edit",
           "artists": [
             "Jennifer Lopez",
@@ -462,7 +475,7 @@
           "duration_ms": 230906
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -475,7 +488,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Kabhi Khushi Kabhie Gham",
           "artists": [
             "Jatin-Lalit",
@@ -488,7 +501,7 @@
           "duration_ms": 471946
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Shelter Me",
           "artists": [
             "Dart Rayne",
@@ -502,7 +515,7 @@
           "duration_ms": 236375
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "I'll Wait For You",
           "artists": [
             "Frankie Avalon"
@@ -514,7 +527,7 @@
           "duration_ms": 172574
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -531,7 +544,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -543,7 +556,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -558,7 +571,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Skins",
           "artists": [
             "KREZUS",
@@ -571,7 +584,7 @@
           "duration_ms": 244196
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -586,7 +599,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "cachalot - Very Slowed",
           "artists": [
             "Lyke"
@@ -598,7 +611,7 @@
           "duration_ms": 185806
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Let Me Love You (Until You Learn To Love Yourself)",
           "artists": [
             "Ne-Yo"
@@ -610,7 +623,7 @@
           "duration_ms": 251626
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -623,28 +636,16 @@
           "duration_ms": 129962
         },
         {
-          "rank": 49,
-          "name": "Dawn of the Sun",
-          "artists": [
-            "softsurf"
-          ],
-          "album": "Into the Dream",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ad9723af7930c8ce617b5b75",
-          "uri": "spotify:track:5aF5DeX3VGCp3qFZ8hXtp5",
-          "url": "https://open.spotify.com/track/5aF5DeX3VGCp3qFZ8hXtp5",
-          "duration_ms": 244133
-        },
-        {
           "rank": 50,
-          "name": "Demons",
+          "name": "love illusion - slowed",
           "artists": [
-            "Imagine Dragons"
+            "ilyhiryu"
           ],
-          "album": "Night Visions",
-          "image": "https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737",
-          "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR",
-          "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
-          "duration_ms": 177506
+          "album": "love illusion",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734002943b784d1c9dc55cef32",
+          "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR",
+          "url": "https://open.spotify.com/track/5ZHXZSLGLg1Ce8rMsT2OoR",
+          "duration_ms": 211043
         }
       ],
       "artists": [
@@ -820,6 +821,19 @@
         },
         {
           "rank": 7,
+          "name": "tell me that u love me (slowed)",
+          "artists": [
+            "SUICIDAL-IDOL",
+            "Pröz"
+          ],
+          "album": "tell me that u love me",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
+          "duration_ms": 149860
+        },
+        {
+          "rank": 8,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -833,7 +847,7 @@
           "duration_ms": 259071
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "ILLUMINATI",
           "artists": [
             "LyteSpeed",
@@ -844,19 +858,6 @@
           "uri": "spotify:track:2wYTOWgGP4woPRhmEwRN9E",
           "url": "https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E",
           "duration_ms": 120702
-        },
-        {
-          "rank": 9,
-          "name": "tell me that u love me (slowed)",
-          "artists": [
-            "SUICIDAL-IDOL",
-            "Pröz"
-          ],
-          "album": "tell me that u love me",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
-          "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
-          "url": "https://open.spotify.com/track/7GNNYTmPPeGP1xzUdkve7T",
-          "duration_ms": 149860
         },
         {
           "rank": 10,
@@ -1496,19 +1497,19 @@
         },
         {
           "rank": 17,
-          "name": "Tevvez",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
-          "genres": [],
-          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
-          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
-        },
-        {
-          "rank": 18,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 18,
+          "name": "Tevvez",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
+          "genres": [],
+          "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
           "rank": 19,
@@ -2174,18 +2175,6 @@
         },
         {
           "rank": 34,
-          "name": "insane",
-          "artists": [
-            "rommulas"
-          ],
-          "album": "insane",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732c70bd15f00d134d7b6459b7",
-          "uri": "spotify:track:0ZOhGcUqRx3ifaBsWj0umh",
-          "url": "https://open.spotify.com/track/0ZOhGcUqRx3ifaBsWj0umh",
-          "duration_ms": 176516
-        },
-        {
-          "rank": 35,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -2195,6 +2184,18 @@
           "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR",
           "url": "https://open.spotify.com/track/5ZHXZSLGLg1Ce8rMsT2OoR",
           "duration_ms": 211043
+        },
+        {
+          "rank": 35,
+          "name": "insane",
+          "artists": [
+            "rommulas"
+          ],
+          "album": "insane",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732c70bd15f00d134d7b6459b7",
+          "uri": "spotify:track:0ZOhGcUqRx3ifaBsWj0umh",
+          "url": "https://open.spotify.com/track/0ZOhGcUqRx3ifaBsWj0umh",
+          "duration_ms": 176516
         },
         {
           "rank": 36,
