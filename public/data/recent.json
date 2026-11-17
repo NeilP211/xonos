@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-11-16T21:38:29.937Z",
+  "updated_at": "2026-11-17T06:34:12.007Z",
   "plays": [
-    {
-      "played_at": "2026-07-17T01:12:53.990Z",
-      "name": "Swan Song",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-      "duration_ms": 323475
-    },
-    {
-      "played_at": "2026-07-17T01:16:17.524Z",
-      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fa644aeb3f0226b4f81f45e6",
-      "uri": "spotify:track:3liiZRlJxa8GeLUgWMoIeu",
-      "duration_ms": 203080
-    },
-    {
-      "played_at": "2026-07-17T01:20:07.913Z",
-      "name": "Snow On The Beach (feat. More Lana Del Rey)",
-      "artists": [
-        "Taylor Swift",
-        "Lana Del Rey"
-      ],
-      "album": "Midnights (The Til Dawn Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
-      "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot",
-      "duration_ms": 229942
-    },
     {
       "played_at": "2026-07-17T01:41:12.195Z",
       "name": "Not Our Time - Gymtok Edit",
@@ -22673,6 +22639,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27361e2aee892c41ed7f65dfca2",
       "uri": "spotify:track:70fA3vjK2r6kpHrN6adr9q",
       "duration_ms": 193706
+    },
+    {
+      "played_at": "2026-11-16T22:06:56.246Z",
+      "name": "love illusion - slowed",
+      "artists": [
+        "ilyhiryu"
+      ],
+      "album": "love illusion",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734002943b784d1c9dc55cef32",
+      "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR",
+      "duration_ms": 211043
+    },
+    {
+      "played_at": "2026-11-16T22:10:48.656Z",
+      "name": "Lucky Ones",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2E8b9rCHCWNr0CrZSTVJCT",
+      "duration_ms": 225069
+    },
+    {
+      "played_at": "2026-11-16T23:19:51.699Z",
+      "name": "Lolita",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:696cNqpF2NwRLzC7KqCurz",
+      "duration_ms": 220040
     }
   ]
 }

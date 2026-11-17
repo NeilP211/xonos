@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:38:29.822Z",
+  "generated_at": "2026-11-17T06:34:11.929Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -116,6 +116,18 @@
         },
         {
           "rank": 10,
+          "name": "love illusion - slowed",
+          "artists": [
+            "ilyhiryu"
+          ],
+          "album": "love illusion",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734002943b784d1c9dc55cef32",
+          "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR",
+          "url": "https://open.spotify.com/track/5ZHXZSLGLg1Ce8rMsT2OoR",
+          "duration_ms": 211043
+        },
+        {
+          "rank": 11,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -128,7 +140,7 @@
           "duration_ms": 149860
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -141,7 +153,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "My Soldiers Rage",
           "artists": [
             "Maul"
@@ -153,7 +165,7 @@
           "duration_ms": 174694
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -166,7 +178,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Untitled #13 (Super Slowed)",
           "artists": [
             "glwzbll"
@@ -178,7 +190,7 @@
           "duration_ms": 192000
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Made It Home",
           "artists": [
             "nettspend 2"
@@ -190,7 +202,7 @@
           "duration_ms": 69009
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Mere Khwabon Mein",
           "artists": [
             "Lata Mangeshkar"
@@ -202,7 +214,19 @@
           "duration_ms": 256440
         },
         {
-          "rank": 17,
+          "rank": 18,
+          "name": "Lucky Ones",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:0KBmyn8jDx4t4H1N5gKNUu",
+          "url": "https://open.spotify.com/track/0KBmyn8jDx4t4H1N5gKNUu",
+          "duration_ms": 225946
+        },
+        {
+          "rank": 19,
           "name": "Beating of My Heart - Matisse & Sadko Remix",
           "artists": [
             "M-3ox",
@@ -216,7 +240,7 @@
           "duration_ms": 390000
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Lovely",
           "artists": [
             "Vishal-Shekhar",
@@ -235,7 +259,7 @@
           "duration_ms": 220714
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Jugni Ji",
           "artists": [
             "Dr Zeus",
@@ -248,7 +272,7 @@
           "duration_ms": 206418
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -261,7 +285,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -273,7 +297,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 22,
+          "rank": 24,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -286,7 +310,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 23,
+          "rank": 25,
           "name": "Breathe (In the Air)",
           "artists": [
             "Pink Floyd"
@@ -298,7 +322,7 @@
           "duration_ms": 169560
         },
         {
-          "rank": 24,
+          "rank": 26,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -311,7 +335,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Mixing Bros Cum N My Cum",
           "artists": [
             "Robin Gan"
@@ -323,7 +347,7 @@
           "duration_ms": 54033
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Lies (feat. Lana Del Rey)",
           "artists": [
             "Zach Bryan",
@@ -336,7 +360,7 @@
           "duration_ms": 220588
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -348,7 +372,7 @@
           "duration_ms": 92019
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -360,7 +384,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
           "artists": [
             "Lana Del Rey",
@@ -374,7 +398,7 @@
           "duration_ms": 260672
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -386,7 +410,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Sleepwalker - Slowed",
           "artists": [
             "akiaura",
@@ -400,7 +424,7 @@
           "duration_ms": 258008
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -412,7 +436,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -425,7 +449,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -437,7 +461,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "MBM",
           "artists": [
             "2wo2imes",
@@ -450,7 +474,7 @@
           "duration_ms": 160000
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -462,7 +486,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "On The Floor - Radio Edit",
           "artists": [
             "Jennifer Lopez",
@@ -475,7 +499,7 @@
           "duration_ms": 230906
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -488,7 +512,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Kabhi Khushi Kabhie Gham",
           "artists": [
             "Jatin-Lalit",
@@ -501,21 +525,7 @@
           "duration_ms": 471946
         },
         {
-          "rank": 40,
-          "name": "Shelter Me",
-          "artists": [
-            "Dart Rayne",
-            "Yura Moonlight",
-            "Cate Kanell"
-          ],
-          "album": "Shelter Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
-          "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
-          "url": "https://open.spotify.com/track/19Tg7aUf30PnCKYkFaknM2",
-          "duration_ms": 236375
-        },
-        {
-          "rank": 41,
+          "rank": 42,
           "name": "I'll Wait For You",
           "artists": [
             "Frankie Avalon"
@@ -527,7 +537,7 @@
           "duration_ms": 172574
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -544,7 +554,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -556,7 +566,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -571,7 +581,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Skins",
           "artists": [
             "KREZUS",
@@ -584,7 +594,7 @@
           "duration_ms": 244196
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -599,7 +609,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "cachalot - Very Slowed",
           "artists": [
             "Lyke"
@@ -611,7 +621,7 @@
           "duration_ms": 185806
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Let Me Love You (Until You Learn To Love Yourself)",
           "artists": [
             "Ne-Yo"
@@ -623,7 +633,7 @@
           "duration_ms": 251626
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Dead Highlands",
           "artists": [
             "Sandbox Interactive",
@@ -634,18 +644,6 @@
           "uri": "spotify:track:53jBNdxbRyBDGyZNLWKFC9",
           "url": "https://open.spotify.com/track/53jBNdxbRyBDGyZNLWKFC9",
           "duration_ms": 129962
-        },
-        {
-          "rank": 50,
-          "name": "love illusion - slowed",
-          "artists": [
-            "ilyhiryu"
-          ],
-          "album": "love illusion",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734002943b784d1c9dc55cef32",
-          "uri": "spotify:track:5ZHXZSLGLg1Ce8rMsT2OoR",
-          "url": "https://open.spotify.com/track/5ZHXZSLGLg1Ce8rMsT2OoR",
-          "duration_ms": 211043
         }
       ],
       "artists": [
