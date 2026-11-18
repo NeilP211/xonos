@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-17T18:08:02.942Z",
+  "updated_at": "2026-11-18T02:43:42.760Z",
   "plays": [
-    {
-      "played_at": "2026-07-17T01:41:12.195Z",
-      "name": "Not Our Time - Gymtok Edit",
-      "artists": [
-        "Mqx"
-      ],
-      "album": "Not Our Time (Gymtok Edit)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea8517b04f163136c2558abe",
-      "uri": "spotify:track:3oCa4u7aqWACBekjissZzW",
-      "duration_ms": 150781
-    },
-    {
-      "played_at": "2026-07-17T01:48:01.048Z",
-      "name": "Oppy Friends",
-      "artists": [
-        "Wisteria"
-      ],
-      "album": "Oppy Friends",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cfed5d23f3b6cfefc5d10ab3",
-      "uri": "spotify:track:0mFnkmSa2VTWmZSjBMgFDI",
-      "duration_ms": 120915
-    },
-    {
-      "played_at": "2026-07-17T03:18:48.838Z",
-      "name": "тело - Slowed",
-      "artists": [
-        "DJ ZUP RAlii"
-      ],
-      "album": "тело",
-      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-      "uri": "spotify:track:1MTrxy0bdWujFkAHTQN1FV",
-      "duration_ms": 122610
-    },
     {
       "played_at": "2026-07-17T03:20:07.250Z",
       "name": "Too Legendary - A.T. mixxx",
@@ -22672,6 +22639,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
       "uri": "spotify:track:696cNqpF2NwRLzC7KqCurz",
       "duration_ms": 220040
+    },
+    {
+      "played_at": "2026-11-16T23:21:09.302Z",
+      "name": "shoulder bop",
+      "artists": [
+        "dolo b z",
+        "fckkay"
+      ],
+      "album": "shoulder bop",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f381c6f49014077ae06bbde",
+      "uri": "spotify:track:5mBwmQZNvctjxgcpwxNrcg",
+      "duration_ms": 114821
+    },
+    {
+      "played_at": "2026-11-17T21:09:43.864Z",
+      "name": "shoulder bop",
+      "artists": [
+        "dolo b z",
+        "fckkay"
+      ],
+      "album": "shoulder bop",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f381c6f49014077ae06bbde",
+      "uri": "spotify:track:5mBwmQZNvctjxgcpwxNrcg",
+      "duration_ms": 114821
+    },
+    {
+      "played_at": "2026-11-17T23:09:37.485Z",
+      "name": "glamur)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273675b8dd278fe49259047a21a",
+      "uri": "spotify:track:5s7jljp5h524f4DOCkRoRl",
+      "duration_ms": 90500
     }
   ]
 }
