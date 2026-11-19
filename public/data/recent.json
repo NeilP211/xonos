@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-18T19:58:31.788Z",
+  "updated_at": "2026-11-19T02:15:37.876Z",
   "plays": [
-    {
-      "played_at": "2026-07-17T03:20:07.250Z",
-      "name": "Too Legendary - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Too Legendary (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f07d66027855d6e70ee12ad8",
-      "uri": "spotify:track:5Meubir7Fpss9AKX9fWVfH",
-      "duration_ms": 128300
-    },
     {
       "played_at": "2026-07-17T16:47:05.054Z",
       "name": "Stupid Shit (A.T. mixxx)",
@@ -22674,6 +22662,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273675b8dd278fe49259047a21a",
       "uri": "spotify:track:5s7jljp5h524f4DOCkRoRl",
       "duration_ms": 90500
+    },
+    {
+      "played_at": "2026-11-18T02:56:32.233Z",
+      "name": "I Knew You Were Trouble.",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+      "uri": "spotify:track:72jCZdH0Lhg93z6Z4hBjgj",
+      "duration_ms": 217973
     }
   ]
 }

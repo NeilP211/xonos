@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:58:31.577Z",
+  "generated_at": "2026-11-19T02:15:37.776Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2559,19 +2559,19 @@
         },
         {
           "rank": 25,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 26,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
           "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
+        },
+        {
+          "rank": 26,
+          "name": "Lady Gaga",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "genres": [],
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "rank": 27,
