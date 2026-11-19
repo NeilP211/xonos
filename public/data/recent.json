@@ -1,96 +1,6 @@
 {
-  "updated_at": "2026-11-19T11:07:11.753Z",
+  "updated_at": "2026-11-19T19:56:50.576Z",
   "plays": [
-    {
-      "played_at": "2026-07-17T16:47:05.054Z",
-      "name": "Stupid Shit (A.T. mixxx)",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Stupid Shit (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ceaa57405835e0038c56e92c",
-      "uri": "spotify:track:72LicbonDDWppQG9Cu5oGB",
-      "duration_ms": 104831
-    },
-    {
-      "played_at": "2026-07-17T16:53:13.629Z",
-      "name": "Pink Champagne Lana",
-      "artists": [
-        "LNA43"
-      ],
-      "album": "Pink Champagne Lana",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-      "duration_ms": 359336
-    },
-    {
-      "played_at": "2026-07-17T17:55:31.373Z",
-      "name": "Pink Champagne Lana",
-      "artists": [
-        "LNA43"
-      ],
-      "album": "Pink Champagne Lana",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-      "duration_ms": 359336
-    },
-    {
-      "played_at": "2026-07-17T18:04:30.464Z",
-      "name": "tower of memories",
-      "artists": [
-        "ivri"
-      ],
-      "album": "the theory of you",
-      "image": "https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4",
-      "uri": "spotify:track:3KZTPBbTMFLNbfoQoxEpXn",
-      "duration_ms": 208510
-    },
-    {
-      "played_at": "2026-07-17T18:08:45.996Z",
-      "name": "Hello Juliet",
-      "artists": [
-        "Clarion"
-      ],
-      "album": "Hello Juliet",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736d513d86c5ada0285a77a658",
-      "uri": "spotify:track:0miNQiJqyO5CIZbyLTHO7J",
-      "duration_ms": 208000
-    },
-    {
-      "played_at": "2026-07-17T20:58:58.081Z",
-      "name": "ICH VERACHTE (HARDTEKK) - Slowed & Reverb",
-      "artists": [
-        "blackpilled"
-      ],
-      "album": "ICH VERACHTE (HARDTEKK) [Slowed & Reverb]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b7071fd92ec23d3c950f8bf7",
-      "uri": "spotify:track:1R4vZ0R2b5DTuTfa88Uppa",
-      "duration_ms": 164985
-    },
-    {
-      "played_at": "2026-07-17T21:09:44.375Z",
-      "name": "Растворение - Slowed",
-      "artists": [
-        "DJ ZUP RAlii"
-      ],
-      "album": "Растворение",
-      "image": "https://i.scdn.co/image/ab67616d0000b27327d370c93326a7b32588f9ea",
-      "uri": "spotify:track:7GqofqRFHuZGC4TxRFYvcz",
-      "duration_ms": 101598
-    },
-    {
-      "played_at": "2026-07-17T21:13:08.745Z",
-      "name": "aidotearz_2009 - Slowed",
-      "artists": [
-        "DISGRACEMODE",
-        "GHXSTBLVDE"
-      ],
-      "album": "aidotearz_2009",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a7265f7849e4f3cf0865d575",
-      "uri": "spotify:track:3P1COi9Wyjh48NSGtH5LZY",
-      "duration_ms": 125076
-    },
     {
       "played_at": "2026-07-17T21:16:05.440Z",
       "name": "Glamorous",
@@ -22673,6 +22583,98 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
       "uri": "spotify:track:72jCZdH0Lhg93z6Z4hBjgj",
       "duration_ms": 217973
+    },
+    {
+      "played_at": "2026-11-19T17:07:46.039Z",
+      "name": "Humko Humise Chura Lo",
+      "artists": [
+        "Jatin-Lalit",
+        "Lata Mangeshkar",
+        "Udit Narayan",
+        "Anand Bakshi"
+      ],
+      "album": "Mohabbatein",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305a0d368c0fbf69c9a76bc81",
+      "uri": "spotify:track:4T3VAoUDvCJkX5OSYXnng0",
+      "duration_ms": 473025
+    },
+    {
+      "played_at": "2026-11-19T17:10:33.713Z",
+      "name": "Backdoor",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Took The Biggest Risk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5bca89d48950d2c3a4c2133",
+      "uri": "spotify:track:7iKZ4otNgJxqlM6Ljxg586",
+      "duration_ms": 145454
+    },
+    {
+      "played_at": "2026-11-19T17:13:14.701Z",
+      "name": "GoOd Night",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "GoOd Night",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
+      "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
+      "duration_ms": 109244
+    },
+    {
+      "played_at": "2026-11-19T17:14:58.310Z",
+      "name": "Feeliinuu",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Feeliinuu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
+      "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
+      "duration_ms": 71726
+    },
+    {
+      "played_at": "2026-11-19T17:16:22.008Z",
+      "name": "Model Sex",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Model Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4e911f1b550bcc6582fca43",
+      "uri": "spotify:track:4zUhTMRm7IcJqRhpT2K3c7",
+      "duration_ms": 83429
+    },
+    {
+      "played_at": "2026-11-19T17:19:48.688Z",
+      "name": "wake up",
+      "artists": [
+        "Nettspend",
+        "OsamaSon"
+      ],
+      "album": "wake up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f637c47f51e76510fed5b303",
+      "uri": "spotify:track:31CSh2lhzIfoKxJu8OTFau",
+      "duration_ms": 146446
+    },
+    {
+      "played_at": "2026-11-19T17:21:09.710Z",
+      "name": "funuhyuh",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "funuhyuh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
+      "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
+      "duration_ms": 75347
+    },
+    {
+      "played_at": "2026-11-19T17:28:05.983Z",
+      "name": "Take You Out",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Take You Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732b17bd205f4d7fbebc9be09d",
+      "uri": "spotify:track:0cGjUnkLjOBqFCF8YYuoUA",
+      "duration_ms": 89000
     }
   ]
 }
