@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-11-19T19:56:50.576Z",
+  "updated_at": "2026-11-20T02:00:11.145Z",
   "plays": [
-    {
-      "played_at": "2026-07-17T21:16:05.440Z",
-      "name": "Glamorous",
-      "artists": [
-        "Hospital"
-      ],
-      "album": "Glamorous",
-      "image": "https://i.scdn.co/image/ab67616d0000b273245647adf19d41fd40ba1b11",
-      "uri": "spotify:track:4kPRheORGB5KWqCtKNpNhn",
-      "duration_ms": 128509
-    },
-    {
-      "played_at": "2026-07-17T21:20:25.461Z",
-      "name": "ICH VERACHTE (HARDTEKK) - Slowed & Reverb",
-      "artists": [
-        "blackpilled"
-      ],
-      "album": "ICH VERACHTE (HARDTEKK) [Slowed & Reverb]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b7071fd92ec23d3c950f8bf7",
-      "uri": "spotify:track:1R4vZ0R2b5DTuTfa88Uppa",
-      "duration_ms": 164985
-    },
-    {
-      "played_at": "2026-07-17T21:22:21.237Z",
-      "name": "specialsadism (Slowed)",
-      "artists": [
-        "voidvoice717",
-        "emoslut666"
-      ],
-      "album": "specialsadism 2.0",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cdeedac9440332392efa87e",
-      "uri": "spotify:track:6DuFTbwV6Zb6jXsN1UIyc4",
-      "duration_ms": 109134
-    },
-    {
-      "played_at": "2026-07-17T21:27:51.312Z",
-      "name": "4:26 - Viral Version",
-      "artists": [
-        "ilyhiryu"
-      ],
-      "album": "4:26 (Viral Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736564fe76a9d796e824596040",
-      "uri": "spotify:track:3Y5xnXDbl3jMFmPhFi7the",
-      "duration_ms": 167581
-    },
-    {
-      "played_at": "2026-07-17T21:30:48.442Z",
-      "name": "UPAST - Sped Up",
-      "artists": [
-        "HELLBLADE",
-        "Asphiphilia"
-      ],
-      "album": "UPAST",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
-      "uri": "spotify:track:2EWsY476CQS627mVj4Hrk0",
-      "duration_ms": 76794
-    },
-    {
-      "played_at": "2026-07-17T21:33:08.708Z",
-      "name": "Fright Night",
-      "artists": [
-        "Punkinloveee"
-      ],
-      "album": "Fright Night",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739415446797c83d0cef3dfb7c",
-      "uri": "spotify:track:37rMfRGqRK0Sb7wIK9Z43V",
-      "duration_ms": 91407
-    },
     {
       "played_at": "2026-07-17T21:37:51Z",
       "name": "specialsadism (Speed Up)",
@@ -22675,6 +22607,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732b17bd205f4d7fbebc9be09d",
       "uri": "spotify:track:0cGjUnkLjOBqFCF8YYuoUA",
       "duration_ms": 89000
+    },
+    {
+      "played_at": "2026-11-19T17:45:17.572Z",
+      "name": "Drankdrankdrank",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Drankdrankdrank",
+      "image": "https://i.scdn.co/image/ab67616d0000b273754230b42f1fd9619538fede",
+      "uri": "spotify:track:3W76SNpwKrvIGZV76vsVmQ",
+      "duration_ms": 137669
+    },
+    {
+      "played_at": "2026-11-19T22:16:43.125Z",
+      "name": "Something In The Way",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
+      "duration_ms": 232146
+    },
+    {
+      "played_at": "2026-11-19T22:24:15.685Z",
+      "name": "Silhouette",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Silhouette",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ff0068f58e74e677be844ea",
+      "uri": "spotify:track:3HoGF4zDfQOkNQnUY6W2nH",
+      "duration_ms": 239999
+    },
+    {
+      "played_at": "2026-11-19T22:31:59.268Z",
+      "name": "Untitled #13 (Super Slowed)",
+      "artists": [
+        "glwzbll"
+      ],
+      "album": "Untitled #13 (Super Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d30e3aa73964a66295aa5d47",
+      "uri": "spotify:track:3fC7BKJN66Tyq44x6Try2R",
+      "duration_ms": 192000
+    },
+    {
+      "played_at": "2026-11-19T22:35:04.525Z",
+      "name": "Transgender",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "(III)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38",
+      "uri": "spotify:track:26ZzSLUJMmYp5u1hDELEWH",
+      "duration_ms": 184760
+    },
+    {
+      "played_at": "2026-11-19T22:44:25.270Z",
+      "name": "BABYDOLL",
+      "artists": [
+        "Ari Abdul"
+      ],
+      "album": "BABYDOLL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ef2703ce223d63435928571",
+      "uri": "spotify:track:5rPNVwYjVEgkq6YNPki4Zc",
+      "duration_ms": 196235
     }
   ]
 }
