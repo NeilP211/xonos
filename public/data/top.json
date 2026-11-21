@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:37:06.150Z",
+  "generated_at": "2026-11-21T01:57:35.228Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -43,43 +43,6 @@
         },
         {
           "rank": 4,
-          "name": "run run run",
-          "artists": [
-            "rebug"
-          ],
-          "album": "run run run",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
-          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
-          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
-          "duration_ms": 79464
-        },
-        {
-          "rank": 5,
-          "name": "addiction - Ultra Slowed",
-          "artists": [
-            "LONOWN",
-            "Asenssia"
-          ],
-          "album": "addiction (Ultra Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
-          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
-          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
-          "duration_ms": 277662
-        },
-        {
-          "rank": 6,
-          "name": "Ruk Ja O Dil Deewane",
-          "artists": [
-            "Udit Narayan"
-          ],
-          "album": "Dilwale Dulhania Le Jayenge",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732458b3ff529345f251a6d001",
-          "uri": "spotify:track:3LllvNPZFMxJ4vLWuUBAHG",
-          "url": "https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG",
-          "duration_ms": 310453
-        },
-        {
-          "rank": 7,
           "name": "shoulder bop",
           "artists": [
             "dolo b z",
@@ -92,7 +55,56 @@
           "duration_ms": 114821
         },
         {
+          "rank": 5,
+          "name": "run run run",
+          "artists": [
+            "rebug"
+          ],
+          "album": "run run run",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+          "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+          "url": "https://open.spotify.com/track/3jc5lztSxb84byWpQqrHME",
+          "duration_ms": 79464
+        },
+        {
+          "rank": 6,
+          "name": "addiction - Ultra Slowed",
+          "artists": [
+            "LONOWN",
+            "Asenssia"
+          ],
+          "album": "addiction (Ultra Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273368a9e6bc619a6ee67767804",
+          "uri": "spotify:track:6zWGGzHdOzIdNJ8hr9rE20",
+          "url": "https://open.spotify.com/track/6zWGGzHdOzIdNJ8hr9rE20",
+          "duration_ms": 277662
+        },
+        {
+          "rank": 7,
+          "name": "Ruk Ja O Dil Deewane",
+          "artists": [
+            "Udit Narayan"
+          ],
+          "album": "Dilwale Dulhania Le Jayenge",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732458b3ff529345f251a6d001",
+          "uri": "spotify:track:3LllvNPZFMxJ4vLWuUBAHG",
+          "url": "https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG",
+          "duration_ms": 310453
+        },
+        {
           "rank": 8,
+          "name": "cachalot - Very Slowed",
+          "artists": [
+            "Lyke"
+          ],
+          "album": "cachalot (Very Slowed)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27333aeab242dbe9c6297dd5410",
+          "uri": "spotify:track:4VHX3urPMRG8puGlSJnJSe",
+          "url": "https://open.spotify.com/track/4VHX3urPMRG8puGlSJnJSe",
+          "duration_ms": 185806
+        },
+        {
+          "rank": 9,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -104,7 +116,7 @@
           "duration_ms": 239379
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -117,7 +129,7 @@
           "duration_ms": 149860
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -130,19 +142,19 @@
           "duration_ms": 255591
         },
         {
-          "rank": 11,
-          "name": "cachalot - Very Slowed",
+          "rank": 12,
+          "name": "I Knew You Were Trouble.",
           "artists": [
-            "Lyke"
+            "Taylor Swift"
           ],
-          "album": "cachalot (Very Slowed)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27333aeab242dbe9c6297dd5410",
-          "uri": "spotify:track:4VHX3urPMRG8puGlSJnJSe",
-          "url": "https://open.spotify.com/track/4VHX3urPMRG8puGlSJnJSe",
-          "duration_ms": 185806
+          "album": "Red",
+          "image": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+          "uri": "spotify:track:72jCZdH0Lhg93z6Z4hBjgj",
+          "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj",
+          "duration_ms": 217973
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Made It Home",
           "artists": [
             "nettspend 2"
@@ -154,7 +166,7 @@
           "duration_ms": 69009
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -166,7 +178,7 @@
           "duration_ms": 92019
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -178,7 +190,7 @@
           "duration_ms": 211043
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Mere Khwabon Mein",
           "artists": [
             "Lata Mangeshkar"
@@ -190,7 +202,19 @@
           "duration_ms": 256440
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "name": "glamur) (super slowed)",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "glamur)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
+          "duration_ms": 129285
+        },
+        {
+          "rank": 18,
           "name": "Lucky Ones",
           "artists": [
             "Lana Del Rey"
@@ -202,7 +226,7 @@
           "duration_ms": 225946
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -215,7 +239,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -227,7 +251,7 @@
           "duration_ms": 109244
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Lovely",
           "artists": [
             "Vishal-Shekhar",
@@ -246,7 +270,7 @@
           "duration_ms": 220714
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "Jugni Ji",
           "artists": [
             "Dr Zeus",
@@ -259,7 +283,7 @@
           "duration_ms": 206418
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Dead Mountain",
           "artists": [
             "Sandbox Interactive",
@@ -272,7 +296,7 @@
           "duration_ms": 157442
         },
         {
-          "rank": 22,
+          "rank": 24,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -284,7 +308,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 23,
+          "rank": 25,
           "name": "The Keepers",
           "artists": [
             "Sandbox Interactive",
@@ -297,7 +321,7 @@
           "duration_ms": 166224
         },
         {
-          "rank": 24,
+          "rank": 26,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -309,7 +333,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Breathe (In the Air)",
           "artists": [
             "Pink Floyd"
@@ -321,7 +345,7 @@
           "duration_ms": 169560
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -334,7 +358,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Mixing Bros Cum N My Cum",
           "artists": [
             "Robin Gan"
@@ -346,7 +370,7 @@
           "duration_ms": 54033
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Lies (feat. Lana Del Rey)",
           "artists": [
             "Zach Bryan",
@@ -359,7 +383,7 @@
           "duration_ms": 220588
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Humko Humise Chura Lo",
           "artists": [
             "Jatin-Lalit",
@@ -374,7 +398,7 @@
           "duration_ms": 473025
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -386,7 +410,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -398,7 +422,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
           "artists": [
             "Lana Del Rey",
@@ -412,7 +436,7 @@
           "duration_ms": 260672
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -424,7 +448,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -436,7 +460,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -449,7 +473,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -461,7 +485,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "MBM",
           "artists": [
             "2wo2imes",
@@ -474,7 +498,7 @@
           "duration_ms": 160000
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -486,7 +510,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "On The Floor - Radio Edit",
           "artists": [
             "Jennifer Lopez",
@@ -499,7 +523,7 @@
           "duration_ms": 230906
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -512,7 +536,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -524,7 +548,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Kabhi Khushi Kabhie Gham",
           "artists": [
             "Jatin-Lalit",
@@ -537,7 +561,7 @@
           "duration_ms": 471946
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Collar of Truth",
           "artists": [
             "xaviorthemachine",
@@ -551,7 +575,7 @@
           "duration_ms": 192052
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "I'll Wait For You",
           "artists": [
             "Frankie Avalon"
@@ -563,7 +587,7 @@
           "duration_ms": 174940
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -580,7 +604,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -592,7 +616,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -604,7 +628,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -617,31 +641,6 @@
           "uri": "spotify:track:3Z7f8dudlMIlbKE3anuX0A",
           "url": "https://open.spotify.com/track/3Z7f8dudlMIlbKE3anuX0A",
           "duration_ms": 219036
-        },
-        {
-          "rank": 49,
-          "name": "Let Me Love You (Until You Learn To Love Yourself)",
-          "artists": [
-            "Ne-Yo"
-          ],
-          "album": "R.E.D. (Deluxe Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27314f5c10de370e6d48d142629",
-          "uri": "spotify:track:4kte3OcW800TPvOVgrLLj8",
-          "url": "https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8",
-          "duration_ms": 251626
-        },
-        {
-          "rank": 50,
-          "name": "Dead Highlands",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:53jBNdxbRyBDGyZNLWKFC9",
-          "url": "https://open.spotify.com/track/53jBNdxbRyBDGyZNLWKFC9",
-          "duration_ms": 129962
         }
       ],
       "artists": [
