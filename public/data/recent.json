@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-21T01:57:35.367Z",
+  "updated_at": "2026-11-21T10:38:56.017Z",
   "plays": [
-    {
-      "played_at": "2026-07-17T22:22:20.069Z",
-      "name": "I Don't Care",
-      "artists": [
-        "VIOLENT VIRA"
-      ],
-      "album": "I Don't Care",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
-      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
-      "duration_ms": 181028
-    },
-    {
-      "played_at": "2026-07-17T22:31:57.586Z",
-      "name": "Sad But True (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Metallica (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
-      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
-      "duration_ms": 324600
-    },
-    {
-      "played_at": "2026-07-17T22:38:24.434Z",
-      "name": "Pink Champagne Lana",
-      "artists": [
-        "LNA43"
-      ],
-      "album": "Pink Champagne Lana",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dbf3513da328f3ef0b8655d",
-      "uri": "spotify:track:2HVaVrAYe529v1wtUVdpZN",
-      "duration_ms": 359336
-    },
     {
       "played_at": "2026-07-18T00:34:51.593Z",
       "name": "Ritmo - Slowed Down",
@@ -22674,6 +22641,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
       "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
       "duration_ms": 129285
+    },
+    {
+      "played_at": "2026-11-20T23:54:00.740Z",
+      "name": "Glimmer of hope",
+      "artists": [
+        "Tevvez"
+      ],
+      "album": "Obsidian",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4fc6f8ff4d363cd5b1ed43d",
+      "uri": "spotify:track:02p8XmQFdXsIlJ5x7kUjx6",
+      "duration_ms": 176280
+    },
+    {
+      "played_at": "2026-11-21T05:55:30.333Z",
+      "name": "Beneficial For AnyBody",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Beneficial For AnyBody",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1c50c9c056b46c1a60c85af",
+      "uri": "spotify:track:2TrFOpnzzPU1AkGYjCJe0O",
+      "duration_ms": 178329
+    },
+    {
+      "played_at": "2026-11-21T10:26:28.874Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+      "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
+      "duration_ms": 135510
     }
   ]
 }
