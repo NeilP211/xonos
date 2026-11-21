@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-21T10:38:56.017Z",
+  "updated_at": "2026-11-21T18:41:46.941Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T00:34:51.593Z",
-      "name": "Ritmo - Slowed Down",
-      "artists": [
-        "Raffa Fl"
-      ],
-      "album": "Ritmo (Versions)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fee1f00b2e0aa2fd58e493e7",
-      "uri": "spotify:track:2SeR6LQy7UQd8J0cwisJfe",
-      "duration_ms": 199471
-    },
     {
       "played_at": "2026-07-18T00:40:30.672Z",
       "name": "UPAST - Sped Up",
@@ -22675,6 +22664,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
       "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
       "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-11-21T10:31:31.921Z",
+      "name": "2 da spot",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "2 da spot",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344760962230fe31217598500",
+      "uri": "spotify:track:5oGMyJwnSIh2qP42t4yPU9",
+      "duration_ms": 142013
     }
   ]
 }
