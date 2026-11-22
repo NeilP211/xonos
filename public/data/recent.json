@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-11-21T18:41:46.941Z",
+  "updated_at": "2026-11-22T00:56:25.178Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T00:40:30.672Z",
-      "name": "UPAST - Sped Up",
-      "artists": [
-        "HELLBLADE",
-        "Asphiphilia"
-      ],
-      "album": "UPAST",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c721587bfc9e025ad5199e76",
-      "uri": "spotify:track:2EWsY476CQS627mVj4Hrk0",
-      "duration_ms": 76794
-    },
-    {
-      "played_at": "2026-07-18T00:43:07.992Z",
-      "name": "Vlone - Super Slowed Hardcore Remix",
-      "artists": [
-        "tapzen"
-      ],
-      "album": "Vlone (Hardcore Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
-      "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
-      "duration_ms": 156894
-    },
     {
       "played_at": "2026-07-18T00:44:40.893Z",
       "name": "TIMELESS - SLOWED",
@@ -22675,6 +22652,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27344760962230fe31217598500",
       "uri": "spotify:track:5oGMyJwnSIh2qP42t4yPU9",
       "duration_ms": 142013
+    },
+    {
+      "played_at": "2026-11-21T21:55:31.601Z",
+      "name": "Old Money",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:6IfPyMb0Sxptpx6jBUATOS",
+      "duration_ms": 271480
+    },
+    {
+      "played_at": "2026-11-21T22:05:55.651Z",
+      "name": "glamur) (super slowed)",
+      "artists": [
+        "DJ ZUP RAlii"
+      ],
+      "album": "glamur)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+      "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+      "duration_ms": 129285
     }
   ]
 }
