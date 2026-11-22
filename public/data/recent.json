@@ -1,62 +1,6 @@
 {
-  "updated_at": "2026-11-22T10:42:32.942Z",
+  "updated_at": "2026-11-22T19:01:41.900Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T00:44:40.893Z",
-      "name": "TIMELESS - SLOWED",
-      "artists": [
-        "YXMI",
-        "evrywxre"
-      ],
-      "album": "TIMELESS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ac378f5aa0dc84e13db45c32",
-      "uri": "spotify:track:7K91aURtzolXtlcSDG0xGg",
-      "duration_ms": 92406
-    },
-    {
-      "played_at": "2026-07-18T04:23:23.828Z",
-      "name": "ICH VERACHTE (HARDTEKK) - Slowed & Reverb",
-      "artists": [
-        "blackpilled"
-      ],
-      "album": "ICH VERACHTE (HARDTEKK) [Slowed & Reverb]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b7071fd92ec23d3c950f8bf7",
-      "uri": "spotify:track:1R4vZ0R2b5DTuTfa88Uppa",
-      "duration_ms": 164985
-    },
-    {
-      "played_at": "2026-07-18T04:30:25.458Z",
-      "name": "Vlone - Super Slowed Hardcore Remix",
-      "artists": [
-        "tapzen"
-      ],
-      "album": "Vlone (Hardcore Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
-      "uri": "spotify:track:6LwBcLU3L2wDNAb0O160iS",
-      "duration_ms": 156894
-    },
-    {
-      "played_at": "2026-07-18T04:33:10.899Z",
-      "name": "ICH VERACHTE (HARDTEKK) - Slowed & Reverb",
-      "artists": [
-        "blackpilled"
-      ],
-      "album": "ICH VERACHTE (HARDTEKK) [Slowed & Reverb]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b7071fd92ec23d3c950f8bf7",
-      "uri": "spotify:track:1R4vZ0R2b5DTuTfa88Uppa",
-      "duration_ms": 164985
-    },
-    {
-      "played_at": "2026-07-18T04:33:26.686Z",
-      "name": "Freak",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:3sYDVtqO35oRSOIMx7dOqR",
-      "duration_ms": 295093
-    },
     {
       "played_at": "2026-07-18T14:34:17.256Z",
       "name": "Hit the Wall",
@@ -22674,6 +22618,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
       "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
       "duration_ms": 129285
+    },
+    {
+      "played_at": "2026-11-22T18:16:00.065Z",
+      "name": "GoOd Night",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "GoOd Night",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
+      "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
+      "duration_ms": 109244
+    },
+    {
+      "played_at": "2026-11-22T18:17:27.325Z",
+      "name": "open the door",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "open the door",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bfad686f153fc6f1a4b56e6a",
+      "uri": "spotify:track:4zVObaSKVFFcQSCvz38IJF",
+      "duration_ms": 69892
+    },
+    {
+      "played_at": "2026-11-22T18:20:33.453Z",
+      "name": "what zit tooya",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:0XU0CyDnYsKe5RNQcpOoCC",
+      "duration_ms": 84373
+    },
+    {
+      "played_at": "2026-11-22T18:28:57.897Z",
+      "name": "Chubina",
+      "artists": [
+        "East Duo"
+      ],
+      "album": "ჩუბინა",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee40da1a354719418a2cbb6d",
+      "uri": "spotify:track:4fM10RegWg0anIxBlJvjc5",
+      "duration_ms": 90607
+    },
+    {
+      "played_at": "2026-11-22T18:38:14.100Z",
+      "name": "Made In Romania",
+      "artists": [
+        "Ionut Cercel"
+      ],
+      "album": "Sapte Trandafiri",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d9025fa8b9a18bd42d4e059d",
+      "uri": "spotify:track:0NlIDdVoqFEWOyjdhH4r1b",
+      "duration_ms": 245026
     }
   ]
 }
