@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:56:24.965Z",
+  "generated_at": "2026-11-22T10:42:32.861Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -785,6 +785,18 @@
         },
         {
           "rank": 5,
+          "name": "glamur) (super slowed)",
+          "artists": [
+            "DJ ZUP RAlii"
+          ],
+          "album": "glamur)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
+          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
+          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
+          "duration_ms": 129285
+        },
+        {
+          "rank": 6,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -797,7 +809,7 @@
           "duration_ms": 149860
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "addiction - Slowed",
           "artists": [
             "LONOWN",
@@ -810,7 +822,7 @@
           "duration_ms": 233480
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Where Are Ü Now (with Justin Bieber)",
           "artists": [
             "Jack Ü",
@@ -825,7 +837,7 @@
           "duration_ms": 250285
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "A New Kind Of Love - Demo",
           "artists": [
             "Frou Frou",
@@ -837,18 +849,6 @@
           "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
           "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H",
           "duration_ms": 259071
-        },
-        {
-          "rank": 9,
-          "name": "glamur) (super slowed)",
-          "artists": [
-            "DJ ZUP RAlii"
-          ],
-          "album": "glamur)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273406523391cf736f0d636f4e7",
-          "uri": "spotify:track:09QH8Gsuv92l7yVYAvG7Yi",
-          "url": "https://open.spotify.com/track/09QH8Gsuv92l7yVYAvG7Yi",
-          "duration_ms": 129285
         },
         {
           "rank": 10,
@@ -1379,7 +1379,7 @@
         {
           "rank": 3,
           "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c2f28c0966257f05c1dc00d8",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd6ef711a165748c98860391",
           "genres": [],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
@@ -2405,7 +2405,7 @@
         {
           "rank": 4,
           "name": "DJ ZUP RAlii",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c2f28c0966257f05c1dc00d8",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd6ef711a165748c98860391",
           "genres": [],
           "uri": "spotify:artist:6ZzWQv9hIaPGiODRE0cMEB",
           "url": "https://open.spotify.com/artist/6ZzWQv9hIaPGiODRE0cMEB"
