@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:01:41.795Z",
+  "generated_at": "2026-11-23T01:23:53.868Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -117,6 +117,18 @@
         },
         {
           "rank": 10,
+          "name": "GoOd Night",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "GoOd Night",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f097b76b7863aebe0922922",
+          "uri": "spotify:track:1AttxNFIuVzN5N5xYClWYJ",
+          "url": "https://open.spotify.com/track/1AttxNFIuVzN5N5xYClWYJ",
+          "duration_ms": 109244
+        },
+        {
+          "rank": 11,
           "name": "tell me that u love me (slowed)",
           "artists": [
             "SUICIDAL-IDOL",
@@ -129,7 +141,7 @@
           "duration_ms": 149860
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "worry - ultra slowed",
           "artists": [
             "LONOWN",
@@ -142,7 +154,7 @@
           "duration_ms": 255591
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "I Knew You Were Trouble.",
           "artists": [
             "Taylor Swift"
@@ -154,7 +166,7 @@
           "duration_ms": 217973
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Made It Home",
           "artists": [
             "nettspend 2"
@@ -166,7 +178,7 @@
           "duration_ms": 69009
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "What they say",
           "artists": [
             "Nettspend"
@@ -178,7 +190,7 @@
           "duration_ms": 92019
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "love illusion - slowed",
           "artists": [
             "ilyhiryu"
@@ -190,7 +202,19 @@
           "duration_ms": 211043
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "name": "Suntem Made In Romania",
+          "artists": [
+            "Ionut Cercel"
+          ],
+          "album": "Manele Made in Romania",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f7e31aba883afa40c943a99",
+          "uri": "spotify:track:6Pm0RAAL6sZw6atimv2eeo",
+          "url": "https://open.spotify.com/track/6Pm0RAAL6sZw6atimv2eeo",
+          "duration_ms": 245382
+        },
+        {
+          "rank": 18,
           "name": "Mere Khwabon Mein",
           "artists": [
             "Lata Mangeshkar"
@@ -202,7 +226,7 @@
           "duration_ms": 256440
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Glimmer of hope",
           "artists": [
             "Tevvez"
@@ -214,7 +238,7 @@
           "duration_ms": 176280
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Lucky Ones",
           "artists": [
             "Lana Del Rey"
@@ -226,7 +250,7 @@
           "duration_ms": 225946
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Lost at Sea",
           "artists": [
             "Rob Grant",
@@ -239,19 +263,7 @@
           "duration_ms": 187906
         },
         {
-          "rank": 20,
-          "name": "GoOd Night",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "GoOd Night",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f097b76b7863aebe0922922",
-          "uri": "spotify:track:1AttxNFIuVzN5N5xYClWYJ",
-          "url": "https://open.spotify.com/track/1AttxNFIuVzN5N5xYClWYJ",
-          "duration_ms": 109244
-        },
-        {
-          "rank": 21,
+          "rank": 22,
           "name": "Lovely",
           "artists": [
             "Vishal-Shekhar",
@@ -270,7 +282,7 @@
           "duration_ms": 220714
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Jugni Ji",
           "artists": [
             "Dr Zeus",
@@ -283,7 +295,7 @@
           "duration_ms": 206418
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -295,7 +307,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -307,7 +319,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Breathe (In the Air)",
           "artists": [
             "Pink Floyd"
@@ -319,7 +331,7 @@
           "duration_ms": 169560
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -332,7 +344,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Mixing Bros Cum N My Cum",
           "artists": [
             "Robin Gan"
@@ -344,7 +356,7 @@
           "duration_ms": 54033
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Lies (feat. Lana Del Rey)",
           "artists": [
             "Zach Bryan",
@@ -357,7 +369,7 @@
           "duration_ms": 220588
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Humko Humise Chura Lo",
           "artists": [
             "Jatin-Lalit",
@@ -372,7 +384,7 @@
           "duration_ms": 473025
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -384,7 +396,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
           "artists": [
             "Lana Del Rey",
@@ -398,7 +410,7 @@
           "duration_ms": 260672
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -410,7 +422,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -422,7 +434,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -435,7 +447,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -447,7 +459,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "MBM",
           "artists": [
             "2wo2imes",
@@ -460,7 +472,7 @@
           "duration_ms": 160000
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -472,7 +484,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -485,7 +497,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -497,7 +509,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Kabhi Khushi Kabhie Gham",
           "artists": [
             "Jatin-Lalit",
@@ -510,7 +522,7 @@
           "duration_ms": 471946
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Collar of Truth",
           "artists": [
             "xaviorthemachine",
@@ -524,7 +536,7 @@
           "duration_ms": 192052
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "I'll Wait For You",
           "artists": [
             "Frankie Avalon"
@@ -536,7 +548,7 @@
           "duration_ms": 174940
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -553,7 +565,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -565,7 +577,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -577,7 +589,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -589,7 +601,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -604,7 +616,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Let Me Love You (Until You Learn To Love Yourself)",
           "artists": [
             "Ne-Yo"
@@ -616,28 +628,16 @@
           "duration_ms": 251626
         },
         {
-          "rank": 49,
-          "name": "Dawn of the Sun",
-          "artists": [
-            "softsurf"
-          ],
-          "album": "Into the Dream",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ad9723af7930c8ce617b5b75",
-          "uri": "spotify:track:5aF5DeX3VGCp3qFZ8hXtp5",
-          "url": "https://open.spotify.com/track/5aF5DeX3VGCp3qFZ8hXtp5",
-          "duration_ms": 244133
-        },
-        {
           "rank": 50,
-          "name": "Demons",
+          "name": "Model Sex",
           "artists": [
-            "Imagine Dragons"
+            "Nettspend"
           ],
-          "album": "Night Visions",
-          "image": "https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737",
-          "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR",
-          "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
-          "duration_ms": 177506
+          "album": "Model Sex",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d4e911f1b550bcc6582fca43",
+          "uri": "spotify:track:4zUhTMRm7IcJqRhpT2K3c7",
+          "url": "https://open.spotify.com/track/4zUhTMRm7IcJqRhpT2K3c7",
+          "duration_ms": 83429
         }
       ],
       "artists": [
