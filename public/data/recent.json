@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-23T23:23:15.268Z",
+  "updated_at": "2026-11-24T08:25:45.354Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T14:34:17.256Z",
-      "name": "Hit the Wall",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "Daughter from Hell",
-      "image": "https://i.scdn.co/image/ab67616d0000b27399bc33b47a0a67fd50783055",
-      "uri": "spotify:track:61Oyg0lrAOMjBpEStqfOZ1",
-      "duration_ms": 194376
-    },
-    {
-      "played_at": "2026-07-18T17:10:41.059Z",
-      "name": "Take Me Home, Country Roads",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Take Me Home, Country Roads",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c6c1ca8d317e97873de0cbeb",
-      "uri": "spotify:track:7qF0FfuzBFwMe1lNHkEDxW",
-      "duration_ms": 166676
-    },
     {
       "played_at": "2026-07-18T17:19:02.378Z",
       "name": "TIMELESS - SLOWED",
@@ -22673,6 +22651,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d9025fa8b9a18bd42d4e059d",
       "uri": "spotify:track:0NlIDdVoqFEWOyjdhH4r1b",
       "duration_ms": 245026
+    },
+    {
+      "played_at": "2026-11-22T19:31:14.286Z",
+      "name": "Maneaua Femeilor",
+      "artists": [
+        "Ionut Cercel"
+      ],
+      "album": "Stapanul Manelelor, Vol. 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d4a46b590bd945397c760a8",
+      "uri": "spotify:track:2wLtjLIPJ8XHoC4ZTNn2t7",
+      "duration_ms": 253586
+    },
+    {
+      "played_at": "2026-11-24T05:43:55.788Z",
+      "name": "Zelda / Playtime",
+      "artists": [
+        "Sleezy Bands",
+        "10K",
+        "Kizz"
+      ],
+      "album": "Zelda / Playtime",
+      "image": "https://i.scdn.co/image/ab67616d0000b27347d17b5f9baeb719ae487e8b",
+      "uri": "spotify:track:1f9lCAKrbqB1YTCXwWPtYH",
+      "duration_ms": 225140
     }
   ]
 }

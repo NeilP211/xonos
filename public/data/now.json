@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-11-23T23:23:15.412Z",
+  "updated_at": "2026-11-24T08:25:45.466Z",
   "is_playing": false,
   "track": {
-    "name": "Made In Romania",
+    "name": "Zelda / Playtime",
     "artists": [
-      "Ionut Cercel"
+      "Sleezy Bands",
+      "10K",
+      "Kizz"
     ],
-    "album": "Sapte Trandafiri",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d9025fa8b9a18bd42d4e059d",
-    "uri": "spotify:track:0NlIDdVoqFEWOyjdhH4r1b"
+    "album": "Zelda / Playtime",
+    "image": "https://i.scdn.co/image/ab67616d0000b27347d17b5f9baeb719ae487e8b",
+    "uri": "spotify:track:1f9lCAKrbqB1YTCXwWPtYH"
   },
-  "played_at": "2026-11-22T18:38:14.100Z"
+  "played_at": "2026-11-24T05:43:55.788Z"
 }

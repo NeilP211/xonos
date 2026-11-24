@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:23:15.187Z",
+  "generated_at": "2026-11-24T08:25:45.189Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -296,6 +296,20 @@
         },
         {
           "rank": 24,
+          "name": "Zelda / Playtime",
+          "artists": [
+            "Sleezy Bands",
+            "10K",
+            "Kizz"
+          ],
+          "album": "Zelda / Playtime",
+          "image": "https://i.scdn.co/image/ab67616d0000b27347d17b5f9baeb719ae487e8b",
+          "uri": "spotify:track:1f9lCAKrbqB1YTCXwWPtYH",
+          "url": "https://open.spotify.com/track/1f9lCAKrbqB1YTCXwWPtYH",
+          "duration_ms": 225140
+        },
+        {
+          "rank": 25,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -307,7 +321,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -319,7 +333,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Breathe (In the Air)",
           "artists": [
             "Pink Floyd"
@@ -331,7 +345,7 @@
           "duration_ms": 169560
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -344,7 +358,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Mixing Bros Cum N My Cum",
           "artists": [
             "Robin Gan"
@@ -356,7 +370,7 @@
           "duration_ms": 54033
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Lies (feat. Lana Del Rey)",
           "artists": [
             "Zach Bryan",
@@ -369,7 +383,7 @@
           "duration_ms": 220588
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Humko Humise Chura Lo",
           "artists": [
             "Jatin-Lalit",
@@ -384,7 +398,7 @@
           "duration_ms": 473025
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -396,7 +410,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
           "artists": [
             "Lana Del Rey",
@@ -410,7 +424,7 @@
           "duration_ms": 260672
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Wild At Heart",
           "artists": [
             "Lana Del Rey"
@@ -422,7 +436,7 @@
           "duration_ms": 246609
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "glamur)",
           "artists": [
             "DJ ZUP RAlii"
@@ -434,7 +448,7 @@
           "duration_ms": 90500
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "U Weren't Here I Really Miss You",
           "artists": [
             "Cult Member",
@@ -447,7 +461,7 @@
           "duration_ms": 160194
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Copy My Flow",
           "artists": [
             "Glokk40Spaz"
@@ -459,7 +473,7 @@
           "duration_ms": 78393
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "MBM",
           "artists": [
             "2wo2imes",
@@ -472,7 +486,7 @@
           "duration_ms": 160000
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -484,7 +498,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -497,7 +511,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -509,7 +523,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Kabhi Khushi Kabhie Gham",
           "artists": [
             "Jatin-Lalit",
@@ -522,7 +536,7 @@
           "duration_ms": 471946
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Collar of Truth",
           "artists": [
             "xaviorthemachine",
@@ -536,7 +550,7 @@
           "duration_ms": 192052
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "I'll Wait For You",
           "artists": [
             "Frankie Avalon"
@@ -548,7 +562,7 @@
           "duration_ms": 174940
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -565,7 +579,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -577,7 +591,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -589,7 +603,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -601,7 +615,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -614,18 +628,6 @@
           "uri": "spotify:track:3Z7f8dudlMIlbKE3anuX0A",
           "url": "https://open.spotify.com/track/3Z7f8dudlMIlbKE3anuX0A",
           "duration_ms": 219036
-        },
-        {
-          "rank": 49,
-          "name": "Let Me Love You (Until You Learn To Love Yourself)",
-          "artists": [
-            "Ne-Yo"
-          ],
-          "album": "R.E.D. (Deluxe Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27314f5c10de370e6d48d142629",
-          "uri": "spotify:track:4kte3OcW800TPvOVgrLLj8",
-          "url": "https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8",
-          "duration_ms": 251626
         },
         {
           "rank": 50,
