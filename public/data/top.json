@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:25:45.189Z",
+  "generated_at": "2026-11-24T19:55:39.866Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -487,6 +487,20 @@
         },
         {
           "rank": 39,
+          "name": "EOS",
+          "artists": [
+            "Yagi B",
+            "Set Da Trend",
+            "Dougie B"
+          ],
+          "album": "EOS",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730f0c80bd72b6ce315a899a9d",
+          "uri": "spotify:track:7cNg6XwVNsAhN04rCK55bY",
+          "url": "https://open.spotify.com/track/7cNg6XwVNsAhN04rCK55bY",
+          "duration_ms": 150857
+        },
+        {
+          "rank": 40,
           "name": "cachalot",
           "artists": [
             "ONDA ANDAR"
@@ -498,7 +512,7 @@
           "duration_ms": 120685
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Don't Let Me Down",
           "artists": [
             "The Chainsmokers",
@@ -511,7 +525,7 @@
           "duration_ms": 208053
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "я не счастлив - Super Slowed",
           "artists": [
             "STAKILLAZ"
@@ -523,7 +537,7 @@
           "duration_ms": 130909
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Kabhi Khushi Kabhie Gham",
           "artists": [
             "Jatin-Lalit",
@@ -536,7 +550,7 @@
           "duration_ms": 471946
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Collar of Truth",
           "artists": [
             "xaviorthemachine",
@@ -550,7 +564,7 @@
           "duration_ms": 192052
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "I'll Wait For You",
           "artists": [
             "Frankie Avalon"
@@ -562,7 +576,7 @@
           "duration_ms": 174940
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -579,7 +593,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Embrace",
           "artists": [
             "Pastel Ghost"
@@ -591,7 +605,7 @@
           "duration_ms": 204124
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -603,7 +617,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Playing Dangerous",
           "artists": [
             "ceZk"
@@ -615,7 +629,7 @@
           "duration_ms": 207124
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -628,18 +642,6 @@
           "uri": "spotify:track:3Z7f8dudlMIlbKE3anuX0A",
           "url": "https://open.spotify.com/track/3Z7f8dudlMIlbKE3anuX0A",
           "duration_ms": 219036
-        },
-        {
-          "rank": 50,
-          "name": "Model Sex",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "Model Sex",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d4e911f1b550bcc6582fca43",
-          "uri": "spotify:track:4zUhTMRm7IcJqRhpT2K3c7",
-          "url": "https://open.spotify.com/track/4zUhTMRm7IcJqRhpT2K3c7",
-          "duration_ms": 83429
         }
       ],
       "artists": [

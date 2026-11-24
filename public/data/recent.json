@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-11-24T08:25:45.354Z",
+  "updated_at": "2026-11-24T19:55:39.993Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T17:19:02.378Z",
-      "name": "TIMELESS - SLOWED",
-      "artists": [
-        "YXMI",
-        "evrywxre"
-      ],
-      "album": "TIMELESS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ac378f5aa0dc84e13db45c32",
-      "uri": "spotify:track:7K91aURtzolXtlcSDG0xGg",
-      "duration_ms": 92406
-    },
-    {
-      "played_at": "2026-07-18T17:21:23.655Z",
-      "name": "Vlone - Slowed Hardcore Remix",
-      "artists": [
-        "tapzen"
-      ],
-      "album": "Vlone (Hardcore Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ed645c5b22f10ea4d0821036",
-      "uri": "spotify:track:7MM0P08kGAhm4a5jjBLJ26",
-      "duration_ms": 140831
-    },
     {
       "played_at": "2026-07-18T17:27:57.180Z",
       "name": "Moosy - Mega Slowed",
@@ -22675,6 +22652,32 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27347d17b5f9baeb719ae487e8b",
       "uri": "spotify:track:1f9lCAKrbqB1YTCXwWPtYH",
       "duration_ms": 225140
+    },
+    {
+      "played_at": "2026-11-24T17:57:55.450Z",
+      "name": "EOS",
+      "artists": [
+        "Yagi B",
+        "Set Da Trend",
+        "Dougie B"
+      ],
+      "album": "EOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f0c80bd72b6ce315a899a9d",
+      "uri": "spotify:track:7cNg6XwVNsAhN04rCK55bY",
+      "duration_ms": 150857
+    },
+    {
+      "played_at": "2026-11-24T18:00:16.765Z",
+      "name": "Macarena Bop",
+      "artists": [
+        "mikeynyc",
+        "Jahballa",
+        "Ibu DaDon"
+      ],
+      "album": "Macarena Bop",
+      "image": "https://i.scdn.co/image/ab67616d0000b27366ed5b883f66482dca770a91",
+      "uri": "spotify:track:2SyehiQN3GQkKWh7Tkdg0b",
+      "duration_ms": 124852
     }
   ]
 }
