@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-28T01:05:19.637Z",
+  "updated_at": "2026-11-28T11:21:18.477Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T17:48:56.263Z",
-      "name": "Wave",
-      "artists": [
-        "443RAVES"
-      ],
-      "album": "Wave",
-      "image": "https://i.scdn.co/image/ab67616d0000b27348c35f2f98bbb5807fc60d7f",
-      "uri": "spotify:track:4sE2vY2gwoUcPW485d0vFY",
-      "duration_ms": 71772
-    },
-    {
-      "played_at": "2026-07-18T17:51:42.791Z",
-      "name": "тело - Super Slowed",
-      "artists": [
-        "DJ ZUP RAlii"
-      ],
-      "album": "тело",
-      "image": "https://i.scdn.co/image/ab67616d0000b27302d9510cdffa4c16273bdc1f",
-      "uri": "spotify:track:5geork5sU3UClEhyrskqoZ",
-      "duration_ms": 136062
-    },
     {
       "played_at": "2026-07-18T17:56:42.129Z",
       "name": "wush_2 - Viral Version",
@@ -22677,6 +22655,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a9569e0c6c126c908d8bf1bd",
       "uri": "spotify:track:0FLFE8mxBn1yWAX8s2L8ru",
       "duration_ms": 224417
+    },
+    {
+      "played_at": "2026-11-28T01:20:30.151Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-11-28T05:51:31.096Z",
+      "name": "NOGWAPNOLIFE",
+      "artists": [
+        "bleood"
+      ],
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "uri": "spotify:track:01Ie9r4T3g5OMeea5KGAJd",
+      "duration_ms": 145681
     }
   ]
 }
