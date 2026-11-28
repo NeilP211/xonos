@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-27T16:08:52.808Z",
+  "updated_at": "2026-11-28T01:05:19.637Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T17:47:44.033Z",
-      "name": "Darko Aura",
-      "artists": [
-        "443RAVES"
-      ],
-      "album": "Darko Aura",
-      "image": "https://i.scdn.co/image/ab67616d0000b27394e6995f7430e5beab95bebe",
-      "uri": "spotify:track:0nSie4IcsyUWzyX8lbJo0E",
-      "duration_ms": 95014
-    },
     {
       "played_at": "2026-07-18T17:48:56.263Z",
       "name": "Wave",
@@ -22677,6 +22666,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383",
       "uri": "spotify:track:3pbN3SGJott0Rgb5aE5kqc",
       "duration_ms": 184764
+    },
+    {
+      "played_at": "2026-11-27T05:25:52.107Z",
+      "name": "All I Need",
+      "artists": [
+        "Clams Casino"
+      ],
+      "album": "Instrumentals",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9569e0c6c126c908d8bf1bd",
+      "uri": "spotify:track:0FLFE8mxBn1yWAX8s2L8ru",
+      "duration_ms": 224417
     }
   ]
 }
